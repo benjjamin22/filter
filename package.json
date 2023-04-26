@@ -1,0 +1,16 @@
+{
+    "name": "myweb",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+        "deploy": "gh-pages -d build"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "homepage": "https://benjjamin22.github.io/webweb",
+    "dependencies": {
+        "gh-pages": "^5.0.0"
+    }
+}
