@@ -2958,6 +2958,7 @@ const searchFILTER = async searchText => {
 
 };
 
+
 const outputHtml = matches => {
     if (matches) {
         const html = matches.map(user => `
@@ -3007,3 +3008,15 @@ function filterNames() {
 
     }
 }
+
+
+let objects = document.getElementById("objects");
+let allObject = data.filter((val) => {
+    if (typeof val == 'object') {
+        return true;
+    } else {
+        return false;
+    }
+});
+let objectsLen = allObject.length;
+objects.innerHTML += "<br>Total: " + objectsLen

@@ -1,0 +1,33 @@
+<html>
+
+<body>
+    <h2> Count JavaScript array objects. </h2>
+    <h4> Counting total number of array objects in array using the <i> arrays.filter() </i> method. </h4>
+    <p id="objects"> </p>
+    <script>
+        let objects = document.getElementById("objects");
+        // array of objects and ohter elements 
+        var array = ["TutorialsPoint", 20, {
+            "id": 2,
+            "int": 20
+        }, {
+            "id": 2,
+            "int": 20
+        }, {
+            "id": 3,
+            "int": 30
+        }, "Hello"];
+        let allObject = array.filter((val) => {
+            if (typeof val == 'object') {
+                return true;
+            } else {
+                return false;
+            }
+        });
+        let objectsLen = allObject.length;
+        objects.innerHTML += "Original String: " + JSON.stringify(array) + " <br> ";
+        objects.innerHTML += "<br>Total Objects in the array: " + objectsLen
+    </script>
+</body>
+
+</html>
