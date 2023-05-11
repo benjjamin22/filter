@@ -1839,5 +1839,5 @@ let allObject = data.filter((val) => {
     } else { return false; }
 });
 let objectsLen = allObject.length;
-objects.innerHTML += "<br>Total: " + objectsLen
+objects.innerHTML += "Total:" + objectsLen
 console.log(objects)
