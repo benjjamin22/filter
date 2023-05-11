@@ -1185,35 +1185,13 @@ const outputHtml = matches => {
 };
 filter.addEventListener('input', () => searchFILTER(filter.value));
 
-function openSlideMenu() {
-    document.getElementById('side-menu').style.width = '355px';
-    document.getElementById('main').style.marginLeft = '355px';
-}
-
-function closeSideMenu() {
-    document.getElementById('side-menu').style.width = '0px';
-    document.getElementById('main').style.marginLeft = '0px';
-}
-
-search.addEventListener("keyup", e => {
-    if (e.key == "Enter") {
-        let searchValue = search.value,
-            value = searchValue.toLowerCase();
-        let result = images.forEach(image => {
-            if (value === image.dataset.name) {
-                return image.style.display = "block";
-
-            }
-            image.style.display = "none";
-
-        });
-        console.log(result)
+let objects = document.getElementById("objects");
+let allObject = data.filter((val) => {
+    if (typeof val == 'object') {
+        return true;
+    } else {
+        return false;
     }
 });
-
-search.addEventListener("keyup", () => {
-    if (search.value != "") return;
-    images.forEach(image => {
-        image.style.display = "block";
-    })
-});
+let objectsLen = allObject.length;
+objects.innerHTML += "<br>Total: " + objectsLen
