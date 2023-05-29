@@ -1,7 +1,7 @@
 const data = [{
         "id": "J23/100",
         "reg": "J23/100",
-        "inName": "NORAH N. YOBACHI",
+        "inName": "YOBACHI NORAH N.",
         "inSchool": "EVETTE SCH. OF CAT. OKIGWE RD. OW.",
         "inparentno": "080",
         "picturepath": ".\/image\/e280.jpg"
@@ -9,7 +9,7 @@ const data = [{
     {
         "id": "J23/109",
         "reg": "J23/109",
-        "inName": "CHIDERA D. OGECHUKWU",
+        "inName": "OGECHUKWU CHIDERA D.",
         "inSchool": "EVETTE SCH. OF CAT. OKIGWE RD. OW.",
         "inparentno": "080",
         "picturepath": ".\/image\/e281.jpg"
@@ -17,7 +17,7 @@ const data = [{
     {
         "id": "J23/103",
         "reg": "J23/103",
-        "inName": "JENNIFER C. OKOROCHA",
+        "inName": "OKOROCHA JENNIFER C.",
         "inSchool": "EVETTE SCH. OF CAT. OKIGWE RD. OW.",
         "inparentno": "080",
         "picturepath": ".\/image\/e282.jpg"
@@ -25,7 +25,7 @@ const data = [{
     {
         "id": "J23/081",
         "reg": "J23/081",
-        "inName": "CHIKA ONYEAKA",
+        "inName": "ONYEAKA CHIKA",
         "inSchool": "EVETTE SCH. OF CAT. OKIGWE RD. OW.",
         "inparentno": "080",
         "picturepath": ".\/image\/e283.jpg"
@@ -33,7 +33,7 @@ const data = [{
     {
         "id": "J23/073",
         "reg": "J23/073",
-        "inName": "LILIAN K. OHANAEMERE",
+        "inName": "OHANAEMERE LILIAN K.",
         "inSchool": "EVETTE SCH. OF CAT. OKIGWE RD. OW.",
         "inparentno": "080",
         "picturepath": ".\/image\/e284.jpg"
@@ -41,7 +41,7 @@ const data = [{
     {
         "id": "J23/074",
         "reg": "J23/074",
-        "inName": "OGOCHUKWU A. OKEAGU",
+        "inName": "OKEAGU OGOCHUKWU A.",
         "inSchool": "EVETTE SCH. OF CAT. OKIGWE RD. OW.",
         "inparentno": "080",
         "picturepath": ".\/image\/e285.jpg"
@@ -49,7 +49,7 @@ const data = [{
     {
         "id": "J23/071",
         "reg": "J23/071",
-        "inName": "MERCY O. OGBONNA",
+        "inName": "OGBONNA MERCY O.",
         "inSchool": "EVETTE SCH. OF CAT. OKIGWE RD. OW.",
         "inparentno": "080",
         "picturepath": ".\/image\/e286.jpg"
@@ -57,7 +57,7 @@ const data = [{
     {
         "id": "J23/067",
         "reg": "J23/067",
-        "inName": "CHIOMA J. OBINABU",
+        "inName": "OBINABU CHIOMA J.",
         "inSchool": "EVETTE SCH. OF CAT. OKIGWE RD. OW.",
         "inparentno": "080",
         "picturepath": ".\/image\/e287.jpg"
@@ -65,7 +65,7 @@ const data = [{
     {
         "id": "J23/066",
         "reg": "J23/066",
-        "inName": "FAVOUR OBIKWEM",
+        "inName": "OBIKWEM FAVOUR",
         "inSchool": "EVETTE SCH. OF CAT. OKIGWE RD. OW.",
         "inparentno": "080",
         "picturepath": ".\/image\/e288.jpg"
@@ -73,7 +73,7 @@ const data = [{
     {
         "id": "J23/068",
         "reg": "J23/068",
-        "inName": "MIRIAM OBIOHA",
+        "inName": "OBIOHA MIRIAM",
         "inSchool": "EVETTE SCH. OF CAT. OKIGWE RD. OW.",
         "inparentno": "080",
         "picturepath": ".\/image\/e289.jpg"
@@ -81,7 +81,7 @@ const data = [{
     {
         "id": "J23/038",
         "reg": "J23/038",
-        "inName": "ONYINYECHI IWUJI",
+        "inName": "IWUJI ONYINYECHI",
         "inSchool": "EVETTE SCH. OF CAT. OKIGWE RD. OW.",
         "inparentno": "080",
         "picturepath": ".\/image\/e290.jpg"
@@ -89,7 +89,7 @@ const data = [{
     {
         "id": "J23/011",
         "reg": "J23/011",
-        "inName": "BLESSING A. ODINAKA",
+        "inName": "ODINAKA BLESSING A.",
         "inSchool": "EVETTE SCH. OF CAT. OKIGWE RD. OW.",
         "inparentno": "080",
         "picturepath": ".\/image\/e291.jpg"
@@ -97,7 +97,7 @@ const data = [{
     {
         "id": "J23/033",
         "reg": "J23/033",
-        "inName": "PEACE O. IHEANYICHUKWU",
+        "inName": "IHEANYICHUKWU PEACE O.",
         "inSchool": "EVETTE SCH. OF CAT. OKIGWE RD. OW.",
         "inparentno": "080",
         "picturepath": ".\/image\/e292.jpg"
@@ -105,7 +105,7 @@ const data = [{
     {
         "id": "J23/008",
         "reg": "J23/008",
-        "inName": "NAOMI O. ANAMEKWE",
+        "inName": "ANAMEKWE NAOMI O.",
         "inSchool": "EVETTE SCH. OF CAT. OKIGWE RD. OW.",
         "inparentno": "080",
         "picturepath": ".\/image\/e293.jpg"
@@ -113,7 +113,7 @@ const data = [{
     {
         "id": "J23/069",
         "reg": "J23/069",
-        "inName": "CHIAMAKA P. ODOM",
+        "inName": "ODOM CHIAMAKA P.",
         "inSchool": "EVETTE SCH. OF CAT. OKIGWE RD. OW.",
         "inparentno": "080",
         "picturepath": ".\/image\/e294.jpg"
@@ -121,7 +121,7 @@ const data = [{
     {
         "id": "J23/029",
         "reg": "J23/029",
-        "inName": "KOSSY EZEBUDE",
+        "inName": "EZEBUDE KOSSY",
         "inSchool": "EVETTE SCH. OF CAT. OKIGWE RD. OW.",
         "inparentno": "080",
         "picturepath": ".\/image\/e295.jpg"
@@ -129,7 +129,7 @@ const data = [{
     {
         "id": "J23/094",
         "reg": "J23/094",
-        "inName": "FAVOUR N. UGORJI",
+        "inName": "UGORJI FAVOUR N.",
         "inSchool": "EVETTE SCH. OF CAT. OKIGWE RD. OW.",
         "inparentno": "080",
         "picturepath": ".\/image\/e296.jpg"
@@ -137,7 +137,7 @@ const data = [{
     {
         "id": "J23/087",
         "reg": "J23/087",
-        "inName": "CHIOMA H. OSUAGWU",
+        "inName": "OSUAGWU CHIOMA H. ",
         "inSchool": "EVETTE SCH. OF CAT. OKIGWE RD. OW.",
         "inparentno": "080",
         "picturepath": ".\/image\/e297.jpg"
@@ -145,7 +145,7 @@ const data = [{
     {
         "id": "J23/013",
         "reg": "J23/013",
-        "inName": "FAITH A. ASIEGBULE",
+        "inName": "ASIEGBULE FAITH A.",
         "inSchool": "EVETTE SCH. OF CAT. OKIGWE RD. OW.",
         "inparentno": "080",
         "picturepath": ".\/image\/e298.jpg"
@@ -153,7 +153,7 @@ const data = [{
     {
         "id": "J23/020",
         "reg": "J23/020",
-        "inName": "MAXWELL I. CHUKWU",
+        "inName": "CHUKWU MAXWELL I.",
         "inSchool": "EVETTE SCH. OF CAT. OKIGWE RD. OW.",
         "inparentno": "080",
         "picturepath": ".\/image\/e299.jpg"
@@ -161,7 +161,7 @@ const data = [{
     {
         "id": "J23/016",
         "reg": "J23/016",
-        "inName": "CHIDERA CHIBUEZE",
+        "inName": "CHIBUEZE CHIDERA",
         "inSchool": "EVETTE SCH. OF CAT. OKIGWE RD. OW.",
         "inparentno": "080",
         "picturepath": ".\/image\/e300.jpg"
@@ -169,7 +169,7 @@ const data = [{
     {
         "id": "J23/024",
         "reg": "J23/024",
-        "inName": "CHIAMAKA EKE",
+        "inName": "EKE CHIAMAKA ",
         "inSchool": "EVETTE SCH. OF CAT. OKIGWE RD. OW.",
         "inparentno": "080",
         "picturepath": ".\/image\/e301.jpg"
@@ -177,7 +177,7 @@ const data = [{
     {
         "id": "J23/031",
         "reg": "J23/031",
-        "inName": "FAVOUR C. IFEANYI",
+        "inName": "IFEANYI FAVOUR C.",
         "inSchool": "EVETTE SCH. OF CAT. OKIGWE RD. OW.",
         "inparentno": "080",
         "picturepath": ".\/image\/e302.jpg"
@@ -185,7 +185,7 @@ const data = [{
     {
         "id": "J23/023",
         "reg": "J23/023",
-        "inName": "OGECHI EBERECHI",
+        "inName": "EBERECHI OGECHI ",
         "inSchool": "EVETTE SCH. OF CAT. OKIGWE RD. OW.",
         "inparentno": "080",
         "picturepath": ".\/image\/e303.jpg"
@@ -193,7 +193,7 @@ const data = [{
     {
         "id": "J23/001",
         "reg": "J23/001",
-        "inName": "ANGELA O. AGI",
+        "inName": "AGI ANGELA O.",
         "inSchool": "EVETTE SCH. OF CAT. OKIGWE RD. OW.",
         "inparentno": "080",
         "picturepath": ".\/image\/e304.jpg"
@@ -201,7 +201,7 @@ const data = [{
     {
         "id": "J23/021",
         "reg": "J23/021",
-        "inName": "CHINAZA T. CHUKWU",
+        "inName": "CHUKWU CHINAZA T.",
         "inSchool": "EVETTE SCH. OF CAT. OKIGWE RD. OW.",
         "inparentno": "080",
         "picturepath": ".\/image\/e305.jpg"
@@ -209,7 +209,7 @@ const data = [{
     {
         "id": "J23/032",
         "reg": "J23/032",
-        "inName": "OLUCHI C. M. IGBO",
+        "inName": "IGBO OLUCHI C. M.",
         "inSchool": "EVETTE SCH. OF CAT. OKIGWE RD. OW.",
         "inparentno": "080",
         "picturepath": ".\/image\/e306.jpg"
@@ -217,7 +217,7 @@ const data = [{
     {
         "id": "J23/010",
         "reg": "J23/010",
-        "inName": "ROSEMARY ANUSIEM",
+        "inName": "ANUSIEM ROSEMARY",
         "inSchool": "EVETTE SCH. OF CAT. OKIGWE RD. OW.",
         "inparentno": "080",
         "picturepath": ".\/image\/e307.jpg"
@@ -225,7 +225,7 @@ const data = [{
     {
         "id": "J23/007",
         "reg": "J23/007",
-        "inName": "PRISCA N. ANAELE",
+        "inName": "ANAELE PRISCA N.",
         "inSchool": "EVETTE SCH. OF CAT. OKIGWE RD. OW.",
         "inparentno": "080",
         "picturepath": ".\/image\/e308.jpg"
@@ -233,7 +233,7 @@ const data = [{
     {
         "id": "J23/099",
         "reg": "J23/099",
-        "inName": "VICTORIA C. UZODINMA",
+        "inName": "UZODINMA VICTORIA C.",
         "inSchool": "EVETTE SCH. OF CAT. OKIGWE RD. OW.",
         "inparentno": "080",
         "picturepath": ".\/image\/e.309.jpg"
@@ -241,7 +241,7 @@ const data = [{
     {
         "id": "J23/042",
         "reg": "J23/042",
-        "inName": "GIFT C. MADU",
+        "inName": "MADU GIFT C.",
         "inSchool": "EVETTE SCH. OF CAT. OKIGWE RD. OW.",
         "inparentno": "080",
         "picturepath": ".\/image\/e310.jpg"
@@ -249,7 +249,7 @@ const data = [{
     {
         "id": "J23/025",
         "reg": "J23/025",
-        "inName": "CHIOMA H. EKEMA",
+        "inName": "EKEMA CHIOMA H.",
         "inSchool": "EVETTE SCH. OF CAT. OKIGWE RD. OW.",
         "inparentno": "080",
         "picturepath": ".\/image\/e311.jpg"
@@ -257,7 +257,7 @@ const data = [{
     {
         "id": "J23/030",
         "reg": "J23/030",
-        "inName": "HOPE E. FRIDAY",
+        "inName": "FRIDAY HOPE E. ",
         "inSchool": "EVETTE SCH. OF CAT. OKIGWE RD. OW.",
         "inparentno": "080",
         "picturepath": ".\/image\/e312.jpg"
@@ -265,7 +265,7 @@ const data = [{
     {
         "id": "J23/031",
         "reg": "J23/031",
-        "inName": "GIFT EZE",
+        "inName": "EZE GIFT ",
         "inSchool": "EVETTE SCH. OF CAT. OKIGWE RD. OW.",
         "inparentno": "080",
         "picturepath": ".\/image\/e313.jpg"
@@ -273,7 +273,7 @@ const data = [{
     {
         "id": "J23/026",
         "reg": "J23/026",
-        "inName": "REBECCA E. ELEMUO",
+        "inName": "ELEMUO REBECCA E. ",
         "inSchool": "EVETTE SCH. OF CAT. OKIGWE RD. OW.",
         "inparentno": "080",
         "picturepath": ".\/image\/e314.jpg"
@@ -281,7 +281,7 @@ const data = [{
     {
         "id": "J23/039",
         "reg": "J23/039",
-        "inName": "MARYANN MUNAMARA",
+        "inName": "MUNAMARA MARYANN ",
         "inSchool": "EVETTE SCH. OF CAT. OKIGWE RD. OW.",
         "inparentno": "080",
         "picturepath": ".\/image\/e315.jpg"
@@ -289,7 +289,7 @@ const data = [{
     {
         "id": "J23/036",
         "reg": "J23/036",
-        "inName": "CHIDIMMA J. IWUAMADI",
+        "inName": "IWUAMADI CHIDIMMA J. ",
         "inSchool": "EVETTE SCH. OF CAT. OKIGWE RD. OW.",
         "inparentno": "080",
         "picturepath": ".\/image\/e316.jpg"
@@ -297,7 +297,7 @@ const data = [{
     {
         "id": "J23/035",
         "reg": "J23/035",
-        "inName": "VIVIAN OGECHI IWU",
+        "inName": "IWU VIVIAN OGECHI ",
         "inSchool": "EVETTE SCH. OF CAT. OKIGWE RD. OW.",
         "inparentno": "080",
         "picturepath": ".\/image\/e317.jpg"
@@ -305,7 +305,7 @@ const data = [{
     {
         "id": "J23/005",
         "reg": "J23/005",
-        "inName": "PRECIOUS ALAETO",
+        "inName": "ALAETO PRECIOUS ",
         "inSchool": "EVETTE SCH. OF CAT. OKIGWE RD. OW.",
         "inparentno": "080",
         "picturepath": ".\/image\/e318.jpg"
@@ -313,7 +313,7 @@ const data = [{
     {
         "id": "J23/034",
         "reg": "J23/034",
-        "inName": "EZINNE G. IHUOMA",
+        "inName": "IHUOMA EZINNE G. ",
         "inSchool": "EVETTE SCH. OF CAT. OKIGWE RD. OW.",
         "inparentno": "080",
         "picturepath": ".\/image\/e319.jpg"
@@ -321,7 +321,7 @@ const data = [{
     {
         "id": "J23/074",
         "reg": "J23/074",
-        "inName": "CHINYERE OKECHUKWU",
+        "inName": "OKECHUKWU CHINYERE ",
         "inSchool": "EVETTE SCH. OF CAT. OKIGWE RD. OW.",
         "inparentno": "080",
         "picturepath": ".\/image\/e320.jpg"
@@ -329,7 +329,7 @@ const data = [{
     {
         "id": "J23/014",
         "reg": "J23/014",
-        "inName": "CHINENYE EXCEL ASIKA",
+        "inName": "ASIKA CHINENYE EXCEL ",
         "inSchool": "EVETTE SCH. OF CAT. OKIGWE RD. OW.",
         "inparentno": "080",
         "picturepath": ".\/image\/e321.jpg"
@@ -337,7 +337,7 @@ const data = [{
     {
         "id": "J23/040",
         "reg": "J23/040",
-        "inName": "CHINYERE IWUNZE",
+        "inName": "IWUNZE CHINYERE ",
         "inSchool": "EVETTE SCH. OF CAT. OKIGWE RD. OW.",
         "inparentno": "080",
         "picturepath": ".\/image\/e322.jpg"
@@ -345,7 +345,7 @@ const data = [{
     {
         "id": "J23/041",
         "reg": "J23/041",
-        "inName": "CYNTHIA O. JACOBS",
+        "inName": "JACOBS CYNTHIA O. ",
         "inSchool": "EVETTE SCH. OF CAT. OKIGWE RD. OW.",
         "inparentno": "080",
         "picturepath": ".\/image\/e323.jpg"
@@ -353,7 +353,7 @@ const data = [{
     {
         "id": "J23/002",
         "reg": "J23/002",
-        "inName": "MARYJANE C. AJUONUMA",
+        "inName": "AJUONUMA MARYJANE C. ",
         "inSchool": "EVETTE SCH. OF CAT. OKIGWE RD. OW.",
         "inparentno": "080",
         "picturepath": ".\/image\/e324.jpg"
@@ -361,7 +361,7 @@ const data = [{
     {
         "id": "J23/070",
         "reg": "J23/070",
-        "inName": "JULIET E. ODOM",
+        "inName": "ODOM JULIET E. ",
         "inSchool": "EVETTE SCH. OF CAT. OKIGWE RD. OW.",
         "inparentno": "080",
         "picturepath": ".\/image\/e325.jpg"
@@ -369,7 +369,7 @@ const data = [{
     {
         "id": "J23/080",
         "reg": "J23/080",
-        "inName": "CHRISTABEL E. ONWU",
+        "inName": "ONWU CHRISTABEL E. ",
         "inSchool": "EVETTE SCH. OF CAT. OKIGWE RD. OW.",
         "inparentno": "080",
         "picturepath": ".\/image\/e326.jpg"
@@ -377,7 +377,7 @@ const data = [{
     {
         "id": "J23/084",
         "reg": "J23/084",
-        "inName": "BLESSING OMYEYIRI",
+        "inName": "OMYEYIRI BLESSING ",
         "inSchool": "EVETTE SCH. OF CAT. OKIGWE RD. OW.",
         "inparentno": "080",
         "picturepath": ".\/image\/e327.jpg"
@@ -385,7 +385,7 @@ const data = [{
     {
         "id": "J23/079",
         "reg": "J23/079",
-        "inName": "MARYANN C. OLOLO",
+        "inName": "OLOLO MARYANN C. ",
         "inSchool": "EVETTE SCH. OF CAT. OKIGWE RD. OW.",
         "inparentno": "080",
         "picturepath": ".\/image\/e328.jpg"
@@ -393,7 +393,7 @@ const data = [{
     {
         "id": "J23/082",
         "reg": "J23/082",
-        "inName": "LOVE NENE ONYEDIKACHI",
+        "inName": "ONYEDIKACHI LOVE NENE ",
         "inSchool": "EVETTE SCH. OF CAT. OKIGWE RD. OW.",
         "inparentno": "080",
         "picturepath": ".\/image\/e329.jpg"
@@ -401,7 +401,7 @@ const data = [{
     {
         "id": "J23/098",
         "reg": "J23/098",
-        "inName": "JULIET U. UWANDU",
+        "inName": "UWANDU JULIET U. ",
         "inSchool": "EVETTE SCH. OF CAT. OKIGWE RD. OW.",
         "inparentno": "080",
         "picturepath": ".\/image\/e330.jpg"
@@ -409,7 +409,7 @@ const data = [{
     {
         "id": "J23/097",
         "reg": "J23/097",
-        "inName": "PRETTY USON",
+        "inName": "USON PRETTY ",
         "inSchool": "EVETTE SCH. OF CAT. OKIGWE RD. OW.",
         "inparentno": "080",
         "picturepath": ".\/image\/e331.jpg"
@@ -417,7 +417,7 @@ const data = [{
     {
         "id": "J23/085",
         "reg": "J23/085",
-        "inName": "GLORIA N. OPARA",
+        "inName": "OPARA GLORIA N. ",
         "inSchool": "EVETTE SCH. OF CAT. OKIGWE RD. OW.",
         "inparentno": "080",
         "picturepath": ".\/image\/e332.jpg"
@@ -425,7 +425,7 @@ const data = [{
     {
         "id": "J23/083",
         "reg": "J23/083",
-        "inName": "ONYINYECHI ONYEMARA",
+        "inName": "ONYEMARA ONYINYECHI ",
         "inSchool": "EVETTE SCH. OF CAT. OKIGWE RD. OW.",
         "inparentno": "080",
         "picturepath": ".\/image\/e333.jpg"
@@ -433,7 +433,7 @@ const data = [{
     {
         "id": "J23/017",
         "reg": "J23/017",
-        "inName": "DEBORAH C. CHIMEZIE",
+        "inName": "CHIMEZIE DEBORAH C. ",
         "inSchool": "EVETTE SCH. OF CAT. OKIGWE RD. OW.",
         "inparentno": "080",
         "picturepath": ".\/image\/e334.jpg"
@@ -441,7 +441,7 @@ const data = [{
     {
         "id": "J23/045",
         "reg": "J23/045",
-        "inName": "CHINAZA I. NDUBUEZE",
+        "inName": "NDUBUEZE CHINAZA I. ",
         "inSchool": "EVETTE SCH. OF CAT. OKIGWE RD. OW.",
         "inparentno": "080",
         "picturepath": ".\/image\/e335.jpg"
@@ -449,7 +449,7 @@ const data = [{
     {
         "id": "J23/050",
         "reg": "J23/050",
-        "inName": "DIVINE N. NWABUISI",
+        "inName": "NWABUISI DIVINE N. ",
         "inSchool": "EVETTE SCH. OF CAT. OKIGWE RD. OW.",
         "inparentno": "080",
         "picturepath": ".\/image\/e336.jpg"
@@ -457,7 +457,7 @@ const data = [{
     {
         "id": "J23/018",
         "reg": "J23/018",
-        "inName": "FAVOUR W. CHINEDU",
+        "inName": "CHINEDU FAVOUR W. ",
         "inSchool": "EVETTE SCH. OF CAT. OKIGWE RD. OW.",
         "inparentno": "080",
         "picturepath": ".\/image\/e337.jpg"
@@ -465,7 +465,7 @@ const data = [{
     {
         "id": "J23/091",
         "reg": "J23/091",
-        "inName": "FAVOUR C. SOLOMON",
+        "inName": " SOLOMON FAVOUR C.",
         "inSchool": "EVETTE SCH. OF CAT. OKIGWE RD. OW.",
         "inparentno": "080",
         "picturepath": ".\/image\/e338.jpg"
@@ -473,7 +473,7 @@ const data = [{
     {
         "id": "J23/037",
         "reg": "J23/037",
-        "inName": "UCHECHI F. IWUEKE",
+        "inName": "IWUEKE UCHECHI F. ",
         "inSchool": "EVETTE SCH. OF CAT. OKIGWE RD. OW.",
         "inparentno": "080",
         "picturepath": ".\/image\/e339.jpg"
@@ -481,7 +481,7 @@ const data = [{
     {
         "id": "J23/065",
         "reg": "J23/065",
-        "inName": "LINDA NZE",
+        "inName": "NZE LINDA ",
         "inSchool": "EVETTE SCH. OF CAT. OKIGWE RD. OW.",
         "inparentno": "080",
         "picturepath": ".\/image\/e340.jpg"
@@ -489,7 +489,7 @@ const data = [{
     {
         "id": "J23/049",
         "reg": "J23/049",
-        "inName": "PROMISE NLEDO",
+        "inName": "NLEDO PROMISE",
         "inSchool": "EVETTE SCH. OF CAT. OKIGWE RD. OW.",
         "inparentno": "080",
         "picturepath": ".\/image\/e341.jpg"
@@ -497,7 +497,7 @@ const data = [{
     {
         "id": "J23/057",
         "reg": "J23/057",
-        "inName": "CHIAMAKA R. NWANERI",
+        "inName": "NWANERI CHIAMAKA R. ",
         "inSchool": "EVETTE SCH. OF CAT. OKIGWE RD. OW.",
         "inparentno": "080",
         "picturepath": ".\/image\/e342.jpg"
@@ -505,7 +505,7 @@ const data = [{
     {
         "id": "J23/063",
         "reg": "J23/063",
-        "inName": "CHISOM P. NWOKEOCHA",
+        "inName": "NWOKEOCHA CHISOM P. ",
         "inSchool": "EVETTE SCH. OF CAT. OKIGWE RD. OW.",
         "inparentno": "080",
         "picturepath": ".\/image\/e343.jpg"
@@ -513,7 +513,7 @@ const data = [{
     {
         "id": "J23/054",
         "reg": "J23/054",
-        "inName": "MARYANN NWACHUKWU",
+        "inName": "NWACHUKWU MARYANN ",
         "inSchool": "EVETTE SCH. OF CAT. OKIGWE RD. OW.",
         "inparentno": "080",
         "picturepath": ".\/image\/e344.jpg"
@@ -521,7 +521,7 @@ const data = [{
     {
         "id": "J23/093",
         "reg": "J23/093",
-        "inName": "STELLA S. UDE",
+        "inName": "UDE STELLA S.",
         "inSchool": "EVETTE SCH. OF CAT. OKIGWE RD. OW.",
         "inparentno": "080",
         "picturepath": ".\/image\/e345.jpg"
@@ -529,7 +529,7 @@ const data = [{
     {
         "id": "J23/053",
         "reg": "J23/053",
-        "inName": "EZINNE M. NWACHUKWU",
+        "inName": "NWACHUKWU EZINNE M. ",
         "inSchool": "EVETTE SCH. OF CAT. OKIGWE RD. OW.",
         "inparentno": "080",
         "picturepath": ".\/image\/e346.jpg"
@@ -537,7 +537,7 @@ const data = [{
     {
         "id": "J23/052",
         "reg": "J23/052",
-        "inName": "FAITH C. NWACHUKWU",
+        "inName": "NWACHUKWU FAITH C. ",
         "inSchool": "EVETTE SCH. OF CAT. OKIGWE RD. OW.",
         "inparentno": "080",
         "picturepath": ".\/image\/e347.jpg"
@@ -545,7 +545,7 @@ const data = [{
     {
         "id": "J23/047",
         "reg": "J23/047",
-        "inName": "DIVINE NDUKWE",
+        "inName": "NDUKWE DIVINE ",
         "inSchool": "EVETTE SCH. OF CAT. OKIGWE RD. OW.",
         "inparentno": "080",
         "picturepath": ".\/image\/e348.jpg"
@@ -553,7 +553,7 @@ const data = [{
     {
         "id": "J23/072",
         "reg": "J23/072",
-        "inName": "MIRACLE OGBONNA",
+        "inName": "OGBONNA MIRACLE ",
         "inSchool": "EVETTE SCH. OF CAT. OKIGWE RD. OW.",
         "inparentno": "080",
         "picturepath": ".\/image\/e349.jpg"
@@ -561,7 +561,7 @@ const data = [{
     {
         "id": "J23/101",
         "reg": "J23/101",
-        "inName": "DESTINY CHINECHEREM",
+        "inName": "CHINECHEREM DESTINY ",
         "inSchool": "EVETTE SCH. OF CAT. OKIGWE RD. OW.",
         "inparentno": "080",
         "picturepath": ".\/image\/e350.jpg"
@@ -569,7 +569,7 @@ const data = [{
     {
         "id": "J23/064",
         "reg": "J23/064",
-        "inName": "PRECIOUS OLUCHI NWOSU",
+        "inName": "NWOSU PRECIOUS OLUCHI ",
         "inSchool": "EVETTE SCH. OF CAT. OKIGWE RD. OW.",
         "inparentno": "080",
         "picturepath": ".\/image\/e351.jpg"
@@ -577,7 +577,7 @@ const data = [{
     {
         "id": "J23/080",
         "reg": "J23/080",
-        "inName": "CYNTHIA NWAOBASI",
+        "inName": "NWAOBASI CYNTHIA ",
         "inSchool": "EVETTE SCH. OF CAT. OKIGWE RD. OW.",
         "inparentno": "080",
         "picturepath": ".\/image\/e352.jpg"
@@ -585,7 +585,7 @@ const data = [{
     {
         "id": "J23/061",
         "reg": "J23/061",
-        "inName": "OYINYECHI NWAOBI",
+        "inName": "NWAOBI OYINYECHI ",
         "inSchool": "EVETTE SCH. OF CAT. OKIGWE RD. OW.",
         "inparentno": "080",
         "picturepath": ".\/image\/e353.jpg"
@@ -593,7 +593,7 @@ const data = [{
     {
         "id": "J23/044",
         "reg": "J23/044",
-        "inName": "UJUNWA MBANASO",
+        "inName": "MBANASO UJUNWA ",
         "inSchool": "EVETTE SCH. OF CAT. OKIGWE RD. OW.",
         "inparentno": "080",
         "picturepath": ".\/image\/e354.jpg"
@@ -601,7 +601,7 @@ const data = [{
     {
         "id": "J23/055",
         "reg": "J23/055",
-        "inName": "FAVOUR O. NWAIWU",
+        "inName": " NWAIWU FAVOUR O.",
         "inSchool": "EVETTE SCH. OF CAT. OKIGWE RD. OW.",
         "inparentno": "080",
         "picturepath": ".\/image\/e355.jpg"
@@ -609,7 +609,7 @@ const data = [{
     {
         "id": "J23/096",
         "reg": "J23/096",
-        "inName": "ADAOBI R. UNANWOKE",
+        "inName": "UNANWOKE ADAOBI R. ",
         "inSchool": "EVETTE SCH. OF CAT. OKIGWE RD. OW.",
         "inparentno": "080",
         "picturepath": ".\/image\/e356.jpg"
@@ -617,7 +617,7 @@ const data = [{
     {
         "id": "J23/062",
         "reg": "J23/062",
-        "inName": "ESTHER M. NWAOSU",
+        "inName": "NWAOSU ESTHER M. ",
         "inSchool": "EVETTE SCH. OF CAT. OKIGWE RD. OW.",
         "inparentno": "080",
         "picturepath": ".\/image\/e357.jpg"
@@ -625,7 +625,7 @@ const data = [{
     {
         "id": "J23/041",
         "reg": "J23/041",
-        "inName": "FAITH C. NWANNA",
+        "inName": "NWANNA FAITH C. ",
         "inSchool": "EVETTE SCH. OF CAT. OKIGWE RD. OW.",
         "inparentno": "080",
         "picturepath": ".\/image\/e358.jpg"
@@ -633,7 +633,7 @@ const data = [{
     {
         "id": "J23/059",
         "reg": "J23/059",
-        "inName": "ADAUGO P. OBI",
+        "inName": "OBI ADAUGO P. ",
         "inSchool": "EVETTE SCH. OF CAT. OKIGWE RD. OW.",
         "inparentno": "080",
         "picturepath": ".\/image\/e359.jpg"
@@ -641,7 +641,7 @@ const data = [{
     {
         "id": "J23/026",
         "reg": "J23/026",
-        "inName": "CHIKODI J. EKEH",
+        "inName": "EKEH CHIKODI J. ",
         "inSchool": "EVETTE SCH. OF CAT. OKIGWE RD. OW.",
         "inparentno": "080",
         "picturepath": ".\/image\/e360.jpg"
@@ -649,7 +649,7 @@ const data = [{
     {
         "id": "J23/044",
         "reg": "J23/044",
-        "inName": "PRECIOUS FRED",
+        "inName": "FRED PRECIOUS ",
         "inSchool": "EVETTE SCH. OF CAT. OKIGWE RD. OW.",
         "inparentno": "080",
         "picturepath": ".\/image\/e361.jpg"
@@ -657,7 +657,7 @@ const data = [{
     {
         "id": "J23/020",
         "reg": "J23/020",
-        "inName": "DORIS UJU DURU",
+        "inName": "DURU DORIS UJU ",
         "inSchool": "EVETTE SCH. OF CAT. OKIGWE RD. OW.",
         "inparentno": "080",
         "picturepath": ".\/image\/e362.jpg"
@@ -665,7 +665,7 @@ const data = [{
     {
         "id": "J23/052",
         "reg": "J23/052",
-        "inName": "REBECCA OKPARA",
+        "inName": "OKPARA REBECCA ",
         "inSchool": "EVETTE SCH. OF CAT. OKIGWE RD. OW.",
         "inparentno": "080",
         "picturepath": ".\/image\/e363.jpg"
@@ -673,7 +673,7 @@ const data = [{
     {
         "id": "J23/035",
         "reg": "J23/035",
-        "inName": "MARY C. MATHIAS",
+        "inName": "MATHIAS MARY C. ",
         "inSchool": "EVETTE SCH. OF CAT. OKIGWE RD. OW.",
         "inparentno": "080",
         "picturepath": ".\/image\/e364.jpg"
@@ -681,7 +681,7 @@ const data = [{
     {
         "id": "J23/033",
         "reg": "J23/033",
-        "inName": "MARY MARSHAL",
+        "inName": "MARSHAL MARY ",
         "inSchool": "EVETTE SCH. OF CAT. OKIGWE RD. OW.",
         "inparentno": "080",
         "picturepath": ".\/image\/e365.jpg"
@@ -689,7 +689,7 @@ const data = [{
     {
         "id": "J23/060",
         "reg": "J23/060",
-        "inName": "PURITY M. UCHENDU",
+        "inName": "UCHENDU PURITY M. ",
         "inSchool": "EVETTE SCH. OF CAT. OKIGWE RD. OW.",
         "inparentno": "080",
         "picturepath": ".\/image\/e366.jpg"
@@ -697,16 +697,15 @@ const data = [{
     {
         "id": "J23/063",
         "reg": "J23/063",
-        "inName": "DEBORAH A. UNAMBA",
+        "inName": "UNAMBA DEBORAH A. ",
         "inSchool": "EVETTE SCH. OF CAT. OKIGWE RD. OW.",
         "inparentno": "080",
         "picturepath": ".\/image\/e367.jpg"
     },
-
     {
         "id": "S22/003",
         "reg": "S22/003",
-        "inName": "CHIAMAKA AJUZIEGO",
+        "inName": "AJUZIEGO CHIAMAKA",
         "inSchool": "EVETTE SCH. OF CAT. OKIGWE RD. OW.",
         "inparentno": "080",
         "picturepath": ".\/image\/e102.jpg"
@@ -714,7 +713,7 @@ const data = [{
     {
         "id": "S22/014",
         "reg": "S22/014",
-        "inName": "FAVOUR BLESSING",
+        "inName": "BLESSING FAVOUR",
         "inSchool": "EVETTE SCH. OF CAT. OKIGWE RD. OW.",
         "inparentno": "080",
         "picturepath": ".\/image\/e103.jpg"
@@ -722,7 +721,7 @@ const data = [{
     {
         "id": "S22/048",
         "reg": "S22/048",
-        "inName": "FAVOUR OKOLI",
+        "inName": "OKOLI FAVOUR",
         "inSchool": "EVETTE SCH. OF CAT. OKIGWE RD. OW.",
         "inparentno": "080",
         "picturepath": ".\/image\/e104.jpg"
@@ -730,7 +729,7 @@ const data = [{
     {
         "id": "S22/036",
         "reg": "S22/036",
-        "inName": "CHIAGOZIE NDUKWU R.",
+        "inName": "NDUKWU CHIAGOZIE R.",
         "inSchool": "EVETTE SCH. OF CAT. OKIGWE RD. OW.",
         "inparentno": "080",
         "picturepath": ".\/image\/e105.jpg"
@@ -738,7 +737,7 @@ const data = [{
     {
         "id": "S22/006",
         "reg": "S22/006",
-        "inName": "DELIGHT AMAECHI",
+        "inName": "AMAECHI DELIGHT",
         "inSchool": "EVETTE SCH. OF CAT. OKIGWE RD. OW.",
         "inparentno": "080",
         "picturepath": ".\/image\/e106.jpg"
@@ -746,7 +745,7 @@ const data = [{
     {
         "id": "S22/025",
         "reg": "S22/025",
-        "inName": "MMESOMA M. EZEIBEKWE",
+        "inName": "EZEIBEKWE MMESOMA M.",
         "inSchool": "EVETTE SCH. OF CAT. OKIGWE RD. OW.",
         "inparentno": "080",
         "picturepath": ".\/image\/e107.jpg"
@@ -754,7 +753,7 @@ const data = [{
     {
         "id": "S22/008",
         "reg": "S22/008",
-        "inName": "CELINA ANDY",
+        "inName": "ANDY CELINA",
         "inSchool": "EVETTE SCH. OF CAT. OKIGWE RD. OW.",
         "inparentno": "080",
         "picturepath": ".\/image\/e108.jpg"
@@ -762,7 +761,7 @@ const data = [{
     {
         "id": "M22/089",
         "reg": "M22/089",
-        "inName": "CHIAMAKA AJUZIEGO",
+        "inName": "AJUZIEGO CHIAMAKA",
         "inSchool": "EVETTE SCH. OF CAT. OKIGWE RD. OW.",
         "inparentno": "080",
         "picturepath": ".\/image\/e109.jpg"
@@ -770,7 +769,7 @@ const data = [{
     {
         "id": "M22/046",
         "reg": "M22/046",
-        "inName": "JENNIFER C. IBEANUSI",
+        "inName": "IBEANUSI JENNIFER C.",
         "inSchool": "EVETTE SCH. OF CAT. OKIGWE RD. OW.",
         "inparentno": "080",
         "picturepath": ".\/image\/e110.jpg"
@@ -778,7 +777,7 @@ const data = [{
     {
         "id": "S22/004",
         "reg": "S22/004",
-        "inName": "CONFIDENCE AKAGBUSI",
+        "inName": "AKAGBUSI CONFIDENCE",
         "inSchool": "EVETTE SCH. OF CAT. OKIGWE RD. OW.",
         "inparentno": "080",
         "picturepath": ".\/image\/e111.jpg"
@@ -786,7 +785,7 @@ const data = [{
     {
         "id": "S22/013",
         "reg": "S22/013",
-        "inName": "FAVOUR U. BENJAMIN",
+        "inName": "BENJAMIN FAVOUR U.",
         "inSchool": "EVETTE SCH. OF CAT. OKIGWE RD. OW.",
         "inparentno": "080",
         "picturepath": ".\/image\/e112.jpg"
@@ -794,7 +793,7 @@ const data = [{
     {
         "id": "S22/030",
         "reg": "S22/030",
-        "inName": "UJUNWA IWUEKE",
+        "inName": "IWUEKE UJUNWA",
         "inSchool": "EVETTE SCH. OF CAT. OKIGWE RD. OW.",
         "inparentno": "080",
         "picturepath": ".\/image\/e113.jpg"
@@ -802,7 +801,7 @@ const data = [{
     {
         "id": "S22/045",
         "reg": "S22/045",
-        "inName": "MIRIAM C. ODOEMENAM",
+        "inName": "ODOEMENAM MIRIAM C.",
         "inSchool": "EVETTE SCH. OF CAT. OKIGWE RD. OW.",
         "inparentno": "080",
         "picturepath": ".\/image\/e114.jpg"
@@ -810,7 +809,7 @@ const data = [{
     {
         "id": "S22/041",
         "reg": "S22/041",
-        "inName": "OSINACHI NWOKEM",
+        "inName": "NWOKEM OSINACHI",
         "inSchool": "EVETTE SCH. OF CAT. OKIGWE RD. OW.",
         "inparentno": "080",
         "picturepath": ".\/image\/e115.jpg"
@@ -818,7 +817,7 @@ const data = [{
     {
         "id": "S22/049",
         "reg": "S22/049",
-        "inName": "IJEOMA B. OKORO",
+        "inName": "OKORO IJEOMA B.",
         "inSchool": "EVETTE SCH. OF CAT. OKIGWE RD. OW.",
         "inparentno": "080",
         "picturepath": ".\/image\/e116.jpg"
@@ -826,7 +825,7 @@ const data = [{
     {
         "id": "S22/050",
         "reg": "S22/050",
-        "inName": "MERIT C. OKORO",
+        "inName": "OKORO MERIT C.",
         "inSchool": "EVETTE SCH. OF CAT. OKIGWE RD. OW.",
         "inparentno": "080",
         "picturepath": ".\/image\/e117.jpg"
@@ -834,7 +833,7 @@ const data = [{
     {
         "id1": "S22/042",
         "id": "S22/042",
-        "inName": "BRIDGET NWOSU",
+        "inName": "NWOSU BRIDGET",
         "inSchool": "EVETTE SCH. OF CAT. OKIGWE RD. OW.",
         "inparentno": "080",
         "picturepath": ".\/image\/e118.jpg"
@@ -842,7 +841,7 @@ const data = [{
     {
         "id": "S22/010",
         "reg": "S22/010",
-        "inName": "NGOZI ANAELI",
+        "inName": "ANAELI NGOZI",
         "inSchool": "EVETTE SCH. OF CAT. OKIGWE RD. OW.",
         "inparentno": "080",
         "picturepath": ".\/image\/e119.jpg"
@@ -850,7 +849,7 @@ const data = [{
     {
         "id": "S22/044",
         "reg": "S22/044",
-        "inName": "GLORY C. ODIMBA",
+        "inName": "ODIMBA GLORY C.",
         "inSchool": "EVETTE SCH. OF CAT. OKIGWE RD. OW.",
         "inparentno": "080",
         "picturepath": ".\/image\/e120.jpg"
@@ -858,7 +857,7 @@ const data = [{
     {
         "id": "S22/054",
         "reg": "S22/054",
-        "inName": "IFUNANYA P. ONYIA",
+        "inName": "ONYIA IFUNANYA P.",
         "inSchool": "EVETTE SCH. OF CAT. OKIGWE RD. OW.",
         "inparentno": "080",
         "picturepath": ".\/image\/e121.jpg"
@@ -866,7 +865,7 @@ const data = [{
     {
         "id": "S22/019",
         "reg": "S22/019",
-        "inName": "ADAMAKA EGUZOROIBE",
+        "inName": "EGUZOROIBE ADAMAKA",
         "inSchool": "EVETTE SCH. OF CAT. OKIGWE RD. OW.",
         "inparentno": "080",
         "picturepath": ".\/image\/e122.jpg"
@@ -874,7 +873,7 @@ const data = [{
     {
         "id": "S22/001",
         "reg": "S22/001",
-        "inName": "JULIANA AGBARAKWE",
+        "inName": "AGBARAKWE JULIANA",
         "inSchool": "EVETTE SCH. OF CAT. OKIGWE RD. OW.",
         "inparentno": "080",
         "picturepath": ".\/image\/e123.jpg"
@@ -882,7 +881,7 @@ const data = [{
     {
         "id": "S22/028",
         "reg": "S22/028",
-        "inName": "UCHECHI R. IHEDIBE",
+        "inName": "IHEDIBE UCHECHI R.",
         "inSchool": "EVETTE SCH. OF CAT. OKIGWE RD. OW.",
         "inparentno": "080",
         "picturepath": ".\/image\/e124.jpg"
@@ -890,7 +889,7 @@ const data = [{
     {
         "id": "S22/101",
         "reg": "S22/101",
-        "inName": "BLESSING IBE",
+        "inName": "IBE BLESSING",
         "inSchool": "EVETTE SCH. OF CAT. OKIGWE RD. OW.",
         "inparentno": "080",
         "picturepath": ".\/image\/e125.jpg"
@@ -898,7 +897,7 @@ const data = [{
     {
         "id": "S22/008",
         "reg": "S22/008",
-        "inName": "CHIDERA B. ANAYO",
+        "inName": "ANAYO CHIDERA B.",
         "inSchool": "EVETTE SCH. OF CAT. OKIGWE RD. OW.",
         "inparentno": "080",
         "picturepath": ".\/image\/e126.jpg"
@@ -914,7 +913,7 @@ const data = [{
     {
         "id": "S22/081",
         "reg": "S22/081",
-        "inName": "LILIAN C. UGWOJI",
+        "inName": "UGWOJI LILIAN C.",
         "inSchool": "EVETTE SCH. OF CAT. OKIGWE RD. OW.",
         "inparentno": "080",
         "picturepath": ".\/image\/e128.jpg"
@@ -922,7 +921,7 @@ const data = [{
     {
         "id": "S22/043",
         "reg": "S22/043",
-        "inName": "OLUCHI S. NWAOZUZU",
+        "inName": "NWAOZUZU OLUCHI S.",
         "inSchool": "EVETTE SCH. OF CAT. OKIGWE RD. OW.",
         "inparentno": "080",
         "picturepath": ".\/image\/e129.jpg"
@@ -930,7 +929,7 @@ const data = [{
     {
         "id": "S22/029",
         "reg": "S22/029",
-        "inName": "JULIET IHENZE",
+        "inName": "IHENZE JULIET",
         "inSchool": "EVETTE SCH. OF CAT. OKIGWE RD. OW.",
         "inparentno": "080",
         "picturepath": ".\/image\/e130.jpg"
@@ -938,7 +937,7 @@ const data = [{
     {
         "id": "S22/002",
         "reg": "S22/002",
-        "inName": "PRECIOUS AJUKWA",
+        "inName": "AJUKWA PRECIOUS",
         "inSchool": "EVETTE SCH. OF CAT. OKIGWE RD. OW.",
         "inparentno": "080",
         "picturepath": ".\/image\/e131.jpg"
@@ -946,7 +945,7 @@ const data = [{
     {
         "id": "S22/046",
         "reg": "S22/046",
-        "inName": "FAUSTINA O. OFORHA",
+        "inName": "OFORHA FAUSTINA O.",
         "inSchool": "EVETTE SCH. OF CAT. OKIGWE RD. OW.",
         "inparentno": "080",
         "picturepath": ".\/image\/e132.jpg"
@@ -954,7 +953,7 @@ const data = [{
     {
         "id": "S22/011",
         "reg": "S22/011",
-        "inName": "BLESSING ANOZIE",
+        "inName": "ANOZIE BLESSING",
         "inSchool": "EVETTE SCH. OF CAT. OKIGWE RD. OW.",
         "inparentno": "080",
         "picturepath": ".\/image\/e133.jpg"
@@ -962,7 +961,7 @@ const data = [{
     {
         "id": "S22/016",
         "reg": "S22/016",
-        "inName": "ONYINYECHI C. CHINEKE",
+        "inName": "CHINEKE ONYINYECHI C.",
         "inSchool": "EVETTE SCH. OF CAT. OKIGWE RD. OW.",
         "inparentno": "080",
         "picturepath": ".\/image\/e134.jpg"
@@ -970,7 +969,7 @@ const data = [{
     {
         "id": "S22/057",
         "reg": "S22/057",
-        "inName": "PRECIOU SAMUEL",
+        "inName": "SAMUEL PRECIOU",
         "inSchool": "EVETTE SCH. OF CAT. OKIGWE RD. OW.",
         "inparentno": "080",
         "picturepath": ".\/image\/e135.jpg"
@@ -978,7 +977,7 @@ const data = [{
     {
         "id": "1S22/102",
         "reg": "S22/102",
-        "inName": "OLUEBUBE O. EKFEMAGU",
+        "inName": "EKFEMAGU OLUEBUBE O.",
         "inSchool": "EVETTE SCH. OF CAT. OKIGWE RD. OW.",
         "inparentno": "080",
         "picturepath": ".\/image\/e136.jpg"
@@ -986,7 +985,7 @@ const data = [{
     {
         "id": "S22/023",
         "reg": "S22/023",
-        "inName": "CHIDERA EMMANUEL",
+        "inName": "EMMANUEL CHIDERA",
         "inSchool": "EVETTE SCH. OF CAT. OKIGWE RD. OW.",
         "inparentno": "080",
         "picturepath": ".\/image\/e137.jpg"
@@ -994,7 +993,7 @@ const data = [{
     {
         "id": "S22/022",
         "reg": "S22/022",
-        "inName": "EZINNE F. EME",
+        "inName": "EME EZINNE F.",
         "inSchool": "EVETTE SCH. OF CAT. OKIGWE RD. OW.",
         "inparentno": "080",
         "picturepath": ".\/image\/e138.jpg"
@@ -1002,7 +1001,7 @@ const data = [{
     {
         "id": "S22/103",
         "reg": "S22/103",
-        "inName": "ONYINYECHI ANUFORO",
+        "inName": "ANUFORO ONYINYECHI",
         "inSchool": "EVETTE SCH. OF CAT. OKIGWE RD. OW.",
         "inparentno": "080",
         "picturepath": ".\/image\/e139.jpg"
@@ -1010,7 +1009,7 @@ const data = [{
     {
         "id": "S22/022",
         "reg": "S22/022",
-        "inName": "VIVIAN O. ALAEFULE",
+        "inName": "ALAEFULE VIVIAN O.",
         "inSchool": "EVETTE SCH. OF CAT. OKIGWE RD. OW.",
         "inparentno": "080",
         "picturepath": ".\/image\/e140.jpg"
@@ -1018,7 +1017,7 @@ const data = [{
     {
         "id": "S22/037",
         "reg": "S22/037",
-        "inName": "JOY C. NDUKWU",
+        "inName": "NDUKWU JOY C.",
         "inSchool": "EVETTE SCH. OF CAT. OKIGWE RD. OW.",
         "inparentno": "080",
         "picturepath": ".\/image\/e141.jpg"
@@ -1026,7 +1025,7 @@ const data = [{
     {
         "id": "S22/055",
         "reg": "S22/055",
-        "inName": "NGOZI G. OPARA",
+        "inName": "OPARA NGOZI G.",
         "inSchool": "EVETTE SCH. OF CAT. OKIGWE RD. OW.",
         "inparentno": "080",
         "picturepath": ".\/image\/e142.jpg"
@@ -1034,7 +1033,7 @@ const data = [{
     {
         "id": "J22/118",
         "reg": "J22/118",
-        "inName": "BLESSING AGUZIE",
+        "inName": "AGUZIE BLESSING",
         "inSchool": "EVETTE SCH. OF CAT. OKIGWE RD. OW.",
         "inparentno": "080",
         "picturepath": ".\/image\/e143.jpg"
@@ -1042,7 +1041,7 @@ const data = [{
     {
         "id": "M22/042",
         "reg": "M22/042",
-        "inName": "OGOCHUKWU EZIOHA",
+        "inName": "EZIOHA OGOCHUKWU",
         "inSchool": "EVETTE SCH. OF CAT. OKIGWE RD. OW.",
         "inparentno": "080",
         "picturepath": ".\/image\/e144.jpg"
@@ -1050,7 +1049,7 @@ const data = [{
     {
         "id": "M22/041",
         "reg": "M22/041",
-        "inName": "FAVOUR C. EZEBUIKE",
+        "inName": "EZEBUIKE FAVOUR C.",
         "inSchool": "EVETTE SCH. OF CAT. OKIGWE RD. OW.",
         "inparentno": "080",
         "picturepath": ".\/image\/e145.jpg"
@@ -1058,7 +1057,7 @@ const data = [{
     {
         "id": "M22/094",
         "reg": "M22/094",
-        "inName": "GOODNESS C. FRIDAY",
+        "inName": "FRIDAY GOODNESS C.",
         "inSchool": "EVETTE SCH. OF CAT. OKIGWE RD. OW.",
         "inparentno": "080",
         "picturepath": ".\/image\/e146.jpg"
@@ -1066,7 +1065,7 @@ const data = [{
     {
         "id": "M22/057",
         "reg": "M22/057",
-        "inName": "PRECIOUS NWAODU",
+        "inName": "NWAODU PRECIOUS",
         "inSchool": "EVETTE SCH. OF CAT. OKIGWE RD. OW.",
         "inparentno": "080",
         "picturepath": ".\/image\/e111.jpg"
@@ -1074,7 +1073,7 @@ const data = [{
     {
         "id": "M22/071",
         "reg": "M22/071",
-        "inName": "VICTORY C. OKAFOR",
+        "inName": "OKAFOR VICTORY C.",
         "inSchool": "EVETTE SCH. OF CAT. OKIGWE RD. OW.",
         "inparentno": "080",
         "picturepath": ".\/image\/e148.jpg"
@@ -1082,7 +1081,7 @@ const data = [{
     {
         "id": "M22/002",
         "reg": "M22/002",
-        "inName": "JOY O. AGU",
+        "inName": "AGU JOY O.",
         "inSchool": "EVETTE SCH. OF CAT. OKIGWE RD. OW.",
         "inparentno": "080",
         "picturepath": ".\/image\/e149.jpg"
@@ -1090,7 +1089,7 @@ const data = [{
     {
         "id": "M22/033",
         "reg": "M22/033",
-        "inName": "CHIDIMMA M. EMENAHA",
+        "inName": "EMENAHA CHIDIMMA M.",
         "inSchool": "EVETTE SCH. OF CAT. OKIGWE RD. OW.",
         "inparentno": "080",
         "picturepath": ".\/image\/e150.jpg"
@@ -1098,7 +1097,7 @@ const data = [{
     {
         "id": "M22/066",
         "reg": "M22/066",
-        "inName": "GOODNESS ODUOCHA",
+        "inName": "ODUOCHA GOODNESS",
         "inSchool": "EVETTE SCH. OF CAT. OKIGWE RD. OW.",
         "inparentno": "080",
         "picturepath": ".\/image\/e151.jpg"
@@ -1106,7 +1105,7 @@ const data = [{
     {
         "id": "S22/076",
         "reg": "S22/076",
-        "inName": "EZINNE E. OKOROJI",
+        "inName": "OKOROJI EZINNE E.",
         "inSchool": "EVETTE SCH. OF CAT. OKIGWE RD. OW.",
         "inparentno": "080",
         "picturepath": ".\/image\/e152.jpg"
@@ -1114,7 +1113,7 @@ const data = [{
     {
         "id": "M22/080",
         "reg": "M22/080",
-        "inName": "PRECIOUS C. OBI",
+        "inName": "OBI PRECIOUS C.",
         "inSchool": "EVETTE SCH. OF CAT. OKIGWE RD. OW.",
         "inparentno": "080",
         "picturepath": ".\/image\/e153.jpg"
@@ -1122,7 +1121,7 @@ const data = [{
     {
         "id": "S22/024",
         "reg": "S22/024",
-        "inName": "HILDA C. EGWURUGWU",
+        "inName": "EGWURUGWU HILDA C.",
         "inSchool": "EVETTE SCH. OF CAT. OKIGWE RD. OW.",
         "inparentno": "080",
         "picturepath": ".\/image\/e154.jpg"
@@ -1130,7 +1129,7 @@ const data = [{
     {
         "id": "M22/049",
         "reg": "M22/049",
-        "inName": "MODESTA IKEBUASO",
+        "inName": "IKEBUASO MODESTA",
         "inSchool": "EVETTE SCH. OF CAT. OKIGWE RD. OW.",
         "inparentno": "080",
         "picturepath": ".\/image\/e155.jpg"
@@ -1138,13 +1137,11 @@ const data = [{
     {
         "id": "J22/068",
         "reg": "J22/068",
-        "inName": "SANDRA O. NZEAKOR",
+        "inName": "NZEAKOR SANDRA O.",
         "inSchool": "EVETTE SCH. OF CAT. OKIGWE RD. OW.",
         "inparentno": "080",
         "picturepath": ".\/image\/e156.jpg"
-    },
-
-
+    }
 ];
 
 const filter = document.getElementById('filter');
