@@ -12,14 +12,14 @@ body {
     height: 95vh;
     overflow: hidden;
     display: flex;
-    margin-top: 17%;
+    margin-top: 5rem;
     display: flex;
 }
 
 .containerr .images .image-box {
     position: relative;
-    height: 90px;
-    width: 90px;
+    height: 85px;
+    width: 85px;
     border-radius: 70%;
     overflow: hidden;
 }
@@ -30,6 +30,8 @@ body {
     height: 120%;
     width: 390px;
     margin-top: 1.5vh;
+    position: relative;
+    padding: 0 .5rem
 }
 
 .containerr {
