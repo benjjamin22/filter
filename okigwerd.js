@@ -1191,4 +1191,4 @@ let allObject = data.filter((val) => {
     }
 });
 let objectsLen = allObject.length;
-objects.innerHTML += "Total:" + objectsLen
+objects.innerHTML += "" + objectsLen

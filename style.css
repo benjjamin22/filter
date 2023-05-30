@@ -9,17 +9,15 @@ body {
     font-family: 'Roboto', sans-serif;
     justify-content: center;
     height: 95vh;
-    width: 50vh;
     overflow: hidden;
     display: flex;
-    margin: auto;
-    padding: auto
+    margin-top: 0%;
 }
 
 .containerr .images .image-box {
     position: relative;
-    height: 55px;
-    width: 55px;
+    height: 80px;
+    width: 80px;
     border-radius: 70%;
     overflow: hidden;
 }
@@ -30,8 +28,6 @@ body {
     height: 120%;
     width: 390px;
     margin-top: 1.5vh;
-    margin-left: auto;
-    margin-right: auto;
 }
 
 .containerr {
@@ -114,7 +110,7 @@ body {
     font-size: 13px;
     padding: 12px 12px;
     width: 90%;
-    margin-bottom: 2%;
+    margin-bottom: 3%;
 }
 
 .header input:focus {
