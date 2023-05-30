@@ -8,16 +8,18 @@ body {
     background-color: #f8f9fd;
     font-family: 'Roboto', sans-serif;
     justify-content: center;
+    align-items: center;
     height: 95vh;
     overflow: hidden;
     display: flex;
-    margin-top: 0%;
+    margin-top: 17%;
+    display: flex;
 }
 
 .containerr .images .image-box {
     position: relative;
-    height: 80px;
-    width: 80px;
+    height: 90px;
+    width: 90px;
     border-radius: 70%;
     overflow: hidden;
 }
@@ -37,7 +39,6 @@ body {
     overflow: hidden;
     width: 370px;
     max-height: 86%;
-    margin-left: 2.5%;
     border-color: aqua;
 }
 
