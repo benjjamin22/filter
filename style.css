@@ -12,7 +12,6 @@ body {
     height: 95vh;
     overflow: hidden;
     display: flex;
-    margin-top: 5rem;
     display: flex;
 }
 
@@ -29,7 +28,7 @@ body {
     overflow: hidden;
     height: 120%;
     width: 390px;
-    margin-top: 1.5vh;
+    margin-top: 18vh;
     position: relative;
 }
 
