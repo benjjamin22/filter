@@ -2986,3 +2986,57 @@ const outputHtml = matches => {
     }
 };
 filter.addEventListener('input', () => searchFILTER(filter.value));
+
+function openSlideMenu() {
+    document.getElementById('side-menu').style.width = '370px';
+    document.getElementById('main').style.marginLeft = '370px';
+}
+
+function closeSideMenu() {
+    document.getElementById('side-menu').style.width = '0px';
+    document.getElementById('main').style.marginLeft = '0px';
+}
+
+function getfecth() {
+    const ids = data.map((article) => article.id)
+    const paths = ids.map((id) => ({ params: { id: id.toString() } }))
+}
+
+function getfecth() {
+    let number = numberinput.value;
+    fetch('data' + number)
+        .then(response => response.json())
+        .then(data => {
+            facttext.innerHTML = ''
+            if (number != '') {
+                facttext.style.display = 'block';
+                const li = document.createElement('li')
+                li.innerHTML = `<div class="user-profile">
+                <div class="profile-top">
+                <img src="${data.picturepath}">
+                    <div class="profile-info">
+                        <h2>${data.inName}</h2> 
+                    </div>
+                </div>
+                <div class="profile-bottom">
+                    <div class="profile-info">
+                        <span class="material-icons"></span>
+                        <p>${data.inSchool}</p> 
+                    </div>
+                    <div class="profile-info">
+                        <span class="material-icons"></span>
+                        <p2>NEXT OF KIN:${data.inparentno}</p2>
+                    </div>
+                    <div class="profile-info">
+                        <span class="material-icons"></span>
+                        <p3>>>>${data.id}<<<</p3>
+                    </div>
+                </div>
+            </div> `
+                facttext.appendChild(li)
+            }
+
+
+        })
+
+}

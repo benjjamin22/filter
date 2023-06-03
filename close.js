@@ -3,7 +3,8 @@ const data = [{
         "reg": "S22/078",
         "inName": "OBI CHIAMAKA FAVOUR",
         "inSchool": "EVETTE SCH. OF CAT. UMUGUMA OW.",
-        "inparentno": "080",
+        "inparentno": "08037722780",
+        "inparentno2": "08037722780",
         "picturepath": ".\/image\/e1.jpg"
     },
     {
@@ -11,7 +12,8 @@ const data = [{
         "reg": "S22/039",
         "inName": "ENYINNAYA CHIDERA C.",
         "inSchool": "EVETTE SCH. OF CAT. UMUGUMA OW.",
-        "inparentno": "080",
+        "inparentno": "08037722780",
+        "inparentno2": "08037722780",
         "picturepath": ".\/image\/e2.jpg"
     },
     {
@@ -2945,7 +2947,7 @@ const result = document.getElementById('result');
 const searchFILTER = async searchText => {
 
     let matches = data.filter(user => {
-        const regex = new RegExp(`^${searchText}`, 'gi');
+        const regex = new RegExp(`${searchText}`, 'gi');
         return user.id.match(regex) || user.inName.match(regex) || user.inSchool.match(regex);
     });
 
@@ -2962,15 +2964,16 @@ const searchFILTER = async searchText => {
 const outputHtml = matches => {
     if (matches) {
         const html = matches.map(user => `
-        <li>
+       <li>
         <img src="${user.picturepath}">
         <div class="user_info" >
         <h3>${user.inName}</h3> 
         <p>${user.inSchool}</p> 
-        <p2>NEXT OF KIN:${user.inparentno}</p2>
+        <p2 style="boarder-radius:30px;display:flex;">EMERGENCY CONTACTS:<div style="text-align:center;height:15px;width:55px;background-color:red;border-radius:5px;"><a style="text-align:center; text-decoration:none;color:white;" href="Tel:${user.inparentno}">FIRST</a></div><div style="margin-left:10px; text-align:center;height:15px;width:55px;background-color:black;border-radius: 5px;"><a style="text-align:center; text-decoration:none;color:white;" href="Tel:${user.inparentno2}">SECOND</a></div></p2>
+        
         <p3>>>>${user.id}<<<</p3>
         </div>
-        </li>
+        </li></a>
     `)
             .join('');
         result.innerHTML = html;
