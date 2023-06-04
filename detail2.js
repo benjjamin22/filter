@@ -2937,6 +2937,7 @@ const data = [{
     }
 ];
 
+
 const filter = document.getElementById('filter');
 const result = document.getElementById('result');
 const searchFILTER = async searchText => {
@@ -3002,7 +3003,7 @@ function getfecth() {
     const paths = ids.map((id) => ({ params: { id: id.toString() } }))
 }
 
-function getfecth() {
+function getfecth({ query: { id } }) {
     let number = numberinput.value;
     fetch('data' + number)
         .then(response => response.json())

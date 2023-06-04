@@ -1815,15 +1815,17 @@ const outputHtml = matches => {
     if (matches) {
         const html = matches.map(user => `
     
-    <li>
+        <a style="text-decoration:none;"href=""><li>
     <img src="${user.picturepath}">
     <div class="user_info" >
     <h3>${user.inName}</h3> 
     <p>${user.inSchool}</p> 
-    <p2>NEXT OF KIN:${user.inparentno}</p2>
+    <div style="display:flex">
+        <p2 style="boarder-radius:30px;display:flex;margin-top:3px;">NEXT OF KIN:<div style="opacity:1.9px;margin-left:2px;text-align:center;height:18px;width:40px;background-color:transparent;border:  rgb(214, 208, 208); solid;border-radius:5px;margin-top:6px;"><a style="text-align:center; text-decoration:none;color:black;" href="Tel:${user.inparentno}"><img style="margin-left:5px;margin-top:3px;height:10px;width:25px;"src="./p4.png"></a></div>
+        <div style="opacity:1.9px;margin-left:3px;text-align:center;height:18px;width:40px;background-color:transparent;border:  rgb(214, 208, 208); solid;border-radius:5px;margin-top:6px;"><a style="text-align:center; text-decoration:none;color:black;" href="Tel:${user.inparentno2}"><img style="margin-left:5px;margin-top:3px;height:10px;width:25px;"src="./p3.png"></a></div></p2></div>
     <p3>>>>${user.id}<<<</p3>
     </div>
-    </li>
+    </li></a>
 `)
             .join('');
         result.innerHTML = html;
