@@ -2946,7 +2946,7 @@ const searchFILTER = async searchText => {
         return user.id.match(regex) || user.inName.match(regex) || user.inSchool.match(regex);
     });
 
-    if (searchText.length === 0) {
+    if (searchText.lenght === 0) {
         matches = [];
         result.innerHTML = '';
     }
@@ -2980,8 +2980,7 @@ const outputHtml = matches => {
             </div>
         </div>
     </div>
-    `)
-            .join('');
+    `).join('');
         result.innerHTML = html;
     }
 };
