@@ -1636,7 +1636,7 @@ function movieselected(id) {
 function getmovie() {
     let movieId = sessionStorage.getItem('movieId');
     console.log(movieId)
-    fetch('https://benjjamin22.github.io/gitadd/mydata.json/' + movieId)
+    fetch('http://localhost:3000/data/' + movieId)
         .then(response => response.json())
         .then(data => {
             const li = document.createElement('li')
