@@ -1632,7 +1632,6 @@ function movieselected(id) {
 
 }
 
-
 function getmovie() {
     let movieId = sessionStorage.getItem('movieId');
     console.log(movieId)

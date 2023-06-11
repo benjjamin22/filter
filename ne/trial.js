@@ -1570,32 +1570,19 @@ const data = [{
         "inName": "ONWUEGBUCHULEM CHIOMA C.",
         "inSchool": "EVETTE SCH. OF CAT. UMUGUMA OW.",
         "inparentno": "080",
-        "picturepath": ".\/image\/e279.jpg"
+        "picturepath": ".\/image\/e279.jpg",
+        "status": ""
     },
 ]
 
-const filter = document.getElementById('filter');
 const result = document.getElementById('result');
-const searchFILTER = async searchText => {
 
-    let matches = data.filter(user => {
-        const regex = new RegExp(`${searchText}`, 'gi');
-        return user.id.match(regex) || user.inName.match(regex) || user.inSchool.match(regex);
-    });
+let id = data.filter(ids => ids.id === '79');
+console.log(id)
 
-    if (searchText.length === 0) {
-        matches = [];
-        result.innerHTML = '';
-    }
-
-    outputHtml(matches);
-
-};
-
-const outputHtml = matches => {
-    if (matches) {
-        const html = matches.map(user => `
-        <a style="text-decoration:none;" onclick="movieselected('${user.id}')"href="#"><li>
+const html = id.map(user => {
+    const li = document.createElement('li')
+    li.innerHTML = `<li>
     <img src="${user.picturepath}">
     <div class="user_info" >
     <h3>${user.inName}</h3> 
@@ -1605,69 +1592,7 @@ const outputHtml = matches => {
         <div style="opacity:1.9px;margin-left:3px;text-align:center;height:18px;width:40px;background-color:transparent;border:  rgb(214, 208, 208); solid;border-radius:5px;margin-top:6px;"><a style="text-align:center; text-decoration:none;color:black;" href="Tel:${user.inparentno2}"></a></div></p2></div>
     <p3>>>>${user.reg}<<<</p3>
     </div>
-    </li>
-    </a>
-`)
-            .join('');
-        result.innerHTML = html;
-    }
-};
-filter.addEventListener('input', () => searchFILTER(filter.value));
+    </li>`
+    result.appendChild(li)
 
-let objects = document.getElementById("objects");
-let allObject = data.filter((val) => {
-    if (typeof val == 'object') {
-        return true;
-    } else { return false; }
 });
-let objectsLen = allObject.length;
-objects.innerHTML += "" + objectsLen
-
-
-
-function movieselected(id) {
-    sessionStorage.setItem('movieId', id);
-    window.location = 'rtea.html';
-    return false;
-
-}
-
-
-function getmovie() {
-    let movieId = sessionStorage.getItem('movieId');
-    console.log(movieId)
-    let id = data.filter(ids => ids.id === movieId);
-    console.log(id)
-
-    const html = id.map(user => {
-        const li = document.createElement('li')
-        li.innerHTML = `<div class="user-profile">
-    <div class="profile-top">
-        <img src="${user.picturepath}">
-        <div class="profile-info">
-            <h2>${user.inName}</h2>
-        </div>
-    </div>
-    <div class="profile-bottom">
-        <div class="profile-info">
-            <p>${user.inSchool}</p>
-        </div>
-        <div class="profile-info">
-            <h1>>>>${user.reg}
-                <<<</h1>
-        </div>
-        <div class="profile-info">
-            <a style="text-decoration: none;" href="Tel:${user.inparentno}"><div class="p1">
-                    <p2>${user.inparentno}</p2>
-            </div></a>
-            <a style="text-decoration: none;" href="Tel:${user.inparentno2}"><div class="p2">
-                <p2>${user.inparentno2}</p2>
-            </div></a>
-        </div>
-
-    </div>
-</div>`
-        facttext.appendChild(li)
-
-    });
-}
