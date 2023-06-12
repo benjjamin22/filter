@@ -135,7 +135,7 @@ body {
     padding: 2px;
     border-bottom: 1px solid rgba(131, 124, 124, 0.3);
     margin-bottom: 0%;
-    margin-left: 4%;
+    margin-left: 5%;
     line-height: 20px;
     position: relative;
 }
@@ -160,7 +160,7 @@ body {
     height: 70px;
     width: 55px;
     display: flex;
-    margin-left: 5%;
+    margin-left: 1%;
     box-shadow: 3px 3px 10px rgba(0, 0, 0, 0.2);
     margin-top: 13%;
 }
@@ -190,6 +190,7 @@ body {
     margin-bottom: 0%;
     text-align: left;
     padding: 1px;
+    letter-spacing: 3px;
 }
 
 .user-list .user_info p3 {
