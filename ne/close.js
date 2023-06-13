@@ -2208,7 +2208,7 @@ const data = [{
     }, {
         "id": "246",
         "reg": "J23/080",
-        "inName": "MOSESE JANET",
+        "inName": "MOSES JANET",
         "inSchool": "EVETTE SCH. OF CAT. UMUGUMA OW.",
         "Status": "STUDENT",
         "inparentno": "",
@@ -3413,6 +3413,8 @@ function getmovie() {
         <img src="${user.picturepath}">
         <div class="profile-info">
             <h2>${user.inName}</h2>
+            <p2>>>> ${user.reg}
+                <<<</p2>
         </div>
     </div>
     <div class="profile-bottom">
@@ -3420,8 +3422,8 @@ function getmovie() {
             <p>${user.inSchool}</p>
         </div>
         <div class="profile-info">
-            <h1>>>>${user.reg}
-                <<<</h1>
+            <h1>- ${user.Status}
+                -</h1>
         </div>
         <div class="profile-info">
             <a style="text-decoration: none;" href="Tel:${user.inparentno}"><div class="p1">

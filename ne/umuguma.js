@@ -811,7 +811,7 @@ const data = [{
     }, {
         "id": "246",
         "reg": "J23/080",
-        "inName": "MOSESE JANET",
+        "inName": "MOSES JANET",
         "inSchool": "EVETTE SCH. OF CAT. UMUGUMA OW.",
         "Status": "STUDENT",
         "inparentno": "",
