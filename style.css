@@ -12,7 +12,7 @@ body {
     height: 95vh;
     overflow: hidden;
     display: flex;
-    display: flex;
+    flex-direction: row;
 }
 
 .containerr .images .image-box {
@@ -27,9 +27,13 @@ body {
     border-radius: 5px;
     overflow: hidden;
     height: 120%;
-    width: 390px;
+    width: 24rem;
     margin-top: 18vh;
     position: relative;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 0 1rem;
 }
 
 .containerr {
@@ -37,7 +41,7 @@ body {
     border-radius: 5px;
     box-shadow: 3px 3px 10px rgba(0, 0, 0, 0.2);
     overflow: hidden;
-    width: 370px;
+    width: 23rem;
     max-height: 86%;
     margin-left: .6rem;
 }
@@ -152,6 +156,10 @@ body {
     opacity: 0.9;
     line-height: 20px;
     display: block;
+}
+
+.user-list :hover {
+    background-color: rgb(231, 231, 245);
 }
 
 .user-list img {
