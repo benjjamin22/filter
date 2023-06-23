@@ -12,13 +12,14 @@ body {
     font-family: sans-serif;
     margin: 0;
     background-color: #dcdcdc;
+    justify-content: center;
 }
 
 .user-profile {
     background-color: #dcdcdc;
-    margin-top: 3%;
+    margin-top: 0%;
     width: 120%;
-    max-width: 370px;
+    max-width: 390px;
     border-radius: .5rem;
     overflow: hidden;
     margin-left: -1%;
