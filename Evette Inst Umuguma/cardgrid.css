@@ -14,6 +14,10 @@ body {
     background-color: #dcdcdc;
 }
 
+.flip {
+    animation: flipdiv is infinite;
+}
+
 .user-profile {
     background-color: #dcdcdc;
     margin-top: 2%;
