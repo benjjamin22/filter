@@ -17,8 +17,8 @@ body {
 .user-profile {
     background-color: #dcdcdc;
     margin-top: 2%;
-    width: 120%;
-    max-width: 390px;
+    width: 25.5rem;
+    max-width: 30rem;
     border-radius: .5rem;
     overflow: hidden;
     margin-left: -1%;

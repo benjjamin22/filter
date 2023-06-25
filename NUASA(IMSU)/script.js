@@ -37,7 +37,7 @@ const data = [{
         "bloodgroup": "O+",
         "yearofadmin": "JAN.,2023",
         "sex": "F",
-        "validity": "",
+        "validity": "2019-2023",
         "localgovt": "ORU EAST",
         "state": "IMO",
         "inparentno": "08056265630",
@@ -1270,64 +1270,66 @@ function getmovie() {
 
     const html = id.map(user => {
         const li = document.createElement('li')
-        li.innerHTML = `<div class="user-profile">
-        <div class="profile-top">
-        <img src="${user.picturepath}">
-    <div class="profile-info">
-        <h2 style="color:white;text-align:center;margin-bottom:0px;line-height:2rem;">${user.inName}</h2>  
-        <h1 style="margin-top:0px;margin-bottom:0px;line-height:1rem;">>>>${user.reg}
-        <<<</h1>
-    </div>
-  
-</div>
-        <div style="margin-top:0px;"class="profile-bottom">
-        <div style="flex-direction:column;"class="profile-info">
-        
-        <h1 >- ${user.Status} -</h1>
-        <h1 style="margin:-5px;color:red;font-size:12px;line-height:1.5rem;">- VALIDITY:${user.validity} -</h1></div>
-        </div>
-        <div style="margin-top:-15px;"class="profile-bottom">
-             <div style="display:flex;margin-left:-.4rem;">
-                <div style="width:25%;margin:0 1px;">
-                    <h1 style="font-size:12px;margin-top:-5px;text-align:center;padding:0 1.5rem;">B/G</h1>
+        li.innerHTML = `
+            <div class="user-profile">
+                <div class="profile-top">
+                    <img src="${user.picturepath}">
                     <div class="profile-info">
-                    <h1 style="color:black;padding:0 .8rem;">${user.bloodgroup}</h1>
+                        <h2 style="color:white;text-align:center;margin-bottom:0px;line-height:2rem;">${user.inName}</h2>  
+                        <h1 style="margin-top:3px;margin-bottom:0px;line-height:1rem;">>>>${user.reg}
+                        <<<</h1>
                     </div>
+                
                 </div>
-                <div style="width:45%;margin:0 1px;">
-                    <h1 style="font-size:12px;margin-top:-5px;text-align:center;padding:0 1rem;">LGA/STATE</h1>
-                    <div style="flex-direction:column;"class="profile-info">
-                    <h1 style="color:black;padding:0 .8rem;margin-top:-5px;">${user.state}</h1>
-                    <h1 style="margin:0px;color:red;font-size:12px;margin-bottom:0px;line-height:.5rem;">- ${user.localgovt} -</h1>
-                    </div>
-                </div>
-                <div style="width:25%;margin:0 1px;">
-                    <h1 style="font-size:12px;margin-top:-5px;text-align:center;padding:0 1.5rem;">SEX</h1>
-                    <div class="profile-info">
-                    <h1 style="color:black;padding:0 .8rem;">${user.sex}</h1>
-                    </div>
-                </div>
-            </div>
-            <div style="display:flex;margin-left:0rem;">
-                <div>
-                    <h1 style="font-size:12px;margin-top:-5px;text-align:center;">CONTACT:</h1>
-                        <div class="profile-info">
-                            <a style="text-decoration: none;line-height:2rem;" href="Tel:${user.inparentno}"><div class="p1">
-                                    <p2 style="line-height:2.5rem;">${user.inparentno}</p2>
-                            </div></a>                   
+                <div style="margin:0px;"class="profile-bottom">
+                    <div style="flex-direction:column;margin:0 3px;"class="profile-info"> 
+                        <h1>- ${user.Status} -</h1>
+                            <h1 style="margin-top:-1px;color:red;font-size:12px;">- VALIDITY:${user.validity} -</h1>
                         </div>
-                </div>
-                <div>
-                <h1 style="font-size:12px;margin-top:-5px;text-align:center;">NEXT OF KIN:</h1>
-                    <div class="profile-info">
-                        <a style="text-decoration: none;line-height:2rem;" href="Tel:${user.inparentno2}"><div class="p2">
-                                <p2 style="line-height:2.5rem;">${user.inparentno2}</p2>
-                        </div></a>                   
                     </div>
-            </div>
-                   
-            </div>
-    </div>`
+                    <div style="margin: 0px 10px;"class="profile-bottom">
+                        <div style="display:flex;margin-left:1rem;margin:1 3px;">
+                            <div style="width:25%;margin:0 1px;">
+                                <h1 style="font-size:12px;margin-top:-5px;text-align:center;padding:0 1.5rem;">B/G</h1>
+                                <div class="profile-info">
+                                <h1 style="color:black;padding:0 .8rem;">${user.bloodgroup}</h1>
+                                </div>
+                            </div>
+                            <div style="width:45%;margin:0 1px;">
+                                <h1 style="font-size:12px;margin-top:-5px;text-align:center;padding:0 1rem;">LGA/STATE</h1>
+                                <div style="flex-direction:column;"class="profile-info">
+                                <h1 style="color:black;padding:0 .8rem;margin-top:-5px;">${user.state}</h1>
+                                <h1 style="margin:0px;color:red;font-size:12px;margin-bottom:0px;line-height:.5rem;">- ${user.localgovt} -</h1>
+                                </div>
+                            </div>
+                            <div style="width:25%;margin:0 1px;">
+                                <h1 style="font-size:12px;margin-top:-5px;text-align:center;padding:0 1.5rem;">SEX</h1>
+                                <div class="profile-info">
+                                <h1 style="color:black;padding:0 .8rem;">${user.sex}</h1>
+                                </div>
+                            </div>
+                        </div>
+                    <div style="display:flex;padding-left:3px;margin-top:-10px;"class="profile-bottom">
+                        <div>
+                            <h1 style="font-size:12px;margin:0px;text-align:center;">CONTACT:</h1>
+                                <div class="profile-info">
+                                    <a style="text-decoration: none;line-height:2rem;" href="Tel:${user.inparentno}"><div class="p1">
+                                            <p2 style="line-height:2.5rem;">${user.inparentno}</p2>
+                                    </div></a>                   
+                                </div>
+                            
+                        </div>
+                        <div>
+                        <h1 style="font-size:12px;margin:0px;text-align:center;">NEXT OF KIN:</h1>
+                            <div class="profile-info">
+                                <a style="text-decoration:none;line-height:2rem;" href="Tel:${user.inparentno2}"><div class="p2">
+                                        <p2 style="line-height:2.5rem;">${user.inparentno2}</p2>
+                                </div></a>                   
+                            </div>
+                        </div>
+                    </div>       
+                </div>
+            </div>`
         facttext.appendChild(li)
 
     });

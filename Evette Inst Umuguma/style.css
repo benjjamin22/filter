@@ -232,6 +232,7 @@ body {
     background-color: rgb(65, 59, 59);
     border-radius: 100%;
     margin-left: .7rem;
+    margin-bottom: -1px;
 }
 
 .flip {
