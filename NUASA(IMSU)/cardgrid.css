@@ -61,7 +61,7 @@ body {
     background-color: black;
     width: 9.5rem;
     height: 2.5rem;
-    padding: 0 1rem;
+    padding: .5rem 1rem;
     border-radius: .5rem;
 }
 
@@ -69,7 +69,7 @@ body {
     background-color: red;
     width: 9.5rem;
     height: 2.5rem;
-    padding: 0 1rem;
+    padding: .5rem 1rem;
     border-radius: .5rem;
 }
 

@@ -391,7 +391,7 @@ const data = [{
     }, {
         "id": "27",
         "reg": "",
-        "inName": "ABBAKWE F> OLUCHI",
+        "inName": "ABBAKWE F. OLUCHI",
         "inSchool": "N.U.A.S.A.(IMO STATE UNIVERSITY) ",
         "Status": "MEMBER",
         "bloodgroup": "O+",
@@ -1228,12 +1228,12 @@ const outputHtml = matches => {
         <img style="object-fit:cover;"src="${user.picturepath}">
         <div class="user_info" >
         <h3>${user.inName}</h3> 
-        <p>${user.inSchool}</p> 
+        <p  style="color:green;">${user.inSchool}</p> 
         <div style="display:flex">
         <p2 style="boarder-radius:30px;display:flex;margin-top:3px;font-size:.7rem;">
         <div style="opacity:1.9px;margin-left:2px;text-align:center;height:18px;width:
-        40px;letter-spacing:3px;">${user.Status}</div>
-        </p2></div>
+        40px;letter-spacing:1px;color:black;">STATUS:${user.Status}</div>
+        </p2><p3b style="margin-top:3px;margin-left:5rem;font-size:12px;font-weight:bold;color:black;">|| VALIDITY:${user.validity}</p3> </div>
         <p3>>>>${user.reg}<<<</p3></a>
         </div>
         </li>`)
@@ -1312,20 +1312,21 @@ function getmovie() {
                     <div style="display:flex;padding-left:3px;margin-top:-10px;"class="profile-bottom">
                         <div>
                             <h1 style="font-size:12px;margin:0px;text-align:center;">CONTACT:</h1>
-                                <div class="profile-info">
-                                    <a style="text-decoration: none;line-height:2rem;" href="Tel:${user.inparentno}"><div class="p1">
-                                            <p2 style="line-height:2.5rem;">${user.inparentno}</p2>
-                                    </div></a>                   
-                                </div>
+                            <div class="profile-info">
+                            <a style="text-decoration: none;" href="Tel:${user.inparentno}"><div class="p1">
+                                    <p2 ">${user.inparentno}</p1>
+                            </div></a>                   
+                        </div>
                             
                         </div>
                         <div>
-                        <h1 style="font-size:12px;margin:0px;text-align:center;">NEXT OF KIN:</h1>
+                            <h1 style="font-size:12px;margin:0px;text-align:center;">EMERGENCY CONTACT:</h1>
                             <div class="profile-info">
-                                <a style="text-decoration:none;line-height:2rem;" href="Tel:${user.inparentno2}"><div class="p2">
-                                        <p2 style="line-height:2.5rem;">${user.inparentno2}</p2>
-                                </div></a>                   
-                            </div>
+                            <a style="text-decoration: none;" href="Tel:${user.inparentno2}"><div class="p2">
+                                    <p2>${user.inparentno2}</p2>
+                            </div></a>                   
+                        </div>
+                            
                         </div>
                     </div>       
                 </div>
