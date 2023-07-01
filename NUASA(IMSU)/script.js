@@ -1,7 +1,7 @@
 const data = [{
         "id": "1",
         "reg": "16/38221",
-        "inName": "ONONIWU G. OLUCHI.",
+        "inName": "ONONIWU G. OLUCHI",
         "inSchool": "N.U.A.S.A.(IMO STATE UNIVERSITY) ",
         "Status": "MEMBER",
         "bloodgroup": "O+",
@@ -1281,14 +1281,14 @@ function getmovie() {
                     </div>
                 
                 </div>
-                <div style="margin:0px;"class="profile-bottom">
-                    <div style="flex-direction:column;margin:0 3px;"class="profile-info"> 
-                        <h1>- ${user.Status} -</h1>
-                            <h1 style="margin-top:-1px;color:red;font-size:12px;">- VALIDITY:${user.validity} -</h1>
+                <div class="profile-bottom">
+                    <div style="flex-direction:column;margin:-11px 0px;" class="profile-info"> 
+                        <h1>- IMO STATE UNIVERSITY -</h1>
+                            <h1 style="margin-top:-3px;color:red;font-size:12px;">- ACCOUNTANCY DEPARTMENT -</h1>
                         </div>
                     </div>
-                    <div style="margin: 0px 10px;"class="profile-bottom">
-                        <div style="display:flex;margin-left:1rem;margin:1 3px;">
+                    <div class="profile-bottom">
+                        <div style="display:flex;">
                             <div style="width:25%;margin:0 1px;">
                                 <h1 style="font-size:12px;margin-top:-5px;text-align:center;padding:0 1.5rem;">B/G</h1>
                                 <div class="profile-info">
@@ -1296,10 +1296,10 @@ function getmovie() {
                                 </div>
                             </div>
                             <div style="width:45%;margin:0 1px;">
-                                <h1 style="font-size:12px;margin-top:-5px;text-align:center;padding:0 1rem;">LGA/STATE</h1>
+                            <h1 style="font-size:12px;margin-top:-5px;text-align:center;padding:0 1rem;">STATUS/VALIDITY</h1>
                                 <div style="flex-direction:column;"class="profile-info">
-                                <h1 style="color:black;padding:0 .8rem;margin-top:-5px;">${user.state}</h1>
-                                <h1 style="margin:0px;color:red;font-size:12px;margin-bottom:0px;line-height:.5rem;">- ${user.localgovt} -</h1>
+                                <h1 style="color:black;padding:0 .8rem;margin-top:-5px;">${user.Status}</h1>
+                                <h1 style="margin:0px;color:red;font-size:12px;margin-bottom:0px;line-height:.5rem;">- ${user.validity} -</h1>
                                 </div>
                             </div>
                             <div style="width:25%;margin:0 1px;">
@@ -1309,25 +1309,34 @@ function getmovie() {
                                 </div>
                             </div>
                         </div>
-                    <div style="display:flex;padding-left:0px;margin-top:-10px;"class="profile-bottom">
-                        <div>
-                            <h1 style="font-size:12px;margin:0px;text-align:center;">CONTACT:</h1>
-                            <div class="profile-info">
-                            <a style="text-decoration: none;" href="Tel:${user.inparentno}">
-                            <div style="margin-left: 3px;"class="p1">
-                                    <p2 style="margin-left: 0px;">${user.inparentno}</p2>
-                            </div></a>                   
-                        </div>
-                            
-                        </div>
-                        <div>
-                            <h1 style="font-size:12px;margin:0px;text-align:center;">EMERGENCY CONTACT:</h1>
-                            <div class="profile-info">
-                            <a style="text-decoration: none;" href="Tel:${user.inparentno2}"><div style="margin-left: 3px;"class="p2">
-                                    <p2 style="margin-left: 0px;">${user.inparentno2}</p2>
-                            </div></a>                   
-                        </div>
-                            
+                        
+                        <h1 style="font-size:12px;margin-top:-4px;text-align:center;padding:0 0rem;">LGA/STATE OF ORIGIN</h1>
+                            <div style="flex-direction:column;"class="profile-info"> 
+                                <h1 style="margin-top:-1px;">- ${user.state} -</h1>
+                                <h1 style="margin:-5px;color:red;font-size:12px;">- ${user.localgovt} -</h1>
+                            </div>
+                        
+                        <div style="display:flex;margin:-9px 0px;;justify-content:center;">
+                            <div>
+                                <h1 style="font-size:12px;margin:0px;text-align:center;">CONTACT:</h1>
+                                <div class="profile-info">
+                                    <a style="text-decoration: none;" href="Tel:${user.inparentno}">
+                                        <div style="margin-left: 0px;"class="p1">
+                                            <p2 style="margin-left: 0px;">${user.inparentno}</p2>
+                                        </div>
+                                    </a>                   
+                                </div>
+                            </div>
+                            <div>
+                                <h1 style="font-size:12px;margin:0px;text-align:center;">EMERGENCY CONTACT:</h1>
+                                <div class="profile-info">
+                                    <a style="text-decoration: none;" href="Tel:${user.inparentno2}">
+                                        <div style="margin-left: 0px;"class="p2">
+                                            <p2 style="margin-left: 0px;">${user.inparentno2}</p2>
+                                        </div>
+                                    </a>                   
+                                </div>                           
+                            </div>
                         </div>
                     </div>       
                 </div>
