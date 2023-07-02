@@ -114,8 +114,8 @@
         margin-left: 0;
         margin-bottom: 0rem;
         padding: 0;
+        max-height: 565px;
         overflow-y: auto;
-        max-height: 35.1rem;
     }
     
     .user-list li {
