@@ -27,14 +27,14 @@ body {
     border-radius: 5px;
     overflow: hidden;
     height: 120%;
-    width: 24rem;
+    width: 25.5rem;
+    max-width: 30rem;
     margin-top: 18vh;
     position: relative;
     display: flex;
     flex-direction: column;
     align-items: center;
     padding: 0 1rem;
-    max-width: 1000px;
     margin: auto;
 }
 
@@ -43,7 +43,8 @@ body {
     border-radius: 5px;
     box-shadow: 3px 3px 10px rgba(0, 0, 0, 0.2);
     overflow: hidden;
-    width: 24rem;
+    width: 25.5rem;
+    max-width: 30rem;
     max-height: 86%;
     margin-left: 0rem;
 }
