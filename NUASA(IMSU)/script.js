@@ -1224,7 +1224,7 @@ const searchFILTER = async searchText => {
 const outputHtml = matches => {
     if (matches) {
         const html = matches.map(user => `
-        <a style="text-decoration:none;" onclick="movieselected('${user.id}')"href="#"><li><div class="hove">
+        <a style="text-decoration:none;" onclick="movieselected('${user.id}')"href="#"><li>
         <img style="object-fit:cover;"src="${user.picturepath}">
         <div class="user_info" >
         <h3>${user.inName}</h3> 
@@ -1236,7 +1236,7 @@ const outputHtml = matches => {
         </p2><p3b style="margin-top:3px;margin-left:1.5rem;font-size:12px;font-weight:bold;color:green;">( ${user.validity} )</p3> </div>
         <p3>>>>${user.reg}<<<</p3></a>
         </div>
-        </div></li>`)
+        </li>`)
             .join('');
         result.innerHTML = html;
     }
@@ -1310,7 +1310,7 @@ function getmovie() {
                             </div>
                         </div>
                         
-                        <h1 style="font-size:12px;margin-top:-9px;text-align:center;padding:0 0rem;">LGA/STATE OF ORIGIN</h1>
+                        <h1 style="font-size:12px;margin-top:-4px;text-align:center;padding:0 0rem;">LGA/STATE OF ORIGIN</h1>
                             <div style="flex-direction:column;"class="profile-info"> 
                                 <h1 style="margin-top:-1px;">- ${user.state} -</h1>
                                 <h1 style="margin:-5px;color:red;font-size:12px;">- ${user.localgovt} -</h1>
