@@ -1080,7 +1080,7 @@ const data = [{
         "inparentno2": "08037722720",
         "picturepath": ".\/image\/74.jpg"
     }, {
-        "id": "72",
+        "id": "73",
         "reg": "",
         "inName": "NZEH E> EZEKIEL",
         "inSchool": "N.U.A.S.A.(IMO STATE UNIVERSITY) ",
@@ -1095,7 +1095,7 @@ const data = [{
         "inparentno2": "08037722720",
         "picturepath": ".\/image\/75.jpg"
     }, {
-        "id": "73",
+        "id": "74",
         "reg": "",
         "inName": "OKOROJI C. NGOZI",
         "inSchool": "N.U.A.S.A.(IMO STATE UNIVERSITY) ",
@@ -1110,7 +1110,7 @@ const data = [{
         "inparentno2": "08037722720",
         "picturepath": ".\/image\/76.jpg"
     }, {
-        "id": "74",
+        "id": "75",
         "reg": "",
         "inName": "OLEDIKA G. CHIAMAKA",
         "inSchool": "N.U.A.S.A.(IMO STATE UNIVERSITY) ",
@@ -1125,7 +1125,7 @@ const data = [{
         "inparentno2": "08037722720",
         "picturepath": ".\/image\/77.jpg"
     }, {
-        "id": "75",
+        "id": "76",
         "reg": "",
         "inName": "NWANKWO C. ONAEDO",
         "inSchool": "N.U.A.S.A.(IMO STATE UNIVERSITY) ",
@@ -1140,7 +1140,7 @@ const data = [{
         "inparentno2": "08037722720",
         "picturepath": ".\/image\/78.jpg"
     }, {
-        "id": "76",
+        "id": "77",
         "reg": "",
         "inName": "OFOEGBU P. CHIBUZOR",
         "inSchool": "N.U.A.S.A.(IMO STATE UNIVERSITY) ",
@@ -1155,7 +1155,7 @@ const data = [{
         "inparentno2": "08037722720",
         "picturepath": ".\/image\/79.jpg"
     }, {
-        "id": "77",
+        "id": "78",
         "reg": "",
         "inName": "NWANKWO C. FAVOUR",
         "inSchool": "N.U.A.S.A.(IMO STATE UNIVERSITY) ",
@@ -1170,7 +1170,7 @@ const data = [{
         "inparentno2": "08037722720",
         "picturepath": ".\/image\/80.jpg"
     }, {
-        "id": "78",
+        "id": "79",
         "reg": "",
         "inName": "OKORO O. PRECIOUS",
         "inSchool": "N.U.A.S.A.(IMO STATE UNIVERSITY) ",
@@ -1185,7 +1185,7 @@ const data = [{
         "inparentno2": "08037722720",
         "picturepath": ".\/image\/81.jpg"
     }, {
-        "id": "79",
+        "id": "80",
         "reg": "",
         "inName": "NWOGU OZIOMA FAVOUR",
         "inSchool": "N.U.A.S.A.(IMO STATE UNIVERSITY) ",

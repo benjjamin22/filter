@@ -12,6 +12,7 @@ body {
     overflow: hidden;
     display: flex;
     flex-direction: row;
+    margin: 0%;
 }
 
 .container {
@@ -19,7 +20,7 @@ body {
     overflow: hidden;
     height: 120%;
     width: 26rem;
-    margin-top: 18vh;
+    margin-top: 0px;
     position: relative;
     display: flex;
     flex-direction: column;
@@ -33,7 +34,7 @@ body {
     border-radius: 5px;
     box-shadow: 3px 3px 10px rgba(0, 0, 0, 0.2);
     overflow: hidden;
-    width: 25rem;
+    width: 25.5rem;
     max-width: 30rem;
     max-height: 86%;
 }

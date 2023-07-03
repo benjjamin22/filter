@@ -17,8 +17,7 @@ body {
 
 .user-profile {
     background-color: #dcdcdc;
-    margin-top: 2%;
-    width: 25rem;
+    width: 25.5rem;
     max-width: 30rem;
     border-radius: .5rem;
     overflow: hidden;
@@ -37,9 +36,10 @@ body {
 .profile-top img {
     border-radius: 5%;
     border: 0px solid white;
-    height: 21.5rem;
-    width: 18.5rem;
+    height: 22em;
+    width: 19rem;
     object-fit: cover;
+    margin-top: 0px;
 }
 
 .profile-top .profile-info {
