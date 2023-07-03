@@ -28,7 +28,7 @@ body {
     border-radius: 5px;
     overflow: hidden;
     height: 120%;
-    width: 26rem;
+    width: 25rem;
     margin-top: 18vh;
     position: relative;
     display: flex;
@@ -44,7 +44,7 @@ body {
     border-radius: 5px;
     box-shadow: 3px 3px 10px rgba(0, 0, 0, 0.2);
     overflow: hidden;
-    width: 25rem;
+    width: 23rem;
     max-height: 86%;
     margin-left: 0rem;
 }
