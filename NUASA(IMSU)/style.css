@@ -95,7 +95,7 @@ body {
 }
 
 .header {
-    background-color: rgb(216, 21, 21);
+    background-color: rgb(21, 161, 216);
     color: #fff;
     padding: 10px 0px;
     margin-bottom: 0%;
@@ -259,8 +259,8 @@ body {
     }
 }
 
-@media (max-width:300px) {
-    #result .containerr {
+@media (max-width:500px) {
+    .containerr {
         width: 360px;
     }
 }
