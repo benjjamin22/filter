@@ -37,6 +37,7 @@ body {
     width: 25rem;
     max-width: 30rem;
     max-height: 86%;
+    flex-wrap: wrap;
 }
 
 .images {
