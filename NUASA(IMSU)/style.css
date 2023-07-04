@@ -261,7 +261,7 @@ body {
 }
 
 @media (max-width:300px) {
-    .containerr {
+    #result .containerr {
         width: 23rem;
     }
 }
