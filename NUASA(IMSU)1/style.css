@@ -34,7 +34,7 @@ body {
     border-radius: 5px;
     box-shadow: 3px 3px 10px rgba(0, 0, 0, 0.2);
     overflow: hidden;
-    width: 23rem;
+    width: 360px;
     max-width: 30rem;
     max-height: 86%;
 }

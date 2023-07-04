@@ -95,7 +95,7 @@ body {
 }
 
 .header {
-    background-color: rgb(216, 21, 31);
+    background-color: rgb(177, 21, 216);
     color: #fff;
     padding: 10px 0px;
     margin-bottom: 0%;
@@ -261,6 +261,6 @@ body {
 
 @media (max-width:300px) {
     #result .containerr {
-        width: 23rem;
+        width: 360px;
     }
 }

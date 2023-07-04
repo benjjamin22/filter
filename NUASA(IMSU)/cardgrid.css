@@ -107,7 +107,7 @@ body {
 }
 
 @media (max-width:300px) {
-    #facttext.user-profile {
-        width: 23rem;
+    #facttext .user-profile {
+        width: 360px;
     }
 }
