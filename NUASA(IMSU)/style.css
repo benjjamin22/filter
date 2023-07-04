@@ -259,3 +259,9 @@ body {
         transform: rotateY(360deg);
     }
 }
+
+@media (max-width:500px) {
+    .containerr {
+        width: 23rem;
+    }
+}
