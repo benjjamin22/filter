@@ -259,7 +259,7 @@ body {
     }
 }
 
-@media (max-width:500px) {
+@media (max-width:400px) {
     .containerr {
         width: 360px;
     }
