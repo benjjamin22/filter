@@ -131,11 +131,10 @@ body {
     margin-right: -3%;
     margin-top: -5%;
     margin-left: 0;
-    margin-bottom: auto;
+    margin-bottom: -3%;
     padding: 1px 0px;
     max-height: 590px;
     overflow-y: auto;
-    background-color: aquamarine;
 }
 
 .hov {
