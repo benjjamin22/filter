@@ -37,6 +37,7 @@ body {
     max-width: 100%;
     margin: auto;
     flex-wrap: wrap;
+    padding: 1px;
 }
 
 .containerr {
@@ -44,21 +45,31 @@ body {
     border-radius: 5px;
     box-shadow: 3px 3px 10px rgba(0, 0, 0, 0.2);
     overflow: hidden;
-    width: 100%;
+    width: 98%;
     max-width: 1000px;
     margin: 0px 0px auto;
+    height: 745px;
     max-height: 86%;
     position: relative;
     flex-wrap: wrap;
+    background-color: red;
 }
 
 .images {
     width: 100%;
     display: flex;
     justify-content: center;
-    max-height: 490px;
     overflow-y: auto;
     flex-wrap: wrap;
+    background-color: red;
+    list-style-type: none;
+    margin-right: -3%;
+    margin-top: -5%;
+    margin-left: 0;
+    margin-bottom: -3%;
+    padding: 1px 0px;
+    max-height: 590px;
+    overflow-y: auto;
 }
 
 .images .image-box {
