@@ -12,13 +12,13 @@ body {
     overflow: hidden;
     display: flex;
     flex-direction: row;
-    margin: -3%;
+    margin: 0%;
 }
 
 .container {
     border-radius: 5px;
     overflow: hidden;
-    max-height: 95%;
+    min-height: 120%;
     width: 26rem;
     margin-top: 0px;
     position: relative;
@@ -28,7 +28,6 @@ body {
     max-width: 100%;
     margin: auto;
     flex-wrap: wrap;
-    background-color: aquamarine;
 }
 
 .containerr {
@@ -108,7 +107,6 @@ body {
     color: #fff;
     padding: 10px 1px;
     position: relative;
-    margin-bottom: -20px;
 }
 
 .header input {
@@ -130,7 +128,10 @@ body {
 .user-list {
     background-color: #fff;
     list-style-type: none;
-    margin: 0;
+    margin-right: -3%;
+    margin-top: -5%;
+    margin-left: 0;
+    margin-bottom: -3%;
     padding: 1px 0px;
     max-height: 580px;
     overflow-y: auto;
