@@ -133,13 +133,14 @@ body {
     margin-left: 0;
     margin-bottom: -3%;
     padding: 1px 0px;
-    max-height: 590px;
+    max-height: 580px;
     overflow-y: auto;
 }
 
 .hov {
     display: flex;
     margin-left: 5%;
+    margin-bottom: -.8%;
 }
 
 .user-list li {
