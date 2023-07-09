@@ -54,9 +54,10 @@ body {
     width: 100%;
     display: flex;
     justify-content: center;
-    max-height: 490px;
+    max-height: 100%;
     overflow-y: auto;
     flex-wrap: wrap;
+    height: 600px
 }
 
 .images .image-box {
@@ -105,7 +106,7 @@ body {
 }
 
 .header {
-    background-color: pink;
+    background-color: red;
     color: #fff;
     padding: 10px 10px;
     margin: auto;

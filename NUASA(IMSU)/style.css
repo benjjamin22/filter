@@ -13,12 +13,13 @@ body {
     display: flex;
     flex-direction: row;
     margin: 0%;
+    position: relative;
 }
 
 .container {
     border-radius: 5px;
     overflow: hidden;
-    min-height: 120%;
+    min-height: 100%;
     width: 26rem;
     margin-top: 0px;
     position: relative;
@@ -38,7 +39,7 @@ body {
     width: 100%;
     max-width: 1000px;
     margin: 0px 0px auto;
-    max-height: 86%;
+    max-height: 100%;
     position: relative;
     flex-wrap: wrap;
 }
