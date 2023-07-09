@@ -1232,9 +1232,8 @@ const outputHtml = matches => {
         <div style="display:flex">
         <p2 style="boarder-radius:30px;display:flex;margin-top:3px;font-size:.7rem;">
         <div style="opacity:1.9px;margin-left:2px;text-align:center;height:18px;width:
-        40px;letter-spacing:1px;color:green;">${user.Status}
-        </div></p2>
-        <p3b style="margin-top:3px;margin-left:1.5rem;font-size:12px;font-weight:bold;color:green;">( ${user.validity} )</p3> </div>
+        40px;letter-spacing:1px;color:green;">${user.Status}</div>
+        </p2><p3b style="margin-top:3px;margin-left:1.5rem;font-size:12px;font-weight:bold;color:green;">( ${user.validity} )</p3> </div>
         <p3>>>>${user.reg}<<<</p3></a>
         </div>
         </div></li>`)
@@ -1346,8 +1345,3 @@ function getmovie() {
 
     });
 }
-
-let vh = window.innerHeight * 0.01;
-document.documentElement.style.setProperty('--vh', `${vh}px`);
-let vw = window.innerWidth * 0.01;
-document.documentElement.style.setProperty('--vw', `${vw}px`);
