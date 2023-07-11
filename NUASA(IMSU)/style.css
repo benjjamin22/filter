@@ -18,6 +18,7 @@ body {
 .container {
     border-radius: 5px;
     overflow: hidden;
+    min-height: 120%;
     width: 26rem;
     margin-top: 0px;
     position: relative;
@@ -27,7 +28,6 @@ body {
     max-width: 100%;
     margin: auto;
     flex-wrap: wrap;
-    height: 120vh
 }
 
 .containerr {
@@ -37,7 +37,7 @@ body {
     overflow: hidden;
     width: 100%;
     max-width: 1000px;
-    margin: 0px auto auto auto;
+    margin: 0px 0px auto;
     max-height: 86%;
     position: relative;
     flex-wrap: wrap;
@@ -112,14 +112,13 @@ body {
 .header input {
     background-color: rgba(0, 0, 0, 0.3);
     border: 0;
-    border-radius: 10px;
+    border-radius: 0px;
     color: #fff;
     font-size: 13px;
     width: 90%;
     margin-top: 12%;
     padding: 0px 0px;
     margin-bottom: 2%;
-    height: 40px;
 }
 
 .header input:focus {
@@ -150,7 +149,6 @@ body {
     line-height: 20px;
     position: relative;
     border-bottom: 1px solid rgba(131, 124, 124, 0.3);
-    height: 12vh;
 }
 
 .ben {
