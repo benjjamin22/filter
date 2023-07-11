@@ -5,7 +5,7 @@
 
 body {
     background-color: #f8f9fd;
-    font-family: sans-serif;
+    font-family: 'Roboto Condensed', sans-serif;
     justify-content: center;
     align-items: center;
     height: 100vh;
@@ -28,6 +28,7 @@ body {
     max-width: 100%;
     margin: auto;
     flex-wrap: wrap;
+    height: 100%;
 }
 
 .containerr {
@@ -149,6 +150,7 @@ body {
     line-height: 20px;
     position: relative;
     border-bottom: 1px solid rgba(131, 124, 124, 0.3);
+    height: 12vh;
 }
 
 .ben {
