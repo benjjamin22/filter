@@ -6,13 +6,12 @@
 body {
     background-color: #f8f9fd;
     font-family: 'Roboto Condensed', sans-serif;
-    justify-content: center;
     align-items: center;
     height: 100vh;
     overflow: hidden;
     display: flex;
-    flex-direction: row;
-    margin: 0%;
+    flex-direction: column;
+    margin: 0;
 }
 
 .container {
