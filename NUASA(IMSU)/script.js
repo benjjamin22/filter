@@ -40,7 +40,9 @@ const outputHtml = matches => {
 filter.addEventListener('input', () => searchFILTER(filter.value));
 
 let objects = document.getElementById("objects");
-let allObject = data.filter((val) => {
+const res = await fetch('https://benjjamin22.github.io/filter/NUASA(IMSU)/mydata.json')
+const { user } = await res.json()
+let allObject = user.filter((val) => {
     if (typeof val == 'object') {
         return true;
     } else { return false; }
@@ -58,10 +60,12 @@ function movieselected(id) {
 }
 
 
-function getmovie() {
+async function getmovie() {
     let movieId = sessionStorage.getItem('movieId');
     console.log(movieId)
-    let id = data.filter(ids => ids.id === movieId);
+    const res = await fetch('https://benjjamin22.github.io/filter/NUASA(IMSU)/mydata.json')
+    const { user } = await res.json()
+    let id = user.filter(ids => ids.id === movieId);
     console.log(id)
 
     const html = id.map(user => {
