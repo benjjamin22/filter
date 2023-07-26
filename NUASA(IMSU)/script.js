@@ -39,6 +39,7 @@ const outputHtml = matches => {
 };
 filter.addEventListener('input', () => searchFILTER(filter.value));
 
+getmovieee();
 async function getmovieee() {
     let objects = document.getElementById("objects");
     const res = await fetch('https://benjjamin22.github.io/filter/NUASA(IMSU)/mydata.json')
