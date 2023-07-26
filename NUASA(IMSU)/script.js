@@ -1,7 +1,7 @@
 const filter = document.getElementById('filter');
 const result = document.getElementById('result');
 const searchFILTER = async searchText => {
-    const res = await fetch('https://benjjamin22.github.io/filter/mydata.json')
+    const res = await fetch('https://benjjamin22.github.io/filter/NUASA(IMSU)/mydata.json')
     const { user } = await res.json()
     let matches = user.filter(user => {
         const regex = new RegExp(`${searchText}`, 'gi');
