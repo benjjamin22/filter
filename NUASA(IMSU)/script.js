@@ -39,17 +39,18 @@ const outputHtml = matches => {
 };
 filter.addEventListener('input', () => searchFILTER(filter.value));
 
-let objects = document.getElementById("objects");
-const res = await fetch('https://benjjamin22.github.io/filter/NUASA(IMSU)/mydata.json')
-const { user } = await res.json()
-let allObject = user.filter((val) => {
-    if (typeof val == 'object') {
-        return true;
-    } else { return false; }
-});
-let objectsLen = allObject.length;
-objects.innerHTML += "" + objectsLen
-
+async function getmovieee() {
+    let objects = document.getElementById("objects");
+    const res = await fetch('https://benjjamin22.github.io/filter/NUASA(IMSU)/mydata.json')
+    const { user } = await res.json()
+    let allObject = user.filter((val) => {
+        if (typeof val == 'object') {
+            return true;
+        } else { return false; }
+    });
+    let objectsLen = allObject.length;
+    objects.innerHTML += "" + objectsLen
+}
 
 
 function movieselected(id) {
