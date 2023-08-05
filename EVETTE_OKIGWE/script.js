@@ -272,7 +272,7 @@ const data = [{
     },
     {
         "id": "017",
-        "Name": "NKWAZUMA U. QUEEN",
+        "Name": "NKWAEZEMA U. QUEEN",
         "reg": "M23/050",
         "School": "EVETTE INST. CAT., HOTEL MGT & FASH DESN.",
         "Status": "STUDENT",
@@ -336,7 +336,7 @@ const data = [{
     },
     {
         "id": "021",
-        "Name": "ODIWE OBIATU",
+        "Name": "OCHIJE OBIAKU ESTHER",
         "reg": "M23/055",
         "School": "EVETTE INST. CAT., HOTEL MGT & FASH DESN.",
         "Status": "STUDENT",
@@ -352,7 +352,7 @@ const data = [{
     },
     {
         "id": "022",
-        "Name": "UBOJI EMMANUELLA CHIDALU",
+        "Name": "UBAJI EMMANUELLA CHIDALU",
         "reg": "M23/077",
         "School": "EVETTE INST. CAT., HOTEL MGT & FASH DESN.",
         "Status": "STUDENT",
@@ -368,8 +368,8 @@ const data = [{
     },
     {
         "id": "023",
-        "Name": "OGOKO SUCCESS",
-        "reg": "M23/057",
+        "Name": "OGOKE SUCCESS",
+        "reg": "M23/059",
         "School": "EVETTE INST. CAT., HOTEL MGT & FASH DESN.",
         "Status": "STUDENT",
         "bloodgroup": "-",
@@ -464,7 +464,7 @@ const data = [{
     },
     {
         "id": "029",
-        "Name": "ONYECHELEM JULIET",
+        "Name": "ONYECHERELEM JULIET",
         "reg": "M23/067",
         "School": "EVETTE INST. CAT., HOTEL MGT & FASH DESN.",
         "Status": "STUDENT",
@@ -528,7 +528,7 @@ const data = [{
     },
     {
         "id": "033",
-        "Name": "OBIJURU DANA MMESOMA ",
+        "Name": "OBIJURU DIANA MMESOMA ",
         "reg": "M23/054",
         "School": "EVETTE INST. CAT., HOTEL MGT & FASH DESN.",
         "Status": "STUDENT",
@@ -784,7 +784,7 @@ const data = [{
     },
     {
         "id": "049",
-        "Name": "EMENITE KINDNESS ODINAKACHUKWU",
+        "Name": "EMERIBE KINDNESS ODINAKACHUKWU",
         "reg": "M23/032",
         "School": "EVETTE INST. CAT., HOTEL MGT & FASH DESN.",
         "Status": "STUDENT",
@@ -849,7 +849,7 @@ const data = [{
     {
         "id": "053",
         "Name": "AKUBUEZE CYNTHIA CHIKALU",
-        "reg": "M23/085",
+        "reg": "M23/005",
         "School": "EVETTE INST. CAT., HOTEL MGT & FASH DESN.",
         "Status": "STUDENT",
         "bloodgroup": "-",
@@ -928,7 +928,7 @@ const data = [{
     },
     {
         "id": "058",
-        "Name": "ANYAEGBUSITU PRECIOUS",
+        "Name": "ANYAEGBUSIM PRECIOUS",
         "reg": "M23/015",
         "School": "EVETTE INST. CAT., HOTEL MGT & FASH DESN.",
         "Status": "STUDENT",
@@ -1168,7 +1168,7 @@ const data = [{
     },
     {
         "id": "073",
-        "Name": "IGWE CHINAGOROM IGWE",
+        "Name": "IGWE CHINAGOROM",
         "reg": "M23/039",
         "School": "EVETTE INST. CAT., HOTEL MGT & FASH DESN.",
         "Status": "STUDENT",
@@ -1430,7 +1430,7 @@ const searchFILTER = async searchText => {
 
     let matches = data.filter(user => {
         const regex = new RegExp(`${searchText}`, 'gi');
-        return user.id.match(regex) || user.Name.match(regex) || user.School.match(regex);
+        return user.reg.match(regex) || user.Name.match(regex) || user.School.match(regex);
     });
 
     if (searchText.length === 0) {

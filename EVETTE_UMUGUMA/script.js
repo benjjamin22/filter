@@ -176,8 +176,8 @@ const data = [{
     },
     {
         "id": "012",
-        "Name": "NNEJI MARVELLOUS CHINAZA",
-        "reg": "M23/078",
+        "Name": "NNAJI MARVELLOUS CHINAZA",
+        "reg": "M23/074",
         "School": "EVETTE INST. CAT., HOTEL MGT & FASH DESN.",
         "Status": "STUDENT",
         "bloodgroup": "-",
@@ -224,7 +224,7 @@ const data = [{
     },
     {
         "id": "015",
-        "Name": "ONYIACHUKWU CHIOMA",
+        "Name": "ONYIAOKWU CHIOMA ROSEMARY",
         "reg": "M23/138",
         "School": "EVETTE INST. CAT., HOTEL MGT & FASH DESN.",
         "Status": "STUDENT",
@@ -865,7 +865,7 @@ const data = [{
     {
         "id": "056",
         "Name": "IGBOZURUIKE FAVOUR ONYINYECHI",
-        "reg": "M23/057",
+        "reg": "M23/058",
         "School": "EVETTE INST. CAT., HOTEL MGT & FASH DESN.",
         "Status": "STUDENT",
         "bloodgroup": "-",
@@ -896,8 +896,8 @@ const data = [{
     },
     {
         "id": "058",
-        "Name": "CHUKWUEZI DORIS OBIANUJU",
-        "reg": "M23/131",
+        "Name": "CHUKWUKA DORIS OBIANUJU",
+        "reg": "M23/031",
         "School": "EVETTE INST. CAT., HOTEL MGT & FASH DESN.",
         "Status": "STUDENT",
         "bloodgroup": "-",
@@ -1009,7 +1009,7 @@ const data = [{
     {
         "id": "065",
         "Name": "ORJI GLORY EBERECHI",
-        "reg": "M23/138",
+        "reg": "M23/139",
         "School": "EVETTE INST. CAT., HOTEL MGT & FASH DESN.",
         "Status": "STUDENT",
         "bloodgroup": "-",
@@ -1281,7 +1281,7 @@ const data = [{
     {
         "id": "082",
         "Name": "DIKE VIVIAN UJUNWA",
-        "reg": "M23/025",
+        "reg": "M23/035",
         "School": "EVETTE INST. CAT., HOTEL MGT & FASH DESN.",
         "Status": "STUDENT",
         "bloodgroup": "-",
@@ -1457,7 +1457,7 @@ const data = [{
     {
         "id": "093",
         "Name": "OBIEZUGBO GOODNESS",
-        "reg": "M23/005",
+        "reg": "M23/095",
         "School": "EVETTE INST. CAT., HOTEL MGT & FASH DESN.",
         "Status": "STUDENT",
         "bloodgroup": "-",
@@ -1617,7 +1617,7 @@ const data = [{
     {
         "id": "103",
         "Name": "OBIOHA FAVOUR",
-        "reg": "M23/098",
+        "reg": "M23/097",
         "School": "EVETTE INST. CAT., HOTEL MGT & FASH DESN.",
         "Status": "STUDENT",
         "bloodgroup": "-",
@@ -1665,7 +1665,7 @@ const data = [{
     {
         "id": "106",
         "Name": "OBI VICTORY MMESOMA",
-        "reg": "M23/074",
+        "reg": "M23/094",
         "School": "EVETTE INST. CAT., HOTEL MGT & FASH DESN.",
         "Status": "STUDENT",
         "bloodgroup": "-",
@@ -1777,7 +1777,7 @@ const data = [{
     {
         "id": "113",
         "Name": "UKOHA RITA OGECHUKWU",
-        "reg": "M23/159",
+        "reg": "M23/158",
         "School": "EVETTE INST. CAT., HOTEL MGT & FASH DESN.",
         "Status": "STUDENT",
         "bloodgroup": "-",
@@ -2082,7 +2082,7 @@ const data = [{
     {
         "id": "134",
         "Name": "IGNATIUS FAVOUR CHIDERA",
-        "reg": "",
+        "reg": "J23/054",
         "School": "EVETTE INST. CAT., HOTEL MGT & FASH DESN.",
         "Status": "STUDENT",
         "bloodgroup": "-",
@@ -2130,7 +2130,7 @@ const data = [{
     {
         "id": "137",
         "Name": "AMAL SHEHU ISAH",
-        "reg": "",
+        "reg": "M23/149",
         "School": "EVETTE INST. CAT., HOTEL MGT & FASH DESN.",
         "Status": "STUDENT",
         "bloodgroup": "-",
@@ -2258,7 +2258,7 @@ const data = [{
     {
         "id": "145",
         "Name": "OSUJI SUCCESS CHINAZA",
-        "reg": "M23/142",
+        "reg": "M23/144",
         "School": "EVETTE INST. CAT., HOTEL MGT & FASH DESN.",
         "Status": "STUDENT",
         "bloodgroup": "-",
@@ -2279,7 +2279,7 @@ const searchFILTER = async searchText => {
 
     let matches = data.filter(user => {
         const regex = new RegExp(`${searchText}`, 'gi');
-        return user.id.match(regex) || user.Name.match(regex) || user.School.match(regex);
+        return user.reg.match(regex) || user.Name.match(regex) || user.School.match(regex);
     });
 
     if (searchText.length === 0) {
