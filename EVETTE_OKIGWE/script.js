@@ -1505,7 +1505,7 @@ function getmovie() {
                 <div class="profile-bottom">
                     <div style="flex-direction:column;margin:-11px 0px;" class="profile-info"> 
                         <h1>- EVETTE INST. OF CATERINE -</h1>
-                            <h1 style="margin-top:-3px;color:red;font-size:12px;">- ACCOUNTANCY DEPARTMENT -</h1>
+                            <h1 style="margin-top:-3px;color:red;font-size:12px;">- HOTEL MGT & FASHION DESIGN  -</h1>
                         </div>
                     </div>
                     <div class="profile-bottom">
