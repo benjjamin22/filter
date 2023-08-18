@@ -1,7 +1,7 @@
 const filter = document.getElementById('filter');
 const result = document.getElementById('result');
 const searchFILTER = async searchText => {
-    const res = await fetch('https://benjjamin22.github.io/filter/NUASA(IMSU)/mydata.json')
+    const res = await fetch('http://benjjamin22.github.io/filter/NUASA(IMSU)/mydata.json')
     const { user } = await res.json()
     let matches = user.filter(user => {
         const regex = new RegExp(`${searchText}`, 'gi');
@@ -42,7 +42,7 @@ filter.addEventListener('input', () => searchFILTER(filter.value));
 getmovieee();
 async function getmovieee() {
     let objects = document.getElementById("objects");
-    const res = await fetch('https://benjjamin22.github.io/filter/NUASA(IMSU)/mydata.json')
+    const res = await fetch('http://benjjamin22.github.io/filter/NUASA(IMSU)/mydata.json')
     const { user } = await res.json()
     let allObject = user.filter((val) => {
         if (typeof val == 'object') {
@@ -65,7 +65,7 @@ function movieselected(id) {
 async function getmovie() {
     let movieId = sessionStorage.getItem('movieId');
     console.log(movieId)
-    const res = await fetch('https://benjjamin22.github.io/filter/NUASA(IMSU)/mydata.json')
+    const res = await fetch('http://benjjamin22.github.io/filter/NUASA(IMSU)/mydata.json')
     const { user } = await res.json()
     let id = user.filter(ids => ids.id === movieId);
     console.log(id)
