@@ -151,7 +151,7 @@ pre {
     content: '';
     position: absolute;
     height: 100px;
-    bottom: -70px;
+    bottom: 30px;
     right: 0;
     left: 0;
 }
@@ -160,7 +160,7 @@ pre {
 /* Stats */
 
 .stats .grid {
-    margin-top: 25px;
+    margin-top: 40px;
     padding-top: 0px;
     animation: slideInFromBottom 1s ease-in;
     overflow: hidden;
