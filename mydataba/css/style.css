@@ -111,7 +111,11 @@ pre {
 
 .showcase-text {
     animation: slideInFromLeft 1s ease-in;
-    margin-top: -15vh;
+    margin-top: -50vh;
+}
+
+.showcase36 .showcase-form {
+    height: auto;
 }
 
 .showcase-form {
@@ -121,6 +125,7 @@ pre {
     width: 400px;
     padding: 5px;
     justify-self: flex-end;
+    z-index: 100;
     animation: slideInFromRight 1s ease-in;
 }
 
