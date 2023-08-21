@@ -37,7 +37,7 @@ h2 {
 }
 
 p {
-    margin: 10px 0;
+    margin: 20px 0;
 }
 
 img {
@@ -87,14 +87,15 @@ pre {
 /* Showcase */
 
 .showcase {
-    height: 400px;
+    height: 300px;
     background-color: var(--primary-color);
     color: #fff;
     position: relative;
 }
 
 .showcase h1 {
-    font-size: 45px;
+    font-size: 40px;
+    margin-bottom: 25px;
 }
 
 .showcase p {
@@ -110,6 +111,7 @@ pre {
 
 .showcase-text {
     animation: slideInFromLeft 1s ease-in;
+    margin-top: -15vh;
 }
 
 .showcase-form {
@@ -154,10 +156,12 @@ pre {
 /* Stats */
 
 .stats .grid {
-    margin-top: 30px;
+    margin-top: 25px;
     padding-top: 0px;
     animation: slideInFromBottom 1s ease-in;
     overflow: hidden;
+    margin-bottom: 0px;
+    height: 100%;
 }
 
 .stats-heading {
