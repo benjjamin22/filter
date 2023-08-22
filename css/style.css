@@ -1,6 +1,6 @@
 @import url('https://fonts.googleapis.com/css2?family=Lato:wght@300&display=swap');
 :root {
-    --primary-color: #047aed;
+    --primary-color: hsl(210, 97%, 47%);
     --secondary-color: #1c3fa8;
     --dark-color: #002240;
     --light-color: #f4f4f4;
@@ -63,6 +63,7 @@ pre {
     background-color: var(--primary-color);
     color: #fff;
     height: 70px;
+    overflow: hidden;
 }
 
 .navbar ul {
