@@ -281,6 +281,7 @@ pre {
 /* Footer */
 
 .footer .social a {
+    display: inline-flexbox;
     margin: 0 10px;
 }
 
