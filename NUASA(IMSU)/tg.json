@@ -1,7 +1,1 @@
- {
-     "user": [{
-         "id": "1",
-         "username": "ben10",
-         "inName": "benjamin88"
-     }]
- }
+{ "id": "1", "username": "ben", "password": "benjamin" }
