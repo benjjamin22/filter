@@ -33,6 +33,13 @@ class Login {
                             localStorage.setItem('user', JSON.stringify(data));
                             localStorage.setItem("auth", 1);
                             this.form.submit();
+                        } else {
+                            this.setStatus(
+                                field,
+                                `${field.previousElementSibling.innerText} incorrect username or password`,
+                                "error"
+                            );
+                            return false;
                         }
                     })
                     .catch((data) => {
