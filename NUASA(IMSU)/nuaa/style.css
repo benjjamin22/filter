@@ -4,13 +4,15 @@
 }
 
 body {
-    height: 100vh;
-    display: flex;
-    flex-direction: column;
+    background-color: #f8f9fd;
+    font-family: sans-serif;
+    justify-content: center;
     align-items: center;
-    font-family: 'Roboto Condensed', sans-serif;
-    margin: 0;
-    background-color: #dcdcdc;
+    height: 100vh;
+    overflow: hidden;
+    display: flex;
+    flex-direction: row;
+    margin: 0%;
 }
 
 .container {
@@ -19,13 +21,13 @@ body {
     min-height: 120%;
     width: 26rem;
     margin-top: 0px;
+    position: relative;
     display: flex;
     flex-direction: column;
     align-items: center;
     max-width: 100%;
     margin: auto;
     flex-wrap: wrap;
-    position: relative;
 }
 
 .containerr {
