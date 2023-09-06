@@ -38,16 +38,20 @@ const outputHtml = matches => {
     }
 };
 filter.addEventListener('input', () => searchFILTER(filter.value));
-let objects = document.getElementById("objects");
-const res = await fetch('https://mydatabase.com.ng/NUASA(IMSU)/mydata.json')
-const { umugunma } = await res.json()
-let allObject = umugunma.filter((val) => {
-    if (typeof val == 'object') {
-        return true;
-    } else { return false; }
-});
-let objectsLen = allObject.length;
-objects.innerHTML += "" + objectsLen
+
+getmovieee();
+async function getmovieee() {
+    let objects = document.getElementById("objects");
+    const res = await fetch('https://mydatabase.com.ng/NUASA(IMSU)/mydata.json')
+    const { umugunma } = await res.json()
+    let allObject = umugunma.filter((val) => {
+        if (typeof val == 'object') {
+            return true;
+        } else { return false; }
+    });
+    let objectsLen = allObject.length;
+    objects.innerHTML += "" + objectsLen
+}
 
 
 
