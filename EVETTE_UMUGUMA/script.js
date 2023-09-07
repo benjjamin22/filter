@@ -1,9 +1,9 @@
 const filter = document.getElementById('filter');
 const result = document.getElementById('result');
 const searchFILTER = async searchText => {
-    const res = await fetch('https://mydatabase.com.ng/NUASA(IMSU)/mydata.json')
-    const { umugunma } = await res.json()
-    let matches = umugunma.filter(user => {
+    const res = await fetch('https://mydatabase.com.ng/utilitie/mydatabase/evetumugunma.json')
+    const { data } = await res.json()
+    let matches = data.filter(user => {
         const regex = new RegExp(`${searchText}`, 'gi');
         return user.id.match(regex) || user.Name.match(regex) || user.School.match(regex);
     });
@@ -42,9 +42,9 @@ filter.addEventListener('input', () => searchFILTER(filter.value));
 getmovieee();
 async function getmovieee() {
     let objects = document.getElementById("objects");
-    const res = await fetch('https://mydatabase.com.ng/NUASA(IMSU)/mydata.json')
-    const { umugunma } = await res.json()
-    let allObject = umugunma.filter((val) => {
+    const res = await fetch('https://mydatabase.com.ng/utilitie/mydatabase/evetumugunma.json')
+    const { data } = await res.json()
+    let allObject = data.filter((val) => {
         if (typeof val == 'object') {
             return true;
         } else { return false; }
@@ -66,9 +66,9 @@ function movieselected(id) {
 async function getmovie() {
     let movieId = sessionStorage.getItem('movieId');
     console.log(movieId)
-    const res = await fetch('https://mydatabase.com.ng/NUASA(IMSU)/mydata.json')
-    const { umugunma } = await res.json()
-    let id = umugunma.filter(ids => ids.id === movieId);
+    const res = await fetch('https://mydatabase.com.ng/utilitie/mydatabase/evetumugunma.json')
+    const { data } = await res.json()
+    let id = data.filter(ids => ids.id === movieId);
     console.log(id)
 
     const html = id.map(user => {
