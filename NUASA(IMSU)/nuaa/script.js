@@ -1,6 +1,6 @@
 const filter = document.getElementById('filter');
 const result = document.getElementById('result');
-url = ''
+url = 'mydatabase.com.ng/css/data.json'
 const searchFILTER = async searchText => {
     const res = await fetch(url)
     const { nuasa } = await res.json()
