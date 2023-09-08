@@ -1,7 +1,7 @@
 const filter = document.getElementById('filter');
 const result = document.getElementById('result');
 const searchFILTER = async searchText => {
-    const res = await fetch('https://mydatabase.com.ng/utilitie/mydatabase/evetumugunma.json')
+    const res = await fetch('https://mydatabase.com.ng/utilitie/evetumugunma/evetumugunma.json')
     const { data } = await res.json()
     let matches = data.filter(user => {
         const regex = new RegExp(`${searchText}`, 'gi');
@@ -42,7 +42,7 @@ filter.addEventListener('input', () => searchFILTER(filter.value));
 getmovieee();
 async function getmovieee() {
     let objects = document.getElementById("objects");
-    const res = await fetch('https://mydatabase.com.ng/utilitie/mydatabase/evetumugunma.json')
+    const res = await fetch('https://mydatabase.com.ng/utilitie/evetumugunma/evetumugunma.json')
     const { data } = await res.json()
     let allObject = data.filter((val) => {
         if (typeof val == 'object') {
@@ -66,7 +66,7 @@ function movieselected(id) {
 async function getmovie() {
     let movieId = sessionStorage.getItem('movieId');
     console.log(movieId)
-    const res = await fetch('https://mydatabase.com.ng/utilitie/mydatabase/evetumugunma.json')
+    const res = await fetch('https://mydatabase.com.ng/utilitie/evetumugunma/evetumugunma.json')
     const { data } = await res.json()
     let id = data.filter(ids => ids.id === movieId);
     console.log(id)
