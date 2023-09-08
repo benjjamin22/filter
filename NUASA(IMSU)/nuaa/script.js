@@ -1,7 +1,8 @@
 const filter = document.getElementById('filter');
 const result = document.getElementById('result');
+url = 'https://mydatabase.com.ng/utilitie/nuasa/nuasa.json'
 const searchFILTER = async searchText => {
-    const res = await fetch('https://mydatabase.com.ng/utilitie/nuasa/nuasa.json')
+    const res = await fetch(url)
     const { data } = await res.json()
     let matches = data.filter(user => {
         const regex = new RegExp(`${searchText}`, 'gi');
