@@ -5,7 +5,7 @@ const searchFILTER = async searchText => {
     const { data } = await res.json()
     let matches = data.filter(user => {
         const regex = new RegExp(`${searchText}`, 'gi');
-        return user.id.match(regex) || user.Name.match(regex) || user.School.match(regex);
+        return user.reg.match(regex) || user.Name.match(regex) || user.School.match(regex);
     });
 
     if (searchText.length === 0) {
