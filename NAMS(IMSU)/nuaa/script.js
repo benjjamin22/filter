@@ -22,7 +22,7 @@ const outputHtml = matches => {
     if (matches) {
         const html = matches.map(user => `
         <a style="text-decoration:none;" onclick="movieselected('${user.id}')"href="#"><li><div class="hov">
-        <img style="object-fit:cover;"src="${user.picturepath}">
+        <img style="object-fit:cover;"src="${user.Picturepath}">
         <div class="user_info" >
         <h3>${user.Name}  ${user.Mname}  ${user.Surname}</h3> 
         <p  style="color:black;">${user.School}</p> 
