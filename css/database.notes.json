@@ -18,7 +18,7 @@
             "State": "-",
             "Phoneno1": "-",
             "Phoneno2": "-",
-            "Picturepath": "https://mydatabase.com.ng/css/nams/1.jpg",
+            "Picturepath": "https://mydatabase.com.ng/css/nams/90.jpg",
             "id": "b40eeeff-da9d-4ac6-87a1-2553dba30fb4",
             "__v": 0
         },
@@ -547,7 +547,7 @@
             "State": "IMO ",
             "Phoneno1": "-",
             "Phoneno2": "-",
-            "Picturepath": "https://mydatabase.com.ng/css/nams/24.jpg",
+            "Picturepath": "https://mydatabase.com.ng/css/nams/14.jpg",
             "id": "affd4cb9-cc23-4aa4-9f79-267bd02528c7",
             "__v": 0
         },
@@ -570,7 +570,7 @@
             "State": "IMO ",
             "Phoneno1": "08084980728",
             "Phoneno2": "-",
-            "Picturepath": "https://mydatabase.com.ng/css/nams/25.jpg",
+            "Picturepath": "https://mydatabase.com.ng/css/nams/12.jpg",
             "id": "ea684873-8a85-4809-a3ee-829c3fd7a18f",
             "__v": 0
         },
@@ -593,7 +593,7 @@
             "State": "IMO",
             "Phoneno1": "-",
             "Phoneno2": "-",
-            "Picturepath": "https://mydatabase.com.ng/css/nams/26.jpg",
+            "Picturepath": "https://mydatabase.com.ng/css/nams/13.jpg",
             "id": "085d778a-17c2-4e03-9cc7-4e57f1976231",
             "__v": 0
         },
@@ -616,7 +616,7 @@
             "State": "IMO",
             "Phoneno1": "09049478585",
             "Phoneno2": "-",
-            "Picturepath": "https://mydatabase.com.ng/css/nams/27.jpg",
+            "Picturepath": "https://mydatabase.com.ng/css/nams/11.jpg",
             "id": "7e3e979e-72c6-400a-8521-bade2507a272",
             "__v": 0
         },
@@ -639,7 +639,7 @@
             "State": "IMO ",
             "Phoneno1": "09030107617",
             "Phoneno2": "-",
-            "Picturepath": "https://mydatabase.com.ng/css/nams/28.jpg",
+            "Picturepath": "https://mydatabase.com.ng/css/nams/10.jpg",
             "id": "5f01af17-0ba2-4a58-87d3-7000bcfbe9a3",
             "__v": 0
         },
@@ -662,7 +662,7 @@
             "State": "IMO",
             "Phoneno1": "08161199818",
             "Phoneno2": "-",
-            "Picturepath": "https://mydatabase.com.ng/css/nams/29.jpg",
+            "Picturepath": "https://mydatabase.com.ng/css/nams/9.jpg",
             "id": "51ce7ad6-125a-425e-8fad-a2ce70af7b01",
             "__v": 0
         },
@@ -685,7 +685,7 @@
             "State": "ANAMBR",
             "Phoneno1": "08086876738",
             "Phoneno2": "-",
-            "Picturepath": "https://mydatabase.com.ng/css/nams/30.jpg",
+            "Picturepath": "https://mydatabase.com.ng/css/nams/8.jpg",
             "id": "72102f68-ab87-423a-8da3-06e08b05af69",
             "__v": 0
         },
@@ -708,7 +708,7 @@
             "State": "IMO ",
             "Phoneno1": "09048978762",
             "Phoneno2": "-",
-            "Picturepath": "https://mydatabase.com.ng/css/nams/1.jpg",
+            "Picturepath": "https://mydatabase.com.ng/css/nams/7.jpg",
             "id": "b115a624-4273-45fd-be74-2911953e9f07",
             "__v": 0
         },
@@ -731,7 +731,7 @@
             "State": "IMO",
             "Phoneno1": "07013176848",
             "Phoneno2": "-",
-            "Picturepath": "https://mydatabase.com.ng/css/nams/1.jpg",
+            "Picturepath": "https://mydatabase.com.ng/css/nams/6.jpg",
             "id": "1b3e5749-e75d-4188-862c-a706e1938567",
             "__v": 0
         },
@@ -754,7 +754,7 @@
             "State": "IMO ",
             "Phoneno1": "09063157598",
             "Phoneno2": "-",
-            "Picturepath": "https://mydatabase.com.ng/css/nams/1.jpg",
+            "Picturepath": "https://mydatabase.com.ng/css/nams/4.jpg",
             "id": "993327d1-13af-456b-b0ec-a5e23d4c63a2",
             "__v": 0
         },
@@ -828,27 +828,7 @@
             "__v": 0
         },
         {
-            "_id": {
-                "$oid": "6568e4a835fe214fe6549a29"
-            },
-            "Name": "NKEIRUKA",
-            "Mname": "GENEVIVE",
-            "Surname": "IHESIABA",
-            "School": "IMO STATE UNIVERSITY",
-            "Dept": "MICROBIOLOGY",
-            "RegNo": "21/0693",
-            "Status": "MEMBER",
-            "bloodgroup": "O+",
-            "YearofAdmin": "2021",
-            "Validity": "2021-2025",
-            "Sex": "FEMALE",
-            "LocalGovernment": "ABOH MBAISE",
-            "State": "IMO ",
-            "Phoneno1": "-",
-            "Phoneno2": "-",
-            "Picturepath": "https://mydatabase.com.ng/css/nams/1.jpg",
-            "id": "c3ac1560-1994-4e53-88ed-33c30f6d53fb",
-            "__v": 0
+            "id": "c3ac1560-1994-4e53-88ed-33c30f6d53fb"
         },
         {
             "_id": {
@@ -3744,7 +3724,7 @@
             "State": "-",
             "Phoneno1": "-",
             "Phoneno2": "-",
-            "Picturepath": "https://mydatabase.com.ng/css/nams/1.jpg",
+            "Picturepath": "https://mydatabase.com.ng/css/nams/168.jpg",
             "id": "228c0128-80b4-4df1-b777-cd6c684d4c92",
             "__v": 0
         },

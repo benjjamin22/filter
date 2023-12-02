@@ -79,7 +79,7 @@ async function getmovie() {
                     <img src="${user.Picturepath}">
                     <div class="profile-info">
                         <h2 style="color:white;text-align:center;margin-bottom:0px;line-height:2rem;">${user.Name}  ${user.Mname}  ${user.Surname}</h2>  
-                        <h1 style="margin-top:3px;margin-bottom:0px;line-height:1rem;">>>>${user.RegNo}
+                        <h1 style="margin-top:3px;margin-bottom:0px;line-height:1rem;">>>>${user.id}
                         <<<</h1>
                     </div>
                 
