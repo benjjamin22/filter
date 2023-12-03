@@ -6,7 +6,7 @@ const searchFILTER = async searchText => {
     const { nuasa } = await res.json()
     let matches = nuasa.filter(user => {
         const regex = new RegExp(`${searchText}`, 'gi');
-        return user.Name.match(regex) || user.Mname.match(regex) || user.Surname.match(regex) || user.RegNo.match(regex) || user.Phoneno1.match(regex);
+        return user.Name.match(regex) || user.Mname.match(regex) || user.Surname.match(regex);
     });
 
     if (searchText.length === 0) {
@@ -79,7 +79,7 @@ async function getmovie() {
                     <img src="${user.Picturepath}">
                     <div class="profile-info">
                         <h2 style="color:white;text-align:center;margin-bottom:0px;line-height:2rem;">${user.Name}  ${user.Mname}  ${user.Surname}</h2>  
-                        <h1 style="margin-top:3px;margin-bottom:0px;line-height:1rem;">>>>${user.id}
+                        <h1 style="margin-top:3px;margin-bottom:0px;line-height:1rem;">>>>${user.RegNo}
                         <<<</h1>
                     </div>
                 
