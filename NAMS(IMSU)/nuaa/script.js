@@ -25,7 +25,7 @@ const outputHtml = matches => {
         <img style="object-fit:cover;"src="${user.Picturepath}">
         <div class="user_info" >
         <h3>${user.Name}  ${user.Mname}  ${user.Surname}</h3> 
-        <p  style="color:black;">${user.School}</p> 
+        <p  style="color:black;">NAMS ${user.School}</p> 
         <div style="display:flex">
         <p2 style="boarder-radius:30px;display:flex;margin-top:3px;font-size:.7rem;">
         <div style="opacity:1.9px;margin-left:2px;text-align:center;height:18px;width:
@@ -87,7 +87,7 @@ async function getmovie() {
                 <div class="profile-bottom">
                     <div style="flex-direction:column;margin:-11px 0px;" class="profile-info"> 
                         <h1>- IMO STATE UNIVERSITY -</h1>
-                            <h1 style="margin-top:-3px;color:red;font-size:12px;">- ACCOUNTANCY DEPARTMENT -</h1>
+                            <h1 style="margin-top:-3px;color:red;font-size:12px;">- MICROBIOLOGY STUDENTS ASSOCIATION -</h1>
                         </div>
                     </div>
                     <div class="profile-bottom">
