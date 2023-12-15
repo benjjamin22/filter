@@ -3,9 +3,8 @@
             "_id": {
                 "$oid": "6568a48201f1df01a5987efa"
             },
-            "Name": "OLUEBUBE",
-            "Mname": "MIRACLE",
-            "Surname": "OGBONNAYA",
+
+            "Name": "OLUEBUBE MIRACLE OGBONNAYA",
             "School": "IMO STATE UNIVERSITY",
             "Dept": "MICROBIOLOGY",
             "RegNo": "21/0765",
@@ -26,9 +25,7 @@
             "_id": {
                 "$oid": "6568a48201f1df01a5987efa"
             },
-            "Name": "CHIDALU",
-            "Mname": "CHRISTIANA",
-            "Surname": "ALAGBAOSO",
+            "Name": "CHIDALU CHRISTIANA ALAGBAOSO",
             "School": "IMO STATE UNIVERSITY",
             "Dept": "MICROBIOLOGY",
             "RegNo": "21/0624",
@@ -49,9 +46,7 @@
             "_id": {
                 "$oid": "6568a48201f1df01a5987efa"
             },
-            "Name": "JOHN",
-            "Mname": "FAVOUR",
-            "Surname": "KEFREE",
+            "Name": "JOHN FAVOUR KEFREE",
             "School": "IMO STATE UNIVERSITY",
             "Dept": "MICROBIOLOGY",
             "RegNo": "-",
@@ -72,9 +67,7 @@
             "_id": {
                 "$oid": "6568a48201f1df01a5987efa"
             },
-            "Name": "FAVOUR",
-            "Mname": "CHIBUIKE",
-            "Surname": "ONYEAGORO",
+            "Name": "FAVOUR CHIBUIKE ONYEAGORO",
             "School": "IMO STATE UNIVERSITY",
             "Dept": "MICROBIOLOGY",
             "RegNo": "22/1250",
@@ -95,9 +88,7 @@
             "_id": {
                 "$oid": "6568a48201f1df01a5987efa"
             },
-            "Name": "CYNTHIA",
-            "Mname": "CHINONYEREM",
-            "Surname": "OKORO",
+            "Name": "CYNTHIA CHINONYEREM OKORO",
             "School": "IMO STATE UNIVERSITY",
             "Dept": "MICROBIOLOGY",
             "RegNo": "21/0781",
@@ -118,9 +109,7 @@
             "_id": {
                 "$oid": "6568a48201f1df01a5987efa"
             },
-            "Name": "JENNIFER",
-            "Mname": "O",
-            "Surname": "IROKA",
+            "Name": "JENNIFER O. ROKA",
             "School": "IMO STATE UNIVERSITY",
             "Dept": "MICROBIOLOGY",
             "RegNo": "21/0703",
@@ -141,9 +130,7 @@
             "_id": {
                 "$oid": "6568a3dc01f1df01a5987ef8"
             },
-            "Name": "ADAKU",
-            "Mname": "FAVOUR",
-            "Surname": "MADUMERE",
+            "Name": "ADAKU FAVOUR MADUMERE",
             "School": "IMO STATE UNIVERSITY",
             "Dept": "MICROBIOLOGY",
             "RegNo": "22/1292",
@@ -164,9 +151,7 @@
             "_id": {
                 "$oid": "6568b1b7508b4c19d18e16d5"
             },
-            "Name": "MMESOMA",
-            "Mname": "SUCCESS",
-            "Surname": "EZIKEUDI",
+            "Name": "MMESOMA SUCCESS EZIKEUDI",
             "School": "IMO STATE UNIVERSITY",
             "Dept": "MICROBIOLOGY",
             "RegNo": "111150711JU",
@@ -187,9 +172,7 @@
             "_id": {
                 "$oid": "6568b12d508b4c19d18e16d3"
             },
-            "Name": "UDOCHUKWU",
-            "Mname": "NICHOLAS",
-            "Surname": "AJOKUBI",
+            "Name": "UDOCHUKWU NICHOLAS AJOKUBI",
             "School": "IMO STATE UNIVERSITY",
             "Dept": "MICROBIOLOGY",
             "RegNo": "21/0618",
@@ -210,9 +193,7 @@
             "_id": {
                 "$oid": "6568b21a508b4c19d18e16d7"
             },
-            "Name": "JESSICA",
-            "Mname": "CHINANU",
-            "Surname": "EMEROLE",
+            "Name": "JESSICA CHINANU EMEROLE",
             "School": "IMO STATE UNIVERSITY",
             "Dept": "MICROBIOLOGY",
             "RegNo": "-",
@@ -233,9 +214,7 @@
             "_id": {
                 "$oid": "6568b29f508b4c19d18e16d9"
             },
-            "Name": "LILIAN",
-            "Mname": "ANULIKA",
-            "Surname": "IWUJI",
+            "Name": "LILIAN ANULIKA IWUJI",
             "School": "IMO STATE UNIVERSITY",
             "Dept": "MICROBIOLOGY",
             "RegNo": "21/4332",
@@ -256,9 +235,7 @@
             "_id": {
                 "$oid": "6568b300508b4c19d18e16db"
             },
-            "Name": "JOAN",
-            "Mname": "ULOMA",
-            "Surname": "ARIRIELE",
+            "Name": "JOAN ULOMA ARIRIELE",
             "School": "IMO STATE UNIVERSITY",
             "Dept": "MICROBIOLOGY",
             "RegNo": "21/0644",
@@ -279,9 +256,7 @@
             "_id": {
                 "$oid": "6568b374508b4c19d18e16dd"
             },
-            "Name": "AMARACHI",
-            "Mname": "FAVOUR",
-            "Surname": "DIEGWU-IFEANYI",
+            "Name": "AMARACHI FAVOUR DIEGWU-IFEANYI",
             "School": "IMO STATE UNIVERSITY",
             "Dept": "MICROBIOLOGY",
             "RegNo": "21/0653",
@@ -302,9 +277,7 @@
             "_id": {
                 "$oid": "6568b3e3508b4c19d18e16df"
             },
-            "Name": "THERESA",
-            "Mname": "C",
-            "Surname": "AKALONU",
+            "Name": "THERESA C. AKALONU",
             "School": "IMO STATE UNIVERSITY",
             "Dept": "MICROBIOLOGY",
             "RegNo": "22/1106",
@@ -325,9 +298,7 @@
             "_id": {
                 "$oid": "6568b44c508b4c19d18e16e1"
             },
-            "Name": "CHINAZA",
-            "Mname": "FAITH",
-            "Surname": "DURU",
+            "Name": "CHINAZA FAITH DURU",
             "School": "IMO STATE UNIVERSITY",
             "Dept": "MICROBIOLOGY",
             "RegNo": "202211131412CA",
@@ -348,9 +319,7 @@
             "_id": {
                 "$oid": "6568b4b1508b4c19d18e16e3"
             },
-            "Name": "KELECHI",
-            "Mname": "PROMISE",
-            "Surname": "FRANCIS",
+            "Name": "KELECHI PROMISE FRANCIS",
             "School": "IMO STATE UNIVERSITY",
             "Dept": "MICROBIOLOGY",
             "RegNo": "21/0678",
@@ -371,9 +340,7 @@
             "_id": {
                 "$oid": "6568b53f508b4c19d18e16e5"
             },
-            "Name": "ESTHER",
-            "Mname": "NMESOMA",
-            "Surname": "ONWUZURUIKE",
+            "Name": "ESTHER NMESOMA ONWUZURUIKE",
             "School": "IMO STATE UNIVERSITY",
             "Dept": "MICROBIOLOGY",
             "RegNo": "202211433130DAN",
@@ -394,9 +361,7 @@
             "_id": {
                 "$oid": "6568b5e2508b4c19d18e16e7"
             },
-            "Name": "FAVOUR",
-            "Mname": "CHINONYEREM",
-            "Surname": "ANAYO",
+            "Name": "FAVOUR CHINONYEREM ANAYO",
             "School": "IMO STATE UNIVERSITY",
             "Dept": "MICROBIOLOGY",
             "RegNo": "1045359IAG",
@@ -417,9 +382,7 @@
             "_id": {
                 "$oid": "6568b648508b4c19d18e16e9"
             },
-            "Name": "WISDOM",
-            "Mname": "DAVID",
-            "Surname": "MGBOJI",
+            "Name": "WISDOM DAVID MGBOJI",
             "School": "IMO STATE UNIVERSITY",
             "Dept": "MICROBIOLOGY",
             "RegNo": "21/0720",
@@ -440,9 +403,7 @@
             "_id": {
                 "$oid": "6568b6b5508b4c19d18e16eb"
             },
-            "Name": "CHINONYE",
-            "Mname": "PRECIOUS",
-            "Surname": "CHINEMEREM",
+            "Name": "CHINONYE PRECIOUS CHINEMEREM",
             "School": "IMO STATE UNIVERSITY",
             "Dept": "MICROBIOLOGY",
             "RegNo": "202211661200GA",
@@ -463,9 +424,7 @@
             "_id": {
                 "$oid": "6568b8f74798c628972b1078"
             },
-            "Name": "EBUKA",
-            "Mname": "EMMANUEL",
-            "Surname": "ANYANWU",
+            "Name": "EBUKA EMMANUEL ANYANWU",
             "School": "IMO STATE UNIVERSITY",
             "Dept": "MICROBIOLOGY",
             "RegNo": "21/0641",
@@ -486,9 +445,7 @@
             "_id": {
                 "$oid": "6568b84f4798c628972b1076"
             },
-            "Name": "KASARACHI",
-            "Mname": "CHRISANTUS",
-            "Surname": "IWUJI",
+            "Name": "KASARACHI CHRISANTUS IWUJI",
             "School": "IMO STATE UNIVERSITY",
             "Dept": "MICROBIOLOGY",
             "RegNo": "22/1186",
@@ -509,9 +466,7 @@
             "_id": {
                 "$oid": "6568bfb7a11d0e84ca8e844f"
             },
-            "Name": "MARYANN",
-            "Mname": "CHINECHEREM",
-            "Surname": "NDUKWU",
+            "Name": "MARYANN CHINECHEREM NDUKWU",
             "School": "IMO STATE UNIVERSITY",
             "Dept": "MICROBIOLOGY",
             "RegNo": "-",
@@ -532,9 +487,7 @@
             "_id": {
                 "$oid": "6568bf43a11d0e84ca8e844d"
             },
-            "Name": "ULOMA",
-            "Mname": "PETROLINA",
-            "Surname": "EMEH",
+            "Name": "ULOMA PETROLINA EMEH",
             "School": "IMO STATE UNIVERSITY",
             "Dept": "MICROBIOLOGY",
             "RegNo": "22/1161",
@@ -555,9 +508,7 @@
             "_id": {
                 "$oid": "6568c02aa11d0e84ca8e8451"
             },
-            "Name": "MMESOMA",
-            "Mname": "JOSEPHINE",
-            "Surname": "EMMANUEL",
+            "Name": "MMESOMA JOSEPHINE EMMANUEL",
             "School": "IMO STATE UNIVERSITY",
             "Dept": "MICROBIOLOGY",
             "RegNo": "202210357832JA",
@@ -578,9 +529,7 @@
             "_id": {
                 "$oid": "6568c09aa11d0e84ca8e8453"
             },
-            "Name": "PASCAL",
-            "Mname": "CHIGIOKE",
-            "Surname": "NJENOBI",
+            "Name": "PASCAL CHIGIOKE NJENOBI",
             "School": "IMO STATE UNIVERSITY",
             "Dept": "MICROBIOLOGY",
             "RegNo": "22/1202",
@@ -601,9 +550,7 @@
             "_id": {
                 "$oid": "6568ce5398529c9699bbf790"
             },
-            "Name": "CHINACHEREM",
-            "Mname": "NAOMI",
-            "Surname": "IROEMEH",
+            "Name": "CHINACHEREM NAOMI IROEMEH",
             "School": "IMO STATE UNIVERSITY",
             "Dept": "MICROBIOLOGY",
             "RegNo": "21/0702",
@@ -624,9 +571,7 @@
             "_id": {
                 "$oid": "6568cdf398529c9699bbf78e"
             },
-            "Name": "AKUNN",
-            "Mname": "GOODNESS",
-            "Surname": "ONYEDIKACHI",
+            "Name": "AKUNN GOODNESS ONYEDIKACHI",
             "School": "IMO STATE UNIVERSITY",
             "Dept": "MICROBIOLOGY",
             "RegNo": "202211755874H4",
@@ -647,9 +592,7 @@
             "_id": {
                 "$oid": "6568cebe98529c9699bbf792"
             },
-            "Name": "CHIDERA",
-            "Mname": "FRANKLINDONALD",
-            "Surname": "AMEGWULA",
+            "Name": "CHIDERA FRANKLINDONALD AMEGWULA",
             "School": "IMO STATE UNIVERSITY",
             "Dept": "MICROBIOLOGY",
             "RegNo": "-",
@@ -670,9 +613,7 @@
             "_id": {
                 "$oid": "6568d1a36b684c72902de23d"
             },
-            "Name": "CHURCHILL",
-            "Mname": "CHIJIOKE",
-            "Surname": "OSUJI",
+            "Name": "CHURCHILL CHIJIOKE OSUJI",
             "School": "IMO STATE UNIVERSITY",
             "Dept": "MICROBIOLOGY",
             "RegNo": "22/1256",
@@ -693,9 +634,7 @@
             "_id": {
                 "$oid": "6568d0dc6b684c72902de23b"
             },
-            "Name": "CHUKWURA",
-            "Mname": "TREASURE",
-            "Surname": "EBELE",
+            "Name": "CHUKWURA TREASURE EBELE",
             "School": "IMO STATE UNIVERSITY",
             "Dept": "MICROBIOLOGY",
             "RegNo": "20/1147",
@@ -716,9 +655,7 @@
             "_id": {
                 "$oid": "6568d2726b684c72902de23f"
             },
-            "Name": "CHIOMA",
-            "Mname": "MARYJANE",
-            "Surname": "ACHILEFU",
+            "Name": "CHIOMA MARYJANE ACHILEFU",
             "School": "IMO STATE UNIVERSITY",
             "Dept": "MICROBIOLOGY",
             "RegNo": "22/1093",
@@ -739,9 +676,7 @@
             "_id": {
                 "$oid": "6568d2c46b684c72902de241"
             },
-            "Name": "OLUCHI",
-            "Mname": "PROGRESS",
-            "Surname": "AMAM",
+            "Name": "OLUCHI PROGRESS AMAM",
             "School": "IMO STATE UNIVERSITY",
             "Dept": "MICROBIOLOGY",
             "RegNo": "21/0631",
@@ -762,9 +697,7 @@
             "_id": {
                 "$oid": "6568d33d6b684c72902de243"
             },
-            "Name": "CHIDERA",
-            "Mname": "FRANK",
-            "Surname": "ABANIWU",
+            "Name": "CHIDERA FRANK ABANIWU",
             "School": "IMO STATE UNIVERSITY",
             "Dept": "MICROBIOLOGY",
             "RegNo": "202211025533HF",
@@ -785,9 +718,7 @@
             "_id": {
                 "$oid": "6568d3bb6b684c72902de245"
             },
-            "Name": "SUSAN",
-            "Mname": "CHIGOZIE",
-            "Surname": "CHUKWUMA",
+            "Name": "SUSAN CHIGOZIE CHUKWUMA",
             "School": "IMO STATE UNIVERSITY",
             "Dept": "MICROBIOLOGY",
             "RegNo": "22/1287",
@@ -808,9 +739,7 @@
             "_id": {
                 "$oid": "6568d4256b684c72902de247"
             },
-            "Name": "FAVOUR",
-            "Mname": "CHINONSO",
-            "Surname": "NWAFOR",
+            "Name": "FAVOUR CHINONSO NWAFOR",
             "School": "IMO STATE UNIVERSITY",
             "Dept": "MICROBIOLOGY",
             "RegNo": "23/1212",
@@ -831,9 +760,7 @@
             "_id": {
                 "$oid": "6568d48e6b684c72902de249"
             },
-            "Name": "CHUKWUNENYE",
-            "Mname": "VICTOR",
-            "Surname": "MBADIEGWU",
+            "Name": "CHUKWUNENYE VICTOR MBADIEGWU",
             "School": "IMO STATE UNIVERSITY",
             "Dept": "MICROBIOLOGY",
             "RegNo": "22/1472",
@@ -854,9 +781,7 @@
             "_id": {
                 "$oid": "6568e1db6451973f5ba49b9f"
             },
-            "Name": "JESSICA",
-            "Mname": "EZICHIMDALU",
-            "Surname": "AZOTAMA",
+            "Name": "JESSICA EZICHIMDALU AZOTAMA",
             "School": "IMO STATE UNIVERSITY",
             "Dept": "MICROBIOLOGY",
             "RegNo": "22/1125",
@@ -877,9 +802,7 @@
             "_id": {
                 "$oid": "6568e2456451973f5ba49ba1"
             },
-            "Name": "FAVOUR",
-            "Mname": "CHINAEMEREM",
-            "Surname": "FRANCIS",
+            "Name": "FAVOUR CHINAEMEREM FRANCIS",
             "School": "IMO STATE UNIVERSITY",
             "Dept": "MICROBIOLOGY",
             "RegNo": "22/1171",
@@ -900,9 +823,7 @@
             "_id": {
                 "$oid": "6568e2a06451973f5ba49ba3"
             },
-            "Name": "CHIAMAKA",
-            "Mname": "WINNIE",
-            "Surname": "ELEKWACHI",
+            "Name": "CHIAMAKA WINNIE ELEKWACHI",
             "School": "IMO STATE UNIVERSITY",
             "Dept": "MICROBIOLOGY",
             "RegNo": "22/1159",
@@ -923,9 +844,7 @@
             "_id": {
                 "$oid": "6568e50635fe214fe6549a2b"
             },
-            "Name": "GOSPEL",
-            "Mname": "CHIGOZIE",
-            "Surname": "ONYEALILACHUKWU",
+            "Name": "GOSPEL CHIGOZIE ONYEALILACHUKWU",
             "School": "IMO STATE UNIVERSITY",
             "Dept": "MICROBIOLOGY",
             "RegNo": "21/0792",
@@ -946,9 +865,7 @@
             "_id": {
                 "$oid": "6568e4a835fe214fe6549a29"
             },
-            "Name": "NKEIRUKA",
-            "Mname": "GENEVIVE",
-            "Surname": "IHESIABA",
+            "Name": "NKEIRUKA GENEVIVE IHESIABA",
             "School": "IMO STATE UNIVERSITY",
             "Dept": "MICROBIOLOGY",
             "RegNo": "21/0693",
@@ -969,9 +886,7 @@
             "_id": {
                 "$oid": "6568e56135fe214fe6549a2d"
             },
-            "Name": "CHIDIMMA",
-            "Mname": "PEACE",
-            "Surname": "EJIUGWUEGBU",
+            "Name": "CHIDIMMA PEACE EJIUGWUEGBU",
             "School": "IMO STATE UNIVERSITY",
             "Dept": "MICROBIOLOGY",
             "RegNo": "22/1155",
@@ -992,9 +907,7 @@
             "_id": {
                 "$oid": "656910c8f6173d05dc9434ff"
             },
-            "Name": "CHIZARA",
-            "Mname": "CONFIDENCE",
-            "Surname": "MBIAKA",
+            "Name": "CHIZARA CONFIDENCE MBIAKA",
             "School": "IMO STATE UNIVERSITY",
             "Dept": "MICROBIOLOGY",
             "RegNo": "-",
@@ -1015,9 +928,7 @@
             "_id": {
                 "$oid": "656911a3f6173d05dc943501"
             },
-            "Name": "VICTOR",
-            "Mname": "CHUKWUKA",
-            "Surname": "IBEH",
+            "Name": "VICTOR CHUKWUKA IBEH",
             "School": "IMO STATE UNIVERSITY",
             "Dept": "MICROBIOLOGY",
             "RegNo": "-",
@@ -1038,9 +949,7 @@
             "_id": {
                 "$oid": "656969bd618ceb60424c8a68"
             },
-            "Name": "JENNIFER",
-            "Mname": "SOMTOCHUKWU",
-            "Surname": "ONYEUKWU",
+            "Name": "JENNIFER SOMTOCHUKWU ONYEUKWU",
             "School": "IMO STATE UNIVERSITY",
             "Dept": "MICROBIOLOGY",
             "RegNo": "21/0800",
@@ -1061,9 +970,7 @@
             "_id": {
                 "$oid": "65696964618ceb60424c8a65"
             },
-            "Name": "JENNIFER",
-            "Mname": "RUFINA",
-            "Surname": "CYREY",
+            "Name": "JENNIFER RUFINA CYREY",
             "School": "IMO STATE UNIVERSITY",
             "Dept": "MICROBIOLOGY",
             "RegNo": "21/0681",
@@ -1084,9 +991,7 @@
             "_id": {
                 "$oid": "65696a17618ceb60424c8a6a"
             },
-            "Name": "CHIOMA",
-            "Mname": "PRECIOUS",
-            "Surname": "OKAFOR",
+            "Name": "CHIOMA PRECIOUS OKAFOR",
             "School": "IMO STATE UNIVERSITY",
             "Dept": "MICROBIOLOGY",
             "RegNo": "21/0775",
@@ -1107,9 +1012,7 @@
             "_id": {
                 "$oid": "65696a77618ceb60424c8a6c"
             },
-            "Name": "IMMACULATE",
-            "Mname": "CHINENYE",
-            "Surname": "OLUEHI",
+            "Name": "IMMACULATE CHINENYE OLUEHI",
             "School": "IMO STATE UNIVERSITY",
             "Dept": "MICROBIOLOGY",
             "RegNo": "20229001884IF",
@@ -1130,9 +1033,7 @@
             "_id": {
                 "$oid": "65696ad1618ceb60424c8a6e"
             },
-            "Name": "ONYEBUCHI",
-            "Mname": "DAVID",
-            "Surname": "MADU",
+            "Name": "ONYEBUCHI DAVID MADU",
             "School": "IMO STATE UNIVERSITY",
             "Dept": "MICROBIOLOGY",
             "RegNo": "-",
@@ -1153,9 +1054,7 @@
             "_id": {
                 "$oid": "65696b2c618ceb60424c8a70"
             },
-            "Name": "AMARACHI",
-            "Mname": "FAVOUR",
-            "Surname": "AHANEKU",
+            "Name": "AMARACHI FAVOUR AHANEKU",
             "School": "IMO STATE UNIVERSITY",
             "Dept": "MICROBIOLOGY",
             "RegNo": "21/0616",
@@ -1176,9 +1075,7 @@
             "_id": {
                 "$oid": "65696b99618ceb60424c8a72"
             },
-            "Name": "SAMSON",
-            "Mname": "CHIHOZIE",
-            "Surname": "ACHONYE",
+            "Name": "SAMSON CHIHOZIE ACHONYE",
             "School": "IMO STATE UNIVERSITY",
             "Dept": "MICROBIOLOGY",
             "RegNo": "202290038219JF",
@@ -1199,9 +1096,7 @@
             "_id": {
                 "$oid": "65696bfa618ceb60424c8a74"
             },
-            "Name": "BLESSING",
-            "Mname": "EKENEDILICHUKWU",
-            "Surname": "JUDE",
+            "Name": "BLESSING EKENEDILICHUKWU JUDE",
             "School": "IMO STATE UNIVERSITY",
             "Dept": "MICROBIOLOGY",
             "RegNo": "21/0709",
@@ -1222,9 +1117,7 @@
             "_id": {
                 "$oid": "65696c5a618ceb60424c8a76"
             },
-            "Name": "FAITHFUL",
-            "Mname": "CHIANUGO",
-            "Surname": "IWU",
+            "Name": "FAITHFUL CHIANUGO IWU",
             "School": "IMO STATE UNIVERSITY",
             "Dept": "MICROBIOLOGY",
             "RegNo": "21/0705",
@@ -1245,9 +1138,7 @@
             "_id": {
                 "$oid": "65696d13618ceb60424c8a78"
             },
-            "Name": "CHUKWUMA",
-            "Mname": "CHARLES",
-            "Surname": "OGOR",
+            "Name": "CHUKWUMA CHARLES OGOR",
             "School": "IMO STATE UNIVERSITY",
             "Dept": "MICROBIOLOGY",
             "RegNo": "-",
@@ -1268,9 +1159,7 @@
             "_id": {
                 "$oid": "65696dbb618ceb60424c8a7a"
             },
-            "Name": "CHIDERA",
-            "Mname": "HAPPINESS",
-            "Surname": "AMADI",
+            "Name": "CHIDERA HAPPINESS AMADI",
             "School": "IMO STATE UNIVERSITY",
             "Dept": "MICROBIOLOGY",
             "RegNo": "22/1284",
@@ -1291,9 +1180,7 @@
             "_id": {
                 "$oid": "65696e1c618ceb60424c8a7c"
             },
-            "Name": "CHIOMA",
-            "Mname": "FREEGRACE",
-            "Surname": "OKOROGU",
+            "Name": "CHIOMA FREEGRACE OKOROGU",
             "School": "IMO STATE UNIVERSITY",
             "Dept": "MICROBIOLOGY",
             "RegNo": "21/0786",
@@ -1314,9 +1201,7 @@
             "_id": {
                 "$oid": "65696e89618ceb60424c8a7e"
             },
-            "Name": "CHIKAODI",
-            "Mname": "FRANCISCA",
-            "Surname": "UCHECHUKWU",
+            "Name": "CHIKAODI FRANCISCA UCHECHUKWU",
             "School": "IMO STATE UNIVERSITY",
             "Dept": "MICROBIOLOGY",
             "RegNo": "21/0817",
@@ -1337,9 +1222,7 @@
             "_id": {
                 "$oid": "65696f28618ceb60424c8a80"
             },
-            "Name": "ESTHER",
-            "Mname": "CHIAMAKA",
-            "Surname": "OLEBUNNE",
+            "Name": "ESTHER CHIAMAKA OLEBUNNE",
             "School": "IMO STATE UNIVERSITY",
             "Dept": "MICROBIOLOGY",
             "RegNo": "22/1240",
@@ -1360,9 +1243,7 @@
             "_id": {
                 "$oid": "65696fb8618ceb60424c8a82"
             },
-            "Name": "UCHENNA",
-            "Mname": "VICTOR",
-            "Surname": "OKEREAFOR",
+            "Name": "UCHENNA VICTOR OKEREAFOR",
             "School": "IMO STATE UNIVERSITY",
             "Dept": "MICROBIOLOGY",
             "RegNo": "21/0779",
@@ -1383,9 +1264,7 @@
             "_id": {
                 "$oid": "65697020618ceb60424c8a84"
             },
-            "Name": "CHIJINDU",
-            "Mname": "BETHEL",
-            "Surname": "CLETUS",
+            "Name": "CHIJINDU BETHEL CLETUS",
             "School": "IMO STATE UNIVERSITY",
             "Dept": "MICROBIOLOGY",
             "RegNo": "20/DE/7117",
@@ -1406,9 +1285,7 @@
             "_id": {
                 "$oid": "656970f7618ceb60424c8a86"
             },
-            "Name": "DANIELLA",
-            "Mname": "SOBECHI",
-            "Surname": "DARA",
+            "Name": "DANIELLA SOBECHI DARA",
             "School": "IMO STATE UNIVERSITY",
             "Dept": "MICROBIOLOGY",
             "RegNo": "22/1143",
@@ -1429,9 +1306,7 @@
             "_id": {
                 "$oid": "6569717d618ceb60424c8a88"
             },
-            "Name": "CHIAMAKA",
-            "Mname": "VICTORIA",
-            "Surname": "UGWOERU",
+            "Name": "CHIAMAKA VICTORIA UGWOERU",
             "School": "IMO STATE UNIVERSITY",
             "Dept": "MICROBIOLOGY",
             "RegNo": "21/0821",
@@ -1452,9 +1327,7 @@
             "_id": {
                 "$oid": "656971e0618ceb60424c8a8a"
             },
-            "Name": "MARYJANE",
-            "Mname": "UGOCHI",
-            "Surname": "MMEREM",
+            "Name": "MARYJANE UGOCHI MMEREM",
             "School": "IMO STATE UNIVERSITY",
             "Dept": "MICROBIOLOGY",
             "RegNo": "-",
@@ -1475,9 +1348,7 @@
             "_id": {
                 "$oid": "6569726a618ceb60424c8a8c"
             },
-            "Name": "MUNACHI",
-            "Mname": "FAVOUR",
-            "Surname": "NWAZIRI",
+            "Name": "MUNACHI AVOUR NWAZIRI",
             "School": "IMO STATE UNIVERSITY",
             "Dept": "MICROBIOLOGY",
             "RegNo": "21/0748",
@@ -1498,9 +1369,7 @@
             "_id": {
                 "$oid": "656974d13118c8b8aeda3cbe"
             },
-            "Name": "TOCHI",
-            "Mname": "SUCCESS",
-            "Surname": "UKAH",
+            "Name": "TOCHI SUCCESS UKAH",
             "School": "IMO STATE UNIVERSITY",
             "Dept": "MICROBIOLOGY",
             "RegNo": "22/1247",
@@ -1521,9 +1390,7 @@
             "_id": {
                 "$oid": "656974893118c8b8aeda3cbb"
             },
-            "Name": "GLORY",
-            "Mname": "CHIOMA",
-            "Surname": "OPARAH",
+            "Name": "GLORY CHIOMA OPARAH",
             "School": "IMO STATE UNIVERSITY",
             "Dept": "MICROBIOLOGY",
             "RegNo": "22/DE/1301",
@@ -1544,9 +1411,7 @@
             "_id": {
                 "$oid": "656975493118c8b8aeda3cc0"
             },
-            "Name": "CHINYERE",
-            "Mname": "MARGARET",
-            "Surname": "NWOKORIE",
+            "Name": "CHINYERE MARGARET NWOKORIE",
             "School": "IMO STATE UNIVERSITY",
             "Dept": "MICROBIOLOGY",
             "RegNo": "21/0750",
@@ -1567,9 +1432,7 @@
             "_id": {
                 "$oid": "656975913118c8b8aeda3cc2"
             },
-            "Name": "CHIBUIKE",
-            "Mname": "DANIEL",
-            "Surname": "EKWUEME",
+            "Name": "CHIBUIKE DANIEL EKWUEME",
             "School": "IMO STATE UNIVERSITY",
             "Dept": "MICROBIOLOGY",
             "RegNo": "-",
@@ -1590,9 +1453,7 @@
             "_id": {
                 "$oid": "656976383118c8b8aeda3cc4"
             },
-            "Name": "ADAUGO",
-            "Mname": "AUGUSTA",
-            "Surname": "CHIMEZIE",
+            "Name": "ADAUGO AUGUSTA CHIMEZIE",
             "School": "IMO STATE UNIVERSITY",
             "Dept": "MICROBIOLOGY",
             "RegNo": "202210471054IF",
@@ -1613,9 +1474,7 @@
             "_id": {
                 "$oid": "656977714598827010901a77"
             },
-            "Name": "PROSPER",
-            "Mname": "MUNACHIMSO",
-            "Surname": "OPARA",
+            "Name": "PROSPER MUNACHIMSO OPARA",
             "School": "IMO STATE UNIVERSITY",
             "Dept": "MICROBIOLOGY",
             "RegNo": "-",
@@ -1636,9 +1495,7 @@
             "_id": {
                 "$oid": "656977234598827010901a74"
             },
-            "Name": "EZINNE",
-            "Mname": "BLESSING",
-            "Surname": "ALAEGBU",
+            "Name": "EZINNE BLESSING ALAEGBU",
             "School": "IMO STATE UNIVERSITY",
             "Dept": "MICROBIOLOGY",
             "RegNo": "22/1107",
@@ -1659,9 +1516,7 @@
             "_id": {
                 "$oid": "656977ca4598827010901a79"
             },
-            "Name": "PRAISE",
-            "Mname": "UGOCHUKWU",
-            "Surname": "DOMINIC",
+            "Name": "PRAISE UGOCHUKWU DOMINIC",
             "School": "IMO STATE UNIVERSITY",
             "Dept": "MICROBIOLOGY",
             "RegNo": "21/0657",
@@ -1682,9 +1537,7 @@
             "_id": {
                 "$oid": "656978184598827010901a7b"
             },
-            "Name": "ADAUGO",
-            "Mname": "SALVATION",
-            "Surname": "AHARA",
+            "Name": "ADAUGO SALVATION AHARA",
             "School": "IMO STATE UNIVERSITY",
             "Dept": "MICROBIOLOGY",
             "RegNo": "-",
@@ -1705,9 +1558,7 @@
             "_id": {
                 "$oid": "65697b983e529a59a1e860de"
             },
-            "Name": "KELECHI",
-            "Mname": "THERESA",
-            "Surname": "UKACHI",
+            "Name": "KELECHI THERESA UKACHI",
             "School": "IMO STATE UNIVERSITY",
             "Dept": "MICROBIOLOGY",
             "RegNo": "22/5436",
@@ -1728,9 +1579,7 @@
             "_id": {
                 "$oid": "65697b3b3e529a59a1e860db"
             },
-            "Name": "JENNIFER",
-            "Mname": "SOROFECHI",
-            "Surname": "AMADI",
+            "Name": "JENNIFER SOROFECHI AMADI",
             "School": "IMO STATE UNIVERSITY",
             "Dept": "MICROBIOLOGY",
             "RegNo": "-",
@@ -1751,7 +1600,7 @@
             "_id": {
                 "$oid": "65697bec3e529a59a1e860e0"
             },
-            "Name": "CHIBUGO",
+            "Name": "CHIBUGO FAVOUR NDUKWE",
             "Mname": "FAVOUR",
             "Surname": "NDUKWE",
             "School": "IMO STATE UNIVERSITY",
@@ -1774,7 +1623,7 @@
             "_id": {
                 "$oid": "65697c5d3e529a59a1e860e2"
             },
-            "Name": "MERCY",
+            "Name": "MERCY CHINEMEREM NWAOGATAKU",
             "Mname": "CHINEMEREM",
             "Surname": "NWAOGATAKU",
             "School": "IMO STATE UNIVERSITY",
@@ -1797,7 +1646,7 @@
             "_id": {
                 "$oid": "65697cac3e529a59a1e860e4"
             },
-            "Name": "FAVOUR",
+            "Name": "FAVOUR OGECHI OPARA",
             "Mname": "OGECHI",
             "Surname": "OPARA",
             "School": "IMO STATE UNIVERSITY",
@@ -1820,7 +1669,7 @@
             "_id": {
                 "$oid": "65697d0f3e529a59a1e860e6"
             },
-            "Name": "GIFT",
+            "Name": "GIFT MMESOMA NWACHUKWU",
             "Mname": "MMESOMA",
             "Surname": "NWACHUKWU",
             "School": "IMO STATE UNIVERSITY",
@@ -1843,7 +1692,7 @@
             "_id": {
                 "$oid": "65697d623e529a59a1e860e8"
             },
-            "Name": "MIRIAN",
+            "Name": "MIRIAN IFEOMA ONYEKWERE",
             "Mname": "IFEOMA",
             "Surname": "ONYEKWERE",
             "School": "IMO STATE UNIVERSITY",
@@ -1866,7 +1715,7 @@
             "_id": {
                 "$oid": "65697db93e529a59a1e860ea"
             },
-            "Name": "CHINAZA",
+            "Name": "CHINAZA ESTHER UGONNA",
             "Mname": "ESTHER",
             "Surname": "UGONNA",
             "School": "IMO STATE UNIVERSITY",
@@ -1889,7 +1738,7 @@
             "_id": {
                 "$oid": "65697e173e529a59a1e860ec"
             },
-            "Name": "BLESSING",
+            "Name": "BLESSING UGOCHI EKWE",
             "Mname": "UGOCHI",
             "Surname": "EKWE",
             "School": "IMO STATE UNIVERSITY",
@@ -1912,7 +1761,7 @@
             "_id": {
                 "$oid": "65697e663e529a59a1e860ee"
             },
-            "Name": "PROSPER",
+            "Name": "PROSPER UDOKAMMA UDOCHUKWU",
             "Mname": "UDOKAMMA",
             "Surname": "UDOCHUKWU",
             "School": "IMO STATE UNIVERSITY",
@@ -1935,7 +1784,7 @@
             "_id": {
                 "$oid": "65697ed83e529a59a1e860f0"
             },
-            "Name": "BELINDA",
+            "Name": "BELINDA AKACHI OBASI",
             "Mname": "AKACHI",
             "Surname": "OBASI",
             "School": "IMO STATE UNIVERSITY",
@@ -1958,7 +1807,7 @@
             "_id": {
                 "$oid": "656981b452f81959d4512e6c"
             },
-            "Name": "AMARACHI",
+            "Name": "AMARACHI WINNER NWAKAMMA  ",
             "Mname": "WINNER",
             "Surname": "NWAKAMMA",
             "School": "IMO STATE UNIVERSITY",
@@ -1981,7 +1830,7 @@
             "_id": {
                 "$oid": "6569814652f81959d4512e69"
             },
-            "Name": "FAVOUR",
+            "Name": "FAVOUR CHIOMA NWACHUKWU",
             "Mname": "CHIOMA",
             "Surname": "NWACHUKWU",
             "School": "IMO STATE UNIVERSITY",
@@ -2004,7 +1853,7 @@
             "_id": {
                 "$oid": "6569825f52f81959d4512e6e"
             },
-            "Name": "EVANS",
+            "Name": "EVANS IKECHUKWU OBI",
             "Mname": "IKECHUKWU",
             "Surname": "OBI",
             "School": "IMO STATE UNIVERSITY",
@@ -2027,7 +1876,7 @@
             "_id": {
                 "$oid": "656982ab52f81959d4512e70"
             },
-            "Name": "CHIOMA",
+            "Name": "CHIOMA VIVIAN ONYEAGHALA",
             "Mname": "VIVIAN",
             "Surname": "ONYEAGHALA",
             "School": "IMO STATE UNIVERSITY",
@@ -2050,7 +1899,7 @@
             "_id": {
                 "$oid": "6569833b52f81959d4512e72"
             },
-            "Name": "MMESOMA",
+            "Name": "MMESOMA JENNIFER OBODOZIE",
             "Mname": "JENNIFER ",
             "Surname": "OBODOZIE",
             "School": "IMO STATE UNIVERSITY",
@@ -2073,7 +1922,7 @@
             "_id": {
                 "$oid": "656983bc52f81959d4512e74"
             },
-            "Name": "DAVID",
+            "Name": "DAVID CHIBUEZE OJINNAKA",
             "Mname": "CHIBUEZE",
             "Surname": "OJINNAKA",
             "School": "IMO STATE UNIVERSITY",
@@ -2096,7 +1945,7 @@
             "_id": {
                 "$oid": "6569841252f81959d4512e76"
             },
-            "Name": "CHINAZA",
+            "Name": "CHINAZA MIRACLE OLISA",
             "Mname": "MIRACLE",
             "Surname": "OLISA",
             "School": "IMO STATE UNIVERSITY",
@@ -2119,7 +1968,7 @@
             "_id": {
                 "$oid": "6569846852f81959d4512e78"
             },
-            "Name": "OGECHI",
+            "Name": "OGECHI GENEVIEVE ONYEAGHALA",
             "Mname": "GENEVIEVE",
             "Surname": "ONYEAGHALA",
             "School": "IMO STATE UNIVERSITY",
@@ -2142,7 +1991,7 @@
             "_id": {
                 "$oid": "656984b352f81959d4512e7a"
             },
-            "Name": "OGECHI",
+            "Name": "OGECHI SYLVIA IBE",
             "Mname": "SYLVIA",
             "Surname": "IBE",
             "School": "IMO STATE UNIVERSITY",
@@ -2165,7 +2014,7 @@
             "_id": {
                 "$oid": "6569851652f81959d4512e7c"
             },
-            "Name": "CHINYERE",
+            "Name": "CHINYERE BLESSING SAMUEL",
             "Mname": "BLESSING",
             "Surname": "SAMUEL",
             "School": "IMO STATE UNIVERSITY",
@@ -2188,7 +2037,7 @@
             "_id": {
                 "$oid": "6569857f52f81959d4512e7e"
             },
-            "Name": "SUCCESS",
+            "Name": "SUCCESS CHIZOROM IKENNA",
             "Mname": "CHIZOROM",
             "Surname": "IKENNA",
             "School": "IMO STATE UNIVERSITY",
@@ -2211,7 +2060,7 @@
             "_id": {
                 "$oid": "65698b48695738a2a1bb724f"
             },
-            "Name": "VICTORY",
+            "Name": "VICTORY CHINAZA OKEKE",
             "Mname": "CHINAZA",
             "Surname": "OKEKE",
             "School": "IMO STATE UNIVERSITY",
@@ -2234,7 +2083,7 @@
             "_id": {
                 "$oid": "65698adb695738a2a1bb724c"
             },
-            "Name": "CHIDINMA",
+            "Name": "CHIDINMA MARVIS SILAS",
             "Mname": "MARVIS",
             "Surname": "SILAS",
             "School": "IMO STATE UNIVERSITY",
@@ -2257,7 +2106,7 @@
             "_id": {
                 "$oid": "65698b9a695738a2a1bb7251"
             },
-            "Name": "DESTINY",
+            "Name": "DESTINY SOMTOCHUKWU CHIBUZO",
             "Mname": "SOMTOCHUKWU",
             "Surname": "CHIBUZO",
             "School": "IMO STATE UNIVERSITY",
@@ -2280,7 +2129,7 @@
             "_id": {
                 "$oid": "65698bf9695738a2a1bb7253"
             },
-            "Name": "MIRACLE",
+            "Name": "MIRACLE CHINAECHEREM ODINAKA",
             "Mname": "CHINAECHEREM",
             "Surname": "ODINAKA",
             "School": "IMO STATE UNIVERSITY",
@@ -2303,7 +2152,7 @@
             "_id": {
                 "$oid": "65698c59695738a2a1bb7255"
             },
-            "Name": "MARYANN",
+            "Name": "MARYANN NGOZICHUKWU UZOMA",
             "Mname": "NGOZICHUKWU",
             "Surname": "UZOMA",
             "School": "IMO STATE UNIVERSITY",
@@ -2326,7 +2175,7 @@
             "_id": {
                 "$oid": "65698e1b69a81ecd98466d83"
             },
-            "Name": "ANTHONY",
+            "Name": "ANTHONY EMEKA OZURUMBA",
             "Mname": "EMEKA",
             "Surname": "OZURUMBA",
             "School": "IMO STATE UNIVERSITY",
@@ -2349,9 +2198,9 @@
             "_id": {
                 "$oid": "65698dbe69a81ecd98466d80"
             },
-            "Name": "ADAUGO",
+            "Name": "ADAUGO JESSICA AHUMIBE",
             "Mname": "JESSICA",
-            "Surname": "AHUMIBE",
+            "Surname": " ",
             "School": "IMO STATE UNIVERSITY",
             "Dept": "MICROBIOLOGY",
             "RegNo": "22/1104",
@@ -2372,7 +2221,7 @@
             "_id": {
                 "$oid": "65698e8269a81ecd98466d85"
             },
-            "Name": "ANITA",
+            "Name": "ANITA IFEYINWA ONWUHA",
             "Mname": "IFEYINWA",
             "Surname": "ONWUHA",
             "School": "IMO STATE UNIVERSITY",
@@ -2395,7 +2244,7 @@
             "_id": {
                 "$oid": "65698edf69a81ecd98466d87"
             },
-            "Name": "PASCHAL",
+            "Name": "PASCHAL CHIKAMSO OGBONNA",
             "Mname": "CHIKAMSO",
             "Surname": "OGBONNA",
             "School": "IMO STATE UNIVERSITY",
@@ -2418,7 +2267,7 @@
             "_id": {
                 "$oid": "65698f4869a81ecd98466d89"
             },
-            "Name": "JESSICA",
+            "Name": "JESSICA ONYINYECHI OKAFOR",
             "Mname": "ONYINYECHI",
             "Surname": "OKAFOR",
             "School": "IMO STATE UNIVERSITY",
@@ -2441,7 +2290,7 @@
             "_id": {
                 "$oid": "65698fb769a81ecd98466d8b"
             },
-            "Name": "CHISOM",
+            "Name": "CHISOM CHRISTIANA ANUNUGWO",
             "Mname": "CHRISTIANA",
             "Surname": "ANUNUGWO",
             "School": "IMO STATE UNIVERSITY",
@@ -2464,7 +2313,7 @@
             "_id": {
                 "$oid": "6569909c69a81ecd98466d8d"
             },
-            "Name": "CONCEPTA",
+            "Name": "CONCEPTA EBUBECHUKWU OBILO",
             "Mname": "EBUBECHUKWU",
             "Surname": "OBILO",
             "School": "IMO STATE UNIVERSITY",
@@ -2487,7 +2336,7 @@
             "_id": {
                 "$oid": "656990fc69a81ecd98466d8f"
             },
-            "Name": "PRECIOUS",
+            "Name": "PRECIOUS NNEAMAKA ONYEKWERE",
             "Mname": "NNEAMAKA",
             "Surname": "ONYEKWERE",
             "School": "IMO STATE UNIVERSITY",
@@ -2510,7 +2359,7 @@
             "_id": {
                 "$oid": "6569916769a81ecd98466d91"
             },
-            "Name": "IHUOMA",
+            "Name": "IHUOMA GODFAVOUR FERDINAND",
             "Mname": "GODFAVOUR",
             "Surname": "FERDINAND",
             "School": "IMO STATE UNIVERSITY",
@@ -2533,7 +2382,7 @@
             "_id": {
                 "$oid": "656991ac69a81ecd98466d93"
             },
-            "Name": "PROGRESS",
+            "Name": "PROGRESS OSINACHI AHAMS",
             "Mname": "OSINACHI",
             "Surname": "AHAMS",
             "School": "IMO STATE UNIVERSITY",
@@ -2556,7 +2405,7 @@
             "_id": {
                 "$oid": "6569927b69a81ecd98466d95"
             },
-            "Name": "CHIAMAKA",
+            "Name": "CHIAMAKA HOPE ONUACHU",
             "Mname": "HOPE",
             "Surname": "ONUACHU",
             "School": "IMO STATE UNIVERSITY",
@@ -2579,7 +2428,7 @@
             "_id": {
                 "$oid": "656992e769a81ecd98466d97"
             },
-            "Name": "CHIAMAKA",
+            "Name": "CHIAMAKA DIVINE OKOLIE",
             "Mname": "DIVINE",
             "Surname": "OKOLIE",
             "School": "IMO STATE UNIVERSITY",
@@ -2602,7 +2451,7 @@
             "_id": {
                 "$oid": "6569933569a81ecd98466d99"
             },
-            "Name": "EMMANUEL",
+            "Name": "EMMANUEL EKENEDIRICHUKWU IHEBEREME",
             "Mname": "EKENEDIRICHUKWU",
             "Surname": "IHEBEREME",
             "School": "IMO STATE UNIVERSITY",
@@ -2625,7 +2474,7 @@
             "_id": {
                 "$oid": "6569938869a81ecd98466d9b"
             },
-            "Name": "CHIOMA",
+            "Name": "CHIOMA ANNASTECIA OSUJI",
             "Mname": "ANNASTECIA",
             "Surname": "OSUJI",
             "School": "IMO STATE UNIVERSITY",
@@ -2648,7 +2497,7 @@
             "_id": {
                 "$oid": "656993e669a81ecd98466d9d"
             },
-            "Name": "PRECIOUS",
+            "Name": "PRECIOUS OGECHUKWU ODOEMENAH",
             "Mname": "OGECHUKWU",
             "Surname": "ODOEMENAH",
             "School": "IMO STATE UNIVERSITY",
@@ -2671,7 +2520,7 @@
             "_id": {
                 "$oid": "6569947a69a81ecd98466d9f"
             },
-            "Name": "MIRIAN",
+            "Name": "MIRIAN CHIEMENA EZEJI",
             "Mname": "CHIEMENA",
             "Surname": "EZEJI",
             "School": "IMO STATE UNIVERSITY",
@@ -2694,7 +2543,7 @@
             "_id": {
                 "$oid": "656994d069a81ecd98466da1"
             },
-            "Name": "MARYJANE",
+            "Name": "MARYJANE OBIANUJU NWAIGWE",
             "Mname": "OBIANUJU",
             "Surname": "NWAIGWE",
             "School": "IMO STATE UNIVERSITY",
@@ -2717,7 +2566,7 @@
             "_id": {
                 "$oid": "6569952269a81ecd98466da3"
             },
-            "Name": "OBIAGERI",
+            "Name": "OBIAGERI EMMANUELLA AHANONU",
             "Mname": "EMMANUELLA",
             "Surname": "AHANONU",
             "School": "IMO STATE UNIVERSITY",
@@ -2740,7 +2589,7 @@
             "_id": {
                 "$oid": "6569958469a81ecd98466da5"
             },
-            "Name": "ANGEL",
+            "Name": "ANGEL IFUNANYACHUKWU EKEH",
             "Mname": "IFUNANYACHUKWU",
             "Surname": "EKEH",
             "School": "IMO STATE UNIVERSITY",
@@ -2763,7 +2612,7 @@
             "_id": {
                 "$oid": "656995db69a81ecd98466da7"
             },
-            "Name": "MARYCYNTHIA",
+            "Name": "MARYCYNTHIA CHINEMEREM AGBA",
             "Mname": "CHINEMEREM",
             "Surname": "AGBA",
             "School": "IMO STATE UNIVERSITY",
@@ -2786,7 +2635,7 @@
             "_id": {
                 "$oid": "6569965369a81ecd98466da9"
             },
-            "Name": "UCHECHUKWU",
+            "Name": "UCHECHUKWU CHRISOGONUS OKWARA",
             "Mname": "CHRISOGONUS",
             "Surname": "OKWARA",
             "School": "IMO STATE UNIVERSITY",
@@ -2809,7 +2658,7 @@
             "_id": {
                 "$oid": "65699a52030014fa214631a7"
             },
-            "Name": "FAVOUR",
+            "Name": "FAVOUR EBERECHUKWU AHAOTU",
             "Mname": "EBERECHUKWU",
             "Surname": "AHAOTU",
             "School": "IMO STATE UNIVERSITY",
@@ -2832,7 +2681,7 @@
             "_id": {
                 "$oid": "656999f9030014fa214631a4"
             },
-            "Name": "ANGELSOPHIA",
+            "Name": "ANGELSOPHIA M. ONYEZE",
             "Mname": "M",
             "Surname": "ONYEZE",
             "School": "IMO STATE UNIVERSITY",
@@ -2855,7 +2704,7 @@
             "_id": {
                 "$oid": "65699aa3030014fa214631a9"
             },
-            "Name": "MMESOMA",
+            "Name": "MMESOMA PRECIOUS IBEKWE",
             "Mname": "PRECIOUS",
             "Surname": "IBEKWE",
             "School": "IMO STATE UNIVERSITY",
@@ -2878,7 +2727,7 @@
             "_id": {
                 "$oid": "65699af4030014fa214631ab"
             },
-            "Name": "OLIVIA",
+            "Name": "OLIVIA KOSISOCHUKWU IKECHUKWU",
             "Mname": "KOSISOCHUKWU",
             "Surname": "IKECHUKWU",
             "School": "IMO STATE UNIVERSITY",
@@ -2901,7 +2750,7 @@
             "_id": {
                 "$oid": "65699b49030014fa214631ad"
             },
-            "Name": "VICTORIA",
+            "Name": "VICTORIA MMEODICHIMMA ANOSIKE",
             "Mname": "MMEODICHIMMA",
             "Surname": "ANOSIKE",
             "School": "IMO STATE UNIVERSITY",
@@ -2924,7 +2773,7 @@
             "_id": {
                 "$oid": "65699b9f030014fa214631af"
             },
-            "Name": "OBINNA",
+            "Name": "OBINNA FRANCIS FRANCIS",
             "Mname": "FRANCIS",
             "Surname": "FRANCIS",
             "School": "IMO STATE UNIVERSITY",
@@ -2947,7 +2796,7 @@
             "_id": {
                 "$oid": "65699bf6030014fa214631b1"
             },
-            "Name": "IFEOMA",
+            "Name": "IFEOMA PRECIOUS NNADOZIE",
             "Mname": "PRECIOUS",
             "Surname": "NNADOZIE",
             "School": "IMO STATE UNIVERSITY",
@@ -2970,7 +2819,7 @@
             "_id": {
                 "$oid": "65699c55030014fa214631b3"
             },
-            "Name": "FAVOUR",
+            "Name": "FAVOUR KELECHI OHAJIANYA",
             "Mname": "KELECHI",
             "Surname": "OHAJIANYA",
             "School": "IMO STATE UNIVERSITY",
@@ -2993,7 +2842,7 @@
             "_id": {
                 "$oid": "65699cae030014fa214631b5"
             },
-            "Name": "GLORIA",
+            "Name": "GLORIA ONYINYECHI DAVID",
             "Mname": "ONYINYECHI",
             "Surname": "DAVID",
             "School": "IMO STATE UNIVERSITY",
@@ -3016,7 +2865,7 @@
             "_id": {
                 "$oid": "65699d1f030014fa214631b7"
             },
-            "Name": "CHINYERE",
+            "Name": "CHINYERE JENNIFER AMADI",
             "Mname": "JENNIFER ",
             "Surname": "AMADI",
             "School": "IMO STATE UNIVERSITY",
@@ -3039,7 +2888,7 @@
             "_id": {
                 "$oid": "65699d8d030014fa214631b9"
             },
-            "Name": "ANNASTIECIA",
+            "Name": "ANNASTIECIA CHIEMENA AMADI",
             "Mname": "CHIEMENA",
             "Surname": "AMADI",
             "School": "IMO STATE UNIVERSITY",
@@ -3062,7 +2911,7 @@
             "_id": {
                 "$oid": "65699e40030014fa214631bb"
             },
-            "Name": "CONFIDENCE",
+            "Name": "CONFIDENCE NKPURUOMA BETTERMAN",
             "Mname": "NKPURUOMA",
             "Surname": "BETTERMAN",
             "School": "IMO STATE UNIVERSITY",
@@ -3085,7 +2934,7 @@
             "_id": {
                 "$oid": "65699eea030014fa214631bd"
             },
-            "Name": "KINGSLEY",
+            "Name": "KINGSLEY CHUKWUEMEKA OKONKWO",
             "Mname": "CHUKWUEMEKA",
             "Surname": "OKONKWO",
             "School": "IMO STATE UNIVERSITY",
@@ -3108,7 +2957,7 @@
             "_id": {
                 "$oid": "65699f33030014fa214631bf"
             },
-            "Name": "BLESSING",
+            "Name": "BLESSING ONYEDIKACHI UWAKWE",
             "Mname": "ONYEDIKACHI",
             "Surname": "UWAKWE",
             "School": "IMO STATE UNIVERSITY",
@@ -3131,7 +2980,7 @@
             "_id": {
                 "$oid": "65699f8b030014fa214631c1"
             },
-            "Name": "EBUKA",
+            "Name": "EBUKA JOSHUA MADUKA",
             "Mname": "JOSHUA",
             "Surname": "MADUKA",
             "School": "IMO STATE UNIVERSITY",
@@ -3154,7 +3003,7 @@
             "_id": {
                 "$oid": "65699ffc030014fa214631c3"
             },
-            "Name": "WILSON",
+            "Name": "WILSON THANKGOD ORJIAKO",
             "Mname": "THANKGOD",
             "Surname": "ORJIAKO",
             "School": "IMO STATE UNIVERSITY",
@@ -3177,7 +3026,7 @@
             "_id": {
                 "$oid": "6569a35da132013b0d7b6587"
             },
-            "Name": "RICHARD",
+            "Name": "RICHARD CHIKWUKA EWENIKE",
             "Mname": "CHIKWUKA",
             "Surname": "EWENIKE",
             "School": "IMO STATE UNIVERSITY",
@@ -3200,7 +3049,7 @@
             "_id": {
                 "$oid": "6569a30ba132013b0d7b6584"
             },
-            "Name": "FAVOUR",
+            "Name": "FAVOUR CHIDERA UBAWUSO",
             "Mname": "CHIDERA",
             "Surname": "UBAWUSO",
             "School": "IMO STATE UNIVERSITY",
@@ -3223,7 +3072,7 @@
             "_id": {
                 "$oid": "6569a3aea132013b0d7b6589"
             },
-            "Name": "JULIET",
+            "Name": "JULIET OGECHUKWU CHIBUIKE",
             "Mname": "OGECHUKWU",
             "Surname": "CHIBUIKE",
             "School": "IMO STATE UNIVERSITY",
@@ -3246,7 +3095,7 @@
             "_id": {
                 "$oid": "6569a407a132013b0d7b658b"
             },
-            "Name": "PRINCESS ",
+            "Name": "PRINCESS OMAZURU NWOKE",
             "Mname": "OMAZURU",
             "Surname": "NWOKE",
             "School": "IMO STATE UNIVERSITY",
@@ -3269,7 +3118,7 @@
             "_id": {
                 "$oid": "6569a44fa132013b0d7b658d"
             },
-            "Name": "DAVID",
+            "Name": "DAVID IZUCHUKWU OSUNGWU",
             "Mname": "IZUCHUKWU",
             "Surname": "OSUNGWU",
             "School": "IMO STATE UNIVERSITY",
@@ -3292,7 +3141,7 @@
             "_id": {
                 "$oid": "6569a4a1a132013b0d7b658f"
             },
-            "Name": "SUSSAN",
+            "Name": "SUSSAN CHIDINMA UKONU",
             "Mname": "CHIDINMA",
             "Surname": "UKONU",
             "School": "IMO STATE UNIVERSITY",
@@ -3315,7 +3164,7 @@
             "_id": {
                 "$oid": "6569a521a132013b0d7b6591"
             },
-            "Name": "MIRACLE",
+            "Name": "MIRACLE MMERICHUKWU ELENDU",
             "Mname": "MMERICHUKWU",
             "Surname": "ELENDU",
             "School": "IMO STATE UNIVERSITY",
@@ -3338,7 +3187,7 @@
             "_id": {
                 "$oid": "6569a56fa132013b0d7b6593"
             },
-            "Name": "VIVIAN",
+            "Name": "VIVIAN CHIKODINAKA OKORO",
             "Mname": "CHIKODINAKA",
             "Surname": "OKORO",
             "School": "IMO STATE UNIVERSITY",
@@ -3361,7 +3210,7 @@
             "_id": {
                 "$oid": "6569a5dca132013b0d7b6595"
             },
-            "Name": "FAVOUR",
+            "Name": "FAVOUR CHINENYENWA NWACHUKWU",
             "Mname": "CHINENYENWA",
             "Surname": "NWACHUKWU",
             "School": "IMO STATE UNIVERSITY",
@@ -3384,7 +3233,7 @@
             "_id": {
                 "$oid": "6569a627a132013b0d7b6597"
             },
-            "Name": "CHIDERA",
+            "Name": "CHIDERA DAVID OPARA",
             "Mname": "DAVID",
             "Surname": "OPARA",
             "School": "IMO STATE UNIVERSITY",
@@ -3407,7 +3256,7 @@
             "_id": {
                 "$oid": "6569a683a132013b0d7b6599"
             },
-            "Name": "CHIAMAKA",
+            "Name": "CHIAMAKA PROSPER BENJAMIN",
             "Mname": "PROSPER",
             "Surname": "BENJAMIN",
             "School": "IMO STATE UNIVERSITY",
@@ -3430,7 +3279,7 @@
             "_id": {
                 "$oid": "6569a6f1a132013b0d7b659b"
             },
-            "Name": "DANIELLA",
+            "Name": "DANIELLA CHIBUZOR EMEKA-NNADI",
             "Mname": "CHIBUZOR",
             "Surname": "EMEKA-NNADI",
             "School": "IMO STATE UNIVERSITY",
@@ -3453,7 +3302,7 @@
             "_id": {
                 "$oid": "6569a773a132013b0d7b659d"
             },
-            "Name": "FAVOUR",
+            "Name": "FAVOUR CHUKWUKA NJOKU",
             "Mname": "CHUKWUKA",
             "Surname": "NJOKU",
             "School": "IMO STATE UNIVERSITY",
@@ -3476,7 +3325,7 @@
             "_id": {
                 "$oid": "6569a7d4a132013b0d7b659f"
             },
-            "Name": "CHIDINMA",
+            "Name": "CHIDINMA GRACE MARY UCHE",
             "Mname": "GRACE MARY",
             "Surname": "UCHE",
             "School": "IMO STATE UNIVERSITY",
@@ -3499,7 +3348,7 @@
             "_id": {
                 "$oid": "6569a852a132013b0d7b65a1"
             },
-            "Name": "ADAKU",
+            "Name": "ADAKU PRECIOUS EZEM",
             "Mname": "PRECIOUS",
             "Surname": "EZEM",
             "School": "IMO STATE UNIVERSITY",
@@ -3522,7 +3371,7 @@
             "_id": {
                 "$oid": "6569a8a0a132013b0d7b65a3"
             },
-            "Name": "SANDRA",
+            "Name": "SANDRA CHINAZA OHAJI",
             "Mname": "CHINAZA",
             "Surname": "OHAJI",
             "School": "IMO STATE UNIVERSITY",
@@ -3545,7 +3394,7 @@
             "_id": {
                 "$oid": "6569a907a132013b0d7b65a5"
             },
-            "Name": "CHIDERA",
+            "Name": "CHIDERA MARYANN IHENACHO",
             "Mname": "MARYANN",
             "Surname": "IHENACHO",
             "School": "IMO STATE UNIVERSITY",
@@ -3568,7 +3417,7 @@
             "_id": {
                 "$oid": "6569a962a132013b0d7b65a7"
             },
-            "Name": "ANITA",
+            "Name": "ANITA AMARACHI OFOEFULE",
             "Mname": "AMARACHI",
             "Surname": "OFOEFULE",
             "School": "IMO STATE UNIVERSITY",
@@ -3591,7 +3440,7 @@
             "_id": {
                 "$oid": "6569a9b5a132013b0d7b65a9"
             },
-            "Name": "CHINONSO",
+            "Name": "CHINONSO MODESTA NWANERI",
             "Mname": "MODESTA",
             "Surname": "NWANERI",
             "School": "IMO STATE UNIVERSITY",
@@ -3614,7 +3463,7 @@
             "_id": {
                 "$oid": "6569aa18a132013b0d7b65ab"
             },
-            "Name": "OGONNA",
+            "Name": "OGONNA MARYLYN OKORO",
             "Mname": "MARYLYN",
             "Surname": "OKORO",
             "School": "IMO STATE UNIVERSITY",
@@ -3637,7 +3486,7 @@
             "_id": {
                 "$oid": "6569aa69a132013b0d7b65ad"
             },
-            "Name": "MERCY",
+            "Name": "MERCY CHIAMAKA MADUKA",
             "Mname": "CHIAMAKA",
             "Surname": "MADUKA",
             "School": "IMO STATE UNIVERSITY",
@@ -3660,7 +3509,7 @@
             "_id": {
                 "$oid": "6569aae7a132013b0d7b65af"
             },
-            "Name": "FAITH",
+            "Name": "FAITH CHIDINMA AMADI",
             "Mname": "CHIDINMA",
             "Surname": "AMADI",
             "School": "IMO STATE UNIVERSITY",
@@ -3683,7 +3532,7 @@
             "_id": {
                 "$oid": "6569ab4ea132013b0d7b65b1"
             },
-            "Name": "CHIDIMMA",
+            "Name": "CHIDIMMA JANEFRANCISCA ADIBE",
             "Mname": "JANEFRANCISCA",
             "Surname": "ADIBE",
             "School": "IMO STATE UNIVERSITY",
@@ -3706,7 +3555,7 @@
             "_id": {
                 "$oid": "6569abaca132013b0d7b65b3"
             },
-            "Name": "CHIEMENA",
+            "Name": "CHIEMENA UZOCHUKWU NWAIGWE",
             "Mname": "UZOCHUKWU",
             "Surname": "NWAIGWE",
             "School": "IMO STATE UNIVERSITY",
@@ -3729,7 +3578,7 @@
             "_id": {
                 "$oid": "6569ac7da132013b0d7b65b5"
             },
-            "Name": "SUCCESS",
+            "Name": "SUCCESS CHINAEMEZU AMUZIE",
             "Mname": "CHINAEMEZU",
             "Surname": "AMUZIE",
             "School": "IMO STATE UNIVERSITY",
@@ -3752,7 +3601,7 @@
             "_id": {
                 "$oid": "6569acc8a132013b0d7b65b7"
             },
-            "Name": "GOD'SFAVOUR",
+            "Name": "GOD'SFAVOUR CHINEMEREM",
             "Mname": "-",
             "Surname": "CHINEMEREM",
             "School": "IMO STATE UNIVERSITY",
@@ -3775,7 +3624,7 @@
             "_id": {
                 "$oid": "6569ad18a132013b0d7b65b9"
             },
-            "Name": "IFEOMA",
+            "Name": "IFEOMA BEATRICE ODOEMENE",
             "Mname": "BEATRICE",
             "Surname": "ODOEMENE",
             "School": "IMO STATE UNIVERSITY",
@@ -3798,7 +3647,7 @@
             "_id": {
                 "$oid": "6569ad73a132013b0d7b65bb"
             },
-            "Name": "FAVOUR",
+            "Name": "FAVOUR OSINACHI EKENKWO",
             "Mname": "OSINACHI",
             "Surname": "EKENKWO",
             "School": "IMO STATE UNIVERSITY",
@@ -3821,7 +3670,7 @@
             "_id": {
                 "$oid": "6569ae1d9c8343ee7c4a07e3"
             },
-            "Name": "NMESOMA",
+            "Name": "NMESOMA OLUEBUBE HYACINTH",
             "Mname": "OLUEBUBE",
             "Surname": "HYACINTH",
             "School": "IMO STATE UNIVERSITY",
@@ -3844,9 +3693,7 @@
             "_id": {
                 "$oid": "6569add69c8343ee7c4a07e0"
             },
-            "Name": "EZINNE",
-            "Mname": "HAPPINESS",
-            "Surname": "UGWUANI",
+            "Name": "EZINNE HAPPINESS UGWUANI",
             "School": "IMO STATE UNIVERSITY",
             "Dept": "MICROBIOLOGY",
             "RegNo": "-",
@@ -3867,9 +3714,7 @@
             "_id": {
                 "$oid": "6569ae729c8343ee7c4a07e5"
             },
-            "Name": "PRECIOUS",
-            "Mname": "CHIDINMA",
-            "Surname": "EZEJI",
+            "Name": "PRECIOUS CHIDINMA EZEJI",
             "School": "IMO STATE UNIVERSITY",
             "Dept": "MICROBIOLOGY",
             "RegNo": "22/1167",

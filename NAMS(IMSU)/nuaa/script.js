@@ -6,7 +6,7 @@ const searchFILTER = async searchText => {
     const { nuasa } = await res.json()
     let matches = nuasa.filter(user => {
         const regex = new RegExp(`${searchText}`, 'gi');
-        return user.Name.match(regex) || user.Mname.match(regex) || user.Surname.match(regex) || user.School.match(regex) || user.RegNo.match(regex);
+        return user.Name.match(regex) || user.LocalGovernment.match(regex) || user.Phoneno1.match(regex) || user.School.match(regex) || user.RegNo.match(regex);
     });
 
     if (searchText.length === 0) {
@@ -24,7 +24,7 @@ const outputHtml = matches => {
         <a style="text-decoration:none;" onclick="movieselected('${user.id}')"href="#"><li><div class="hov">
         <img style="object-fit:cover;"src="${user.Picturepath}">
         <div class="user_info" >
-        <h3>${user.Name}  ${user.Mname}  ${user.Surname}</h3> 
+        <h3>${user.Name} </h3> 
         <p  style="color:black;">NAMS ${user.School}</p> 
         <div style="display:flex">
         <p2 style="boarder-radius:30px;display:flex;margin-top:3px;font-size:.7rem;">
@@ -78,7 +78,7 @@ async function getmovie() {
                 <div class="profile-top">
                     <img src="${user.Picturepath}">
                     <div class="profile-info">
-                        <h2 style="color:white;text-align:center;margin-bottom:0px;line-height:2rem;">${user.Name}  ${user.Mname}  ${user.Surname}</h2>  
+                        <h2 style="color:white;text-align:center;margin-bottom:0px;line-height:2rem;">${user.Name}</h2>  
                         <h1 style="margin-top:3px;margin-bottom:0px;line-height:1rem;">>>>${user.RegNo}
                         <<<</h1>
                     </div>
