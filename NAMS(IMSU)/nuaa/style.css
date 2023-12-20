@@ -125,7 +125,7 @@ body {
     outline: none;
 }
 
-.user-list li {
+.user-list {
     background-color: #fff;
     list-style-type: none;
     margin-right: -3%;
@@ -143,7 +143,7 @@ body {
     margin-bottom: -.8%;
 }
 
-.user-list {
+.user-list li {
     padding: 2px;
     margin-bottom: auto;
     line-height: 20px;
