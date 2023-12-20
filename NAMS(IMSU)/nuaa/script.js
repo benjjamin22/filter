@@ -16,8 +16,8 @@ async function getData() {
     result.innerHTML = ''
 
     nuasa.forEach(user => {
-        const li = document.createElement('li')
-        listItems.push(li)
+        const li = document.createElement('lii')
+        listItems.push(lii)
         li.innerHTML = `
         <a style="text-decoration:none;" onclick="movieselected('${user.id}')"href="#"><li><div class="hov">
         <img style="object-fit:cover;"src="${user.Picturepath}">
@@ -33,7 +33,7 @@ async function getData() {
         </div>
         </div></li>
         `
-        result.appendChild(li)
+        result.appendChild(lii)
     })
 }
 

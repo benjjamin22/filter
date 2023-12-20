@@ -125,7 +125,7 @@ body {
     outline: none;
 }
 
-.user-list {
+.user-list li {
     background-color: #fff;
     list-style-type: none;
     margin-right: -3%;
