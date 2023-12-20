@@ -1,26 +1,25 @@
 const filter = document.getElementById('filter');
 const result = document.getElementById('result');
-const searchFILTER = async searchText => {
-    const res = await fetch('https://mydatabase.com.ng/utilitie/evetumugunma/evetumugunma.json')
+const listItems = []
+
+getData()
+
+filter.addEventListener('input', (e) => filterData(e.target.value))
+
+async function getData() {
+    const res = await fetch('/utilitie/evetumugunma/evetumugunma.json')
+
     const { data } = await res.json()
-    let matches = data.filter(user => {
-        const regex = new RegExp(`${searchText}`, 'gi');
-        return user.reg.match(regex) || user.Name.match(regex) || user.School.match(regex);
-    });
 
-    if (searchText.length === 0) {
-        matches = [];
-        result.innerHTML = '';
+    // Clear result
+    result.innerHTML = ''
 
-    }
+    data.forEach(user => {
+        const li = document.createElement('li')
 
-    outputHtml(matches);
+        listItems.push(li)
 
-};
-
-const outputHtml = matches => {
-    if (matches.length > 0) {
-        const html = matches.map(user => `
+        li.innerHTML = `
         <a style="text-decoration:none;" onclick="movieselected('${user.id}')"href="#"><li><div class="hov">
         <img style="object-fit:cover;"src="${user.picturepath}">
         <div class="user_info" >
@@ -33,17 +32,26 @@ const outputHtml = matches => {
         </p2><p3b style="margin-top:3px;margin-left:1.5rem;font-size:12px;font-weight:bold;color:green;">( ${user.validity} )</p3> </div>
         <p3>>>>${user.reg}<<<</p3></a>
         </div>
-        </div></li>`)
-            .join('');
-        result.innerHTML = html;
-    }
-};
-filter.addEventListener('input', () => searchFILTER(filter.value));
+        </div></li>
+        `
+        result.appendChild(li)
+    })
+}
+
+function filterData(searchTerm) {
+    listItems.forEach(item => {
+        if (item.innerText.toLowerCase().includes(searchTerm.toLowerCase())) {
+            item.classList.remove('hide')
+        } else {
+            item.classList.add('hide')
+        }
+    })
+}
 
 getmovieee();
 async function getmovieee() {
     let objects = document.getElementById("objects");
-    const res = await fetch('https://mydatabase.com.ng/utilitie/evetumugunma/evetumugunma.json')
+    const res = await fetch('/utilitie/evetumugunma/evetumugunma.json')
     const { data } = await res.json()
     let allObject = data.filter((val) => {
         if (typeof val == 'object') {
@@ -67,7 +75,7 @@ function movieselected(id) {
 async function getmovie() {
     let movieId = sessionStorage.getItem('movieId');
     console.log(movieId)
-    const res = await fetch('https://mydatabase.com.ng/utilitie/evetumugunma/evetumugunma.json')
+    const res = await fetch('/utilitie/evetumugunma/evetumugunma.json')
     const { data } = await res.json()
     let id = data.filter(ids => ids.id === movieId);
     console.log(id)
