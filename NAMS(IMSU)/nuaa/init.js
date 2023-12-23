@@ -21,7 +21,7 @@ window.addEventListener("DOMContentLoaded", () => {
 function callTimeoutFunc() {
     logoutTimeoutID = setTimeout(() => {
         auth.logOut();
-        window.location.href.indexOf("https://mydatabase.com.ng/NAMS(IMSU)/index.html") != -1;
+        window.location.replace("index.html");
     }, 4000);
 }
 
