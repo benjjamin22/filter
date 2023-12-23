@@ -6,7 +6,7 @@ document.querySelector(".logout").addEventListener("click", (e) => {
 
 var warningTimeoutID = undefined;
 var logoutTimeoutID = undefined;
-const events = ["click", "mousemove", "mousedown", "keydown", "hover"];
+const events = ["click", "mousemove", "mousedown", "keydown", "touchmove", "touchstart", "touchstart"];
 const body = document.querySelector("body");
 
 window.addEventListener("DOMContentLoaded", () => {
