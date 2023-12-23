@@ -11,7 +11,7 @@ const events = ["click", "mousemove", "mousedown", "keydown"];
 const body = document.querySelector("body");
 
 window.addEventListener("DOMContentLoaded", () => {
-    if (window.location.pathname === "/nuaa/sample.html") {
+    if (window.location.pathname === "https://mydatabase.com.ng/NAMS(IMSU)/nuaa/sample.html") {
         warningTimeoutID = setTimeout(callTimeoutFunc, 5000);
         events.forEach((event) => {
             window.addEventListener(event, eventHandler);
