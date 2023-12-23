@@ -11,7 +11,7 @@ const body = document.querySelector("body");
 
 window.addEventListener("DOMContentLoaded", () => {
     if (window.location.href.indexOf("sample.html") != -1) {
-        warningTimeoutID = setTimeout(callTimeoutFunc, 5000);
+        warningTimeoutID = setTimeout(callTimeoutFunc, 300000);
         events.forEach((event) => {
             window.addEventListener(event, eventHandler);
         });
@@ -23,7 +23,7 @@ function callTimeoutFunc() {
         auth.logOut();
         window.history.pushState("", "", "https://mydatabase.com.ng/NAMS(IMSU)/index.html");
         window.location.reload();
-    }, 4000);
+    }, 1000);
 }
 
 function eventHandler() {
@@ -33,5 +33,5 @@ function eventHandler() {
             body.removeChild(body.firstElementChild);
     }
     clearTimeout(warningTimeoutID);
-    warningTimeoutID = setTimeout(callTimeoutFunc, 5000);
+    warningTimeoutID = setTimeout(callTimeoutFunc, 300000);
 }
