@@ -11,7 +11,7 @@ const events = ["click", "mousemove", "mousedown", "keydown"];
 const body = document.querySelector("body");
 
 window.addEventListener("DOMContentLoaded", () => {
-    if (window.location.href.indexOf = ("sample.html") != -1) {
+    if (window.location.href.indexOf("sample.html") != -1) {
         warningTimeoutID = setTimeout(callTimeoutFunc, 5000);
         events.forEach((event) => {
             window.addEventListener(event, eventHandler);
