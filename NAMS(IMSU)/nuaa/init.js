@@ -22,7 +22,7 @@ window.addEventListener("DOMContentLoaded", () => {
 function callTimeoutFunc() {
     logoutTimeoutID = setTimeout(() => {
         auth.logOut();
-        window.location.replace("index.html");
+        window.location.href.replace("/NAMS(IMSU)/index.html");
     }, 4000);
 }
 
