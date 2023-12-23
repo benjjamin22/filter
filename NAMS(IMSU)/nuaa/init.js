@@ -21,7 +21,7 @@ window.addEventListener("DOMContentLoaded", () => {
 function callTimeoutFunc() {
     logoutTimeoutID = setTimeout(() => {
         auth.logOut();
-        window.location.replace("./index.html");
+        window.location.replace("./ndex.html");
     }, 4000);
 }
 
