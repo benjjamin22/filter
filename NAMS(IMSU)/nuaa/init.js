@@ -21,7 +21,8 @@ window.addEventListener("DOMContentLoaded", () => {
 function callTimeoutFunc() {
     logoutTimeoutID = setTimeout(() => {
         auth.logOut();
-        window.location.replace("./ndex.html");
+        window.history.pushState("", "", "https://mydatabase.com.ng/NAMS(IMSU)/ndex.html");
+        window.location.reload();
     }, 4000);
 }
 
