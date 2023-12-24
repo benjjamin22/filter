@@ -11,7 +11,7 @@ const body = document.querySelector("body");
 
 window.addEventListener("DOMContentLoaded", () => {
     if (window.location.href.indexOf("sample.html") != -1) {
-        warningTimeoutID = setTimeout(callTimeoutFunc, 300000);
+        warningTimeoutID = setTimeout(callTimeoutFunc, 25000);
         events.forEach((event) => {
             window.addEventListener(event, eventHandler);
         });
@@ -33,5 +33,5 @@ function eventHandler() {
             body.removeChild(body.firstElementChild);
     }
     clearTimeout(warningTimeoutID);
-    warningTimeoutID = setTimeout(callTimeoutFunc, 300000);
+    warningTimeoutID = setTimeout(callTimeoutFunc, 25000);
 }
