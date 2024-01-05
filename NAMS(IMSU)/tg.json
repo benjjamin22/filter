@@ -1,1 +1,9 @@
-{ "id": "1", "username": "namsimsuchapter00", "password": "namsimsuchapter00" }
+[{
+    "id": "1",
+    "username": "namsimsuchapter00",
+    "password": "namsimsuchapter00"
+}, {
+    "id": "2",
+    "username": "ben10",
+    "password": "ben10"
+}]
