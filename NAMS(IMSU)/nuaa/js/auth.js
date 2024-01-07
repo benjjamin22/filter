@@ -16,6 +16,7 @@ class Auth {
     logOut() {
         localStorage.removeItem("auth");
         localStorage.removeItem("user");
-        window.location.replace("/");
+        window.history.pushState("", "", "https://mydatabase.com.ng/NAMS(IMSU)/index.html");
+        window.location.reload();
     }
 }
