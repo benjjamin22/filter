@@ -24,8 +24,8 @@ const outputHtml = matches => {
         <a style="text-decoration:none;" onclick="movieselected('${user.id}')"href="#"><li><div class="hov">
         <img style="object-fit:cover;"src="${user.picturepath}">
         <div class="user_info" >
-        <h3>${user.inName}</h3> 
-        <p  style="color:black;">${user.inSchool}</p> 
+        <h3>${user.Name}</h3> 
+        <p  style="color:black;">${user.School}</p> 
         <div style="display:flex">
         <p2 style="boarder-radius:30px;display:flex;margin-top:3px;font-size:.7rem;">
         <div style="opacity:1.9px;margin-left:2px;text-align:center;height:18px;width:
@@ -78,7 +78,7 @@ async function getmovie() {
                 <div class="profile-top">
                     <img src="${user.picturepath}">
                     <div class="profile-info">
-                        <h2 style="color:white;text-align:center;margin-bottom:0px;line-height:2rem;">${user.inName}</h2>  
+                        <h2 style="color:white;text-align:center;margin-bottom:0px;line-height:2rem;">${user.Name}</h2>  
                         <h1 style="margin-top:3px;margin-bottom:0px;line-height:1rem;">>>>${user.reg}
                         <<<</h1>
                     </div>
