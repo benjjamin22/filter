@@ -6,7 +6,7 @@ const searchFILTER = async searchText => {
     const { nuasa } = await res.json()
     let matches = nuasa.filter(user => {
         const regex = new RegExp(`${searchText}`, 'gi');
-        return user.id.match(regex) || user.inName.match(regex) || user.inSchool.match(regex);
+        return user.id.match(regex) || user.Name.match(regex) || user.School.match(regex);
     });
 
     if (searchText.length === 0) {
