@@ -1202,8 +1202,8 @@
             "picturepath": "https://mydatabase.com.ng/utilitie/nuasa/nuasa/80.jpg"
         }
 
-    ],
-    "evetumugunma": [{
+        ,
+        {
             "id": "000",
             "Name": "NWAORGU PRECIOUS AMARACHI",
             "reg": "M23/089",
@@ -3476,9 +3476,8 @@
             "inparentno": "",
             "inparentno2": "",
             "picturepath": "https://mydatabase.com.ng/utilitie/evetumugunma/evetumugunma/141.jpg"
-        }
-    ],
-    "evetokigwe": [{
+        },
+        {
             "id": "000",
             "Name": "UWAKWE GIFT ONYINYECHI",
             "reg": "M23/085  ",
@@ -4902,7 +4901,8 @@
             "inparentno": "",
             "inparentno2": "",
             "picturepath": "https://mydatabase.com.ng/utilitie/evetokigwe/evetokigwe/87.jpg"
-        }, {
+        },
+        {
 
             "Name": "OLUEBUBE MIRACLE OGBONNAYA",
             "School": "IMO STATE UNIVERSITY",
