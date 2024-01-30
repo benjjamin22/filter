@@ -1,26 +1,24 @@
 const filter = document.getElementById('filter');
 const result = document.getElementById('result');
 url = 'https://mydatabase.com.ng/css/data.json'
-const searchFILTER = async searchText => {
+const listItems = []
+
+getData()
+
+filter.addEventListener('input', (e) => filterData(e.target.value))
+
+async function getData() {
     const res = await fetch(url)
+
     const { nuasa } = await res.json()
-    let matches = nuasa.filter(user => {
-        const regex = new RegExp(`${searchText}`, 'gi');
-        return user.Name.match(regex) || user.School.match(regex);
-    });
 
-    if (searchText.length === 0) {
-        matches = [];
-        result.innerHTML = '';
-    }
+    // Clear result
+    result.innerHTML = ''
 
-    outputHtml(matches);
-
-};
-
-const outputHtml = matches => {
-    if (matches) {
-        const html = matches.map(user => `
+    nuasa.forEach(user => {
+        const li = document.createElement('li')
+        listItems.push(li)
+        li.innerHTML = `
         <a style="text-decoration:none;" onclick="movieselected('${user.id}')"href="#"><li><div class="hov">
         <img style="object-fit:cover;"src="${user.picturepath}">
         <div class="user_info" >
@@ -33,12 +31,21 @@ const outputHtml = matches => {
         </p2><p3b style="margin-top:3px;margin-left:1.5rem;font-size:12px;font-weight:bold;color:green;">( ${user.validity} )</p3> </div>
         <p3>>>>${user.reg}<<<</p3></a>
         </div>
-        </div></li>`)
-            .join('');
-        result.innerHTML = html;
-    }
-};
-filter.addEventListener('input', () => searchFILTER(filter.value));
+        </div></li>
+        `
+        result.appendChild(li)
+    })
+}
+
+function filterData(searchTerm) {
+    listItems.forEach(item => {
+        if (item.innerText.toLowerCase().includes(searchTerm.toLowerCase())) {
+            item.classList.remove('hide')
+        } else {
+            item.classList.add('hide')
+        }
+    })
+}
 
 getmovieee();
 async function getmovieee() {
