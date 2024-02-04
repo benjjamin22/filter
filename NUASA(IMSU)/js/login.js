@@ -26,9 +26,9 @@ class Login {
                 };
                 console.log(dat);
 
-                fetch('https://mydatabase.com.ng/NUASA(IMSU)/tg.json')
-                    .then((response) => response.json())
-                    .then((data) => {
+                const res = fetch('https://mydatabase.com.ng/NUASA(IMSU)/tg.json')
+                const { dataa } = res.json()
+                dataa.filter((data) => {
                         if (data.username === dat.username && data.password === dat.password) {
                             localStorage.setItem('user', JSON.stringify(data));
                             localStorage.setItem("auth", 1);
