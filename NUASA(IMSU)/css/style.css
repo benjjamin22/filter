@@ -5,7 +5,7 @@
 
 body {
     font-family: "Open Sans", sans-serif;
-    background-color: red;
+    background-color: transparent;
     font-size: 16px;
 }
 
@@ -64,7 +64,7 @@ h6 {
     max-width: 460px;
     border: 1px solid #ddd;
     border-radius: 1.25rem;
-    margin: 3rem auto;
+    margin: 0rem auto;
     padding: 1rem;
     background-color: rgb(42, 5, 100);
 }
