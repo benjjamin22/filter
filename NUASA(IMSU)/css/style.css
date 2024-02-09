@@ -84,7 +84,7 @@ h6 {
     max-width: 500px;
     width: auto;
     height: 300px;
-    background: url(/NUASAIMSU/8.jpeg);
+    background: url('https://mydatabase.com.ng//NUASA(IMSU)/1.jpeg');
     margin: 10px auto;
     animation: slide 20s infinite
 }
@@ -153,15 +153,15 @@ h6 {
 
 @keyframes slide {
     25% {
-        background: url(/NUASAIMSU/8.jpeg);
+        background: url('https://mydatabase.com.ng//NUASA(IMSU)/1.jpeg');
     }
     50% {
-        background: url(/NUASAIMSU/6.jpeg);
+        background: url('https://mydatabase.com.ng//NUASA(IMSU)/2.jpeg');
     }
     75% {
-        background: url(/NUASAIMSU/7.jpeg);
+        background: url('https://mydatabase.com.ng//NUASA(IMSU)/3.jpeg');
     }
     100% {
-        background: url(/NUASAIMSU/5.jpeg);
+        background: url('https://mydatabase.com.ng//NUASA(IMSU)/4.jpeg');
     }
 }
