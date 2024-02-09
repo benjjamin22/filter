@@ -26,6 +26,14 @@ h6 {
     background-size: 110%;
     position: relative;
     height: 15rem;
+    margin: auto;
+}
+
+.container {
+    max-width: 98vw;
+    margin: 0 auto;
+    padding: 1rem;
+    background-color: rgb(27, 27, 97);
 }
 
 .title {
@@ -52,12 +60,12 @@ h6 {
 }
 
 .login .container {
-    max-width: 500px;
-    border: 1px solid transparent;
+    max-width: 460px;
+    margin: 3rem auto;
+    padding: 1rem;
+    border: 1px solid #ddd;
     border-radius: 1.25rem;
-    margin: -.5rem auto;
-    padding: 1.5rem;
-    background-color: rgb(42, 5, 100);
+    background-color: rgb(30, 30, 109);
 }
 
 .input {
@@ -69,7 +77,6 @@ h6 {
     background-color: #fff;
     padding: 1rem;
     border-radius: 0.25rem;
-    opacity: 50%;
 }
 
 .slider {
