@@ -28,7 +28,7 @@ h6 {
 }
 
 .text-center h3 {
-    background-image: url('/NUASA(IMSU)/rigntrelm.jpg');
+    background-image: url('/NUASAIMSU/rigntrelm.jpg');
     background-repeat: no-repeat;
     background-position: center center;
     background-size: 110%;
@@ -78,6 +78,15 @@ h6 {
     background-color: #fff;
     padding: 1rem;
     border-radius: 0.25rem;
+}
+
+.slider {
+    max-width: 500px;
+    width: auto;
+    height: 300px;
+    background: url(/NUASAIMSU/8.jpeg);
+    margin: 10px auto;
+    animation: slide 20s infinite
 }
 
 .input.input-error {
@@ -139,5 +148,20 @@ h6 {
     }
     to {
         transform: rotateY(360deg);
+    }
+}
+
+@keyframes slide {
+    25% {
+        background: url(/NUASAIMSU/8.jpeg);
+    }
+    50% {
+        background: url(/NUASAIMSU/6.jpeg);
+    }
+    75% {
+        background: url(/NUASAIMSU/7.jpeg);
+    }
+    100% {
+        background: url(/NUASAIMSU/5.jpeg);
     }
 }
