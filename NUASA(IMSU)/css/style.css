@@ -19,14 +19,6 @@ h6 {
     margin: -3;
 }
 
-.text-center h2 {
-    text-align: center;
-    letter-spacing: 3px;
-    font-size: 2.7rem;
-    font-weight: bolder;
-    margin-bottom: -2%;
-}
-
 .text-center h3 {
     background-image: url('/NUASA(IMSU)/rigntrelm.jpg');
     background-repeat: no-repeat;
@@ -34,7 +26,6 @@ h6 {
     background-size: 110%;
     position: relative;
     height: 15rem;
-    margin-bottom: -2rem;
 }
 
 .title {
@@ -88,7 +79,7 @@ h6 {
     background-position: center center;
     background-size: 100%;
     position: relative;
-    margin: 10px auto;
+    margin: auto;
     animation: slide 20s infinite
 }
 
