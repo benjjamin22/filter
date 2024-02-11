@@ -8,6 +8,6 @@
     <url>
         <loc>https://mydatabase.com.ng/NAMS(IMSU)/index.html</loc>
         <priority>0.7</priority>
-        <changefreq>daily</changefreq>
+        <changefreq>weekly</changefreq>
     </url>
 </urlset>
