@@ -81,7 +81,7 @@ h6 {
 }
 
 .slider-wrapper {
-    background-image: url('/NUASA(IMSU)/r1.jpg');
+    background-image: url('/NUASA(IMSU)/r6.jpg');
     background-repeat: no-repeat;
     background-position: center center;
     background-size: 105%;
@@ -156,28 +156,28 @@ h6 {
 }
 
 @keyframes slide {
-    15% {
-        background-image: url('/NUASA(IMSU)/r1.jpg');
-    }
-    30% {
-        background-image: url('/NUASA(IMSU)/r2.jpg');
-    }
-    45% {
-        background-image: url('/NUASA(IMSU)/r3.jpg');
-    }
-    60% {
-        background-image: url('/NUASA(IMSU)/r4.jpg');
-    }
-    75% {
-        background-image: url('/NUASA(IMSU)/r5.jpg');
-    }
-    90% {
+    13% {
         background-image: url('/NUASA(IMSU)/r6.jpg');
     }
-    50% {
+    26% {
+        background-image: url('/NUASA(IMSU)/r2.jpg');
+    }
+    39% {
+        background-image: url('/NUASA(IMSU)/r3.jpg');
+    }
+    52% {
+        background-image: url('/NUASA(IMSU)/r4.jpg');
+    }
+    62% {
+        background-image: url('/NUASA(IMSU)/r5.jpg');
+    }
+    75% {
+        background-image: url('/NUASA(IMSU)/r1.jpg');
+    }
+    88% {
         background-image: url('/NUASA(IMSU)/r7.jpg');
     }
-    50% {
+    100% {
         background-image: url('/NUASA(IMSU)/r8.jpg');
     }
 }
