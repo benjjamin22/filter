@@ -5,7 +5,7 @@
 
 body {
     font-family: "Open Sans", sans-serif;
-    background-color: rgb(42, 5, 100);
+    background-color: red;
     font-size: 16px;
 }
 
@@ -16,24 +16,19 @@ h4,
 h5,
 h6 {
     padding: 0;
-    margin: -3;
-}
-
-.text-center h3 {
-    background-image: url('/NUASA(IMSU)/rigntrelm.jpg');
-    background-repeat: no-repeat;
-    background-position: center center;
-    background-size: 110%;
-    position: relative;
-    height: 15rem;
-    margin: auto;
+    margin: 0;
 }
 
 .container {
     max-width: 98vw;
     margin: 0 auto;
     padding: 1rem;
-    background-color: rgb(27, 27, 97);
+    background-color: #fff;
+}
+
+.text-center {
+    text-align: center;
+    letter-spacing: 3px;
 }
 
 .title {
@@ -41,10 +36,6 @@ h6 {
     font-family: sans-serif;
     margin: 0%;
     margin-bottom: 0%;
-    margin-top: 0%;
-}
-
-.loginForm {
     margin-top: 0%;
 }
 
@@ -65,30 +56,18 @@ h6 {
     padding: 1rem;
     border: 1px solid #ddd;
     border-radius: 1.25rem;
-    background-color: rgb(30, 30, 109);
+    background-color: #fff;
 }
 
 .input {
     appearance: none;
     display: block;
     width: 100%;
-    color: gray;
+    color: #333;
     border: 1px solid rbg(180, 180, 180);
     background-color: #fff;
     padding: 1rem;
     border-radius: 0.25rem;
-}
-
-.slider {
-    width: auto;
-    height: 350px;
-    background-image: url('/NUASA(IMSU)/r6.jpg');
-    background-repeat: no-repeat;
-    background-position: center center;
-    background-size: 100%;
-    position: relative;
-    margin: auto;
-    animation: slide 20s infinite
 }
 
 .input.input-error {
@@ -111,7 +90,7 @@ h6 {
 }
 
 .button {
-    background-color: rgb(0, 26, 255);
+    background-color: black;
     padding: 1rem;
     border: none;
     color: #fff;
@@ -150,32 +129,5 @@ h6 {
     }
     to {
         transform: rotateY(360deg);
-    }
-}
-
-@keyframes slide {
-    12% {
-        background-image: url('/NUASA(IMSU)/r6.jpg');
-    }
-    24% {
-        background-image: url('/NUASA(IMSU)/r4.jpg');
-    }
-    36% {
-        background-image: url('/NUASA(IMSU)/r5.jpg');
-    }
-    48% {
-        background-image: url('/NUASA(IMSU)/r8.jpg');
-    }
-    60% {
-        background-image: url('/NUASA(IMSU)/r2.jpg');
-    }
-    72% {
-        background-image: url('/NUASA(IMSU)/r1.jpg');
-    }
-    84% {
-        background-image: url('/NUASA(IMSU)/r3.jpg');
-    }
-    96% {
-        background-image: url('/NUASA(IMSU)/r7.jpg');
     }
 }

@@ -86,6 +86,3 @@ async function getmovie() {
 
     });
 }
-
-
-window.location.replace("/");
