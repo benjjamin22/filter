@@ -195,7 +195,7 @@ main>div p {
 
 .card__image {
     position: relative;
-    background-color: var(--first-color-light);
+    background-color: rgb(27, 27, 97);
     padding-top: 1.5rem;
     margin-bottom: -.75rem;
 }
@@ -210,7 +210,7 @@ main>div p {
 }
 
 .card__img {
-    width: 180px;
+    width: 250px;
     margin: 0 auto;
     position: relative;
     height: 250px;
@@ -220,7 +220,7 @@ main>div p {
 .card__shadow {
     width: 200px;
     height: 200px;
-    background-color: var(--first-color-alt);
+    background-color: rgb(109, 109, 182);
     border-radius: 50%;
     position: absolute;
     top: 3.75rem;
