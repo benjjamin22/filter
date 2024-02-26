@@ -34,7 +34,7 @@
 body {
     font-family: var(--body-font);
     font-size: var(--normal-font-size);
-    background-color: var(--body-color);
+    background-color: rgb(27, 27, 97);
     color: var(--white-color);
 }
 
@@ -70,6 +70,10 @@ main>div span {
     color: #717171;
 }
 
+.container.flip {
+    animation: flipdiv 2s infinite;
+}
+
 .main .div h1 {
     text-transform: capitalize;
     letter-spacing: 0.8px;
@@ -86,7 +90,7 @@ main>div hr {
     background: #005baa;
     height: 0.25rem;
     border: none;
-    margin: 1rem auto;
+    margin: .5rem auto;
     align-items: center;
     width: 30%;
 }
@@ -98,13 +102,14 @@ main>div p {
 .container .loginForm {
     justify-content: center;
     position: relative;
-    width: 65%;
+    width: 100%;
     margin: auto;
     column-gap: 0rem;
     text-align: center;
     justify-content: center;
     margin-bottom: 0%;
     min-height: 16rem;
+    max-width: 40vh;
 }
 
 .input {
@@ -379,5 +384,28 @@ main>div p {
     }
     .swiper-button-next {
         right: -1rem;
+    }
+}
+
+.flip {
+    margin: -1;
+    animation: flipdiv 2s infinite;
+}
+
+@keyframes flipdiv {
+    50% {
+        transform: rotateX(180deg);
+    }
+    to {
+        transform: rotateX(360deg);
+    }
+}
+
+@keyframes flipdiv {
+    50% {
+        transform: rotateY(180deg);
+    }
+    to {
+        transform: rotateY(360deg);
     }
 }
