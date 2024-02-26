@@ -36,6 +36,7 @@ body {
     font-size: var(--normal-font-size);
     background-color: rgb(27, 27, 97);
     color: var(--white-color);
+    margin-top: -2.8rem;
 }
 
 a {
