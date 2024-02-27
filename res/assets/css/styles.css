@@ -233,12 +233,12 @@ main>div p {
 .card__name {
     font-size: var(--h2-font-size);
     color: var(--second-color);
-    margin-bottom: .75rem;
+    margin-bottom: .2rem;
 }
 
 .card__description {
     font-weight: 500;
-    margin-bottom: .75rem;
+    margin-bottom: .2rem;
 }
 
 .card__button {
