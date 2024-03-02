@@ -50,19 +50,19 @@ main {
     flex-wrap: wrap;
     margin: 0;
     padding: 0;
-    max-height: 50rem;
+    max-height: 40rem;
     overflow-y: auto;
 }
 
 .movie {
-    width: 200px;
+    width: 150px;
     margin: .5rem;
     background-color: var(--secondary-color);
     box-shadow: 0 4px 5px rgba(0, 0, 0, 0.2);
     position: relative;
     overflow: hidden;
     border-radius: 3px;
-    height: auto;
+    height: 160px;
 }
 
 .movie img {
@@ -71,6 +71,7 @@ main {
 }
 
 .movie-info {
+    margin-top: -50%;
     color: #eee;
     display: flex;
     align-items: center;
@@ -78,18 +79,20 @@ main {
     gap: 0.2rem;
     padding: 0rem 0.5rem;
     letter-spacing: 0.3px;
+    z-index: 0%;
 }
 
 .movie-info h3 {
     margin-top: 0;
     font-size: 1rem;
+    color: transparent;
 }
 
 .movie-info span {
-    background-color: var(--primary-color);
     padding: 0.25rem 0.5rem;
     border-radius: 3px;
     font-weight: bold;
+    color: transparent;
 }
 
 .overview {
