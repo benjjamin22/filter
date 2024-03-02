@@ -18,31 +18,27 @@ async function getData() {
     main.innerHTML = ''
 
     nuasa.forEach(user => {
-
-        const li = document.createElement('div')
-        li.classList.add('movie')
-        listItems.push(li)
-        li.innerHTML = `
+        const div = document.createElement('div')
+        listItems.push(div)
+        div.innerHTML = `
+        <div class="movie">
         <img src="${user.Picturepath}">
         <div class="movie-info">
       <h3>${user.Name}</h3>
-        </div>  
+      <span>${user.Validity}</span>
+        </div></div> 
         `
-        main.appendChild(li)
+        main.appendChild(div)
 
     })
 }
 
 function filterData(searchTerm) {
-    listItems.filter(user => {
-        const regex = new RegExp(`${searchTerm}`, 'gi');
-        return user.reg.match(regex) || user.Name.match(regex) || user.School.match(regex);
-    });
-
-    if (user.innerText.toLowerCase().includes(searchTerm.toLowerCase())) {
-        user.classList.remove('movie')
-    } else {
-        user.classList.add('movie')
-    }
-
-};
+    listItems.forEach(item => {
+        if (item.innerText.toLowerCase().includes(searchTerm.toLowerCase())) {
+            item.classList.remove('hide')
+        } else {
+            item.classList.add('hide')
+        }
+    })
+}
