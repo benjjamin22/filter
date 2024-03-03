@@ -121,7 +121,7 @@ async function getmovie() {
                                 <h1 style="margin:-5px;color:red;font-size:12px;">- ${user.localgovt} -</h1>
                             </div>
                         <div class="social">
-                            <a href="#"><i class="fab fa-whatsapp "></i></a>
+                            <a href="https://wa.me/2348037722780"><i class="fab fa-whatsapp "></i></a>
                             <a href="#"><i class="fab fa-facebook "></i></a>
                             <a href="#"><i class="fab fa-instagram "></i></a>
                             <a href="#"><i class="fab fa-tiktok "></i></a>
