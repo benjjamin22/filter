@@ -23,6 +23,7 @@ header {
     display: flex;
     justify-content: center;
     background-color: var(--secondary-color);
+    margin-bottom: .5rem;
 }
 
 .search {
@@ -55,14 +56,14 @@ main {
 }
 
 .movie {
-    width: 150px;
-    margin: .5rem;
+    width: 90px;
+    margin: 0.1rem;
     background-color: var(--secondary-color);
     box-shadow: 0 4px 5px rgba(0, 0, 0, 0.2);
     position: relative;
     overflow: hidden;
     border-radius: 3px;
-    height: 160px;
+    height: 90px;
 }
 
 .movie img {
