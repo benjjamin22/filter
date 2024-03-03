@@ -12,6 +12,7 @@ body {
     background-color: var(--primary-color);
     font-family: 'Poppins', sans-serif;
     margin: 0;
+    padding: 0;
     justify-content: center;
     align-items: center;
     height: 100vh;
@@ -24,6 +25,7 @@ header {
     justify-content: center;
     background-color: var(--secondary-color);
     margin-bottom: .5rem;
+    height: auto;
 }
 
 .search {
@@ -32,8 +34,9 @@ header {
     border-radius: 50px;
     font-family: inherit;
     font-size: 1rem;
-    padding: 0.5rem 1rem;
     color: #fff;
+    padding: 0.5rem .3rem;
+    opacity: 0.5;
 }
 
 .search::placeholder {
@@ -51,19 +54,18 @@ main {
     flex-wrap: wrap;
     margin: 0;
     padding: 0;
-    max-height: 40rem;
     overflow-y: auto;
+    max-height: 60rem;
 }
 
 .movie {
-    width: 90px;
-    margin: 0.1rem;
+    width: 120px;
     background-color: var(--secondary-color);
     box-shadow: 0 4px 5px rgba(0, 0, 0, 0.2);
     position: relative;
     overflow: hidden;
     border-radius: 3px;
-    height: 90px;
+    height: 120px;
 }
 
 .movie img {
