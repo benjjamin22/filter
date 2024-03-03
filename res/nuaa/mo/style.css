@@ -40,7 +40,7 @@ header {
 }
 
 .search::placeholder {
-    color: #7378c5;
+    color: #aaaeee;
 }
 
 .search:focus {
@@ -55,7 +55,7 @@ main {
     margin: 0;
     padding: 0;
     overflow-y: auto;
-    max-height: 60rem;
+    max-height: 45rem;
 }
 
 .movie {
