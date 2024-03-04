@@ -89,6 +89,7 @@ body {
     display: flex;
     width: 75%;
     margin-left: 2.5rem;
+    padding: 0 2rem;
 }
 
 .social a {
@@ -105,19 +106,15 @@ body {
 }
 
 .social a:nth-child(1) {
-    background-color: #56d263;
+    background-color: rgb(28, 88, 158);
 }
 
 .social a:nth-child(2) {
-    background-color: rgb(42, 42, 202);
-}
-
-.social a:nth-child(3) {
     background: color #fc01cd;
     ;
 }
 
-.social a:nth-child(4) {
+.social a:nth-child(3) {
     background-color: #313131;
 }
 

@@ -120,27 +120,12 @@ async function getmovie() {
                                 <h1 style="margin-top:-1px;">- ${user.state} -</h1>
                                 <h1 style="margin:-5px;color:red;font-size:12px;">- ${user.localgovt} -</h1>
                             </div>
-                            <div style="display:flex;margin:-9px 0px;;justify-content:center;">
-                            <div>
-                                <h1 style="font-size:12px;margin:0px;text-align:center;">CONTACT:</h1>
-                                <div class="profile-info">
-                                    <a style="text-decoration: none;" href="Tel:${user.inparentno}">
-                                        <div style="margin-left: 0px;"class="p1">
-                                            <p2 style="margin-left: 0px;">${user.inparentno}</p2>
-                                        </div>
-                                    </a>                   
-                                </div>
-                            </div>
-                            <div>
-                                <h1 style="font-size:12px;margin:0px;text-align:center;">EMERGENCY CONTACT:</h1>
-                                <div class="profile-info">
-                                    <a style="text-decoration: none;" href="Tel:${user.inparentno2}">
-                                        <div style="margin-left: 0px;"class="p2">
-                                            <p2 style="margin-left: 0px;">${user.inparentno2}</p2>
-                                        </div>
-                                    </a>                   
-                                </div>                           
-                            </div>
+                           
+                            <div class="social">
+                            <a href="https://wa.me/${user.state}"><i class="fab fa-facebook "></i></a>
+                            <a href="https://wa.me/${user.state}"><i class="fab fa-instagram "></i></a>
+                            <a href="https://wa.me/${user.state}"><i class="fab fa-tiktok "></i></a>
+                        </div>
                         </div>
                     </div>       
                 </div>
