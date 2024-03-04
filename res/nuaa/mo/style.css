@@ -43,6 +43,13 @@ header {
     color: #aaaeee;
 }
 
+form small {
+    margin-left: -2.5rem;
+    font-family: inherit;
+    font-size: 1rem;
+    color: #fff;
+}
+
 .search:focus {
     outline: none;
     background-color: var(--primary-color);

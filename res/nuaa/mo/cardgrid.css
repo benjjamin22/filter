@@ -97,12 +97,13 @@ body {
     justify-content: center;
     align-items: center;
     display: flex;
-    width: 2em;
-    height: 2em;
+    width: 1.7em;
+    height: 1.7em;
     background-color: red;
     border-radius: 50%;
     font-size: 2em;
     color: #dcdcdc;
+    box-shadow: rgb(50, 50, 93, 0.25) 0px 13px 27px -5px, rgba(0, 0, 0, 03)0px 8px 16px -8px;
 }
 
 .social a:nth-child(1) {
