@@ -1,39 +1,34 @@
-const filter = document.getElementById('filter');
-const result = document.getElementById('result');
+const search = document.getElementById('search');
+const main = document.getElementById('main');
+const form = document.getElementById('form')
 url = 'https://mydatabase.com.ng/css/database.notes.json'
+
 const listItems = []
 
 getData()
 
-filter.addEventListener('input', (e) => filterData(e.target.value))
+search.addEventListener('input', (e) => filterData(e.target.value));
 
 async function getData() {
     const res = await fetch(url)
-
     const { nuasa } = await res.json()
 
     // Clear result
-    result.innerHTML = ''
+    main.innerHTML = ''
 
     nuasa.forEach(user => {
-        const li = document.createElement('li')
-        listItems.push(li)
-        li.innerHTML = `
-        <a style="text-decoration:none;" onclick="movieselected('${user.id}')"href="#"><lii><div class="hov">
-        <img style="object-fit:cover;"src="${user.Picturepath}">
-        <div class="user_info" >
-        <h3>${user.Name}</h3> 
-        <p  style="color:black;">${user.School}</p> 
-        <div style="display:flex">
-        <p2 style="boarder-radius:30px;display:flex;margin-top:3px;font-size:.7rem;">
-        <div style="opacity:1.9px;margin-left:2px;text-align:center;height:18px;width:
-        40px;letter-spacing:1px;color:green;">${user.Status}</div>
-        </p2><p3b style="margin-top:3px;margin-left:1.5rem;font-size:12px;font-weight:bold;color:green;">( ${user.Validity} )</p3> </div>
-        <p3>>>>${user.RegNo}<<<</p3></a>
-        </div>
-        </div></lii>
+        const div = document.createElement('div')
+        listItems.push(div)
+        div.innerHTML = `<a style="text-decoration:none;" onclick="movieselected('${user.id}')"href="#">
+        <div class="movie">
+        <img src="${user.Picturepath}">
+        <div class="movie-info">
+      <h3>${user.Name}</h3>
+      <span>${user.Validity}</span>
+        </div></div> </a>
         `
-        result.appendChild(li)
+        main.appendChild(div)
+
     })
 }
 
@@ -93,7 +88,7 @@ async function getmovie() {
                 <div class="profile-bottom">
                     <div style="flex-direction:column;margin:-11px 0px;" class="profile-info"> 
                         <h1>- IMO STATE UNIVERSITY -</h1>
-                            <h1 style="margin-top:-3px;color:red;font-size:12px;">- MICROBIOLOGY STUDENTS ASSOCIATION -</h1>
+                            <h1 style="margin-top:-3px;color:red;font-size:12px;">- MICROBIOLOGY DEPARTMENT -</h1>
                         </div>
                     </div>
                     <div class="profile-bottom">
@@ -124,28 +119,14 @@ async function getmovie() {
                                 <h1 style="margin-top:-1px;">- ${user.State} -</h1>
                                 <h1 style="margin:-5px;color:red;font-size:12px;">- ${user.LocalGovernment} -</h1>
                             </div>
-                        
-                        <div style="display:flex;margin:-9px 0px;;justify-content:center;">
-                            <div>
-                                <h1 style="font-size:12px;margin:0px;text-align:center;">CONTACT:</h1>
-                                <div class="profile-info">
-                                    <a style="text-decoration: none;" href="Tel:${user.Phoneno1}">
-                                        <div style="margin-left: 0px;"class="p1">
-                                            <p2 style="margin-left: 0px;">${user.Phoneno1}</p2>
-                                        </div>
-                                    </a>                   
-                                </div>
-                            </div>
-                            <div>
-                                <h1 style="font-size:12px;margin:0px;text-align:center;">EMERGENCY CONTACT:</h1>
-                                <div class="profile-info">
-                                    <a style="text-decoration: none;" href="Tel:${user.Phoneno2}">
-                                        <div style="margin-left: 0px;"class="p2">
-                                            <p2 style="margin-left: 0px;">${user.Phoneno2}</p2>
-                                        </div>
-                                    </a>                   
-                                </div>                           
-                            </div>
+                                                    
+                            <div class="social">
+                            <a href=""><i class="fab fa-whatsapp "></i></a>
+                            <a href=""><i class="fab fa-facebook "></i></a>
+                            <a href=""><i class="fab fa-instagram "></i></a>
+                            <a href="https://wa.me/${user.state}"><i class="fab fa-tiktok "></i></a>
+                            <a href=""><i class="fab fa-twitter "></i></a>
+                        </div>
                         </div>
                     </div>       
                 </div>

@@ -28,7 +28,7 @@ body {
 
 .profile-top {
     background-color: rgb(27, 27, 97);
-    padding: .5rem;
+    padding: .5rem 2rem;
     text-align: center;
     color: white;
     border-radius: 0px;
@@ -121,6 +121,10 @@ body {
 
 .social a:nth-child(4) {
     background-color: #313131;
+}
+
+.social a:nth-child(5) {
+    background-color: rgb(28, 88, 158);
 }
 
 .profile-info h1 {

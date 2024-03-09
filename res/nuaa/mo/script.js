@@ -11,7 +11,6 @@ search.addEventListener('input', (e) => filterData(e.target.value));
 
 async function getData() {
     const res = await fetch(url)
-
     const { nuasa } = await res.json()
 
     // Clear result
@@ -120,12 +119,13 @@ async function getmovie() {
                                 <h1 style="margin-top:-1px;">- ${user.State} -</h1>
                                 <h1 style="margin:-5px;color:red;font-size:12px;">- ${user.LocalGovernment} -</h1>
                             </div>
-                           
+                                                    
                             <div class="social">
                             <a href=""><i class="fab fa-whatsapp "></i></a>
                             <a href=""><i class="fab fa-facebook "></i></a>
                             <a href=""><i class="fab fa-instagram "></i></a>
                             <a href="https://wa.me/${user.state}"><i class="fab fa-tiktok "></i></a>
+                            <a href=""><i class="fab fa-twitter "></i></a>
                         </div>
                         </div>
                     </div>       
