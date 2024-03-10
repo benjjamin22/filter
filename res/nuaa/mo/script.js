@@ -1,7 +1,7 @@
 const search = document.getElementById('search');
 const main = document.getElementById('main');
 const form = document.getElementById('form')
-url = 'https://mydatabase.com.ng/css/database.notes.json'
+url = 'https://mydatabase.com.ng/css/data.json'
 
 const listItems = []
 
@@ -21,10 +21,10 @@ async function getData() {
         listItems.push(div)
         div.innerHTML = `<a style="text-decoration:none;" onclick="movieselected('${user.id}')"href="#">
         <div class="movie">
-        <img src="${user.Picturepath}">
+        <img src="${user.picturepath}">
         <div class="movie-info">
-      <h3>${user.Name}</h3>
-      <span>${user.Validity}</span>
+      <h3>${user.inName}</h3>
+      <span>${user.validity}</span>
         </div></div> </a>
         `
         main.appendChild(div)
