@@ -1,7 +1,9 @@
 const filter = document.getElementById('filter');
 const result = document.getElementById('result');
-url = 'https://mydatabase.com.ng/css/data.json'
+
 const listItems = []
+
+const url = process.env.API_BASE_URL
 
 getData()
 
