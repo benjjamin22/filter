@@ -8633,6 +8633,48 @@
             "Picturepath": "https://benjjamin22.github.io/filter/css/nuasa/images/1.jpg",
             "id": "4274818e-8c8-41d2-9ffd-bf4e60e481ac",
             "__v": 0
+        },
+        {
+            "_id": {
+                "$oid": "6569ae729c8343ee7c4a15e5"
+            },
+            "Name": "PRECIOUS CHIDINMA EZEJI",
+            "School": "IMO STATE UNIVERSITY",
+            "Dept": "MICROBIOLOGY",
+            "RegNo": "22/1167",
+            "Status": "MEMBER",
+            "bloodgroup": "O+",
+            "YearofAdmin": "2022",
+            "Validity": "2022-2026",
+            "Sex": "FEMALE",
+            "LocalGovernment": "IKEDURU",
+            "State": "IMO ",
+            "Phoneno1": "1615213458",
+            "Phoneno2": "-",
+            "Picturepath": "https://benjjamin22.github.io/filter/css/nuasa/images/1.jpg",
+            "id": "4274818e-8c8-41d2-9ffd-bf4euyt60e481ac",
+            "__v": 0
+        },
+        {
+            "_id": {
+                "$oid": "6569ae729c8343ee7c4a15e5"
+            },
+            "Name": "PRECIOUS CHIDINMA EZEJI",
+            "School": "IMO STATE UNIVERSITY",
+            "Dept": "MICROBIOLOGY",
+            "RegNo": "22/1167",
+            "Status": "MEMBER",
+            "bloodgroup": "O+",
+            "YearofAdmin": "2022",
+            "Validity": "2022-2026",
+            "Sex": "FEMALE",
+            "LocalGovernment": "IKEDURU",
+            "State": "IMO ",
+            "Phoneno1": "1615213458",
+            "Phoneno2": "-",
+            "Picturepath": "https://benjjamin22.github.io/filter/css/nuasa/images/1.jpg",
+            "id": "4274818e-8c8-41d2-9ffd-bftyr4e60e481ac",
+            "__v": 0
         }
     ]
 
