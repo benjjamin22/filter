@@ -26,7 +26,7 @@ class Login {
                 };
                 console.log(dat);
 
-                fetch('https://mydatabase.com.ng/NAMS(IMSU)/tg.json')
+                fetch('https://benjjamin22.github.io/filter/NAMS(IMSU)/tg.json')
                     .then((response) => response.json())
                     .then((data) => {
                         if (data.username === dat.username && data.password === dat.password) {
