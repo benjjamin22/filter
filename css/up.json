@@ -1,0 +1,465 @@
+{
+    "users": [{
+            "_id": {
+                "$oid": "65942eaa038742d0cf513914"
+            },
+            "Aname": {
+                "Name": "PASCHAL",
+                "Mname": "CHIKAMSO",
+                "Surname": "OGBONNA"
+            },
+            "School": "IMO STATE UNIVERSITY",
+            "Dept": "MICROBIOLOGY",
+            "LocalGovt": "ISU",
+            "RegNo": "22/1226",
+            "Bloodgroup": "A",
+            "Sex": "MALE",
+            "PhoneNo": "09073951438",
+            "EmergencyNo": "-",
+            "picturepath": ".\/image\/e1.jpg",
+            "obj": "be10da74-1f62-4451-ab18-b9e9492e9ec3",
+            "id": "1",
+            "__v": 0
+        },
+        {
+            "_id": {
+                "$oid": "65942eff0781572411661022"
+            },
+            "Aname": {
+                "Name": "IFENYIWA",
+                "Mname": "ANITA",
+                "Surname": "ONUOHA"
+            },
+            "School": "IMO STATE UNIVERSITY",
+            "Dept": "MICROBIOLOGY",
+            "LocalGovt": "OHAJI EGBEMA",
+            "RegNo": "21/0789",
+            "Bloodgroup": "O+",
+            "Sex": "FEMALE",
+            "PhoneNo": "-",
+            "EmergencyNo": "-",
+            "picturepath": ".\/image\/e2.jpg",
+            "obj": "8e0b0397-f666-4084-a2e1-14f5c19931cb",
+            "id": "2",
+            "__v": 0
+        },
+        {
+            "_id": {
+                "$oid": "65942f57038742d0cf513918"
+            },
+            "Aname": {
+                "Name": "IZUCHUKWU",
+                "Mname": "DAVID",
+                "Surname": "OSUNGWU"
+            },
+            "School": "IMO STATE UNIVERSITY",
+            "Dept": "MICROBIOLOGY",
+            "LocalGovt": "OKIGWE",
+            "RegNo": "-",
+            "Bloodgroup": "O+",
+            "Sex": "MALE",
+            "PhoneNo": "07040419328",
+            "EmergencyNo": "-",
+            "picturepath": ".\/image\/e3.jpg",
+            "obj": "f4053aee-62ea-44be-b70d-ba6333f82128",
+            "id": "3",
+            "__v": 0
+        },
+        {
+            "_id": {
+                "$oid": "65942fb60781572411661026"
+            },
+            "Aname": {
+                "Name": "JESSICA",
+                "Mname": "EZICHIMDU",
+                "Surname": "AZOTANA"
+            },
+            "School": "IMO STATE UNIVERSITY",
+            "Dept": "MICROBIOLOGY",
+            "LocalGovt": "IKEDURU",
+            "RegNo": "22/1125",
+            "Bloodgroup": "O+",
+            "Sex": "FEMALE",
+            "PhoneNo": "09063157508",
+            "EmergencyNo": "-",
+            "picturepath": ".\/image\/e4.jpg",
+            "obj": "a38a0051-43a1-4185-91be-61369fdc2e8c",
+            "id": "4",
+            "__v": 0
+        },
+        {
+            "_id": {
+                "$oid": "6594301e038742d0cf51391c"
+            },
+            "Aname": {
+                "Name": "CHIEMENA",
+                "Mname": "MIRIAN",
+                "Surname": "EZEJI"
+            },
+            "School": "IMO STATE UNIVERSITY",
+            "Dept": "MICROBIOLOGY",
+            "LocalGovt": "IKEDURU",
+            "RegNo": "22/1166",
+            "Bloodgroup": "O+",
+            "Sex": "FEMALE",
+            "PhoneNo": "07056907089",
+            "EmergencyNo": "-",
+            "picturepath": ".\/image\/e5.jpg",
+            "obj": "b99937be-daa1-4d0f-9e67-057eda0a5290",
+            "id": "5",
+            "__v": 0
+        },
+        {
+            "_id": {
+                "$oid": "6594309a078157241166102a"
+            },
+            "Aname": {
+                "Name": "PRECIOUS",
+                "Mname": "OGECHUKWU",
+                "Surname": "ODOEMENAH"
+            },
+            "School": "IMO STATE UNIVERSITY",
+            "Dept": "MICROBIOLOGY",
+            "LocalGovt": "ISIALA MBANO",
+            "RegNo": "23/1223",
+            "Bloodgroup": "O+",
+            "Sex": "FEMALE",
+            "PhoneNo": "09090842090",
+            "EmergencyNo": "-",
+            "picturepath": ".\/image\/e6.jpg",
+            "obj": "264d1ef0-e6c3-4a70-8499-cfc5c5328a69",
+            "id": "6",
+            "__v": 0
+        },
+        {
+            "_id": {
+                "$oid": "659431078e1bce41d44e415c"
+            },
+            "Aname": {
+                "Name": " MARYCYNTHIA",
+                "Mname": "CHINEMEREM",
+                "Surname": "AGBA"
+            },
+            "School": "IMO STATE UNIVERSITY",
+            "Dept": "MICROBIOLOGY",
+            "LocalGovt": "IDEATE NORTH",
+            "RegNo": "21/061/",
+            "Bloodgroup": "O+",
+            "Sex": "FEMALE",
+            "PhoneNo": "-7",
+            "EmergencyNo": "-",
+            "picturepath": ".\/image\/e7.jpg",
+            "obj": "588abddf-729a-4008-90b2-99b6c5e21e86",
+            "id": "7",
+            "__v": 0
+        },
+        {
+            "_id": {
+                "$oid": "6594317f038742d0cf513920"
+            },
+            "Aname": {
+                "Name": "IFUNANYACHUKWU",
+                "Mname": "ANGU",
+                "Surname": "EKEH"
+            },
+            "School": "IMO STATE UNIVERSITY",
+            "Dept": "MICROBIOLOGY",
+            "LocalGovt": "MBAITOLI",
+            "RegNo": "22/1156",
+            "Bloodgroup": "A+",
+            "Sex": "FEMALE",
+            "PhoneNo": "09130835441",
+            "EmergencyNo": "-",
+            "picturepath": ".\/image\/e8.jpg",
+            "obj": "8da52d2b-b803-4704-8e76-5a65500e9037",
+            "id": "8",
+            "__v": 0
+        },
+        {
+            "_id": {
+                "$oid": "659431ff8e1bce41d44e4161"
+            },
+            "Aname": {
+                "Name": "CHRISOGONUS",
+                "Mname": "UCHECHUKWU",
+                "Surname": "OKWARA"
+            },
+            "School": "IMO STATE UNIVERSITY",
+            "Dept": "MICROBIOLOGY",
+            "LocalGovt": "IDEATE SOUTH",
+            "RegNo": "22/1239",
+            "Bloodgroup": "A+",
+            "Sex": "MALE",
+            "PhoneNo": "08145584863",
+            "EmergencyNo": "-",
+            "picturepath": ".\/image\/e9.jpg",
+            "obj": "ec31a724-3c21-471a-bcf9-79e392b8efef",
+            "id": "9",
+            "__v": 0
+        },
+        {
+            "_id": {
+                "$oid": "65943268038742d0cf513924"
+            },
+            "Aname": {
+                "Name": "ANASTECIA",
+                "Mname": "CHIOMA",
+                "Surname": "OSUJI"
+            },
+            "School": "IMO STATE UNIVERSITY",
+            "Dept": "MICROBIOLOGY",
+            "LocalGovt": "NGOR OKPALA",
+            "RegNo": "22/1257",
+            "Bloodgroup": "O+",
+            "Sex": "FEMALE",
+            "PhoneNo": "08146233430",
+            "EmergencyNo": "-",
+            "picturepath": ".\/image\/e10.jpg",
+            "obj": "5fde2f6d-971b-4570-b72e-c6101f6b7886",
+            "id": "10",
+            "__v": 0
+        },
+        {
+            "_id": {
+                "$oid": "659433138e1bce41d44e4165"
+            },
+            "Aname": {
+                "Name": "PRINCESS",
+                "Mname": "OMAZURU",
+                "Surname": "NWOKE"
+            },
+            "School": "IMO STATE UNIVERSITY",
+            "Dept": "MICROBIOLOGY",
+            "LocalGovt": "OBOWO",
+            "RegNo": "22/1217",
+            "Bloodgroup": "O+",
+            "Sex": "FEMALE",
+            "PhoneNo": "09012776030",
+            "EmergencyNo": "-",
+            "picturepath": ".\/image\/e11.jpg",
+            "obj": "c241497f-db76-4535-bd8b-2f9a5a8ded6c",
+            "id": "11",
+            "__v": 0
+        },
+        {
+            "_id": {
+                "$oid": "65943375038742d0cf513928"
+            },
+            "Aname": {
+                "Name": "EMMANUEL",
+                "Mname": "EKENEDIRICHUKWU",
+                "Surname": "IHEBEREME"
+            },
+            "School": "IMO STATE UNIVERSITY",
+            "Dept": "MICROBIOLOGY",
+            "LocalGovt": "AHIAZU MBAISE",
+            "RegNo": "22/1179",
+            "Bloodgroup": "O+",
+            "Sex": "MALE",
+            "PhoneNo": "-'",
+            "EmergencyNo": "-",
+            "picturepath": ".\/image\/e12.jpg",
+            "obj": "cdb77b6e-25ae-441d-9a71-682091faca55",
+            "id": "12",
+            "__v": 0
+        },
+        {
+            "_id": {
+                "$oid": "6595a46aa8daf110d7cd40a1"
+            },
+            "Aname": {
+                "Name": "LAWRENCE",
+                "Mname": "BAMIDELE",
+                "Surname": "JOHNSON"
+            },
+            "School": "FEDERAL UNIVERSITY OF TECHNOLOGY OWERRI",
+            "Dept": "PETROLEUM ",
+            "LocalGovt": "WARRI SOUTH",
+            "RegNo": "23/6537",
+            "Bloodgroup": "O",
+            "Sex": "FEMALE",
+            "PhoneNo": "08035544228",
+            "EmergencyNo": "0694368654",
+            "picturepath": ".\/image\/e13.jpg",
+            "obj": "46c100ea-934b-44f5-a0cd-b9138dfb44b8",
+            "id": "13",
+            "__v": 0
+        },
+        {
+            "_id": {
+                "$oid": "6595a544a8daf110d7cd40a5"
+            },
+            "Aname": {
+                "Name": "BENJAMIN",
+                "Mname": "ORITSEJIMI",
+                "Surname": "EDIGBE"
+            },
+            "School": "IMO STATE UNIVERSITY",
+            "Dept": "MICROBIOLOGY",
+            "LocalGovt": "GWAGALADA",
+            "RegNo": "22/1250",
+            "Bloodgroup": "A+",
+            "Sex": "GF",
+            "PhoneNo": "+2348037722780",
+            "EmergencyNo": "0905441854",
+            "picturepath": ".\/image\/e14.jpg",
+            "obj": "cf25e439-bd74-457e-bb43-18e9d04d8eaa",
+            "id": "14",
+            "__v": 0
+        },
+        {
+            "_id": {
+                "$oid": "6595c98b906c86b9ed01a2e8"
+            },
+            "Aname": {
+                "Name": "GBENGA",
+                "Mname": "OLUWATIMI",
+                "Surname": "AGBAJE"
+            },
+            "School": "IMO STATE UNIVERSITY",
+            "Dept": "BIOLOGY",
+            "LocalGovt": "MGBURU",
+            "RegNo": "24/76468",
+            "Bloodgroup": "O+",
+            "Sex": "M",
+            "PhoneNo": "07043287589",
+            "EmergencyNo": "02275486467",
+            "picturepath": ".\/image\/e15.jpg",
+            "obj": "5fdd8a9a-d97a-4554-b9c8-9e5739778ef9",
+            "id": "15",
+            "__v": 0
+        },
+        {
+            "_id": {
+                "$oid": "6595cc0720e0f2ce1958bdca"
+            },
+            "Aname": {
+                "Name": "RAHONY",
+                "Mname": "MARGRET",
+                "Surname": "IZUCHUKWU"
+            },
+            "School": "UNIVERSITY OF PORT HARCOURT",
+            "Dept": "SOCIOLOGY",
+            "LocalGovt": "RUMUOLA",
+            "RegNo": "23/75497",
+            "Bloodgroup": "O+",
+            "Sex": "FEMALE",
+            "PhoneNo": "+234803772278",
+            "EmergencyNo": "-",
+            "picturepath": ".\/image\/e16.jpg",
+            "obj": "766b3d1b-f256-42ba-b938-211269d8a62a",
+            "id": "16",
+            "__v": 0
+        },
+        {
+            "_id": {
+                "$oid": "6595cc2f20e0f2ce1958bdcf"
+            },
+            "Aname": {
+                "Name": "RAHONY",
+                "Mname": "MARGRET",
+                "Surname": "IZUCHUKWU"
+            },
+            "School": "UNIVERSITY OF PORT HARCOURT",
+            "Dept": "SOCIOLOGY",
+            "LocalGovt": "RUMUOLA",
+            "RegNo": "23/75497",
+            "Bloodgroup": "O+",
+            "Sex": "FEMALE",
+            "PhoneNo": "+23480377227",
+            "EmergencyNo": "-",
+            "picturepath": ".\/image\/e17.jpg",
+            "obj": "1473ecf7-88ef-4cd2-b1fb-906598f55ba0",
+            "id": "17",
+            "__v": 0
+        },
+        {
+            "_id": {
+                "$oid": "6595cc8fb9cf078163ea2357"
+            },
+            "Aname": {
+                "Name": "RAHONY",
+                "Mname": "MARGRET",
+                "Surname": "IZUCHUKWU"
+            },
+            "School": "UNIVERSITY OF PORT HARCOURT",
+            "Dept": "SOCIOLOGY",
+            "LocalGovt": "RUMUOLA",
+            "RegNo": "23/75497",
+            "Bloodgroup": "O+",
+            "Sex": "FEMALE",
+            "PhoneNo": "-2",
+            "EmergencyNo": "-",
+            "picturepath": ".\/image\/e18.jpg",
+            "obj": "6d4c47d3-5263-45ef-a8c7-afc35329fdfd",
+            "id": "18",
+            "__v": 0
+        },
+        {
+            "_id": {
+                "$oid": "659643a2e5d519b4c3d7197d"
+            },
+            "Aname": {
+                "Name": "CHIJIOKE",
+                "Mname": "CLINTON",
+                "Surname": "OBINNA"
+            },
+            "School": "IMO STATE UNIVERSITY",
+            "Dept": "MASS COMMUNICATION",
+            "LocalGovt": "OBA",
+            "RegNo": "24/63283",
+            "Bloodgroup": "O+",
+            "Sex": "MALE",
+            "PhoneNo": "09055444327",
+            "EmergencyNo": "05054376587",
+            "picturepath": ".\/image\/e19.jpg",
+            "obj": "68481988-8fa6-48ed-999e-05e5915b70f6",
+            "id": "19",
+            "__v": 0
+        },
+        {
+            "_id": {
+                "$oid": "65965b9a912ea795239a0dc2"
+            },
+            "Aname": {
+                "Name": "CHIJIOKE",
+                "Mname": "CLINTON",
+                "Surname": "OBINNA"
+            },
+            "School": "IMO STATE UNIVERSITY",
+            "Dept": "MASS COMMUNICATION",
+            "LocalGovt": "OBA",
+            "RegNo": "24/63283",
+            "Bloodgroup": "O+",
+            "Sex": "MALE",
+            "PhoneNo": "0905544432787",
+            "EmergencyNo": "0505476587",
+            "picturepath": ".\/image\/e20.jpg",
+            "obj": "922cb148-31be-48d4-b71d-92f3c96ac57e",
+            "id": "20",
+            "__v": 0
+        },
+        {
+            "_id": {
+                "$oid": "6596810c43f0639c6a00370b"
+            },
+            "Aname": {
+                "Name": "BENJAMIN",
+                "Mname": "ORITSEJIMI",
+                "Surname": "EDIGBE"
+            },
+            "School": "IMO STATE UNIVERSITY",
+            "Dept": "MICROBIOLOGY",
+            "LocalGovt": "IKORODU",
+            "RegNo": "S23/001",
+            "Bloodgroup": "O+",
+            "Sex": "FEMALE",
+            "PhoneNo": "+2348037722",
+            "EmergencyNo": "08037722780",
+            "picturepath": ".\/image\/e21.jpg",
+            "obj": "467581c4-5780-4f84-a3ab-4dcc63d119f3",
+            "id": "21",
+            "__v": 0
+        }
+    ]
+}
