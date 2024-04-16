@@ -1,11 +1,11 @@
 const filter = document.getElementById('filter');
 const result = document.getElementById('result');
 const searchFILTER = async searchText => {
-    const res = await fetch('https://benjjamin22.github.io/filter/NUASA(IMSU)/mydata.json')
-    const { user } = await res.json()
-    let matches = user.filter(user => {
+    const res = await fetch('https://benjjamin22.github.io/filter/css/evettenew.json')
+    const { nuasa } = await res.json()
+    let matches = nuasa.filter(user => {
         const regex = new RegExp(`${searchText}`, 'gi');
-        return user.id.match(regex) || user.inName.match(regex) || user.inSchool.match(regex);
+        return user.RegNo.match(regex) || user.Aname.Name.match(regex);
     });
 
     if (searchText.length === 0) {
@@ -23,8 +23,8 @@ const outputHtml = matches => {
         <a style="text-decoration:none;" onclick="movieselected('${user.id}')"href="#"><li><div class="hov">
         <img style="object-fit:cover;"src="${user.picturepath}">
         <div class="user_info" >
-        <h3>${user.inName}</h3> 
-        <p  style="color:black;">${user.inSchool}</p> 
+        <h3>${user.Aname.Name}  ${user.Aname.Mname}  ${user.Aname.Surname}</h3> 
+        <p  style="color:black;">${user.RegNo}</p> 
         <div style="display:flex">
         <p2 style="boarder-radius:30px;display:flex;margin-top:3px;font-size:.7rem;">
         <div style="opacity:1.9px;margin-left:2px;text-align:center;height:18px;width:
@@ -56,7 +56,7 @@ async function getmovieee() {
 
 function movieselected(id) {
     sessionStorage.setItem('movieId', id);
-    window.location = 'samplepreview.html';
+    window.location = 'id.html';
     return false;
 
 }
@@ -65,9 +65,9 @@ function movieselected(id) {
 async function getmovie() {
     let movieId = sessionStorage.getItem('movieId');
     console.log(movieId)
-    const res = await fetch('https://benjjamin22.github.io/filter/NUASA(IMSU)/mydata.json')
-    const { user } = await res.json()
-    let id = user.filter(ids => ids.id === movieId);
+    const res = await fetch('https://benjjamin22.github.io/filter/css/evettenew.json')
+    const { nuasa } = await res.json()
+    let id = nuasa.filter(ids => ids.id === movieId);
     console.log(id)
 
     const html = id.map(user => {
@@ -76,8 +76,9 @@ async function getmovie() {
         <div class="user-profile">
         <div class="profile-top">
             <img src="${user.picturepath}">
+            
             <div class="profile-info">
-                <h1 style="margin-top:143px;margin-left:70px;line-height:1rem;"></h1>${user.reg}
+                <h1 style="margin-top:157px;line-height:1rem;font-weight: bolder;margin-right:0px;font-size:25px;">${user.RegNo}
                 </h1>
             </div>
         </div>
