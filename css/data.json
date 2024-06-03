@@ -5071,27 +5071,7 @@
             "id": "61268225-2771-42e2-941c-2f81e6969dfc",
             "__v": 0
         },
-        {
-            "_id": {
-                "$oid": "6568b1b7508b4c19d18e16d5"
-            },
-            "Name": "VICTORIA GBEMISOLA DANIEL",
-            "School": "IMO STATE UNIVERSITY",
-            "Dept": "MICROBIOLOGY",
-            "RegNo": "531151511JU",
-            "Status": "MEMBER",
-            "bloodgroup": "O+",
-            "YearofAdmin": "2023",
-            "Validity": "2023-2029",
-            "Sex": "FEMALE",
-            "LocalGovernment": "NGOR OKPALA",
-            "State": "IMO",
-            "Phoneno1": "-",
-            "Phoneno2": "-",
-            "picturepath": "https://benjjamin22.github.io/filter/utilitie/nuasa/images/344.jpg",
-            "id": "61268225-2771-42e2-941c-2f81e6969dfcec",
-            "__v": 0
-        },
+
         {
             "_id": {
                 "$oid": "6568b12d508b4c19d18e16d3"
@@ -5721,6 +5701,22 @@
             "picturepath": "https://benjjamin22.github.io/filter/utilitie/nuasa/images/4.jpg",
             "id": "5093327d1-13af-456b-b0ec-a5e23d4c63a2",
             "__v": 0
+        },
+        {
+            "id": "5093327d1-13af-456b-b0ec-a5e23d4c63a2aa",
+            "reg": "16/38221",
+            "Name": "VICTORIA GBEMISOLA DANIEL",
+            "School": "N.U.A.S.A.(IMO STATE UNIVERSITY) ",
+            "Status": "MEMBER",
+            "bloodgroup": "O+",
+            "yearofadmin": "JAN.,2023",
+            "sex": "F",
+            "validity": "2022-2026",
+            "localgovt": "NGOR OKPALA",
+            "state": "IMO",
+            "inparentno": "16136265630",
+            "inparentno2": "16117722720",
+            "picturepath": "https://benjjamin22.github.io/filter/utilitie/nuasa/images/344.jpg"
         },
         {
             "_id": {
@@ -7804,7 +7800,7 @@
             "State": "IMO ",
             "Phoneno1": "16114545128",
             "Phoneno2": "-",
-            "picturepath": "https://benjjamin22.github.io/filter/utilitie/nuasa/images/0.jpg",
+            "picturepath": "https://benjjamin22.github.io/filter/utilitie/nuasa/images/35.jpg",
             "id": "ea73f811-a263-4739-b325-7e3d65760a70",
             "__v": 0
         },
