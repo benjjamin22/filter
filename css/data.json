@@ -5073,6 +5073,27 @@
         },
         {
             "_id": {
+                "$oid": "6568b1b7508b4c19d18e16d5"
+            },
+            "Name": "VICTORIA GBEMISOLA DANIEL",
+            "School": "IMO STATE UNIVERSITY",
+            "Dept": "MICROBIOLOGY",
+            "RegNo": "531151511JU",
+            "Status": "MEMBER",
+            "bloodgroup": "O+",
+            "YearofAdmin": "2023",
+            "Validity": "2023-2029",
+            "Sex": "FEMALE",
+            "LocalGovernment": "NGOR OKPALA",
+            "State": "IMO",
+            "Phoneno1": "-",
+            "Phoneno2": "-",
+            "picturepath": "https://benjjamin22.github.io/filter/utilitie/nuasa/images/344.jpg",
+            "id": "61268225-2771-42e2-941c-2f81e6969dfcec",
+            "__v": 0
+        },
+        {
+            "_id": {
                 "$oid": "6568b12d508b4c19d18e16d3"
             },
             "Name": "UDOCHUKWU NICHOLAS AJOKUBI",
