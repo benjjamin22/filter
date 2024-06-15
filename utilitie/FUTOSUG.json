@@ -1,1523 +1,1525 @@
-[{
-        "Timestamp": "2024/05/29 3:35:27 PM GMT+1",
-        "inNamer": {
-            "Name": "Excel",
-            "Mname": "Chiemerie",
-            "Surname": "Ogbonna"
-        },
-        "reg": "20221309895",
-        "inparentno": "09049624576",
-        "Status": "MEMBER",
-        "bloodgroup": "O+",
-        "yearofadmin": "JAN.,2022",
-        "sex": "M",
-        "validity": "2022-2028",
-        "Department": "Computer science ",
-        "Faculty": "SICT",
-        "picturepath": "https://mydatabase.com.ng/utilitie/nuasa/futop/1.jpg",
-        "id": "664329a8-3d50-483c-b94e-0a57c7c2efbf"
-    },
-    {
-        "Timestamp": "2024/05/29 3:40:49 PM GMT+1",
-        "inNamer": {
-            "Name": "ogbonnaya",
-            "Mname": "princewill",
-            "Surname": "Awoke"
-        },
-        "reg": "20221309745",
-        "inparentno": "08086250294 ",
-        "Status": "MEMBER",
-        "bloodgroup": "O+",
-        "yearofadmin": "JAN.,2022",
-        "sex": "M",
-        "validity": "2022-2028",
-        "Department": "Computer science ",
-        "Faculty": "SICT",
-        "picturepath": "https://mydatabase.com.ng/utilitie/nuasa/futop/2.jpg",
-        "id": "90e49038-f830-40c8-8fc1-d90540cf6ec6"
-    },
-    {
-        "Timestamp": "2024/05/29 3:44:27 PM GMT+1",
-        "inNamer": {
-            "Name": "Tochukwu",
-            "Mname": "Valentine",
-            "Surname": "Ukwueze"
-        },
-        "reg": "20221304955",
-        "inparentno": "08061918176",
-        "Status": "MEMBER",
-        "bloodgroup": "O+",
-        "yearofadmin": "JAN.,2022",
-        "sex": "M",
-        "validity": "2022-2028",
-        "Department": "Computer science ",
-        "Faculty": "SICT",
-        "picturepath": "https://mydatabase.com.ng/utilitie/nuasa/futop/3.jpg",
-        "id": "0e64c692-1340-4372-9536-bfc958173081"
-    },
-    {
-        "Timestamp": "2024/05/29 3:49:23 PM GMT+1",
-        "inNamer": {
-            "Name": "BETHEL",
-            "Mname": "CHUKWURAH",
-            "Surname": "OKEKA"
-        },
-        "reg": "20221348685",
-        "inparentno": "09161490758",
-        "Status": "MEMBER",
-        "bloodgroup": "O+",
-        "yearofadmin": "JAN.,2022",
-        "sex": "M",
-        "validity": "2022-2028",
-        "Department": "COMPUTER SCIENCE",
-        "Faculty": "SICT",
-        "picturepath": "https://mydatabase.com.ng/utilitie/nuasa/futop/4.jpg",
-        "id": "6b15dd61-7777-4462-ac8d-d277ace2f3a7"
-    },
-    {
-        "Timestamp": "2024/05/29 4:08:07 PM GMT+1",
-        "inNamer": {
-            "Name": "Samuel",
-            "Mname": "Kamsiyochukwu",
-            "Surname": "Obiajunwa"
-        },
-        "reg": "20221337375",
-        "inparentno": "08145554077",
-        "Status": "MEMBER",
-        "bloodgroup": "O+",
-        "yearofadmin": "JAN.,2022",
-        "sex": "M",
-        "validity": "2022-2028",
-        "Department": "COMPUTER SCIENCE ",
-        "Faculty": "SICT",
-        "picturepath": "https://mydatabase.com.ng/utilitie/nuasa/futop/5.jpg",
-        "id": "57ca8c07-38e0-46a9-bb79-5bf261a6f4c8"
-    },
-    {
-        "Timestamp": "2024/05/29 4:14:22 PM GMT+1",
-        "inNamer": {
-            "Name": "Ogochukwu",
-            "Mname": "paul",
-            "Surname": "Chukwukere"
-        },
-        "reg": "20221336765",
-        "inparentno": "08124736217",
-        "Status": "MEMBER",
-        "bloodgroup": "O+",
-        "yearofadmin": "JAN.,2022",
-        "sex": "M",
-        "validity": "2022-2028",
-        "Department": "Computer Science ",
-        "Faculty": "SICT",
-        "picturepath": "https://mydatabase.com.ng/utilitie/nuasa/futop/6.jpg",
-        "id": "0d4532ba-d027-43f3-8b97-32596161c66a"
-    },
-    {
-        "Timestamp": "2024/05/29 4:17:08 PM GMT+1",
-        "inNamer": {
-            "Name": "Chidiebere",
-            "Mname": "Genevieve",
-            "Surname": "Ihediuche"
-        },
-        "reg": "20221329085",
-        "inparentno": "09042583962",
-        "Status": "MEMBER",
-        "bloodgroup": "O+",
-        "yearofadmin": "JAN.,2022",
-        "sex": "M",
-        "validity": "2022-2028",
-        "Department": "Computer Science ",
-        "Faculty": "SICT",
-        "picturepath": "https://mydatabase.com.ng/utilitie/nuasa/futop/7.jpg",
-        "id": "0aa2e683-8c03-42b5-901a-ed70ef213bfb"
-    },
-    {
-        "Timestamp": "2024/05/29 4:41:02 PM GMT+1",
-        "inNamer": {
-            "Name": "Amarachi",
-            "Mname": "David",
-            "Surname": "Ndukwu"
-        },
-        "reg": "20221330855",
-        "inparentno": "09065799536",
-        "Status": "MEMBER",
-        "bloodgroup": "O+",
-        "yearofadmin": "JAN.,2022",
-        "sex": "M",
-        "validity": "2022-2028",
-        "Department": "Computer Science ",
-        "Faculty": "SICT",
-        "picturepath": "https://mydatabase.com.ng/utilitie/nuasa/futop/8.jpg",
-        "id": "3aaf2d8e-6b52-4d86-9d53-94cb830f86cf"
-    },
-    {
-        "Timestamp": "2024/05/29 4:52:24 PM GMT+1",
-        "inNamer": {
-            "Name": "Daniel",
-            "Mname": "Chukwuebuka",
-            "Surname": "Okuma"
-        },
-        "reg": "20221326025",
-        "inparentno": "09039300429",
-        "Status": "MEMBER",
-        "bloodgroup": "O+",
-        "yearofadmin": "JAN.,2022",
-        "sex": "M",
-        "validity": "2022-2028",
-        "Department": "CSC ",
-        "Faculty": "SICT",
-        "picturepath": "https://mydatabase.com.ng/utilitie/nuasa/futop/9.jpg",
-        "id": "a3f61fe9-fa08-4e1d-97dd-d99e982e41a4"
-    },
-    {
-        "Timestamp": "2024/05/29 5:57:40 PM GMT+1",
-        "inNamer": {
-            "Name": "Roseline",
-            "Mname": "Chiemena",
-            "Surname": "Ohagorom"
-        },
-        "reg": "20221315395",
-        "inparentno": "08126633901",
-        "Status": "MEMBER",
-        "bloodgroup": "O+",
-        "yearofadmin": "JAN.,2022",
-        "sex": "M",
-        "validity": "2022-2028",
-        "Department": "Computer Science ",
-        "Faculty": "SICT",
-        "picturepath": "https://mydatabase.com.ng/utilitie/nuasa/futop/10.jpg",
-        "id": "d242c6eb-f9f6-40d7-ad76-a286932a5d3d"
-    },
-    {
-        "Timestamp": "2024/05/29 7:07:41 PM GMT+1",
-        "inNamer": {
-            "Name": "Nneoma",
-            "Mname": "Faith",
-            "Surname": "Okereke"
-        },
-        "reg": "20221317355",
-        "inparentno": "08136896184",
-        "Status": "MEMBER",
-        "bloodgroup": "O+",
-        "yearofadmin": "JAN.,2022",
-        "sex": "M",
-        "validity": "2022-2028",
-        "Department": "Computer Science ",
-        "Faculty": "SICT",
-        "picturepath": "https://mydatabase.com.ng/utilitie/nuasa/futop/11.jpg",
-        "id": "14b29d63-4ead-4e15-adad-5e95243d60d2"
-    },
-    {
-        "Timestamp": "2024/05/29 9:44:34 PM GMT+1",
-        "inNamer": {
-            "Name": "obi-osborn",
-            "Mname": "chukwuka",
-            "Surname": "Golden"
-        },
-        "reg": "20221342035",
-        "inparentno": "08109518220",
-        "Status": "MEMBER",
-        "bloodgroup": "O+",
-        "yearofadmin": "JAN.,2022",
-        "sex": "M",
-        "validity": "2022-2028",
-        "Department": "Computer science ",
-        "Faculty": "S.I.C.T",
-        "picturepath": "https://mydatabase.com.ng/utilitie/nuasa/futop/12.jpg",
-        "id": "0802ccbd-f56b-4c64-b166-1a90cf83264d"
-    },
-    {
-        "Timestamp": "2024/05/30 7:23:24 AM GMT+1",
-        "inNamer": {
-            "Name": "Franklyn",
-            "Mname": "Uchechukwu",
-            "Surname": "Uchenna"
-        },
-        "reg": "20221323825",
-        "inparentno": "09132513875",
-        "Status": "MEMBER",
-        "bloodgroup": "O+",
-        "yearofadmin": "JAN.,2022",
-        "sex": "M",
-        "validity": "2022-2028",
-        "Department": "Computer Science ",
-        "Faculty": "SICT",
-        "picturepath": "https://mydatabase.com.ng/utilitie/nuasa/futop/13.jpg",
-        "id": "82d266fb-153c-45db-8c50-4b0966199082"
-    },
-    {
-        "Timestamp": "2024/05/30 7:32:31 AM GMT+1",
-        "inNamer": {
-            "Name": "Oluebubechukwu ",
-            "Mname": "Wisdom",
-            "Surname": "Ukonu "
-        },
-        "reg": "20221338205",
-        "inparentno": "08133191158",
-        "Status": "MEMBER",
-        "bloodgroup": "O+",
-        "yearofadmin": "JAN.,2022",
-        "sex": "M",
-        "validity": "2022-2028",
-        "Department": "Computer science ",
-        "Faculty": "SICT",
-        "picturepath": "https://mydatabase.com.ng/utilitie/nuasa/futop/14.jpg",
-        "id": "c3016a7e-01ba-4dbf-85ce-e5da0a4d881e"
-    },
-    {
-        "Timestamp": "2024/05/30 7:51:58 AM GMT+1",
-        "inNamer": {
-            "Name": "Henry",
-            "Mname": "Chizitere",
-            "Surname": "Anakor"
-        },
-        "reg": "20221335055",
-        "inparentno": "08130434555",
-        "Status": "MEMBER",
-        "bloodgroup": "O+",
-        "yearofadmin": "JAN.,2022",
-        "sex": "M",
-        "validity": "2022-2028",
-        "Department": "Computer Science ",
-        "Faculty": "S.I.C.T",
-        "picturepath": "https://mydatabase.com.ng/utilitie/nuasa/futop/15.jpg",
-        "id": "f0fcf02c-339b-4517-8004-1f227f15265b"
-    },
-    {
-        "Timestamp": "2024/05/30 8:13:52 AM GMT+1",
-        "inNamer": {
-            "Name": "CHINWEOTITO",
-            "Mname": "CLEMENT",
-            "Surname": "ORIUWA"
-        },
-        "reg": "20221321825",
-        "inparentno": "09124490180",
-        "Status": "MEMBER",
-        "bloodgroup": "O+",
-        "yearofadmin": "JAN.,2022",
-        "sex": "M",
-        "validity": "2022-2028",
-        "Department": "COMPUTER SCIENCE ",
-        "Faculty": "SICT",
-        "picturepath": "https://mydatabase.com.ng/utilitie/nuasa/futop/16.jpg",
-        "id": "1a9ec61f-0063-4bb1-84e1-ad5dab7e5708"
-    },
-    {
-        "Timestamp": "2024/05/30 8:20:53 AM GMT+1",
-        "inNamer": {
-            "Name": "David",
-            "Mname": "Ugochukwu",
-            "Surname": "Oliver"
-        },
-        "reg": "20221309795",
-        "inparentno": "09118966714",
-        "Status": "MEMBER",
-        "bloodgroup": "O+",
-        "yearofadmin": "JAN.,2022",
-        "sex": "M",
-        "validity": "2022-2028",
-        "Department": "Computer Science ",
-        "Faculty": "SICT",
-        "picturepath": "https://mydatabase.com.ng/utilitie/nuasa/futop/17.jpg",
-        "id": "2189eb1d-4b0d-4172-a3b9-f54a51a85b26"
-    },
-    {
-        "Timestamp": "2024/05/30 8:25:40 AM GMT+1",
-        "inNamer": {
-            "Name": "chidera",
-            "Mname": "David",
-            "Surname": "Uzoh"
-        },
-        "reg": "20221324995",
-        "inparentno": "09127431792",
-        "Status": "MEMBER",
-        "bloodgroup": "O+",
-        "yearofadmin": "JAN.,2022",
-        "sex": "M",
-        "validity": "2022-2028",
-        "Department": "Computer Science ",
-        "Faculty": "SICT",
-        "picturepath": "https://mydatabase.com.ng/utilitie/nuasa/futop/18.jpg",
-        "id": "64167380-5e04-4961-be4d-666f24521ec3"
-    },
-    {
-        "Timestamp": "2024/05/30 9:36:49 AM GMT+1",
-        "inNamer": {
-            "Name": "Miracle",
-            "Mname": "Conscience",
-            "Surname": "Joseph"
-        },
-        "reg": "20221307075",
-        "inparentno": "0913 568 0679",
-        "Status": "MEMBER",
-        "bloodgroup": "O+",
-        "yearofadmin": "JAN.,2022",
-        "sex": "M",
-        "validity": "2022-2028",
-        "Department": "Computer Science ",
-        "Faculty": "SICT",
-        "picturepath": "https://mydatabase.com.ng/utilitie/nuasa/futop/19.jpg",
-        "id": "678e8848-c4e7-427b-8fb3-1777dee1ff93"
-    },
-    {
-        "Timestamp": "2024/05/30 9:59:55 AM GMT+1",
-        "inNamer": {
-            "Name": "chidera",
-            "Mname": "Bonaventure",
-            "Surname": "Eze"
-        },
-        "reg": "20221323085",
-        "inparentno": "07041581277",
-        "Status": "MEMBER",
-        "bloodgroup": "O+",
-        "yearofadmin": "JAN.,2022",
-        "sex": "M",
-        "validity": "2022-2028",
-        "Department": "Computer science ",
-        "Faculty": "SICt",
-        "picturepath": "https://mydatabase.com.ng/utilitie/nuasa/futop/20.jpg",
-        "id": "724af2cc-646e-46a1-be41-79d8ea02af85"
-    },
-    {
-        "Timestamp": "2024/05/30 10:09:01 AM GMT+1",
-        "inNamer": {
-            "Name": "Chidiebere",
-            "Mname": "Daniel",
-            "Surname": "Oparah"
-        },
-        "reg": "20221316515",
-        "inparentno": "07017197843",
-        "Status": "MEMBER",
-        "bloodgroup": "O+",
-        "yearofadmin": "JAN.,2022",
-        "sex": "M",
-        "validity": "2022-2028",
-        "Department": "Computer science ",
-        "Faculty": "Sict",
-        "picturepath": "https://mydatabase.com.ng/utilitie/nuasa/futop/21.jpg",
-        "id": "afe36c42-5215-4243-9257-5910f471dde1"
-    },
-    {
-        "Timestamp": "2024/05/30 10:09:55 AM GMT+1",
-        "inNamer": {
-            "Name": "Chukwuebuka",
-            "Mname": "Stephen",
-            "Surname": "Ayaka"
-        },
-        "reg": "20221342265",
-        "inparentno": "09049453830",
-        "Status": "MEMBER",
-        "bloodgroup": "O+",
-        "yearofadmin": "JAN.,2022",
-        "sex": "M",
-        "validity": "2022-2028",
-        "Department": "Computer Science",
-        "Faculty": "SICT",
-        "picturepath": "https://mydatabase.com.ng/utilitie/nuasa/futop/22.jpg",
-        "id": "0501452a-c496-4b7b-9b9d-db0541ae28df"
-    },
-    {
-        "Timestamp": "2024/05/30 10:11:06 AM GMT+1",
-        "inNamer": {
-            "Name": "Favour",
-            "Mname": "Chioma",
-            "Surname": "Obodozie"
-        },
-        "reg": "20221309375",
-        "inparentno": "08039816391",
-        "Status": "MEMBER",
-        "bloodgroup": "O+",
-        "yearofadmin": "JAN.,2022",
-        "sex": "M",
-        "validity": "2022-2028",
-        "Department": "Computer Science",
-        "Faculty": "SICT",
-        "picturepath": "https://mydatabase.com.ng/utilitie/nuasa/futop/23.jpg",
-        "id": "bb59f03f-a14e-4ded-b135-a445c4fd2d60"
-    },
-    {
-        "Timestamp": "2024/05/30 10:11:50 AM GMT+1",
-        "inNamer": {
-            "Name": "SOMTOCHUKWU",
-            "Mname": "EMMANUEL",
-            "Surname": "IRECHUKWU"
-        },
-        "reg": "20221329055",
-        "inparentno": "09027950148",
-        "Status": "MEMBER",
-        "bloodgroup": "O+",
-        "yearofadmin": "JAN.,2022",
-        "sex": "M",
-        "validity": "2022-2028",
-        "Department": "COMPUTER SCIENCE",
-        "Faculty": "SICT",
-        "picturepath": "https://mydatabase.com.ng/utilitie/nuasa/futop/24.jpg",
-        "id": "49566d5e-ff57-4228-b778-7137f120f264"
-    },
-    {
-        "Timestamp": "2024/05/30 10:12:28 AM GMT+1",
-        "inNamer": {
-            "Name": "Tochukwu",
-            "Mname": "Christian Diepreye",
-            "Surname": "Opara"
-        },
-        "reg": "20221329445",
-        "inparentno": "08161419069",
-        "Status": "MEMBER",
-        "bloodgroup": "O+",
-        "yearofadmin": "JAN.,2022",
-        "sex": "M",
-        "validity": "2022-2028",
-        "Department": "Computer science ",
-        "Faculty": "Sict",
-        "picturepath": "https://mydatabase.com.ng/utilitie/nuasa/futop/25.jpg",
-        "id": "95d723db-8d0a-4012-b0d5-63cbc89d743e"
-    },
-    {
-        "Timestamp": "2024/05/30 10:13:24 AM GMT+1",
-        "inNamer": {
-            "Name": "Charles",
-            "Mname": "Nnaemeka",
-            "Surname": "Chikwe"
-        },
-        "reg": "20221328695",
-        "inparentno": "08153092969",
-        "Status": "MEMBER",
-        "bloodgroup": "O+",
-        "yearofadmin": "JAN.,2022",
-        "sex": "M",
-        "validity": "2022-2028",
-        "Department": "Computer Science ",
-        "Faculty": "SCIT",
-        "picturepath": "https://mydatabase.com.ng/utilitie/nuasa/futop/26.jpg",
-        "id": "05f7cad2-c0ee-4d95-818a-ef570c6ddc06"
-    },
-    {
-        "Timestamp": "2024/05/30 10:16:15 AM GMT+1",
-        "inNamer": {
-            "Name": "Chidiebere",
-            "Mname": "Victor",
-            "Surname": "Nnadi"
-        },
-        "reg": "20221339085",
-        "inparentno": "08135968655",
-        "Status": "MEMBER",
-        "bloodgroup": "O+",
-        "yearofadmin": "JAN.,2022",
-        "sex": "M",
-        "validity": "2022-2028",
-        "Department": "Computer science",
-        "Faculty": "S.I.C.T",
-        "picturepath": "https://mydatabase.com.ng/utilitie/nuasa/futop/27.jpg",
-        "id": "fb0359fa-1874-4af7-bef0-179de2fcef2f"
-    },
-    {
-        "Timestamp": "2024/05/30 10:16:24 AM GMT+1",
-        "inNamer": {
-            "Name": "Chinedu",
-            "Mname": "Freedom",
-            "Surname": "Chimeziri"
-        },
-        "reg": "20221326475",
-        "inparentno": "08160108204",
-        "Status": "MEMBER",
-        "bloodgroup": "O+",
-        "yearofadmin": "JAN.,2022",
-        "sex": "M",
-        "validity": "2022-2028",
-        "Department": "Computer science ",
-        "Faculty": "SICT",
-        "picturepath": "https://mydatabase.com.ng/utilitie/nuasa/futop/28.jpg",
-        "id": "2c6cf0d2-52a3-4fe7-b512-2fd15d9d1317"
-    },
-    {
-        "Timestamp": "2024/05/30 10:19:58 AM GMT+1",
-        "inNamer": {
-            "Name": "Chidiamara",
-            "Mname": "Blessing",
-            "Surname": "Mbamara"
-        },
-        "reg": "20233389862",
-        "inparentno": "08025556944",
-        "Status": "MEMBER",
-        "bloodgroup": "O+",
-        "yearofadmin": "JAN.,2022",
-        "sex": "M",
-        "validity": "2022-2028",
-        "Department": "Computer science ",
-        "Faculty": "SICT",
-        "picturepath": "https://mydatabase.com.ng/utilitie/nuasa/futop/29.jpg",
-        "id": "24836f32-94cd-4011-af44-329b1bffe53d"
-    },
-    {
-        "Timestamp": "2024/05/30 10:20:33 AM GMT+1",
-        "inNamer": {
-            "Name": "Thomas",
-            "Mname": "Emmanuel-Mary",
-            "Surname": "Elechi"
-        },
-        "reg": "20221316085",
-        "inparentno": "08160177930",
-        "Status": "MEMBER",
-        "bloodgroup": "O+",
-        "yearofadmin": "JAN.,2022",
-        "sex": "M",
-        "validity": "2022-2028",
-        "Department": "Computer science ",
-        "Faculty": "SICT",
-        "picturepath": "https://mydatabase.com.ng/utilitie/nuasa/futop/30.jpg",
-        "id": "96e06c50-99aa-465f-a784-b04b8a10d645"
-    },
-    {
-        "Timestamp": "2024/05/30 10:25:17 AM GMT+1",
-        "inNamer": {
-            "Name": "Stephen",
-            "Mname": "Wisdom",
-            "Surname": "Osuji"
-        },
-        "reg": "20221306515",
-        "inparentno": "07035376052",
-        "Status": "MEMBER",
-        "bloodgroup": "O+",
-        "yearofadmin": "JAN.,2022",
-        "sex": "M",
-        "validity": "2022-2028",
-        "Department": "Computer Science ",
-        "Faculty": "SICT",
-        "picturepath": "https://mydatabase.com.ng/utilitie/nuasa/futop/31.jpg",
-        "id": "6ae31a37-9f7d-445e-9885-b0bd23b1b935"
-    },
-    {
-        "Timestamp": "2024/05/30 10:31:58 AM GMT+1",
-        "inNamer": {
-            "Name": "Ifeanyi",
-            "Mname": "Avi",
-            "Surname": "Ibekwe"
-        },
-        "reg": "20221340545",
-        "inparentno": "08139418725",
-        "Status": "MEMBER",
-        "bloodgroup": "O+",
-        "yearofadmin": "JAN.,2022",
-        "sex": "M",
-        "validity": "2022-2028",
-        "Department": "Computer science ",
-        "Faculty": "SICT",
-        "picturepath": "https://mydatabase.com.ng/utilitie/nuasa/futop/32.jpg",
-        "id": "4519459f-eb67-4f42-9b71-63ff893bd28b"
-    },
-    {
-        "Timestamp": "2024/05/30 11:10:56 AM GMT+1",
-        "inNamer": {
-            "Name": "SAMUEL",
-            "Mname": "NKEMAKOLAM",
-            "Surname": "OPARA"
-        },
-        "reg": "20221313125",
-        "inparentno": "08130477310",
-        "Status": "MEMBER",
-        "bloodgroup": "O+",
-        "yearofadmin": "JAN.,2022",
-        "sex": "M",
-        "validity": "2022-2028",
-        "Department": "COMPUTER SCIENCE ",
-        "Faculty": "SICT",
-        "picturepath": "https://mydatabase.com.ng/utilitie/nuasa/futop/33.jpg",
-        "id": "368c90b0-4e17-4da3-b018-83a4aa3f9c79"
-    },
-    {
-        "Timestamp": "2024/05/30 11:20:54 AM GMT+1",
-        "inNamer": {
-            "Name": "Amarachi",
-            "Mname": "Testimony",
-            "Surname": "Ndukwe "
-        },
-        "reg": "20221317475",
-        "inparentno": "08089655247",
-        "Status": "MEMBER",
-        "bloodgroup": "O+",
-        "yearofadmin": "JAN.,2022",
-        "sex": "M",
-        "validity": "2022-2028",
-        "Department": "Computer Science",
-        "Faculty": "SICT",
-        "picturepath": "https://mydatabase.com.ng/utilitie/nuasa/futop/34.jpg",
-        "id": "17ae2080-7359-436f-b583-f7f1393be912"
-    },
-    {
-        "Timestamp": "2024/05/30 11:39:27 AM GMT+1",
-        "inNamer": {
-            "Name": "CHINAZA",
-            "Mname": "WISDOM",
-            "Surname": "ONYELEKEREM"
-        },
-        "reg": "20221326585",
-        "inparentno": "09067551586",
-        "Status": "MEMBER",
-        "bloodgroup": "O+",
-        "yearofadmin": "JAN.,2022",
-        "sex": "M",
-        "validity": "2022-2028",
-        "Department": "Computer science ",
-        "Faculty": "SICT",
-        "picturepath": "https://mydatabase.com.ng/utilitie/nuasa/futop/35.jpg",
-        "id": "217ff220-48ff-4f90-bb79-fb4a32f8c24b"
-    },
-    {
-        "Timestamp": "2024/05/30 11:51:39 AM GMT+1",
-        "inNamer": {
-            "Name": "FRANCIS",
-            "Mname": "CHUKWUEBUKA",
-            "Surname": "ABIAKAM"
-        },
-        "reg": "20221308535",
-        "inparentno": "09136941262",
-        "Status": "MEMBER",
-        "bloodgroup": "O+",
-        "yearofadmin": "JAN.,2022",
-        "sex": "M",
-        "validity": "2022-2028",
-        "Department": "COMPUTER SCIENCE ",
-        "Faculty": "SCIT",
-        "picturepath": "https://mydatabase.com.ng/utilitie/nuasa/futop/36.jpg",
-        "id": "607af10a-1843-4e60-8f36-9e6036d85b86"
-    },
-    {
-        "Timestamp": "2024/05/30 11:58:45 AM GMT+1",
-        "inNamer": {
-            "Name": "Success",
-            "Mname": "Chinonso",
-            "Surname": "Oguji"
-        },
-        "reg": "20221311765",
-        "inparentno": "07025279847",
-        "Status": "MEMBER",
-        "bloodgroup": "O+",
-        "yearofadmin": "JAN.,2022",
-        "sex": "M",
-        "validity": "2022-2028",
-        "Department": "Computer Science ",
-        "Faculty": "SICT",
-        "picturepath": "https://mydatabase.com.ng/utilitie/nuasa/futop/37.jpg",
-        "id": "20196120-7465-4e77-9638-403313f165f2"
-    },
-    {
-        "Timestamp": "2024/05/30 12:05:14 PM GMT+1",
-        "inNamer": {
-            "Name": "Nnaemeka",
-            "Mname": "David",
-            "Surname": "Kemakolam"
-        },
-        "reg": "20221325015",
-        "inparentno": "08025763686, 07049307536",
-        "Status": "MEMBER",
-        "bloodgroup": "O+",
-        "yearofadmin": "JAN.,2022",
-        "sex": "M",
-        "validity": "2022-2028",
-        "Department": "Computer Science",
-        "Faculty": "SICT",
-        "picturepath": "https://mydatabase.com.ng/utilitie/nuasa/futop/38.jpg",
-        "id": "2e76b02d-a65b-462a-9b1b-61bf592a7260"
-    },
-    {
-        "Timestamp": "2024/05/30 12:18:09 PM GMT+1",
-        "inNamer": {
-            "Name": "Emmanuel",
-            "Mname": "chinonso",
-            "Surname": "Nlewedim"
-        },
-        "reg": "20221337005",
-        "inparentno": "07068595756",
-        "Status": "MEMBER",
-        "bloodgroup": "O+",
-        "yearofadmin": "JAN.,2022",
-        "sex": "M",
-        "validity": "2022-2028",
-        "Department": "Computer science ",
-        "Faculty": "Sict",
-        "picturepath": "https://mydatabase.com.ng/utilitie/nuasa/futop/39.jpg",
-        "id": "6bbcdbe4-566c-42b1-8f34-ce64fe9163f8"
-    },
-    {
-        "Timestamp": "2024/05/30 12:19:04 PM GMT+1",
-        "inNamer": {
-            "Name": "Kelechukwu",
-            "Mname": "Favour",
-            "Surname": "John"
-        },
-        "reg": "20221309545",
-        "inparentno": "07019760325",
-        "Status": "MEMBER",
-        "bloodgroup": "O+",
-        "yearofadmin": "JAN.,2022",
-        "sex": "M",
-        "validity": "2022-2028",
-        "Department": "Computer science ",
-        "Faculty": "SICT",
-        "picturepath": "https://mydatabase.com.ng/utilitie/nuasa/futop/40.jpg",
-        "id": "39b92a26-6caa-42f5-8bea-88ffe33f9179"
-    },
-    {
-        "Timestamp": "2024/05/30 12:25:52 PM GMT+1",
-        "inNamer": {
-            "Name": "Ndubuisi",
-            "Mname": "Fidelis",
-            "Surname": "Ukwuani"
-        },
-        "reg": "20221317695",
-        "inparentno": "08028514704",
-        "Status": "MEMBER",
-        "bloodgroup": "O+",
-        "yearofadmin": "JAN.,2022",
-        "sex": "M",
-        "validity": "2022-2028",
-        "Department": "Computer Science ",
-        "Faculty": "SICT",
-        "picturepath": "https://mydatabase.com.ng/utilitie/nuasa/futop/41.jpg",
-        "id": "82122e6c-9179-4a20-8737-cc639dd614d1"
-    },
-    {
-        "Timestamp": "2024/05/30 12:54:08 PM GMT+1",
-        "inNamer": {
-            "Name": "Ebubechukwu",
-            "Mname": "Triumph",
-            "Surname": "Ogbonna"
-        },
-        "reg": "20221309825",
-        "inparentno": "07089093249",
-        "Status": "MEMBER",
-        "bloodgroup": "O+",
-        "yearofadmin": "JAN.,2022",
-        "sex": "M",
-        "validity": "2022-2028",
-        "Department": "Computer Science (CSC)",
-        "Faculty": "SICT",
-        "picturepath": "https://mydatabase.com.ng/utilitie/nuasa/futop/42.jpg",
-        "id": "838f0f85-77d1-464c-be08-ff4077772bad"
-    },
-    {
-        "Timestamp": "2024/05/30 12:54:36 PM GMT+1",
-        "inNamer": {
-            "Name": "Melchizedek",
-            "Mname": "",
-            "Surname": "Lazarus"
-        },
-        "reg": "20221322255",
-        "inparentno": "09161154894",
-        "Status": "MEMBER",
-        "bloodgroup": "O+",
-        "yearofadmin": "JAN.,2022",
-        "sex": "M",
-        "validity": "2022-2028",
-        "Department": "Computer science ",
-        "Faculty": "SET",
-        "picturepath": "https://mydatabase.com.ng/utilitie/nuasa/futop/0.jpg",
-        "id": "c740e976-7552-4e6a-8874-58557e82f9f6"
-    },
-    {
-        "Timestamp": "2024/05/30 12:54:39 PM GMT+1",
-        "inNamer": {
-            "Name": "Amarachi",
-            "Mname": "Favour",
-            "Surname": "Ogbonna"
-        },
-        "reg": "20221311365",
-        "inparentno": "09163490639",
-        "Status": "MEMBER",
-        "bloodgroup": "O+",
-        "yearofadmin": "JAN.,2022",
-        "sex": "M",
-        "validity": "2022-2028",
-        "Department": "Computer Science",
-        "Faculty": "S.I.C.T",
-        "picturepath": "https://mydatabase.com.ng/utilitie/nuasa/futop/44.jpg",
-        "id": "3f9b440d-2694-41c3-bb8b-ecac697ff883"
-    },
-    {
-        "Timestamp": "2024/05/30 12:57:58 PM GMT+1",
-        "inNamer": {
-            "Name": "Ikechukwu",
-            "Mname": "Samuel",
-            "Surname": "Timothy"
-        },
-        "reg": "20221319735",
-        "inparentno": "07083574058",
-        "Status": "MEMBER",
-        "bloodgroup": "O+",
-        "yearofadmin": "JAN.,2022",
-        "sex": "M",
-        "validity": "2022-2028",
-        "Department": "Computer Science (CSC)",
-        "Faculty": "SICT",
-        "picturepath": "https://mydatabase.com.ng/utilitie/nuasa/futop/45.jpg",
-        "id": "a85c8566-d2db-467e-939a-52c4a87806ea"
-    },
-    {
-        "Timestamp": "2024/05/30 12:59:40 PM GMT+1",
-        "inNamer": {
-            "Name": "ISRAEL",
-            "Mname": "EBUBE",
-            "Surname": "ELEAZAR"
-        },
-        "reg": "20221339495",
-        "inparentno": "09038909464",
-        "Status": "MEMBER",
-        "bloodgroup": "O+",
-        "yearofadmin": "JAN.,2022",
-        "sex": "M",
-        "validity": "2022-2028",
-        "Department": "Computer science",
-        "Faculty": "School of Information and Communication Technology(SICT)",
-        "picturepath": "https://mydatabase.com.ng/utilitie/nuasa/futop/46.jpg",
-        "id": "ee82e56f-9c77-4a27-bc67-062604c00e46"
-    },
-    {
-        "Timestamp": "2024/05/30 1:02:57 PM GMT+1",
-        "inNamer": {
-            "Name": "Godspower",
-            "Mname": "nmesoma",
-            "Surname": "Ibe"
-        },
-        "reg": "20233361325",
-        "inparentno": "08100578863",
-        "Status": "MEMBER",
-        "bloodgroup": "O+",
-        "yearofadmin": "JAN.,2022",
-        "sex": "M",
-        "validity": "2022-2028",
-        "Department": "Computer science ",
-        "Faculty": "SICT",
-        "picturepath": "https://mydatabase.com.ng/utilitie/nuasa/futop/47.jpg",
-        "id": "cc5eb9cc-31fc-4c68-96d3-e3aa71867419"
-    },
-    {
-        "Timestamp": "2024/05/30 1:04:23 PM GMT+1",
-        "inNamer": {
-            "Name": "Valentine",
-            "Mname": "Chukwuemeka",
-            "Surname": "Mgbeahuru"
-        },
-        "reg": "20221325185",
-        "inparentno": "07069981727",
-        "Status": "MEMBER",
-        "bloodgroup": "O+",
-        "yearofadmin": "JAN.,2022",
-        "sex": "M",
-        "validity": "2022-2028",
-        "Department": "Computer science ",
-        "Faculty": "SICT",
-        "picturepath": "https://mydatabase.com.ng/utilitie/nuasa/futop/48.jpg",
-        "id": "e44955a0-de2e-462d-ae52-7615af2d3e11"
-    },
-    {
-        "Timestamp": "2024/05/30 1:07:17 PM GMT+1",
-        "inNamer": {
-            "Name": "Chikezie",
-            "Mname": "Bruno",
-            "Surname": "Iwuchukwu"
-        },
-        "reg": "20221316135",
-        "inparentno": "09039145076",
-        "Status": "MEMBER",
-        "bloodgroup": "O+",
-        "yearofadmin": "JAN.,2022",
-        "sex": "M",
-        "validity": "2022-2028",
-        "Department": "Computer science ",
-        "Faculty": "SICT",
-        "picturepath": "https://mydatabase.com.ng/utilitie/nuasa/futop/49.jpg",
-        "id": "82c65164-f2eb-4637-ad7c-4ccf028923b6"
-    },
-    {
-        "Timestamp": "2024/05/30 1:12:17 PM GMT+1",
-        "inNamer": {
-            "Name": "CHINAEMELUM",
-            "Mname": "THANKGOD",
-            "Surname": "ALOZIE"
-        },
-        "reg": "20221323575",
-        "inparentno": "09123065291",
-        "Status": "MEMBER",
-        "bloodgroup": "O+",
-        "yearofadmin": "JAN.,2022",
-        "sex": "M",
-        "validity": "2022-2028",
-        "Department": "COMPUTER SCIENCE ",
-        "Faculty": "SICT",
-        "picturepath": "https://mydatabase.com.ng/utilitie/nuasa/futop/50.jpg",
-        "id": "5122dec7-947e-4b74-8597-83798147ce54"
-    },
-    {
-        "Timestamp": "2024/05/30 1:14:47 PM GMT+1",
-        "inNamer": {
-            "Name": "Nkemjika",
-            "Mname": "Onyeka",
-            "Surname": "Reward"
-        },
-        "reg": "20221324625",
-        "inparentno": "+2348162928125",
-        "Status": "MEMBER",
-        "bloodgroup": "O+",
-        "yearofadmin": "JAN.,2022",
-        "sex": "M",
-        "validity": "2022-2028",
-        "Department": "Computer Science ",
-        "Faculty": "SICT",
-        "picturepath": "https://mydatabase.com.ng/utilitie/nuasa/futop/51.jpg",
-        "id": "70ec8d53-eddd-4ca6-a950-7caf54016e64"
-    },
-    {
-        "Timestamp": "2024/05/30 4:02:20 PM GMT+1",
-        "inNamer": {
-            "Name": "Udochukwu",
-            "Mname": "Emmanuel",
-            "Surname": "Onyibe"
-        },
-        "reg": "20221351185",
-        "inparentno": "070 8867 7699 ",
-        "Status": "MEMBER",
-        "bloodgroup": "O+",
-        "yearofadmin": "JAN.,2022",
-        "sex": "M",
-        "validity": "2022-2028",
-        "Department": "Computer Science ",
-        "Faculty": "SICT",
-        "picturepath": "https://mydatabase.com.ng/utilitie/nuasa/futop/52.jpg",
-        "id": "f4990a0a-ff65-428a-abaa-d28fe68740a3"
-    },
-    {
-        "Timestamp": "2024/05/30 4:53:06 PM GMT+1",
-        "inNamer": {
-            "Name": "Gerald",
-            "Mname": "Ikechukwu",
-            "Surname": "Echetama"
-        },
-        "reg": "20221318895",
-        "inparentno": "08101891184",
-        "Status": "MEMBER",
-        "bloodgroup": "O+",
-        "yearofadmin": "JAN.,2022",
-        "sex": "M",
-        "validity": "2022-2028",
-        "Department": "Computer Science",
-        "Faculty": "S.I.C.T.",
-        "picturepath": "https://mydatabase.com.ng/utilitie/nuasa/futop/53.jpg",
-        "id": "9264e6b9-5789-4a04-83ad-db8350345696"
-    },
-    {
-        "Timestamp": "2024/05/30 4:56:18 PM GMT+1",
-        "inNamer": {
-            "Name": "ADIMORA",
-            "Mname": "MICHAEL",
-            "Surname": "NGWU"
-        },
-        "reg": "20211307995",
-        "inparentno": "07063614047",
-        "Status": "MEMBER",
-        "bloodgroup": "O+",
-        "yearofadmin": "JAN.,2022",
-        "sex": "M",
-        "validity": "2022-2028",
-        "Department": "Computer Science ",
-        "Faculty": "SICt",
-        "picturepath": "https://mydatabase.com.ng/utilitie/nuasa/futop/54.jpg",
-        "id": "0c590fe1-ce0f-4a1e-a372-a1325f910ee3"
-    },
-    {
-        "Timestamp": "2024/05/30 6:48:47 PM GMT+1",
-        "inNamer": {
-            "Name": "Nkeiru",
-            "Mname": "Doris",
-            "Surname": "Ogualiri"
-        },
-        "reg": "20221306445",
-        "inparentno": "08104855246",
-        "Status": "MEMBER",
-        "bloodgroup": "O+",
-        "yearofadmin": "JAN.,2022",
-        "sex": "M",
-        "validity": "2022-2028",
-        "Department": "Computer science ",
-        "Faculty": "SICT",
-        "picturepath": "https://mydatabase.com.ng/utilitie/nuasa/futop/55.jpg",
-        "id": "7845dd48-c357-4e2b-b080-b32b0767048f"
-    },
-    {
-        "Timestamp": "2024/05/31 9:39:43 AM GMT+1",
-        "inNamer": {
-            "Name": "Mercy",
-            "Mname": "Onyinyechi",
-            "Surname": "Chukwuemeka"
-        },
-        "reg": "20221319305",
-        "inparentno": "08148521005",
-        "Status": "MEMBER",
-        "bloodgroup": "O+",
-        "yearofadmin": "JAN.,2022",
-        "sex": "M",
-        "validity": "2022-2028",
-        "Department": "Computer science ",
-        "Faculty": "Sict",
-        "picturepath": "https://mydatabase.com.ng/utilitie/nuasa/futop/0.jpg",
-        "id": "f2ba344b-9ceb-4444-b642-563de9409c70"
-    },
-    {
-        "Timestamp": "2024/06/05 5:22:17 PM GMT+1",
-        "inNamer": {
-            "Name": "chigaemezu",
-            "Mname": "Emmanuel",
-            "Surname": "Emecheta"
-        },
-        "reg": "20221325095",
-        "inparentno": "08137949901",
-        "Status": "MEMBER",
-        "bloodgroup": "O+",
-        "yearofadmin": "JAN.,2022",
-        "sex": "M",
-        "validity": "2022-2028",
-        "Department": "Computer science ",
-        "Faculty": "SICT",
-        "picturepath": "https://mydatabase.com.ng/utilitie/nuasa/futop/57.jpg",
-        "id": "8765fd0b-961c-4536-b947-1b92d5356e5f"
-    },
-    {
-        "Timestamp": "2024/06/05 7:41:34 PM GMT+1",
-        "inNamer": {
-            "Name": "Elochukwu",
-            "Mname": "Joshua",
-            "Surname": "Mbamara"
-        },
-        "reg": "20221310785",
-        "inparentno": "09131428164",
-        "Status": "MEMBER",
-        "bloodgroup": "O+",
-        "yearofadmin": "JAN.,2022",
-        "sex": "M",
-        "validity": "2022-2028",
-        "Department": "Computer Science ",
-        "Faculty": "SICT",
-        "picturepath": "https://mydatabase.com.ng/utilitie/nuasa/futop/58.jpg",
-        "id": "76cd4852-9f20-4975-b708-78375530ee0f"
-    },
-    {
-        "Timestamp": "2024/06/05 9:30:00 PM GMT+1",
-        "inNamer": {
-            "Name": "CHINEMEREM",
-            "Mname": "Emmanuel",
-            "Surname": "Akalazu"
-        },
-        "reg": "20221342365",
-        "inparentno": "07025821335",
-        "Status": "MEMBER",
-        "bloodgroup": "O+",
-        "yearofadmin": "JAN.,2022",
-        "sex": "M",
-        "validity": "2022-2028",
-        "Department": "Computer science ",
-        "Faculty": "SICT",
-        "picturepath": "https://mydatabase.com.ng/utilitie/nuasa/futop/59.jpg",
-        "id": "becc8e6e-a53e-42cf-9d02-17653504d679"
-    },
-    {
-        "Timestamp": "2024/06/05 10:05:07 PM GMT+1",
-        "inNamer": {
-            "Name": "Anthony",
-            "Mname": "kelechi",
-            "Surname": "Emezi"
-        },
-        "reg": "20221338295",
-        "inparentno": "09157475255",
-        "Status": "MEMBER",
-        "bloodgroup": "O+",
-        "yearofadmin": "JAN.,2022",
-        "sex": "M",
-        "validity": "2022-2028",
-        "Department": "Computer science ",
-        "Faculty": "SICT",
-        "picturepath": "https://mydatabase.com.ng/utilitie/nuasa/futop/60.jpg",
-        "id": "d5745d50-8c9e-436d-8ffb-0c693d772b43"
-    },
-    {
-        "Timestamp": "2024/06/05 11:53:26 PM GMT+1",
-        "inNamer": {
-            "Name": "Victor",
-            "Mname": "Onyekachi",
-            "Surname": "Odo"
-        },
-        "reg": "20221322785",
-        "inparentno": "09021720996",
-        "Status": "MEMBER",
-        "bloodgroup": "O+",
-        "yearofadmin": "JAN.,2022",
-        "sex": "M",
-        "validity": "2022-2028",
-        "Department": "Computer Science ",
-        "Faculty": "SICT",
-        "picturepath": "https://mydatabase.com.ng/utilitie/nuasa/futop/61.jpg",
-        "id": "0d7ccaca-2dd6-4512-a532-dbc19c3d8edc"
-    },
-    {
-        "Timestamp": "2024/06/06 9:35:24 AM GMT+1",
-        "inNamer": {
-            "Name": "Ikedichim",
-            "Mname": "Success",
-            "Surname": "Odom"
-        },
-        "reg": "20221305315",
-        "inparentno": "09050038159",
-        "Status": "MEMBER",
-        "bloodgroup": "O+",
-        "yearofadmin": "JAN.,2022",
-        "sex": "M",
-        "validity": "2022-2028",
-        "Department": "Computer science ",
-        "Faculty": "CSC",
-        "picturepath": "https://mydatabase.com.ng/utilitie/nuasa/futop/62.jpg",
-        "id": "67ea7c6a-3b82-4891-a0d3-9c333bed1450"
-    },
-    {
-        "Timestamp": "2024/06/06 2:23:45 PM GMT+1",
-        "inNamer": {
-            "Name": "JOSHUA ",
-            "Mname": "CHIDIEBELE",
-            "Surname": "OFOKANSI"
-        },
-        "reg": "20221305925",
-        "inparentno": "08069971739",
-        "Status": "MEMBER",
-        "bloodgroup": "O+",
-        "yearofadmin": "JAN.,2022",
-        "sex": "M",
-        "validity": "2022-2028",
-        "Department": "Computer science (CSC)",
-        "Faculty": "SICT",
-        "picturepath": "https://mydatabase.com.ng/utilitie/nuasa/futop/63.jpg",
-        "id": "fe3a7cb1-efee-48d5-82c4-dfd47680c23f"
-    },
-    {
-        "Timestamp": "2024/06/06 2:47:19 PM GMT+1",
-        "inNamer": {
-            "Name": "Vitalis",
-            "Mname": "Makuochukwu",
-            "Surname": "Egwuonwu"
-        },
-        "reg": "20221325885",
-        "inparentno": "07026139914",
-        "Status": "MEMBER",
-        "bloodgroup": "O+",
-        "yearofadmin": "JAN.,2022",
-        "sex": "M",
-        "validity": "2022-2028",
-        "Department": "Computer science ",
-        "Faculty": "SICT",
-        "picturepath": "https://mydatabase.com.ng/utilitie/nuasa/futop/64.jpg",
-        "id": "e93425ed-72cd-45c0-aaec-d9c08b568f03"
-    },
-    {
-        "Timestamp": "2024/06/06 4:21:58 PM GMT+1",
-        "inNamer": {
-            "Name": "Kelechi",
-            "Mname": "Mitchel",
-            "Surname": "Uzoahia"
-        },
-        "reg": "20221357872",
-        "inparentno": "08127110407",
-        "Status": "MEMBER",
-        "bloodgroup": "O+",
-        "yearofadmin": "JAN.,2022",
-        "sex": "M",
-        "validity": "2022-2028",
-        "Department": "Computer Science ",
-        "Faculty": "SICT",
-        "picturepath": "https://mydatabase.com.ng/utilitie/nuasa/futop/65.jpg",
-        "id": "8000753f-07ac-4192-8521-814cf3a0f02a"
-    },
-    {
-        "Timestamp": "2024/06/06 7:21:51 PM GMT+1",
-        "inNamer": {
-            "Name": "Nnanna",
-            "Mname": "Victor",
-            "Surname": "Agbi"
-        },
-        "reg": "20221338605",
-        "inparentno": "09078823019",
-        "Status": "MEMBER",
-        "bloodgroup": "O+",
-        "yearofadmin": "JAN.,2022",
-        "sex": "M",
-        "validity": "2022-2028",
-        "Department": "Computer Science",
-        "Faculty": "SICT",
-        "picturepath": "https://mydatabase.com.ng/utilitie/nuasa/futop/66.jpg",
-        "id": "274403c9-54bf-49f1-bd3b-e6847a87726e"
-    },
-    {
-        "Timestamp": "2024/06/06 7:52:05 PM GMT+1",
-        "inNamer": {
-            "Name": "Francis",
-            "Mname": "Tochukwu",
-            "Surname": "Uchegbu"
-        },
-        "reg": "20221353285",
-        "inparentno": "08080577722",
-        "Status": "MEMBER",
-        "bloodgroup": "O+",
-        "yearofadmin": "JAN.,2022",
-        "sex": "M",
-        "validity": "2022-2028",
-        "Department": "Computer Science ",
-        "Faculty": "SICT",
-        "picturepath": "https://mydatabase.com.ng/utilitie/nuasa/futop/67.jpg",
-        "id": "2514a682-a5a5-4eea-b664-f7ee0a2ab3ab"
-    },
-    {
-        "Timestamp": "2024/06/06 11:03:00 PM GMT+1",
-        "inNamer": {
-            "Name": "THOMPSON",
-            "Mname": "PEREKE-EBI",
-            "Surname": "AYABOTU"
-        },
-        "reg": "20221354305",
-        "inparentno": "07043962791",
-        "Status": "MEMBER",
-        "bloodgroup": "O+",
-        "yearofadmin": "JAN.,2022",
-        "sex": "M",
-        "validity": "2022-2028",
-        "Department": "Computer science ",
-        "Faculty": "CSC",
-        "picturepath": "https://mydatabase.com.ng/utilitie/nuasa/futop/68.jpg",
-        "id": "f63f94c2-f59b-45b5-950c-2b1a9e85ddf7"
-    },
-    {
-        "Timestamp": "2024/06/07 6:23:12 AM GMT+1",
-        "inNamer": {
-            "Name": "Uchechukwu",
-            "Mname": "Nelson",
-            "Surname": "Onuegbu"
-        },
-        "reg": "20221315555",
-        "inparentno": "08096781730",
-        "Status": "MEMBER",
-        "bloodgroup": "O+",
-        "yearofadmin": "JAN.,2022",
-        "sex": "M",
-        "validity": "2022-2028",
-        "Department": "Computer Science",
-        "Faculty": "SICT",
-        "picturepath": "https://mydatabase.com.ng/utilitie/nuasa/futop/69.jpg",
-        "id": "018e86f2-18b2-4a6d-b75d-494c8c8c19c8"
-    },
-    {
-        "Timestamp": "2024/06/07 8:53:37 AM GMT+1",
-        "inNamer": {
-            "Name": "Ogochukwu",
-            "Mname": "Esther",
-            "Surname": "Akaliro"
-        },
-        "reg": "20221313385",
-        "inparentno": "08132420471",
-        "Status": "MEMBER",
-        "bloodgroup": "O+",
-        "yearofadmin": "JAN.,2022",
-        "sex": "M",
-        "validity": "2022-2028",
-        "Department": "Computer Science ",
-        "Faculty": "SICT",
-        "picturepath": "https://mydatabase.com.ng/utilitie/nuasa/futop/70.jpg",
-        "id": "4dba10ec-475c-43fc-bfe5-3c28646fbe44"
-    },
-    {
-        "Timestamp": "2024/06/07 9:13:26 AM GMT+1",
-        "inNamer": {
-            "Name": "Chiemela",
-            "Mname": "Emmanuel",
-            "Surname": "Ikechi"
-        },
-        "reg": "20221319145",
-        "inparentno": "09030436679",
-        "Status": "MEMBER",
-        "bloodgroup": "O+",
-        "yearofadmin": "JAN.,2022",
-        "sex": "M",
-        "validity": "2022-2028",
-        "Department": "Computer Science",
-        "Faculty": "SICT",
-        "picturepath": "https://mydatabase.com.ng/utilitie/nuasa/futop/71.jpg",
-        "id": "ed8fdb04-fc89-4a81-acb9-b1890e4a4354"
-    },
-    {
-        "Timestamp": "2024/06/07 9:51:38 AM GMT+1",
-        "inNamer": {
-            "Name": "Chukwuebuka",
-            "Mname": "Macvictor",
-            "Surname": "Chiwueze"
-        },
-        "reg": "20221319925",
-        "inparentno": "09026257408",
-        "Status": "MEMBER",
-        "bloodgroup": "O+",
-        "yearofadmin": "JAN.,2022",
-        "sex": "M",
-        "validity": "2022-2028",
-        "Department": "Computer Science ",
-        "Faculty": "SICT",
-        "picturepath": "https://mydatabase.com.ng/utilitie/nuasa/futop/72.jpg",
-        "id": "5242ce3e-0aa3-4fd9-9ad7-c68c8db7f5f0"
-    },
-    {
-        "Timestamp": "2024/06/07 11:51:01 AM GMT+1",
-        "inNamer": {
-            "Name": "Chimeremeze",
-            "Mname": "Daniel",
-            "Surname": "Agoha"
-        },
-        "reg": "20221323505",
-        "inparentno": "08160822575",
-        "Status": "MEMBER",
-        "bloodgroup": "O+",
-        "yearofadmin": "JAN.,2022",
-        "sex": "M",
-        "validity": "2022-2028",
-        "Department": "Computer Science ",
-        "Faculty": "SICT",
-        "picturepath": "https://mydatabase.com.ng/utilitie/nuasa/futop/73.jpg",
-        "id": "cc986e03-6b52-4e89-bda5-70eb3d8c44b1"
-    },
-    {
-        "Timestamp": "2024/06/08 10:08:23 AM GMT+1",
-        "inNamer": {
-            "Name": "Caleb",
-            "Mname": "Eniola",
-            "Surname": "Nwaulu"
-        },
-        "reg": "20221314985",
-        "inparentno": "08137148488",
-        "Status": "MEMBER",
-        "bloodgroup": "O+",
-        "yearofadmin": "JAN.,2022",
-        "sex": "M",
-        "validity": "2022-2028",
-        "Department": "Computer science ",
-        "Faculty": "SICT",
-        "picturepath": "https://mydatabase.com.ng/utilitie/nuasa/futop/74.jpg",
-        "id": "930ffc1d-b89e-40f2-b466-3c3bcc337503"
-    },
-    {
-        "Timestamp": "2024/06/08 8:54:19 PM GMT+1",
-        "inNamer": {
-            "Name": "Tochukwu",
-            "Mname": "Daniel",
-            "Surname": "Uzondu"
-        },
-        "reg": "20221308125",
-        "inparentno": "09032020536",
-        "Status": "MEMBER",
-        "bloodgroup": "O+",
-        "yearofadmin": "JAN.,2022",
-        "sex": "M",
-        "validity": "2022-2028",
-        "Department": "Computer Science ",
-        "Faculty": "SICT",
-        "picturepath": "https://mydatabase.com.ng/utilitie/nuasa/futop/75.jpg",
-        "id": "b45d69b9-5b83-4ce6-8cb6-fc3650fec11e"
-    },
-    {
-        "Timestamp": "2024/06/08 8:56:28 PM GMT+1",
-        "inNamer": {
-            "Name": "frank",
-            "Mname": "chigemezu",
-            "Surname": "Onyeneke"
-        },
-        "reg": "20233399282",
-        "inparentno": "08021228389",
-        "Status": "MEMBER",
-        "bloodgroup": "O+",
-        "yearofadmin": "JAN.,2022",
-        "sex": "M",
-        "validity": "2022-2028",
-        "Department": "Computer science ",
-        "Faculty": "SICt",
-        "picturepath": "https://mydatabase.com.ng/utilitie/nuasa/futop/76.jpg",
-        "id": "a5671a34-2bca-4b9b-b01d-b46e5de354fd"
-    },
-    {
-        "Timestamp": "2024/06/08 9:32:40 PM GMT+1",
-        "inNamer": {
-            "Name": "Emmanuel",
-            "Mname": "Nnodim",
-            "Surname": "Anthony"
-        },
-        "reg": "20221341005",
-        "inparentno": "09033912333",
-        "Status": "MEMBER",
-        "bloodgroup": "O+",
-        "yearofadmin": "JAN.,2022",
-        "sex": "M",
-        "validity": "2022-2028",
-        "Department": "Computer science ",
-        "Faculty": "SCIT",
-        "picturepath": "https://mydatabase.com.ng/utilitie/nuasa/futop/77.jpg",
-        "id": "599bb732-13f3-40a8-b85d-da9335c701ac"
-    },
-    {
-        "Timestamp": "2024/06/08 9:39:10 PM GMT+1",
-        "inNamer": {
-            "Name": "Precious",
-            "Mname": "Chikwado",
-            "Surname": "Iwuamanam"
-        },
-        "reg": "20221352175",
-        "inparentno": "09166910491",
-        "Status": "MEMBER",
-        "bloodgroup": "O+",
-        "yearofadmin": "JAN.,2022",
-        "sex": "M",
-        "validity": "2022-2028",
-        "Department": "Computer Science",
-        "Faculty": "SICT",
-        "picturepath": "https://mydatabase.com.ng/utilitie/nuasa/futop/78.jpg",
-        "id": "9682f7c5-6ee0-416b-9b26-63b7108b039b"
-    },
-    {
-        "Timestamp": "2024/06/08 10:10:11 PM GMT+1",
-        "inNamer": {
-            "Name": "Chukwudi",
-            "Mname": "Valentine",
-            "Surname": "Duru"
-        },
-        "reg": "20221336625",
-        "inparentno": "09037089865",
-        "Status": "MEMBER",
-        "bloodgroup": "O+",
-        "yearofadmin": "JAN.,2022",
-        "sex": "M",
-        "validity": "2022-2028",
-        "Department": "Computer science ",
-        "Faculty": "SICT",
-        "picturepath": "https://mydatabase.com.ng/utilitie/nuasa/futop/79.jpg",
-        "id": "64b3d3b2-2027-47ce-bf5c-b4c3062b2f23"
-    },
-    {
-        "Timestamp": "2024/06/08 10:51:28 PM GMT+1",
-        "inNamer": {
-            "Name": "Anietie",
-            "Mname": "Idiokitaha",
-            "Surname": "Edighienyong"
-        },
-        "reg": "20221332915 ",
-        "inparentno": "09065319610 ",
-        "Status": "MEMBER",
-        "bloodgroup": "O+",
-        "yearofadmin": "JAN.,2022",
-        "sex": "M",
-        "validity": "2022-2028",
-        "Department": "Computer science ",
-        "Faculty": "SICT",
-        "picturepath": "https://mydatabase.com.ng/utilitie/nuasa/futop/80.jpg",
-        "id": "f079ec8d-a70a-4ace-9581-91415c47cce5"
-    }
+{
+    "nuasa": [{
+            "Timestamp": "2024/05/29 3:35:27 PM GMT+1",
+            "inNamer": {
+                "Name": "Excel",
+                "Mname": "Chiemerie",
+                "Surname": "Ogbonna"
+            },
+            "reg": "20221309895",
+            "inparentno": "09049624576",
+            "Status": "MEMBER",
+            "bloodgroup": "O+",
+            "yearofadmin": "JAN.,2022",
+            "sex": "M",
+            "validity": "2022-2028",
+            "Department": "Computer science ",
+            "Faculty": "SICT",
+            "picturepath": "https://mydatabase.com.ng/utilitie/nuasa/futop/1.jpg",
+            "id": "664329a8-3d50-483c-b94e-0a57c7c2efbf"
+        },
+        {
+            "Timestamp": "2024/05/29 3:40:49 PM GMT+1",
+            "inNamer": {
+                "Name": "ogbonnaya",
+                "Mname": "princewill",
+                "Surname": "Awoke"
+            },
+            "reg": "20221309745",
+            "inparentno": "08086250294 ",
+            "Status": "MEMBER",
+            "bloodgroup": "O+",
+            "yearofadmin": "JAN.,2022",
+            "sex": "M",
+            "validity": "2022-2028",
+            "Department": "Computer science ",
+            "Faculty": "SICT",
+            "picturepath": "https://mydatabase.com.ng/utilitie/nuasa/futop/2.jpg",
+            "id": "90e49038-f830-40c8-8fc1-d90540cf6ec6"
+        },
+        {
+            "Timestamp": "2024/05/29 3:44:27 PM GMT+1",
+            "inNamer": {
+                "Name": "Tochukwu",
+                "Mname": "Valentine",
+                "Surname": "Ukwueze"
+            },
+            "reg": "20221304955",
+            "inparentno": "08061918176",
+            "Status": "MEMBER",
+            "bloodgroup": "O+",
+            "yearofadmin": "JAN.,2022",
+            "sex": "M",
+            "validity": "2022-2028",
+            "Department": "Computer science ",
+            "Faculty": "SICT",
+            "picturepath": "https://mydatabase.com.ng/utilitie/nuasa/futop/3.jpg",
+            "id": "0e64c692-1340-4372-9536-bfc958173081"
+        },
+        {
+            "Timestamp": "2024/05/29 3:49:23 PM GMT+1",
+            "inNamer": {
+                "Name": "BETHEL",
+                "Mname": "CHUKWURAH",
+                "Surname": "OKEKA"
+            },
+            "reg": "20221348685",
+            "inparentno": "09161490758",
+            "Status": "MEMBER",
+            "bloodgroup": "O+",
+            "yearofadmin": "JAN.,2022",
+            "sex": "M",
+            "validity": "2022-2028",
+            "Department": "COMPUTER SCIENCE",
+            "Faculty": "SICT",
+            "picturepath": "https://mydatabase.com.ng/utilitie/nuasa/futop/4.jpg",
+            "id": "6b15dd61-7777-4462-ac8d-d277ace2f3a7"
+        },
+        {
+            "Timestamp": "2024/05/29 4:08:07 PM GMT+1",
+            "inNamer": {
+                "Name": "Samuel",
+                "Mname": "Kamsiyochukwu",
+                "Surname": "Obiajunwa"
+            },
+            "reg": "20221337375",
+            "inparentno": "08145554077",
+            "Status": "MEMBER",
+            "bloodgroup": "O+",
+            "yearofadmin": "JAN.,2022",
+            "sex": "M",
+            "validity": "2022-2028",
+            "Department": "COMPUTER SCIENCE ",
+            "Faculty": "SICT",
+            "picturepath": "https://mydatabase.com.ng/utilitie/nuasa/futop/5.jpg",
+            "id": "57ca8c07-38e0-46a9-bb79-5bf261a6f4c8"
+        },
+        {
+            "Timestamp": "2024/05/29 4:14:22 PM GMT+1",
+            "inNamer": {
+                "Name": "Ogochukwu",
+                "Mname": "paul",
+                "Surname": "Chukwukere"
+            },
+            "reg": "20221336765",
+            "inparentno": "08124736217",
+            "Status": "MEMBER",
+            "bloodgroup": "O+",
+            "yearofadmin": "JAN.,2022",
+            "sex": "M",
+            "validity": "2022-2028",
+            "Department": "Computer Science ",
+            "Faculty": "SICT",
+            "picturepath": "https://mydatabase.com.ng/utilitie/nuasa/futop/6.jpg",
+            "id": "0d4532ba-d027-43f3-8b97-32596161c66a"
+        },
+        {
+            "Timestamp": "2024/05/29 4:17:08 PM GMT+1",
+            "inNamer": {
+                "Name": "Chidiebere",
+                "Mname": "Genevieve",
+                "Surname": "Ihediuche"
+            },
+            "reg": "20221329085",
+            "inparentno": "09042583962",
+            "Status": "MEMBER",
+            "bloodgroup": "O+",
+            "yearofadmin": "JAN.,2022",
+            "sex": "M",
+            "validity": "2022-2028",
+            "Department": "Computer Science ",
+            "Faculty": "SICT",
+            "picturepath": "https://mydatabase.com.ng/utilitie/nuasa/futop/7.jpg",
+            "id": "0aa2e683-8c03-42b5-901a-ed70ef213bfb"
+        },
+        {
+            "Timestamp": "2024/05/29 4:41:02 PM GMT+1",
+            "inNamer": {
+                "Name": "Amarachi",
+                "Mname": "David",
+                "Surname": "Ndukwu"
+            },
+            "reg": "20221330855",
+            "inparentno": "09065799536",
+            "Status": "MEMBER",
+            "bloodgroup": "O+",
+            "yearofadmin": "JAN.,2022",
+            "sex": "M",
+            "validity": "2022-2028",
+            "Department": "Computer Science ",
+            "Faculty": "SICT",
+            "picturepath": "https://mydatabase.com.ng/utilitie/nuasa/futop/8.jpg",
+            "id": "3aaf2d8e-6b52-4d86-9d53-94cb830f86cf"
+        },
+        {
+            "Timestamp": "2024/05/29 4:52:24 PM GMT+1",
+            "inNamer": {
+                "Name": "Daniel",
+                "Mname": "Chukwuebuka",
+                "Surname": "Okuma"
+            },
+            "reg": "20221326025",
+            "inparentno": "09039300429",
+            "Status": "MEMBER",
+            "bloodgroup": "O+",
+            "yearofadmin": "JAN.,2022",
+            "sex": "M",
+            "validity": "2022-2028",
+            "Department": "CSC ",
+            "Faculty": "SICT",
+            "picturepath": "https://mydatabase.com.ng/utilitie/nuasa/futop/9.jpg",
+            "id": "a3f61fe9-fa08-4e1d-97dd-d99e982e41a4"
+        },
+        {
+            "Timestamp": "2024/05/29 5:57:40 PM GMT+1",
+            "inNamer": {
+                "Name": "Roseline",
+                "Mname": "Chiemena",
+                "Surname": "Ohagorom"
+            },
+            "reg": "20221315395",
+            "inparentno": "08126633901",
+            "Status": "MEMBER",
+            "bloodgroup": "O+",
+            "yearofadmin": "JAN.,2022",
+            "sex": "M",
+            "validity": "2022-2028",
+            "Department": "Computer Science ",
+            "Faculty": "SICT",
+            "picturepath": "https://mydatabase.com.ng/utilitie/nuasa/futop/10.jpg",
+            "id": "d242c6eb-f9f6-40d7-ad76-a286932a5d3d"
+        },
+        {
+            "Timestamp": "2024/05/29 7:07:41 PM GMT+1",
+            "inNamer": {
+                "Name": "Nneoma",
+                "Mname": "Faith",
+                "Surname": "Okereke"
+            },
+            "reg": "20221317355",
+            "inparentno": "08136896184",
+            "Status": "MEMBER",
+            "bloodgroup": "O+",
+            "yearofadmin": "JAN.,2022",
+            "sex": "M",
+            "validity": "2022-2028",
+            "Department": "Computer Science ",
+            "Faculty": "SICT",
+            "picturepath": "https://mydatabase.com.ng/utilitie/nuasa/futop/11.jpg",
+            "id": "14b29d63-4ead-4e15-adad-5e95243d60d2"
+        },
+        {
+            "Timestamp": "2024/05/29 9:44:34 PM GMT+1",
+            "inNamer": {
+                "Name": "obi-osborn",
+                "Mname": "chukwuka",
+                "Surname": "Golden"
+            },
+            "reg": "20221342035",
+            "inparentno": "08109518220",
+            "Status": "MEMBER",
+            "bloodgroup": "O+",
+            "yearofadmin": "JAN.,2022",
+            "sex": "M",
+            "validity": "2022-2028",
+            "Department": "Computer science ",
+            "Faculty": "S.I.C.T",
+            "picturepath": "https://mydatabase.com.ng/utilitie/nuasa/futop/12.jpg",
+            "id": "0802ccbd-f56b-4c64-b166-1a90cf83264d"
+        },
+        {
+            "Timestamp": "2024/05/30 7:23:24 AM GMT+1",
+            "inNamer": {
+                "Name": "Franklyn",
+                "Mname": "Uchechukwu",
+                "Surname": "Uchenna"
+            },
+            "reg": "20221323825",
+            "inparentno": "09132513875",
+            "Status": "MEMBER",
+            "bloodgroup": "O+",
+            "yearofadmin": "JAN.,2022",
+            "sex": "M",
+            "validity": "2022-2028",
+            "Department": "Computer Science ",
+            "Faculty": "SICT",
+            "picturepath": "https://mydatabase.com.ng/utilitie/nuasa/futop/13.jpg",
+            "id": "82d266fb-153c-45db-8c50-4b0966199082"
+        },
+        {
+            "Timestamp": "2024/05/30 7:32:31 AM GMT+1",
+            "inNamer": {
+                "Name": "Oluebubechukwu ",
+                "Mname": "Wisdom",
+                "Surname": "Ukonu "
+            },
+            "reg": "20221338205",
+            "inparentno": "08133191158",
+            "Status": "MEMBER",
+            "bloodgroup": "O+",
+            "yearofadmin": "JAN.,2022",
+            "sex": "M",
+            "validity": "2022-2028",
+            "Department": "Computer science ",
+            "Faculty": "SICT",
+            "picturepath": "https://mydatabase.com.ng/utilitie/nuasa/futop/14.jpg",
+            "id": "c3016a7e-01ba-4dbf-85ce-e5da0a4d881e"
+        },
+        {
+            "Timestamp": "2024/05/30 7:51:58 AM GMT+1",
+            "inNamer": {
+                "Name": "Henry",
+                "Mname": "Chizitere",
+                "Surname": "Anakor"
+            },
+            "reg": "20221335055",
+            "inparentno": "08130434555",
+            "Status": "MEMBER",
+            "bloodgroup": "O+",
+            "yearofadmin": "JAN.,2022",
+            "sex": "M",
+            "validity": "2022-2028",
+            "Department": "Computer Science ",
+            "Faculty": "S.I.C.T",
+            "picturepath": "https://mydatabase.com.ng/utilitie/nuasa/futop/15.jpg",
+            "id": "f0fcf02c-339b-4517-8004-1f227f15265b"
+        },
+        {
+            "Timestamp": "2024/05/30 8:13:52 AM GMT+1",
+            "inNamer": {
+                "Name": "CHINWEOTITO",
+                "Mname": "CLEMENT",
+                "Surname": "ORIUWA"
+            },
+            "reg": "20221321825",
+            "inparentno": "09124490180",
+            "Status": "MEMBER",
+            "bloodgroup": "O+",
+            "yearofadmin": "JAN.,2022",
+            "sex": "M",
+            "validity": "2022-2028",
+            "Department": "COMPUTER SCIENCE ",
+            "Faculty": "SICT",
+            "picturepath": "https://mydatabase.com.ng/utilitie/nuasa/futop/16.jpg",
+            "id": "1a9ec61f-0063-4bb1-84e1-ad5dab7e5708"
+        },
+        {
+            "Timestamp": "2024/05/30 8:20:53 AM GMT+1",
+            "inNamer": {
+                "Name": "David",
+                "Mname": "Ugochukwu",
+                "Surname": "Oliver"
+            },
+            "reg": "20221309795",
+            "inparentno": "09118966714",
+            "Status": "MEMBER",
+            "bloodgroup": "O+",
+            "yearofadmin": "JAN.,2022",
+            "sex": "M",
+            "validity": "2022-2028",
+            "Department": "Computer Science ",
+            "Faculty": "SICT",
+            "picturepath": "https://mydatabase.com.ng/utilitie/nuasa/futop/17.jpg",
+            "id": "2189eb1d-4b0d-4172-a3b9-f54a51a85b26"
+        },
+        {
+            "Timestamp": "2024/05/30 8:25:40 AM GMT+1",
+            "inNamer": {
+                "Name": "chidera",
+                "Mname": "David",
+                "Surname": "Uzoh"
+            },
+            "reg": "20221324995",
+            "inparentno": "09127431792",
+            "Status": "MEMBER",
+            "bloodgroup": "O+",
+            "yearofadmin": "JAN.,2022",
+            "sex": "M",
+            "validity": "2022-2028",
+            "Department": "Computer Science ",
+            "Faculty": "SICT",
+            "picturepath": "https://mydatabase.com.ng/utilitie/nuasa/futop/18.jpg",
+            "id": "64167380-5e04-4961-be4d-666f24521ec3"
+        },
+        {
+            "Timestamp": "2024/05/30 9:36:49 AM GMT+1",
+            "inNamer": {
+                "Name": "Miracle",
+                "Mname": "Conscience",
+                "Surname": "Joseph"
+            },
+            "reg": "20221307075",
+            "inparentno": "0913 568 0679",
+            "Status": "MEMBER",
+            "bloodgroup": "O+",
+            "yearofadmin": "JAN.,2022",
+            "sex": "M",
+            "validity": "2022-2028",
+            "Department": "Computer Science ",
+            "Faculty": "SICT",
+            "picturepath": "https://mydatabase.com.ng/utilitie/nuasa/futop/19.jpg",
+            "id": "678e8848-c4e7-427b-8fb3-1777dee1ff93"
+        },
+        {
+            "Timestamp": "2024/05/30 9:59:55 AM GMT+1",
+            "inNamer": {
+                "Name": "chidera",
+                "Mname": "Bonaventure",
+                "Surname": "Eze"
+            },
+            "reg": "20221323085",
+            "inparentno": "07041581277",
+            "Status": "MEMBER",
+            "bloodgroup": "O+",
+            "yearofadmin": "JAN.,2022",
+            "sex": "M",
+            "validity": "2022-2028",
+            "Department": "Computer science ",
+            "Faculty": "SICt",
+            "picturepath": "https://mydatabase.com.ng/utilitie/nuasa/futop/20.jpg",
+            "id": "724af2cc-646e-46a1-be41-79d8ea02af85"
+        },
+        {
+            "Timestamp": "2024/05/30 10:09:01 AM GMT+1",
+            "inNamer": {
+                "Name": "Chidiebere",
+                "Mname": "Daniel",
+                "Surname": "Oparah"
+            },
+            "reg": "20221316515",
+            "inparentno": "07017197843",
+            "Status": "MEMBER",
+            "bloodgroup": "O+",
+            "yearofadmin": "JAN.,2022",
+            "sex": "M",
+            "validity": "2022-2028",
+            "Department": "Computer science ",
+            "Faculty": "Sict",
+            "picturepath": "https://mydatabase.com.ng/utilitie/nuasa/futop/21.jpg",
+            "id": "afe36c42-5215-4243-9257-5910f471dde1"
+        },
+        {
+            "Timestamp": "2024/05/30 10:09:55 AM GMT+1",
+            "inNamer": {
+                "Name": "Chukwuebuka",
+                "Mname": "Stephen",
+                "Surname": "Ayaka"
+            },
+            "reg": "20221342265",
+            "inparentno": "09049453830",
+            "Status": "MEMBER",
+            "bloodgroup": "O+",
+            "yearofadmin": "JAN.,2022",
+            "sex": "M",
+            "validity": "2022-2028",
+            "Department": "Computer Science",
+            "Faculty": "SICT",
+            "picturepath": "https://mydatabase.com.ng/utilitie/nuasa/futop/22.jpg",
+            "id": "0501452a-c496-4b7b-9b9d-db0541ae28df"
+        },
+        {
+            "Timestamp": "2024/05/30 10:11:06 AM GMT+1",
+            "inNamer": {
+                "Name": "Favour",
+                "Mname": "Chioma",
+                "Surname": "Obodozie"
+            },
+            "reg": "20221309375",
+            "inparentno": "08039816391",
+            "Status": "MEMBER",
+            "bloodgroup": "O+",
+            "yearofadmin": "JAN.,2022",
+            "sex": "M",
+            "validity": "2022-2028",
+            "Department": "Computer Science",
+            "Faculty": "SICT",
+            "picturepath": "https://mydatabase.com.ng/utilitie/nuasa/futop/23.jpg",
+            "id": "bb59f03f-a14e-4ded-b135-a445c4fd2d60"
+        },
+        {
+            "Timestamp": "2024/05/30 10:11:50 AM GMT+1",
+            "inNamer": {
+                "Name": "SOMTOCHUKWU",
+                "Mname": "EMMANUEL",
+                "Surname": "IRECHUKWU"
+            },
+            "reg": "20221329055",
+            "inparentno": "09027950148",
+            "Status": "MEMBER",
+            "bloodgroup": "O+",
+            "yearofadmin": "JAN.,2022",
+            "sex": "M",
+            "validity": "2022-2028",
+            "Department": "COMPUTER SCIENCE",
+            "Faculty": "SICT",
+            "picturepath": "https://mydatabase.com.ng/utilitie/nuasa/futop/24.jpg",
+            "id": "49566d5e-ff57-4228-b778-7137f120f264"
+        },
+        {
+            "Timestamp": "2024/05/30 10:12:28 AM GMT+1",
+            "inNamer": {
+                "Name": "Tochukwu",
+                "Mname": "Christian Diepreye",
+                "Surname": "Opara"
+            },
+            "reg": "20221329445",
+            "inparentno": "08161419069",
+            "Status": "MEMBER",
+            "bloodgroup": "O+",
+            "yearofadmin": "JAN.,2022",
+            "sex": "M",
+            "validity": "2022-2028",
+            "Department": "Computer science ",
+            "Faculty": "Sict",
+            "picturepath": "https://mydatabase.com.ng/utilitie/nuasa/futop/25.jpg",
+            "id": "95d723db-8d0a-4012-b0d5-63cbc89d743e"
+        },
+        {
+            "Timestamp": "2024/05/30 10:13:24 AM GMT+1",
+            "inNamer": {
+                "Name": "Charles",
+                "Mname": "Nnaemeka",
+                "Surname": "Chikwe"
+            },
+            "reg": "20221328695",
+            "inparentno": "08153092969",
+            "Status": "MEMBER",
+            "bloodgroup": "O+",
+            "yearofadmin": "JAN.,2022",
+            "sex": "M",
+            "validity": "2022-2028",
+            "Department": "Computer Science ",
+            "Faculty": "SCIT",
+            "picturepath": "https://mydatabase.com.ng/utilitie/nuasa/futop/26.jpg",
+            "id": "05f7cad2-c0ee-4d95-818a-ef570c6ddc06"
+        },
+        {
+            "Timestamp": "2024/05/30 10:16:15 AM GMT+1",
+            "inNamer": {
+                "Name": "Chidiebere",
+                "Mname": "Victor",
+                "Surname": "Nnadi"
+            },
+            "reg": "20221339085",
+            "inparentno": "08135968655",
+            "Status": "MEMBER",
+            "bloodgroup": "O+",
+            "yearofadmin": "JAN.,2022",
+            "sex": "M",
+            "validity": "2022-2028",
+            "Department": "Computer science",
+            "Faculty": "S.I.C.T",
+            "picturepath": "https://mydatabase.com.ng/utilitie/nuasa/futop/27.jpg",
+            "id": "fb0359fa-1874-4af7-bef0-179de2fcef2f"
+        },
+        {
+            "Timestamp": "2024/05/30 10:16:24 AM GMT+1",
+            "inNamer": {
+                "Name": "Chinedu",
+                "Mname": "Freedom",
+                "Surname": "Chimeziri"
+            },
+            "reg": "20221326475",
+            "inparentno": "08160108204",
+            "Status": "MEMBER",
+            "bloodgroup": "O+",
+            "yearofadmin": "JAN.,2022",
+            "sex": "M",
+            "validity": "2022-2028",
+            "Department": "Computer science ",
+            "Faculty": "SICT",
+            "picturepath": "https://mydatabase.com.ng/utilitie/nuasa/futop/28.jpg",
+            "id": "2c6cf0d2-52a3-4fe7-b512-2fd15d9d1317"
+        },
+        {
+            "Timestamp": "2024/05/30 10:19:58 AM GMT+1",
+            "inNamer": {
+                "Name": "Chidiamara",
+                "Mname": "Blessing",
+                "Surname": "Mbamara"
+            },
+            "reg": "20233389862",
+            "inparentno": "08025556944",
+            "Status": "MEMBER",
+            "bloodgroup": "O+",
+            "yearofadmin": "JAN.,2022",
+            "sex": "M",
+            "validity": "2022-2028",
+            "Department": "Computer science ",
+            "Faculty": "SICT",
+            "picturepath": "https://mydatabase.com.ng/utilitie/nuasa/futop/29.jpg",
+            "id": "24836f32-94cd-4011-af44-329b1bffe53d"
+        },
+        {
+            "Timestamp": "2024/05/30 10:20:33 AM GMT+1",
+            "inNamer": {
+                "Name": "Thomas",
+                "Mname": "Emmanuel-Mary",
+                "Surname": "Elechi"
+            },
+            "reg": "20221316085",
+            "inparentno": "08160177930",
+            "Status": "MEMBER",
+            "bloodgroup": "O+",
+            "yearofadmin": "JAN.,2022",
+            "sex": "M",
+            "validity": "2022-2028",
+            "Department": "Computer science ",
+            "Faculty": "SICT",
+            "picturepath": "https://mydatabase.com.ng/utilitie/nuasa/futop/30.jpg",
+            "id": "96e06c50-99aa-465f-a784-b04b8a10d645"
+        },
+        {
+            "Timestamp": "2024/05/30 10:25:17 AM GMT+1",
+            "inNamer": {
+                "Name": "Stephen",
+                "Mname": "Wisdom",
+                "Surname": "Osuji"
+            },
+            "reg": "20221306515",
+            "inparentno": "07035376052",
+            "Status": "MEMBER",
+            "bloodgroup": "O+",
+            "yearofadmin": "JAN.,2022",
+            "sex": "M",
+            "validity": "2022-2028",
+            "Department": "Computer Science ",
+            "Faculty": "SICT",
+            "picturepath": "https://mydatabase.com.ng/utilitie/nuasa/futop/31.jpg",
+            "id": "6ae31a37-9f7d-445e-9885-b0bd23b1b935"
+        },
+        {
+            "Timestamp": "2024/05/30 10:31:58 AM GMT+1",
+            "inNamer": {
+                "Name": "Ifeanyi",
+                "Mname": "Avi",
+                "Surname": "Ibekwe"
+            },
+            "reg": "20221340545",
+            "inparentno": "08139418725",
+            "Status": "MEMBER",
+            "bloodgroup": "O+",
+            "yearofadmin": "JAN.,2022",
+            "sex": "M",
+            "validity": "2022-2028",
+            "Department": "Computer science ",
+            "Faculty": "SICT",
+            "picturepath": "https://mydatabase.com.ng/utilitie/nuasa/futop/32.jpg",
+            "id": "4519459f-eb67-4f42-9b71-63ff893bd28b"
+        },
+        {
+            "Timestamp": "2024/05/30 11:10:56 AM GMT+1",
+            "inNamer": {
+                "Name": "SAMUEL",
+                "Mname": "NKEMAKOLAM",
+                "Surname": "OPARA"
+            },
+            "reg": "20221313125",
+            "inparentno": "08130477310",
+            "Status": "MEMBER",
+            "bloodgroup": "O+",
+            "yearofadmin": "JAN.,2022",
+            "sex": "M",
+            "validity": "2022-2028",
+            "Department": "COMPUTER SCIENCE ",
+            "Faculty": "SICT",
+            "picturepath": "https://mydatabase.com.ng/utilitie/nuasa/futop/33.jpg",
+            "id": "368c90b0-4e17-4da3-b018-83a4aa3f9c79"
+        },
+        {
+            "Timestamp": "2024/05/30 11:20:54 AM GMT+1",
+            "inNamer": {
+                "Name": "Amarachi",
+                "Mname": "Testimony",
+                "Surname": "Ndukwe "
+            },
+            "reg": "20221317475",
+            "inparentno": "08089655247",
+            "Status": "MEMBER",
+            "bloodgroup": "O+",
+            "yearofadmin": "JAN.,2022",
+            "sex": "M",
+            "validity": "2022-2028",
+            "Department": "Computer Science",
+            "Faculty": "SICT",
+            "picturepath": "https://mydatabase.com.ng/utilitie/nuasa/futop/34.jpg",
+            "id": "17ae2080-7359-436f-b583-f7f1393be912"
+        },
+        {
+            "Timestamp": "2024/05/30 11:39:27 AM GMT+1",
+            "inNamer": {
+                "Name": "CHINAZA",
+                "Mname": "WISDOM",
+                "Surname": "ONYELEKEREM"
+            },
+            "reg": "20221326585",
+            "inparentno": "09067551586",
+            "Status": "MEMBER",
+            "bloodgroup": "O+",
+            "yearofadmin": "JAN.,2022",
+            "sex": "M",
+            "validity": "2022-2028",
+            "Department": "Computer science ",
+            "Faculty": "SICT",
+            "picturepath": "https://mydatabase.com.ng/utilitie/nuasa/futop/35.jpg",
+            "id": "217ff220-48ff-4f90-bb79-fb4a32f8c24b"
+        },
+        {
+            "Timestamp": "2024/05/30 11:51:39 AM GMT+1",
+            "inNamer": {
+                "Name": "FRANCIS",
+                "Mname": "CHUKWUEBUKA",
+                "Surname": "ABIAKAM"
+            },
+            "reg": "20221308535",
+            "inparentno": "09136941262",
+            "Status": "MEMBER",
+            "bloodgroup": "O+",
+            "yearofadmin": "JAN.,2022",
+            "sex": "M",
+            "validity": "2022-2028",
+            "Department": "COMPUTER SCIENCE ",
+            "Faculty": "SCIT",
+            "picturepath": "https://mydatabase.com.ng/utilitie/nuasa/futop/36.jpg",
+            "id": "607af10a-1843-4e60-8f36-9e6036d85b86"
+        },
+        {
+            "Timestamp": "2024/05/30 11:58:45 AM GMT+1",
+            "inNamer": {
+                "Name": "Success",
+                "Mname": "Chinonso",
+                "Surname": "Oguji"
+            },
+            "reg": "20221311765",
+            "inparentno": "07025279847",
+            "Status": "MEMBER",
+            "bloodgroup": "O+",
+            "yearofadmin": "JAN.,2022",
+            "sex": "M",
+            "validity": "2022-2028",
+            "Department": "Computer Science ",
+            "Faculty": "SICT",
+            "picturepath": "https://mydatabase.com.ng/utilitie/nuasa/futop/37.jpg",
+            "id": "20196120-7465-4e77-9638-403313f165f2"
+        },
+        {
+            "Timestamp": "2024/05/30 12:05:14 PM GMT+1",
+            "inNamer": {
+                "Name": "Nnaemeka",
+                "Mname": "David",
+                "Surname": "Kemakolam"
+            },
+            "reg": "20221325015",
+            "inparentno": "08025763686, 07049307536",
+            "Status": "MEMBER",
+            "bloodgroup": "O+",
+            "yearofadmin": "JAN.,2022",
+            "sex": "M",
+            "validity": "2022-2028",
+            "Department": "Computer Science",
+            "Faculty": "SICT",
+            "picturepath": "https://mydatabase.com.ng/utilitie/nuasa/futop/38.jpg",
+            "id": "2e76b02d-a65b-462a-9b1b-61bf592a7260"
+        },
+        {
+            "Timestamp": "2024/05/30 12:18:09 PM GMT+1",
+            "inNamer": {
+                "Name": "Emmanuel",
+                "Mname": "chinonso",
+                "Surname": "Nlewedim"
+            },
+            "reg": "20221337005",
+            "inparentno": "07068595756",
+            "Status": "MEMBER",
+            "bloodgroup": "O+",
+            "yearofadmin": "JAN.,2022",
+            "sex": "M",
+            "validity": "2022-2028",
+            "Department": "Computer science ",
+            "Faculty": "Sict",
+            "picturepath": "https://mydatabase.com.ng/utilitie/nuasa/futop/39.jpg",
+            "id": "6bbcdbe4-566c-42b1-8f34-ce64fe9163f8"
+        },
+        {
+            "Timestamp": "2024/05/30 12:19:04 PM GMT+1",
+            "inNamer": {
+                "Name": "Kelechukwu",
+                "Mname": "Favour",
+                "Surname": "John"
+            },
+            "reg": "20221309545",
+            "inparentno": "07019760325",
+            "Status": "MEMBER",
+            "bloodgroup": "O+",
+            "yearofadmin": "JAN.,2022",
+            "sex": "M",
+            "validity": "2022-2028",
+            "Department": "Computer science ",
+            "Faculty": "SICT",
+            "picturepath": "https://mydatabase.com.ng/utilitie/nuasa/futop/40.jpg",
+            "id": "39b92a26-6caa-42f5-8bea-88ffe33f9179"
+        },
+        {
+            "Timestamp": "2024/05/30 12:25:52 PM GMT+1",
+            "inNamer": {
+                "Name": "Ndubuisi",
+                "Mname": "Fidelis",
+                "Surname": "Ukwuani"
+            },
+            "reg": "20221317695",
+            "inparentno": "08028514704",
+            "Status": "MEMBER",
+            "bloodgroup": "O+",
+            "yearofadmin": "JAN.,2022",
+            "sex": "M",
+            "validity": "2022-2028",
+            "Department": "Computer Science ",
+            "Faculty": "SICT",
+            "picturepath": "https://mydatabase.com.ng/utilitie/nuasa/futop/41.jpg",
+            "id": "82122e6c-9179-4a20-8737-cc639dd614d1"
+        },
+        {
+            "Timestamp": "2024/05/30 12:54:08 PM GMT+1",
+            "inNamer": {
+                "Name": "Ebubechukwu",
+                "Mname": "Triumph",
+                "Surname": "Ogbonna"
+            },
+            "reg": "20221309825",
+            "inparentno": "07089093249",
+            "Status": "MEMBER",
+            "bloodgroup": "O+",
+            "yearofadmin": "JAN.,2022",
+            "sex": "M",
+            "validity": "2022-2028",
+            "Department": "Computer Science (CSC)",
+            "Faculty": "SICT",
+            "picturepath": "https://mydatabase.com.ng/utilitie/nuasa/futop/42.jpg",
+            "id": "838f0f85-77d1-464c-be08-ff4077772bad"
+        },
+        {
+            "Timestamp": "2024/05/30 12:54:36 PM GMT+1",
+            "inNamer": {
+                "Name": "Melchizedek",
+                "Mname": "",
+                "Surname": "Lazarus"
+            },
+            "reg": "20221322255",
+            "inparentno": "09161154894",
+            "Status": "MEMBER",
+            "bloodgroup": "O+",
+            "yearofadmin": "JAN.,2022",
+            "sex": "M",
+            "validity": "2022-2028",
+            "Department": "Computer science ",
+            "Faculty": "SET",
+            "picturepath": "https://mydatabase.com.ng/utilitie/nuasa/futop/0.jpg",
+            "id": "c740e976-7552-4e6a-8874-58557e82f9f6"
+        },
+        {
+            "Timestamp": "2024/05/30 12:54:39 PM GMT+1",
+            "inNamer": {
+                "Name": "Amarachi",
+                "Mname": "Favour",
+                "Surname": "Ogbonna"
+            },
+            "reg": "20221311365",
+            "inparentno": "09163490639",
+            "Status": "MEMBER",
+            "bloodgroup": "O+",
+            "yearofadmin": "JAN.,2022",
+            "sex": "M",
+            "validity": "2022-2028",
+            "Department": "Computer Science",
+            "Faculty": "S.I.C.T",
+            "picturepath": "https://mydatabase.com.ng/utilitie/nuasa/futop/44.jpg",
+            "id": "3f9b440d-2694-41c3-bb8b-ecac697ff883"
+        },
+        {
+            "Timestamp": "2024/05/30 12:57:58 PM GMT+1",
+            "inNamer": {
+                "Name": "Ikechukwu",
+                "Mname": "Samuel",
+                "Surname": "Timothy"
+            },
+            "reg": "20221319735",
+            "inparentno": "07083574058",
+            "Status": "MEMBER",
+            "bloodgroup": "O+",
+            "yearofadmin": "JAN.,2022",
+            "sex": "M",
+            "validity": "2022-2028",
+            "Department": "Computer Science (CSC)",
+            "Faculty": "SICT",
+            "picturepath": "https://mydatabase.com.ng/utilitie/nuasa/futop/45.jpg",
+            "id": "a85c8566-d2db-467e-939a-52c4a87806ea"
+        },
+        {
+            "Timestamp": "2024/05/30 12:59:40 PM GMT+1",
+            "inNamer": {
+                "Name": "ISRAEL",
+                "Mname": "EBUBE",
+                "Surname": "ELEAZAR"
+            },
+            "reg": "20221339495",
+            "inparentno": "09038909464",
+            "Status": "MEMBER",
+            "bloodgroup": "O+",
+            "yearofadmin": "JAN.,2022",
+            "sex": "M",
+            "validity": "2022-2028",
+            "Department": "Computer science",
+            "Faculty": "School of Information and Communication Technology(SICT)",
+            "picturepath": "https://mydatabase.com.ng/utilitie/nuasa/futop/46.jpg",
+            "id": "ee82e56f-9c77-4a27-bc67-062604c00e46"
+        },
+        {
+            "Timestamp": "2024/05/30 1:02:57 PM GMT+1",
+            "inNamer": {
+                "Name": "Godspower",
+                "Mname": "nmesoma",
+                "Surname": "Ibe"
+            },
+            "reg": "20233361325",
+            "inparentno": "08100578863",
+            "Status": "MEMBER",
+            "bloodgroup": "O+",
+            "yearofadmin": "JAN.,2022",
+            "sex": "M",
+            "validity": "2022-2028",
+            "Department": "Computer science ",
+            "Faculty": "SICT",
+            "picturepath": "https://mydatabase.com.ng/utilitie/nuasa/futop/47.jpg",
+            "id": "cc5eb9cc-31fc-4c68-96d3-e3aa71867419"
+        },
+        {
+            "Timestamp": "2024/05/30 1:04:23 PM GMT+1",
+            "inNamer": {
+                "Name": "Valentine",
+                "Mname": "Chukwuemeka",
+                "Surname": "Mgbeahuru"
+            },
+            "reg": "20221325185",
+            "inparentno": "07069981727",
+            "Status": "MEMBER",
+            "bloodgroup": "O+",
+            "yearofadmin": "JAN.,2022",
+            "sex": "M",
+            "validity": "2022-2028",
+            "Department": "Computer science ",
+            "Faculty": "SICT",
+            "picturepath": "https://mydatabase.com.ng/utilitie/nuasa/futop/48.jpg",
+            "id": "e44955a0-de2e-462d-ae52-7615af2d3e11"
+        },
+        {
+            "Timestamp": "2024/05/30 1:07:17 PM GMT+1",
+            "inNamer": {
+                "Name": "Chikezie",
+                "Mname": "Bruno",
+                "Surname": "Iwuchukwu"
+            },
+            "reg": "20221316135",
+            "inparentno": "09039145076",
+            "Status": "MEMBER",
+            "bloodgroup": "O+",
+            "yearofadmin": "JAN.,2022",
+            "sex": "M",
+            "validity": "2022-2028",
+            "Department": "Computer science ",
+            "Faculty": "SICT",
+            "picturepath": "https://mydatabase.com.ng/utilitie/nuasa/futop/49.jpg",
+            "id": "82c65164-f2eb-4637-ad7c-4ccf028923b6"
+        },
+        {
+            "Timestamp": "2024/05/30 1:12:17 PM GMT+1",
+            "inNamer": {
+                "Name": "CHINAEMELUM",
+                "Mname": "THANKGOD",
+                "Surname": "ALOZIE"
+            },
+            "reg": "20221323575",
+            "inparentno": "09123065291",
+            "Status": "MEMBER",
+            "bloodgroup": "O+",
+            "yearofadmin": "JAN.,2022",
+            "sex": "M",
+            "validity": "2022-2028",
+            "Department": "COMPUTER SCIENCE ",
+            "Faculty": "SICT",
+            "picturepath": "https://mydatabase.com.ng/utilitie/nuasa/futop/50.jpg",
+            "id": "5122dec7-947e-4b74-8597-83798147ce54"
+        },
+        {
+            "Timestamp": "2024/05/30 1:14:47 PM GMT+1",
+            "inNamer": {
+                "Name": "Nkemjika",
+                "Mname": "Onyeka",
+                "Surname": "Reward"
+            },
+            "reg": "20221324625",
+            "inparentno": "+2348162928125",
+            "Status": "MEMBER",
+            "bloodgroup": "O+",
+            "yearofadmin": "JAN.,2022",
+            "sex": "M",
+            "validity": "2022-2028",
+            "Department": "Computer Science ",
+            "Faculty": "SICT",
+            "picturepath": "https://mydatabase.com.ng/utilitie/nuasa/futop/51.jpg",
+            "id": "70ec8d53-eddd-4ca6-a950-7caf54016e64"
+        },
+        {
+            "Timestamp": "2024/05/30 4:02:20 PM GMT+1",
+            "inNamer": {
+                "Name": "Udochukwu",
+                "Mname": "Emmanuel",
+                "Surname": "Onyibe"
+            },
+            "reg": "20221351185",
+            "inparentno": "070 8867 7699 ",
+            "Status": "MEMBER",
+            "bloodgroup": "O+",
+            "yearofadmin": "JAN.,2022",
+            "sex": "M",
+            "validity": "2022-2028",
+            "Department": "Computer Science ",
+            "Faculty": "SICT",
+            "picturepath": "https://mydatabase.com.ng/utilitie/nuasa/futop/52.jpg",
+            "id": "f4990a0a-ff65-428a-abaa-d28fe68740a3"
+        },
+        {
+            "Timestamp": "2024/05/30 4:53:06 PM GMT+1",
+            "inNamer": {
+                "Name": "Gerald",
+                "Mname": "Ikechukwu",
+                "Surname": "Echetama"
+            },
+            "reg": "20221318895",
+            "inparentno": "08101891184",
+            "Status": "MEMBER",
+            "bloodgroup": "O+",
+            "yearofadmin": "JAN.,2022",
+            "sex": "M",
+            "validity": "2022-2028",
+            "Department": "Computer Science",
+            "Faculty": "S.I.C.T.",
+            "picturepath": "https://mydatabase.com.ng/utilitie/nuasa/futop/53.jpg",
+            "id": "9264e6b9-5789-4a04-83ad-db8350345696"
+        },
+        {
+            "Timestamp": "2024/05/30 4:56:18 PM GMT+1",
+            "inNamer": {
+                "Name": "ADIMORA",
+                "Mname": "MICHAEL",
+                "Surname": "NGWU"
+            },
+            "reg": "20211307995",
+            "inparentno": "07063614047",
+            "Status": "MEMBER",
+            "bloodgroup": "O+",
+            "yearofadmin": "JAN.,2022",
+            "sex": "M",
+            "validity": "2022-2028",
+            "Department": "Computer Science ",
+            "Faculty": "SICt",
+            "picturepath": "https://mydatabase.com.ng/utilitie/nuasa/futop/54.jpg",
+            "id": "0c590fe1-ce0f-4a1e-a372-a1325f910ee3"
+        },
+        {
+            "Timestamp": "2024/05/30 6:48:47 PM GMT+1",
+            "inNamer": {
+                "Name": "Nkeiru",
+                "Mname": "Doris",
+                "Surname": "Ogualiri"
+            },
+            "reg": "20221306445",
+            "inparentno": "08104855246",
+            "Status": "MEMBER",
+            "bloodgroup": "O+",
+            "yearofadmin": "JAN.,2022",
+            "sex": "M",
+            "validity": "2022-2028",
+            "Department": "Computer science ",
+            "Faculty": "SICT",
+            "picturepath": "https://mydatabase.com.ng/utilitie/nuasa/futop/55.jpg",
+            "id": "7845dd48-c357-4e2b-b080-b32b0767048f"
+        },
+        {
+            "Timestamp": "2024/05/31 9:39:43 AM GMT+1",
+            "inNamer": {
+                "Name": "Mercy",
+                "Mname": "Onyinyechi",
+                "Surname": "Chukwuemeka"
+            },
+            "reg": "20221319305",
+            "inparentno": "08148521005",
+            "Status": "MEMBER",
+            "bloodgroup": "O+",
+            "yearofadmin": "JAN.,2022",
+            "sex": "M",
+            "validity": "2022-2028",
+            "Department": "Computer science ",
+            "Faculty": "Sict",
+            "picturepath": "https://mydatabase.com.ng/utilitie/nuasa/futop/0.jpg",
+            "id": "f2ba344b-9ceb-4444-b642-563de9409c70"
+        },
+        {
+            "Timestamp": "2024/06/05 5:22:17 PM GMT+1",
+            "inNamer": {
+                "Name": "chigaemezu",
+                "Mname": "Emmanuel",
+                "Surname": "Emecheta"
+            },
+            "reg": "20221325095",
+            "inparentno": "08137949901",
+            "Status": "MEMBER",
+            "bloodgroup": "O+",
+            "yearofadmin": "JAN.,2022",
+            "sex": "M",
+            "validity": "2022-2028",
+            "Department": "Computer science ",
+            "Faculty": "SICT",
+            "picturepath": "https://mydatabase.com.ng/utilitie/nuasa/futop/57.jpg",
+            "id": "8765fd0b-961c-4536-b947-1b92d5356e5f"
+        },
+        {
+            "Timestamp": "2024/06/05 7:41:34 PM GMT+1",
+            "inNamer": {
+                "Name": "Elochukwu",
+                "Mname": "Joshua",
+                "Surname": "Mbamara"
+            },
+            "reg": "20221310785",
+            "inparentno": "09131428164",
+            "Status": "MEMBER",
+            "bloodgroup": "O+",
+            "yearofadmin": "JAN.,2022",
+            "sex": "M",
+            "validity": "2022-2028",
+            "Department": "Computer Science ",
+            "Faculty": "SICT",
+            "picturepath": "https://mydatabase.com.ng/utilitie/nuasa/futop/58.jpg",
+            "id": "76cd4852-9f20-4975-b708-78375530ee0f"
+        },
+        {
+            "Timestamp": "2024/06/05 9:30:00 PM GMT+1",
+            "inNamer": {
+                "Name": "CHINEMEREM",
+                "Mname": "Emmanuel",
+                "Surname": "Akalazu"
+            },
+            "reg": "20221342365",
+            "inparentno": "07025821335",
+            "Status": "MEMBER",
+            "bloodgroup": "O+",
+            "yearofadmin": "JAN.,2022",
+            "sex": "M",
+            "validity": "2022-2028",
+            "Department": "Computer science ",
+            "Faculty": "SICT",
+            "picturepath": "https://mydatabase.com.ng/utilitie/nuasa/futop/59.jpg",
+            "id": "becc8e6e-a53e-42cf-9d02-17653504d679"
+        },
+        {
+            "Timestamp": "2024/06/05 10:05:07 PM GMT+1",
+            "inNamer": {
+                "Name": "Anthony",
+                "Mname": "kelechi",
+                "Surname": "Emezi"
+            },
+            "reg": "20221338295",
+            "inparentno": "09157475255",
+            "Status": "MEMBER",
+            "bloodgroup": "O+",
+            "yearofadmin": "JAN.,2022",
+            "sex": "M",
+            "validity": "2022-2028",
+            "Department": "Computer science ",
+            "Faculty": "SICT",
+            "picturepath": "https://mydatabase.com.ng/utilitie/nuasa/futop/60.jpg",
+            "id": "d5745d50-8c9e-436d-8ffb-0c693d772b43"
+        },
+        {
+            "Timestamp": "2024/06/05 11:53:26 PM GMT+1",
+            "inNamer": {
+                "Name": "Victor",
+                "Mname": "Onyekachi",
+                "Surname": "Odo"
+            },
+            "reg": "20221322785",
+            "inparentno": "09021720996",
+            "Status": "MEMBER",
+            "bloodgroup": "O+",
+            "yearofadmin": "JAN.,2022",
+            "sex": "M",
+            "validity": "2022-2028",
+            "Department": "Computer Science ",
+            "Faculty": "SICT",
+            "picturepath": "https://mydatabase.com.ng/utilitie/nuasa/futop/61.jpg",
+            "id": "0d7ccaca-2dd6-4512-a532-dbc19c3d8edc"
+        },
+        {
+            "Timestamp": "2024/06/06 9:35:24 AM GMT+1",
+            "inNamer": {
+                "Name": "Ikedichim",
+                "Mname": "Success",
+                "Surname": "Odom"
+            },
+            "reg": "20221305315",
+            "inparentno": "09050038159",
+            "Status": "MEMBER",
+            "bloodgroup": "O+",
+            "yearofadmin": "JAN.,2022",
+            "sex": "M",
+            "validity": "2022-2028",
+            "Department": "Computer science ",
+            "Faculty": "CSC",
+            "picturepath": "https://mydatabase.com.ng/utilitie/nuasa/futop/62.jpg",
+            "id": "67ea7c6a-3b82-4891-a0d3-9c333bed1450"
+        },
+        {
+            "Timestamp": "2024/06/06 2:23:45 PM GMT+1",
+            "inNamer": {
+                "Name": "JOSHUA ",
+                "Mname": "CHIDIEBELE",
+                "Surname": "OFOKANSI"
+            },
+            "reg": "20221305925",
+            "inparentno": "08069971739",
+            "Status": "MEMBER",
+            "bloodgroup": "O+",
+            "yearofadmin": "JAN.,2022",
+            "sex": "M",
+            "validity": "2022-2028",
+            "Department": "Computer science (CSC)",
+            "Faculty": "SICT",
+            "picturepath": "https://mydatabase.com.ng/utilitie/nuasa/futop/63.jpg",
+            "id": "fe3a7cb1-efee-48d5-82c4-dfd47680c23f"
+        },
+        {
+            "Timestamp": "2024/06/06 2:47:19 PM GMT+1",
+            "inNamer": {
+                "Name": "Vitalis",
+                "Mname": "Makuochukwu",
+                "Surname": "Egwuonwu"
+            },
+            "reg": "20221325885",
+            "inparentno": "07026139914",
+            "Status": "MEMBER",
+            "bloodgroup": "O+",
+            "yearofadmin": "JAN.,2022",
+            "sex": "M",
+            "validity": "2022-2028",
+            "Department": "Computer science ",
+            "Faculty": "SICT",
+            "picturepath": "https://mydatabase.com.ng/utilitie/nuasa/futop/64.jpg",
+            "id": "e93425ed-72cd-45c0-aaec-d9c08b568f03"
+        },
+        {
+            "Timestamp": "2024/06/06 4:21:58 PM GMT+1",
+            "inNamer": {
+                "Name": "Kelechi",
+                "Mname": "Mitchel",
+                "Surname": "Uzoahia"
+            },
+            "reg": "20221357872",
+            "inparentno": "08127110407",
+            "Status": "MEMBER",
+            "bloodgroup": "O+",
+            "yearofadmin": "JAN.,2022",
+            "sex": "M",
+            "validity": "2022-2028",
+            "Department": "Computer Science ",
+            "Faculty": "SICT",
+            "picturepath": "https://mydatabase.com.ng/utilitie/nuasa/futop/65.jpg",
+            "id": "8000753f-07ac-4192-8521-814cf3a0f02a"
+        },
+        {
+            "Timestamp": "2024/06/06 7:21:51 PM GMT+1",
+            "inNamer": {
+                "Name": "Nnanna",
+                "Mname": "Victor",
+                "Surname": "Agbi"
+            },
+            "reg": "20221338605",
+            "inparentno": "09078823019",
+            "Status": "MEMBER",
+            "bloodgroup": "O+",
+            "yearofadmin": "JAN.,2022",
+            "sex": "M",
+            "validity": "2022-2028",
+            "Department": "Computer Science",
+            "Faculty": "SICT",
+            "picturepath": "https://mydatabase.com.ng/utilitie/nuasa/futop/66.jpg",
+            "id": "274403c9-54bf-49f1-bd3b-e6847a87726e"
+        },
+        {
+            "Timestamp": "2024/06/06 7:52:05 PM GMT+1",
+            "inNamer": {
+                "Name": "Francis",
+                "Mname": "Tochukwu",
+                "Surname": "Uchegbu"
+            },
+            "reg": "20221353285",
+            "inparentno": "08080577722",
+            "Status": "MEMBER",
+            "bloodgroup": "O+",
+            "yearofadmin": "JAN.,2022",
+            "sex": "M",
+            "validity": "2022-2028",
+            "Department": "Computer Science ",
+            "Faculty": "SICT",
+            "picturepath": "https://mydatabase.com.ng/utilitie/nuasa/futop/67.jpg",
+            "id": "2514a682-a5a5-4eea-b664-f7ee0a2ab3ab"
+        },
+        {
+            "Timestamp": "2024/06/06 11:03:00 PM GMT+1",
+            "inNamer": {
+                "Name": "THOMPSON",
+                "Mname": "PEREKE-EBI",
+                "Surname": "AYABOTU"
+            },
+            "reg": "20221354305",
+            "inparentno": "07043962791",
+            "Status": "MEMBER",
+            "bloodgroup": "O+",
+            "yearofadmin": "JAN.,2022",
+            "sex": "M",
+            "validity": "2022-2028",
+            "Department": "Computer science ",
+            "Faculty": "CSC",
+            "picturepath": "https://mydatabase.com.ng/utilitie/nuasa/futop/68.jpg",
+            "id": "f63f94c2-f59b-45b5-950c-2b1a9e85ddf7"
+        },
+        {
+            "Timestamp": "2024/06/07 6:23:12 AM GMT+1",
+            "inNamer": {
+                "Name": "Uchechukwu",
+                "Mname": "Nelson",
+                "Surname": "Onuegbu"
+            },
+            "reg": "20221315555",
+            "inparentno": "08096781730",
+            "Status": "MEMBER",
+            "bloodgroup": "O+",
+            "yearofadmin": "JAN.,2022",
+            "sex": "M",
+            "validity": "2022-2028",
+            "Department": "Computer Science",
+            "Faculty": "SICT",
+            "picturepath": "https://mydatabase.com.ng/utilitie/nuasa/futop/69.jpg",
+            "id": "018e86f2-18b2-4a6d-b75d-494c8c8c19c8"
+        },
+        {
+            "Timestamp": "2024/06/07 8:53:37 AM GMT+1",
+            "inNamer": {
+                "Name": "Ogochukwu",
+                "Mname": "Esther",
+                "Surname": "Akaliro"
+            },
+            "reg": "20221313385",
+            "inparentno": "08132420471",
+            "Status": "MEMBER",
+            "bloodgroup": "O+",
+            "yearofadmin": "JAN.,2022",
+            "sex": "M",
+            "validity": "2022-2028",
+            "Department": "Computer Science ",
+            "Faculty": "SICT",
+            "picturepath": "https://mydatabase.com.ng/utilitie/nuasa/futop/70.jpg",
+            "id": "4dba10ec-475c-43fc-bfe5-3c28646fbe44"
+        },
+        {
+            "Timestamp": "2024/06/07 9:13:26 AM GMT+1",
+            "inNamer": {
+                "Name": "Chiemela",
+                "Mname": "Emmanuel",
+                "Surname": "Ikechi"
+            },
+            "reg": "20221319145",
+            "inparentno": "09030436679",
+            "Status": "MEMBER",
+            "bloodgroup": "O+",
+            "yearofadmin": "JAN.,2022",
+            "sex": "M",
+            "validity": "2022-2028",
+            "Department": "Computer Science",
+            "Faculty": "SICT",
+            "picturepath": "https://mydatabase.com.ng/utilitie/nuasa/futop/71.jpg",
+            "id": "ed8fdb04-fc89-4a81-acb9-b1890e4a4354"
+        },
+        {
+            "Timestamp": "2024/06/07 9:51:38 AM GMT+1",
+            "inNamer": {
+                "Name": "Chukwuebuka",
+                "Mname": "Macvictor",
+                "Surname": "Chiwueze"
+            },
+            "reg": "20221319925",
+            "inparentno": "09026257408",
+            "Status": "MEMBER",
+            "bloodgroup": "O+",
+            "yearofadmin": "JAN.,2022",
+            "sex": "M",
+            "validity": "2022-2028",
+            "Department": "Computer Science ",
+            "Faculty": "SICT",
+            "picturepath": "https://mydatabase.com.ng/utilitie/nuasa/futop/72.jpg",
+            "id": "5242ce3e-0aa3-4fd9-9ad7-c68c8db7f5f0"
+        },
+        {
+            "Timestamp": "2024/06/07 11:51:01 AM GMT+1",
+            "inNamer": {
+                "Name": "Chimeremeze",
+                "Mname": "Daniel",
+                "Surname": "Agoha"
+            },
+            "reg": "20221323505",
+            "inparentno": "08160822575",
+            "Status": "MEMBER",
+            "bloodgroup": "O+",
+            "yearofadmin": "JAN.,2022",
+            "sex": "M",
+            "validity": "2022-2028",
+            "Department": "Computer Science ",
+            "Faculty": "SICT",
+            "picturepath": "https://mydatabase.com.ng/utilitie/nuasa/futop/73.jpg",
+            "id": "cc986e03-6b52-4e89-bda5-70eb3d8c44b1"
+        },
+        {
+            "Timestamp": "2024/06/08 10:08:23 AM GMT+1",
+            "inNamer": {
+                "Name": "Caleb",
+                "Mname": "Eniola",
+                "Surname": "Nwaulu"
+            },
+            "reg": "20221314985",
+            "inparentno": "08137148488",
+            "Status": "MEMBER",
+            "bloodgroup": "O+",
+            "yearofadmin": "JAN.,2022",
+            "sex": "M",
+            "validity": "2022-2028",
+            "Department": "Computer science ",
+            "Faculty": "SICT",
+            "picturepath": "https://mydatabase.com.ng/utilitie/nuasa/futop/74.jpg",
+            "id": "930ffc1d-b89e-40f2-b466-3c3bcc337503"
+        },
+        {
+            "Timestamp": "2024/06/08 8:54:19 PM GMT+1",
+            "inNamer": {
+                "Name": "Tochukwu",
+                "Mname": "Daniel",
+                "Surname": "Uzondu"
+            },
+            "reg": "20221308125",
+            "inparentno": "09032020536",
+            "Status": "MEMBER",
+            "bloodgroup": "O+",
+            "yearofadmin": "JAN.,2022",
+            "sex": "M",
+            "validity": "2022-2028",
+            "Department": "Computer Science ",
+            "Faculty": "SICT",
+            "picturepath": "https://mydatabase.com.ng/utilitie/nuasa/futop/75.jpg",
+            "id": "b45d69b9-5b83-4ce6-8cb6-fc3650fec11e"
+        },
+        {
+            "Timestamp": "2024/06/08 8:56:28 PM GMT+1",
+            "inNamer": {
+                "Name": "frank",
+                "Mname": "chigemezu",
+                "Surname": "Onyeneke"
+            },
+            "reg": "20233399282",
+            "inparentno": "08021228389",
+            "Status": "MEMBER",
+            "bloodgroup": "O+",
+            "yearofadmin": "JAN.,2022",
+            "sex": "M",
+            "validity": "2022-2028",
+            "Department": "Computer science ",
+            "Faculty": "SICt",
+            "picturepath": "https://mydatabase.com.ng/utilitie/nuasa/futop/76.jpg",
+            "id": "a5671a34-2bca-4b9b-b01d-b46e5de354fd"
+        },
+        {
+            "Timestamp": "2024/06/08 9:32:40 PM GMT+1",
+            "inNamer": {
+                "Name": "Emmanuel",
+                "Mname": "Nnodim",
+                "Surname": "Anthony"
+            },
+            "reg": "20221341005",
+            "inparentno": "09033912333",
+            "Status": "MEMBER",
+            "bloodgroup": "O+",
+            "yearofadmin": "JAN.,2022",
+            "sex": "M",
+            "validity": "2022-2028",
+            "Department": "Computer science ",
+            "Faculty": "SCIT",
+            "picturepath": "https://mydatabase.com.ng/utilitie/nuasa/futop/77.jpg",
+            "id": "599bb732-13f3-40a8-b85d-da9335c701ac"
+        },
+        {
+            "Timestamp": "2024/06/08 9:39:10 PM GMT+1",
+            "inNamer": {
+                "Name": "Precious",
+                "Mname": "Chikwado",
+                "Surname": "Iwuamanam"
+            },
+            "reg": "20221352175",
+            "inparentno": "09166910491",
+            "Status": "MEMBER",
+            "bloodgroup": "O+",
+            "yearofadmin": "JAN.,2022",
+            "sex": "M",
+            "validity": "2022-2028",
+            "Department": "Computer Science",
+            "Faculty": "SICT",
+            "picturepath": "https://mydatabase.com.ng/utilitie/nuasa/futop/78.jpg",
+            "id": "9682f7c5-6ee0-416b-9b26-63b7108b039b"
+        },
+        {
+            "Timestamp": "2024/06/08 10:10:11 PM GMT+1",
+            "inNamer": {
+                "Name": "Chukwudi",
+                "Mname": "Valentine",
+                "Surname": "Duru"
+            },
+            "reg": "20221336625",
+            "inparentno": "09037089865",
+            "Status": "MEMBER",
+            "bloodgroup": "O+",
+            "yearofadmin": "JAN.,2022",
+            "sex": "M",
+            "validity": "2022-2028",
+            "Department": "Computer science ",
+            "Faculty": "SICT",
+            "picturepath": "https://mydatabase.com.ng/utilitie/nuasa/futop/79.jpg",
+            "id": "64b3d3b2-2027-47ce-bf5c-b4c3062b2f23"
+        },
+        {
+            "Timestamp": "2024/06/08 10:51:28 PM GMT+1",
+            "inNamer": {
+                "Name": "Anietie",
+                "Mname": "Idiokitaha",
+                "Surname": "Edighienyong"
+            },
+            "reg": "20221332915 ",
+            "inparentno": "09065319610 ",
+            "Status": "MEMBER",
+            "bloodgroup": "O+",
+            "yearofadmin": "JAN.,2022",
+            "sex": "M",
+            "validity": "2022-2028",
+            "Department": "Computer science ",
+            "Faculty": "SICT",
+            "picturepath": "https://mydatabase.com.ng/utilitie/nuasa/futop/80.jpg",
+            "id": "f079ec8d-a70a-4ace-9581-91415c47cce5"
+        }
 
 
-]
+    ]
+}
