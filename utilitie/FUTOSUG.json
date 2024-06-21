@@ -11199,6 +11199,2964 @@
             "obj": "06554268-8712-4f92-a954-1bf707c0648f",
             "id": "360",
             "__v": 0
+        },
+        {
+            "_id": {
+                "$oid": "66741b64159439d4e8671948"
+            },
+            "Aname": {
+                "Name": "CHIBUONIUM",
+                "Mname": "KELVIN",
+                "Surname": "UCHE-EZEANYIKA"
+            },
+            "School": "FUTO SUG",
+            "Faculty": "SICT",
+            "Dept": "COMPUTER SCIENCE",
+            "State": "",
+            "LocalGovt": "",
+            "RegNo": "20231388352",
+            "Bloodgroup": "-",
+            "Sex": "-",
+            "Validity": "2028",
+            "PhoneNo": "07065271161",
+            "EmergencyNo": "07065271161",
+            "Facebook": "@",
+            "Instagram": "@",
+            "Tiktok": "@",
+            "Twitter": "@",
+            "picturepath": "361.jpg",
+            "obj": "4c97c918-d17a-41d6-8f76-433afcad5b17",
+            "id": "361",
+            "__v": 0
+        },
+        {
+            "_id": {
+                "$oid": "66741bd5159439d4e867194c"
+            },
+            "Aname": {
+                "Name": "DANIEL",
+                "Mname": "D",
+                "Surname": "IHEZUE"
+            },
+            "School": "FUTO SUG",
+            "Faculty": "SESET",
+            "Dept": "MCE",
+            "State": "",
+            "LocalGovt": "",
+            "RegNo": "20231372953",
+            "Bloodgroup": "-",
+            "Sex": "-",
+            "Validity": "2028",
+            "PhoneNo": "09112537075",
+            "EmergencyNo": "09112537075",
+            "Facebook": "@",
+            "Instagram": "@",
+            "Tiktok": "@",
+            "Twitter": "@",
+            "picturepath": "362.jpg",
+            "obj": "8c5030e6-0f2b-4e9d-b1f5-18299a989c84",
+            "id": "362",
+            "__v": 0
+        },
+        {
+            "_id": {
+                "$oid": "66741c39159439d4e8671950"
+            },
+            "Aname": {
+                "Name": "SOMTOCHUKWU",
+                "Mname": "WISDOM",
+                "Surname": "DEMIAN"
+            },
+            "School": "FUTO SUG",
+            "Faculty": "SESET",
+            "Dept": "MCE",
+            "State": "",
+            "LocalGovt": "",
+            "RegNo": "20231368755",
+            "Bloodgroup": "-",
+            "Sex": "-",
+            "Validity": "2028",
+            "PhoneNo": "08136911711",
+            "EmergencyNo": "08136911711",
+            "Facebook": "@",
+            "Instagram": "@",
+            "Tiktok": "@",
+            "Twitter": "@",
+            "picturepath": "363.jpg",
+            "obj": "5a421146-c0e0-4954-9ca1-381653e76a70",
+            "id": "363",
+            "__v": 0
+        },
+        {
+            "_id": {
+                "$oid": "66741c9a159439d4e8671954"
+            },
+            "Aname": {
+                "Name": "GOODLUCK",
+                "Mname": "G",
+                "Surname": "IKECHI"
+            },
+            "School": "FUTO SUG",
+            "Faculty": "SESET",
+            "Dept": "PETROLEUM ENGINEERING",
+            "State": "",
+            "LocalGovt": "",
+            "RegNo": "20231398153",
+            "Bloodgroup": "-",
+            "Sex": "-",
+            "Validity": "2028",
+            "PhoneNo": "08162043852",
+            "EmergencyNo": "08162043852",
+            "Facebook": "@",
+            "Instagram": "@",
+            "Tiktok": "@",
+            "Twitter": "@",
+            "picturepath": "364.jpg",
+            "obj": "08e48a70-9201-49c7-9c68-0166993ccb1a",
+            "id": "364",
+            "__v": 0
+        },
+        {
+            "_id": {
+                "$oid": "66741d02159439d4e8671958"
+            },
+            "Aname": {
+                "Name": "GINIKACHI",
+                "Mname": "FAITH",
+                "Surname": "OBIALOR"
+            },
+            "School": "FUTO SUG",
+            "Faculty": "SMAT",
+            "Dept": "PROJECT MANAGEMENT TECHNOLOGY",
+            "State": "",
+            "LocalGovt": "",
+            "RegNo": "202330857061BF",
+            "Bloodgroup": "-",
+            "Sex": "-",
+            "Validity": "2028",
+            "PhoneNo": "09154152840",
+            "EmergencyNo": "09154152840",
+            "Facebook": "@",
+            "Instagram": "@",
+            "Tiktok": "@",
+            "Twitter": "@",
+            "picturepath": "365.jpg",
+            "obj": "9f46d8ef-c7de-4dcf-aafb-778d63c7fc34",
+            "id": "365",
+            "__v": 0
+        },
+        {
+            "_id": {
+                "$oid": "66741d7e159439d4e867195c"
+            },
+            "Aname": {
+                "Name": "UCHE",
+                "Mname": "IJEOMA",
+                "Surname": "NDUKWE"
+            },
+            "School": "FUTO SUG",
+            "Faculty": "SESET",
+            "Dept": "COMPUTER ENGINEERING",
+            "State": "",
+            "LocalGovt": "",
+            "RegNo": "20231380663",
+            "Bloodgroup": "-",
+            "Sex": "-",
+            "Validity": "2028",
+            "PhoneNo": "08138063963",
+            "EmergencyNo": "08138063963",
+            "Facebook": "@",
+            "Instagram": "@",
+            "Tiktok": "@",
+            "Twitter": "@",
+            "picturepath": "366.jpg",
+            "obj": "775e5aaf-1ff7-45a2-adb9-30c1eb496b4d",
+            "id": "366",
+            "__v": 0
+        },
+        {
+            "_id": {
+                "$oid": "667420ab159439d4e8671960"
+            },
+            "Aname": {
+                "Name": "AMARACHI",
+                "Mname": "DELIGHT",
+                "Surname": "OKORO"
+            },
+            "School": "FUTO SUG",
+            "Faculty": "SAAT",
+            "Dept": "AGRICULTURAL BUSINESS",
+            "State": "",
+            "LocalGovt": "",
+            "RegNo": "202330805535AF",
+            "Bloodgroup": "-",
+            "Sex": "-",
+            "Validity": "2028",
+            "PhoneNo": "08130343523",
+            "EmergencyNo": "08130343523",
+            "Facebook": "@",
+            "Instagram": "@",
+            "Tiktok": "@",
+            "Twitter": "@",
+            "picturepath": "367.jpg",
+            "obj": "465e781e-8b45-46dd-b483-b714d5590d6f",
+            "id": "367",
+            "__v": 0
+        },
+        {
+            "_id": {
+                "$oid": "66742a87159439d4e8671964"
+            },
+            "Aname": {
+                "Name": "CHIMAOBI",
+                "Mname": "A",
+                "Surname": "NWANKWEGU"
+            },
+            "School": "FUTO SUG",
+            "Faculty": "SESET",
+            "Dept": "ELECTRONICS ENGINEERING",
+            "State": "",
+            "LocalGovt": "",
+            "RegNo": "20231361493",
+            "Bloodgroup": "-",
+            "Sex": "-",
+            "Validity": "2028",
+            "PhoneNo": "08139342912",
+            "EmergencyNo": "",
+            "Facebook": "@",
+            "Instagram": "@",
+            "Tiktok": "@",
+            "Twitter": "@",
+            "picturepath": "368.jpg",
+            "obj": "fc00b1b3-1f52-4643-a90d-8b2b85d636b4",
+            "id": "368",
+            "__v": 0
+        },
+        {
+            "_id": {
+                "$oid": "66742b2d159439d4e8671968"
+            },
+            "Aname": {
+                "Name": "PAUL",
+                "Mname": "CHISOM",
+                "Surname": "NWOKE"
+            },
+            "School": "FUTO SUG",
+            "Faculty": "SOPS",
+            "Dept": "SCIENCE LABORATORY TECHNOLOGY",
+            "State": "",
+            "LocalGovt": "",
+            "RegNo": "202331510322",
+            "Bloodgroup": "-",
+            "Sex": "-",
+            "Validity": "2028",
+            "PhoneNo": "08072818486",
+            "EmergencyNo": "",
+            "Facebook": "@",
+            "Instagram": "@",
+            "Tiktok": "@",
+            "Twitter": "@",
+            "picturepath": "369.jpg",
+            "obj": "f426d736-790a-4123-9333-e1ed2baeb470",
+            "id": "369",
+            "__v": 0
+        },
+        {
+            "_id": {
+                "$oid": "66742bad159439d4e867196c"
+            },
+            "Aname": {
+                "Name": "CHINYERE",
+                "Mname": "O",
+                "Surname": "NZURUMIKE"
+            },
+            "School": "FUTO SUG",
+            "Faculty": "SOES",
+            "Dept": "ARCHITECTURE",
+            "State": "",
+            "LocalGovt": "",
+            "RegNo": "20231366984",
+            "Bloodgroup": "-",
+            "Sex": "-",
+            "Validity": "2028",
+            "PhoneNo": "09020017485",
+            "EmergencyNo": "",
+            "Facebook": "@",
+            "Instagram": "@",
+            "Tiktok": "@",
+            "Twitter": "@",
+            "picturepath": "370.jpg",
+            "obj": "63c6fa2e-fe1b-4341-b51d-cd7941055784",
+            "id": "370",
+            "__v": 0
+        },
+        {
+            "_id": {
+                "$oid": "66742c09159439d4e8671970"
+            },
+            "Aname": {
+                "Name": "AJAH",
+                "Mname": "JOSEPH",
+                "Surname": "CHIBUIKEM"
+            },
+            "School": "FUTO SUG",
+            "Faculty": "SOHT",
+            "Dept": "OPTOMETRY",
+            "State": "",
+            "LocalGovt": "",
+            "RegNo": "20231381897",
+            "Bloodgroup": "-",
+            "Sex": "-",
+            "Validity": "2028",
+            "PhoneNo": "08067905687",
+            "EmergencyNo": "",
+            "Facebook": "@",
+            "Instagram": "@",
+            "Tiktok": "@",
+            "Twitter": "@",
+            "picturepath": "371.jpg",
+            "obj": "90e31f9d-f551-4252-931d-86d4d643a68e",
+            "id": "371",
+            "__v": 0
+        },
+        {
+            "_id": {
+                "$oid": "66742c12159439d4e8671974"
+            },
+            "Aname": {
+                "Name": "VITALS",
+                "Mname": "VICTOR",
+                "Surname": "CHIJINDU"
+            },
+            "School": "FUTO SUG",
+            "Faculty": "SICT",
+            "Dept": "IFT",
+            "State": "",
+            "LocalGovt": "",
+            "RegNo": "20231375912",
+            "Bloodgroup": "-",
+            "Sex": "-",
+            "Validity": "2028",
+            "PhoneNo": "08068634482",
+            "EmergencyNo": "",
+            "Facebook": "@",
+            "Instagram": "@",
+            "Tiktok": "@",
+            "Twitter": "@",
+            "picturepath": "372.jpg",
+            "obj": "e728f783-4c2a-42b3-a83c-7d05c322b260",
+            "id": "372",
+            "__v": 0
+        },
+        {
+            "_id": {
+                "$oid": "66742c25159439d4e8671978"
+            },
+            "Aname": {
+                "Name": "GOODNESS",
+                "Mname": "U",
+                "Surname": "VAL CHINAGI"
+            },
+            "School": "FUTO SUG",
+            "Faculty": "SICT",
+            "Dept": "COMPUTER SCIENCE",
+            "State": "",
+            "LocalGovt": "",
+            "RegNo": "20231363245",
+            "Bloodgroup": "-",
+            "Sex": "-",
+            "Validity": "2028",
+            "PhoneNo": "08127279704",
+            "EmergencyNo": "",
+            "Facebook": "@",
+            "Instagram": "@",
+            "Tiktok": "@",
+            "Twitter": "@",
+            "picturepath": "373.jpg",
+            "obj": "73c5b2c4-5f4d-48b1-acd4-209669a1832b",
+            "id": "373",
+            "__v": 0
+        },
+        {
+            "_id": {
+                "$oid": "66742c7f159439d4e867197c"
+            },
+            "Aname": {
+                "Name": "AUGUSTINE",
+                "Mname": "CHIEMERIE",
+                "Surname": "UNEGBU"
+            },
+            "School": "FUTO SUG",
+            "Faculty": "SOBS",
+            "Dept": "MICROBIOLOGY",
+            "State": "",
+            "LocalGovt": "",
+            "RegNo": "20231377485",
+            "Bloodgroup": "-",
+            "Sex": "-",
+            "Validity": "2028",
+            "PhoneNo": "08038398996",
+            "EmergencyNo": "",
+            "Facebook": "@",
+            "Instagram": "@",
+            "Tiktok": "@",
+            "Twitter": "@",
+            "picturepath": "374.jpg",
+            "obj": "43fb1c4c-78a7-4cb4-ad10-efdea512876c",
+            "id": "374",
+            "__v": 0
+        },
+        {
+            "_id": {
+                "$oid": "66742c82159439d4e8671980"
+            },
+            "Aname": {
+                "Name": "EDOZIEUM",
+                "Mname": "JUSTICE",
+                "Surname": "O"
+            },
+            "School": "FUTO SUG",
+            "Faculty": "SEET",
+            "Dept": "CIVIL ENGINEERING",
+            "State": "",
+            "LocalGovt": "",
+            "RegNo": "20231391213",
+            "Bloodgroup": "-",
+            "Sex": "-",
+            "Validity": "2028",
+            "PhoneNo": "08167329670",
+            "EmergencyNo": "",
+            "Facebook": "@",
+            "Instagram": "@",
+            "Tiktok": "@",
+            "Twitter": "@",
+            "picturepath": "375.jpg",
+            "obj": "4b0d20f6-f3bb-4bb0-8a11-5f7ae8b65a3c",
+            "id": "375",
+            "__v": 0
+        },
+        {
+            "_id": {
+                "$oid": "66742c93159439d4e8671984"
+            },
+            "Aname": {
+                "Name": "EMEKA",
+                "Mname": "NWOKO",
+                "Surname": "REJOICE"
+            },
+            "School": "FUTO SUG",
+            "Faculty": "SOES",
+            "Dept": "URP",
+            "State": "",
+            "LocalGovt": "",
+            "RegNo": "20231376834",
+            "Bloodgroup": "-",
+            "Sex": "-",
+            "Validity": "2028",
+            "PhoneNo": "07015717517",
+            "EmergencyNo": "",
+            "Facebook": "@",
+            "Instagram": "@",
+            "Tiktok": "@",
+            "Twitter": "@",
+            "picturepath": "376.jpg",
+            "obj": "49ca8c5c-c8c9-42ff-bab4-ed56d69f34c9",
+            "id": "376",
+            "__v": 0
+        },
+        {
+            "_id": {
+                "$oid": "66742c93159439d4e8671988"
+            },
+            "Aname": {
+                "Name": "EMEKA",
+                "Mname": "NWOKO",
+                "Surname": "REJOICE"
+            },
+            "School": "FUTO SUG",
+            "Faculty": "SOES",
+            "Dept": "URP",
+            "State": "",
+            "LocalGovt": "",
+            "RegNo": "20231376834",
+            "Bloodgroup": "-",
+            "Sex": "-",
+            "Validity": "2028",
+            "PhoneNo": "07015717517",
+            "EmergencyNo": "",
+            "Facebook": "@",
+            "Instagram": "@",
+            "Tiktok": "@",
+            "Twitter": "@",
+            "picturepath": "377.jpg",
+            "obj": "39f25f9a-fb39-4902-9846-eb359815ec05",
+            "id": "377",
+            "__v": 0
+        },
+        {
+            "_id": {
+                "$oid": "66742c94159439d4e867198c"
+            },
+            "Aname": {
+                "Name": "EMEKA",
+                "Mname": "NWOKO",
+                "Surname": "REJOICE"
+            },
+            "School": "FUTO SUG",
+            "Faculty": "SOES",
+            "Dept": "URP",
+            "State": "",
+            "LocalGovt": "",
+            "RegNo": "20231376834",
+            "Bloodgroup": "-",
+            "Sex": "-",
+            "Validity": "2028",
+            "PhoneNo": "07015717517",
+            "EmergencyNo": "",
+            "Facebook": "@",
+            "Instagram": "@",
+            "Tiktok": "@",
+            "Twitter": "@",
+            "picturepath": "378.jpg",
+            "obj": "ce02ba23-8d0b-4b02-9268-110f9f4eb041",
+            "id": "378",
+            "__v": 0
+        },
+        {
+            "_id": {
+                "$oid": "66742c94159439d4e8671992"
+            },
+            "Aname": {
+                "Name": "EMEKA",
+                "Mname": "NWOKO",
+                "Surname": "REJOICE"
+            },
+            "School": "FUTO SUG",
+            "Faculty": "SOES",
+            "Dept": "URP",
+            "State": "",
+            "LocalGovt": "",
+            "RegNo": "20231376834",
+            "Bloodgroup": "-",
+            "Sex": "-",
+            "Validity": "2028",
+            "PhoneNo": "07015717517",
+            "EmergencyNo": "",
+            "Facebook": "@",
+            "Instagram": "@",
+            "Tiktok": "@",
+            "Twitter": "@",
+            "picturepath": "379.jpg",
+            "obj": "e59a6ced-71de-4e8a-a3e6-064ffda1cf87",
+            "id": "379",
+            "__v": 0
+        },
+        {
+            "_id": {
+                "$oid": "66742c94159439d4e8671990"
+            },
+            "Aname": {
+                "Name": "EMEKA",
+                "Mname": "NWOKO",
+                "Surname": "REJOICE"
+            },
+            "School": "FUTO SUG",
+            "Faculty": "SOES",
+            "Dept": "URP",
+            "State": "",
+            "LocalGovt": "",
+            "RegNo": "20231376834",
+            "Bloodgroup": "-",
+            "Sex": "-",
+            "Validity": "2028",
+            "PhoneNo": "07015717517",
+            "EmergencyNo": "",
+            "Facebook": "@",
+            "Instagram": "@",
+            "Tiktok": "@",
+            "Twitter": "@",
+            "picturepath": "380.jpg",
+            "obj": "fc60b5a0-d8e2-4393-8377-ed6eb2d8336a",
+            "id": "380",
+            "__v": 0
+        },
+        {
+            "_id": {
+                "$oid": "66742cf8159439d4e8671998"
+            },
+            "Aname": {
+                "Name": "KALU",
+                "Mname": "GLADYS",
+                "Surname": "UGOCHI"
+            },
+            "School": "FUTO SUG",
+            "Faculty": "SOBS",
+            "Dept": "MICROBIOLOGY",
+            "State": "",
+            "LocalGovt": "",
+            "RegNo": "20231393385",
+            "Bloodgroup": "-",
+            "Sex": "-",
+            "Validity": "2028",
+            "PhoneNo": "09166275402",
+            "EmergencyNo": "",
+            "Facebook": "@",
+            "Instagram": "@",
+            "Tiktok": "@",
+            "Twitter": "@",
+            "picturepath": "381.jpg",
+            "obj": "c045c437-ab47-412b-8f87-0a6cfd8ba981",
+            "id": "381",
+            "__v": 0
+        },
+        {
+            "_id": {
+                "$oid": "66742cff159439d4e867199c"
+            },
+            "Aname": {
+                "Name": "CHINENNEKERE",
+                "Mname": "PARTICIA",
+                "Surname": "IHEZIE"
+            },
+            "School": "FUTO SUG",
+            "Faculty": "SOHT",
+            "Dept": "DENTAL TECHNOLOGY",
+            "State": "",
+            "LocalGovt": "",
+            "RegNo": "20231362217",
+            "Bloodgroup": "-",
+            "Sex": "-",
+            "Validity": "2028",
+            "PhoneNo": "08129500313",
+            "EmergencyNo": "",
+            "Facebook": "@",
+            "Instagram": "@",
+            "Tiktok": "@",
+            "Twitter": "@",
+            "picturepath": "382.jpg",
+            "obj": "ff95f4b4-1b18-488a-a6a5-bda11c6dde71",
+            "id": "382",
+            "__v": 0
+        },
+        {
+            "_id": {
+                "$oid": "66742d47159439d4e86719a0"
+            },
+            "Aname": {
+                "Name": "NSOFOR",
+                "Mname": "ETYUDO",
+                "Surname": "DAVID"
+            },
+            "School": "FUTO SUG",
+            "Faculty": "SEET",
+            "Dept": "CHEMICAL ENGINEERING",
+            "State": "",
+            "LocalGovt": "",
+            "RegNo": "20231380113",
+            "Bloodgroup": "-",
+            "Sex": "-",
+            "Validity": "2028",
+            "PhoneNo": "09132547974",
+            "EmergencyNo": "",
+            "Facebook": "@",
+            "Instagram": "@",
+            "Tiktok": "@",
+            "Twitter": "@",
+            "picturepath": "383.jpg",
+            "obj": "9e14ed27-85ab-4118-88dc-1e06f06d7c78",
+            "id": "383",
+            "__v": 0
+        },
+        {
+            "_id": {
+                "$oid": "66742d5c159439d4e86719a4"
+            },
+            "Aname": {
+                "Name": "VICTOR",
+                "Mname": "CHIGOZIE",
+                "Surname": "UMAHI"
+            },
+            "School": "FUTO SUG",
+            "Faculty": "SOHT",
+            "Dept": "OPTOMETRY",
+            "State": "",
+            "LocalGovt": "",
+            "RegNo": "20231365567",
+            "Bloodgroup": "-",
+            "Sex": "-",
+            "Validity": "2028",
+            "PhoneNo": "07043851403",
+            "EmergencyNo": "",
+            "Facebook": "@",
+            "Instagram": "@",
+            "Tiktok": "@",
+            "Twitter": "@",
+            "picturepath": "384.jpg",
+            "obj": "164da6ba-7972-42ba-9d33-63fc730a7ed3",
+            "id": "384",
+            "__v": 0
+        },
+        {
+            "_id": {
+                "$oid": "66742d9d159439d4e86719a8"
+            },
+            "Aname": {
+                "Name": "UGO",
+                "Mname": "SOLOMON",
+                "Surname": "CHIDERA"
+            },
+            "School": "FUTO SUG",
+            "Faculty": "SEET",
+            "Dept": "MECHANICAL ENGINEERING",
+            "State": "",
+            "LocalGovt": "",
+            "RegNo": "20231363653",
+            "Bloodgroup": "-",
+            "Sex": "-",
+            "Validity": "2028",
+            "PhoneNo": "09066724095",
+            "EmergencyNo": "",
+            "Facebook": "@",
+            "Instagram": "@",
+            "Tiktok": "@",
+            "Twitter": "@",
+            "picturepath": "385.jpg",
+            "obj": "e6e0808e-0541-4f80-b952-9ef8bd24ee8b",
+            "id": "385",
+            "__v": 0
+        },
+        {
+            "_id": {
+                "$oid": "66742db1159439d4e86719ac"
+            },
+            "Aname": {
+                "Name": "CHISOM",
+                "Mname": "JOEL",
+                "Surname": "INNOCENT"
+            },
+            "School": "FUTO SUG",
+            "Faculty": "SICT",
+            "Dept": "COMPUTER SCIENCE",
+            "State": "",
+            "LocalGovt": "",
+            "RegNo": "20231361585",
+            "Bloodgroup": "-",
+            "Sex": "-",
+            "Validity": "2028",
+            "PhoneNo": "09131812753",
+            "EmergencyNo": "",
+            "Facebook": "@",
+            "Instagram": "@",
+            "Tiktok": "@",
+            "Twitter": "@",
+            "picturepath": "386.jpg",
+            "obj": "e7e1fa72-6634-48fa-977a-ef784011daac",
+            "id": "386",
+            "__v": 0
+        },
+        {
+            "_id": {
+                "$oid": "66742e0e159439d4e86719b0"
+            },
+            "Aname": {
+                "Name": "UCHENNA",
+                "Mname": "KENECHUKWU",
+                "Surname": "V"
+            },
+            "School": "FUTO SUG",
+            "Faculty": "SEET",
+            "Dept": "CHEMICAL ENGINEERING",
+            "State": "",
+            "LocalGovt": "",
+            "RegNo": "20231374153",
+            "Bloodgroup": "-",
+            "Sex": "-",
+            "Validity": "2028",
+            "PhoneNo": "07062273631",
+            "EmergencyNo": "",
+            "Facebook": "@",
+            "Instagram": "@",
+            "Tiktok": "@",
+            "Twitter": "@",
+            "picturepath": "387.jpg",
+            "obj": "ec877dd7-308b-4fde-a344-7daf5f8d62fa",
+            "id": "387",
+            "__v": 0
+        },
+        {
+            "_id": {
+                "$oid": "66742e12159439d4e86719b4"
+            },
+            "Aname": {
+                "Name": "CHIAMAKA",
+                "Mname": "PRECIOUS",
+                "Surname": "IBEZIMAKO"
+            },
+            "School": "FUTO SUG",
+            "Faculty": "SBMS",
+            "Dept": "HUMAN PHYSIOLOGY",
+            "State": "",
+            "LocalGovt": "",
+            "RegNo": "20231395117",
+            "Bloodgroup": "-",
+            "Sex": "-",
+            "Validity": "2028",
+            "PhoneNo": "08140540797",
+            "EmergencyNo": "",
+            "Facebook": "@",
+            "Instagram": "@",
+            "Tiktok": "@",
+            "Twitter": "@",
+            "picturepath": "388.jpg",
+            "obj": "4091f0fc-a4b6-4fcb-ab8b-afff7df48d30",
+            "id": "388",
+            "__v": 0
+        },
+        {
+            "_id": {
+                "$oid": "66742e5a159439d4e86719b8"
+            },
+            "Aname": {
+                "Name": "AGOBI",
+                "Mname": "FRANCIS",
+                "Surname": "IZUCHUKWU"
+            },
+            "School": "FUTO SUG",
+            "Faculty": "SESET",
+            "Dept": "ELECTRICAL ENGINEERING",
+            "State": "",
+            "LocalGovt": "",
+            "RegNo": "20231364143",
+            "Bloodgroup": "-",
+            "Sex": "-",
+            "Validity": "2028",
+            "PhoneNo": "08115395501",
+            "EmergencyNo": "",
+            "Facebook": "@",
+            "Instagram": "@",
+            "Tiktok": "@",
+            "Twitter": "@",
+            "picturepath": "389.jpg",
+            "obj": "075cff74-2113-4b81-a546-397e1a4070a0",
+            "id": "389",
+            "__v": 0
+        },
+        {
+            "_id": {
+                "$oid": "66742e6b159439d4e86719bc"
+            },
+            "Aname": {
+                "Name": "VICTOR",
+                "Mname": "CHINAZA",
+                "Surname": "IHEJIENE"
+            },
+            "School": "FUTO SUG",
+            "Faculty": "SOES",
+            "Dept": "QUANTITY SURVEYING",
+            "State": "",
+            "LocalGovt": "",
+            "RegNo": "20231388174",
+            "Bloodgroup": "-",
+            "Sex": "-",
+            "Validity": "2028",
+            "PhoneNo": "08148875200",
+            "EmergencyNo": "",
+            "Facebook": "@",
+            "Instagram": "@",
+            "Tiktok": "@",
+            "Twitter": "@",
+            "picturepath": "390.jpg",
+            "obj": "752b3a08-66f4-4414-ab84-feee48d84f17",
+            "id": "390",
+            "__v": 0
+        },
+        {
+            "_id": {
+                "$oid": "66742e6f159439d4e86719c0"
+            },
+            "Aname": {
+                "Name": "OPARA",
+                "Mname": "MIRACLE",
+                "Surname": "CHINYERE"
+            },
+            "School": "FUTO SUG",
+            "Faculty": "SOHT",
+            "Dept": "DENTAL TECHNOLOGY",
+            "State": "",
+            "LocalGovt": "",
+            "RegNo": "20231366157",
+            "Bloodgroup": "-",
+            "Sex": "-",
+            "Validity": "2028",
+            "PhoneNo": "07049281926",
+            "EmergencyNo": "",
+            "Facebook": "@",
+            "Instagram": "@",
+            "Tiktok": "@",
+            "Twitter": "@",
+            "picturepath": "391.jpg",
+            "obj": "f6e48a9e-619e-4257-b1c6-d12ddd0eff04",
+            "id": "391",
+            "__v": 0
+        },
+        {
+            "_id": {
+                "$oid": "66742edb159439d4e86719c4"
+            },
+            "Aname": {
+                "Name": "EDESIRI",
+                "Mname": "A",
+                "Surname": "OGHEWEIEGA"
+            },
+            "School": "FUTO SUG",
+            "Faculty": "SMAT",
+            "Dept": "INNOVATION AND ENTERPRENUERSHIP",
+            "State": "",
+            "LocalGovt": "",
+            "RegNo": "202330785927",
+            "Bloodgroup": "-",
+            "Sex": "-",
+            "Validity": "2028",
+            "PhoneNo": "09165247877",
+            "EmergencyNo": "",
+            "Facebook": "@",
+            "Instagram": "@",
+            "Tiktok": "@",
+            "Twitter": "@",
+            "picturepath": "392.jpg",
+            "obj": "afbea4d1-0bc0-436b-810e-340128af8f04",
+            "id": "392",
+            "__v": 0
+        },
+        {
+            "_id": {
+                "$oid": "66742edc159439d4e86719c8"
+            },
+            "Aname": {
+                "Name": "CHUKWU",
+                "Mname": "BENJAMIN",
+                "Surname": "ONYEKACHI"
+            },
+            "School": "FUTO SUG",
+            "Faculty": "SESET",
+            "Dept": "MECHATRONICS",
+            "State": "",
+            "LocalGovt": "",
+            "RegNo": "20231385723",
+            "Bloodgroup": "-",
+            "Sex": "-",
+            "Validity": "2028",
+            "PhoneNo": "08161310231",
+            "EmergencyNo": "",
+            "Facebook": "@",
+            "Instagram": "@",
+            "Tiktok": "@",
+            "Twitter": "@",
+            "picturepath": "393.jpg",
+            "obj": "04ba1710-102b-4b08-abb0-c3e26157596e",
+            "id": "393",
+            "__v": 0
+        },
+        {
+            "_id": {
+                "$oid": "66742eea159439d4e86719cc"
+            },
+            "Aname": {
+                "Name": "NJOKU",
+                "Mname": "NOBLE",
+                "Surname": "QUEEN"
+            },
+            "School": "FUTO SUG",
+            "Faculty": "SBMS",
+            "Dept": "HUMAN PHYSIOLOGY",
+            "State": "",
+            "LocalGovt": "",
+            "RegNo": "20231391277",
+            "Bloodgroup": "-",
+            "Sex": "-",
+            "Validity": "2028",
+            "PhoneNo": "08107358604",
+            "EmergencyNo": "",
+            "Facebook": "@",
+            "Instagram": "@",
+            "Tiktok": "@",
+            "Twitter": "@",
+            "picturepath": "394.jpg",
+            "obj": "707527cb-d864-4b1e-8cd2-dff408fa5b4b",
+            "id": "394",
+            "__v": 0
+        },
+        {
+            "_id": {
+                "$oid": "66742f33159439d4e86719d0"
+            },
+            "Aname": {
+                "Name": "JAHSWILL",
+                "Mname": "P",
+                "Surname": "EGOBI"
+            },
+            "School": "FUTO SUG",
+            "Faculty": "SOES",
+            "Dept": "ARCHITECTURE",
+            "State": "",
+            "LocalGovt": "",
+            "RegNo": "20231361514",
+            "Bloodgroup": "-",
+            "Sex": "-",
+            "Validity": "2028",
+            "PhoneNo": "08078208627",
+            "EmergencyNo": "",
+            "Facebook": "@",
+            "Instagram": "@",
+            "Tiktok": "@",
+            "Twitter": "@",
+            "picturepath": "395.jpg",
+            "obj": "feab2c2e-7bfd-4fee-ac16-d42fbf2f1d99",
+            "id": "395",
+            "__v": 0
+        },
+        {
+            "_id": {
+                "$oid": "66742f48159439d4e86719d4"
+            },
+            "Aname": {
+                "Name": "AYOZIE",
+                "Mname": "CHIBUIKE",
+                "Surname": "GOOD LUCK"
+            },
+            "School": "FUTO SUG",
+            "Faculty": "SOBS",
+            "Dept": "MICROBIOLOGY",
+            "State": "",
+            "LocalGovt": "",
+            "RegNo": "20231374025",
+            "Bloodgroup": "-",
+            "Sex": "-",
+            "Validity": "2028",
+            "PhoneNo": "091333118338",
+            "EmergencyNo": "",
+            "Facebook": "@",
+            "Instagram": "@",
+            "Tiktok": "@",
+            "Twitter": "@",
+            "picturepath": "396.jpg",
+            "obj": "1a0221d0-ae51-44df-be68-b9154bd7aa53",
+            "id": "396",
+            "__v": 0
+        },
+        {
+            "_id": {
+                "$oid": "66742f65159439d4e86719d8"
+            },
+            "Aname": {
+                "Name": "UNANWA",
+                "Mname": "NANCY",
+                "Surname": "IFUNANYA"
+            },
+            "School": "FUTO SUG",
+            "Faculty": "SOHT",
+            "Dept": "RADIOGRAPHY",
+            "State": "",
+            "LocalGovt": "",
+            "RegNo": "20231365387",
+            "Bloodgroup": "-",
+            "Sex": "-",
+            "Validity": "2028",
+            "PhoneNo": "08038298246",
+            "EmergencyNo": "",
+            "Facebook": "@",
+            "Instagram": "@",
+            "Tiktok": "@",
+            "Twitter": "@",
+            "picturepath": "397.jpg",
+            "obj": "97a9c79a-0ddb-4fb7-b41f-0b87a0a99a77",
+            "id": "397",
+            "__v": 0
+        },
+        {
+            "_id": {
+                "$oid": "66742f87159439d4e86719dc"
+            },
+            "Aname": {
+                "Name": "HELEN",
+                "Mname": "OLOHI",
+                "Surname": "SHALOM"
+            },
+            "School": "FUTO SUG",
+            "Faculty": "SBMS",
+            "Dept": "MBBS",
+            "State": "",
+            "LocalGovt": "",
+            "RegNo": "20231389197",
+            "Bloodgroup": "-",
+            "Sex": "-",
+            "Validity": "2028",
+            "PhoneNo": "08166321200",
+            "EmergencyNo": "",
+            "Facebook": "@",
+            "Instagram": "@",
+            "Tiktok": "@",
+            "Twitter": "@",
+            "picturepath": "398.jpg",
+            "obj": "3e2fff7f-d0a6-4ae2-9f13-95810bf1bb2d",
+            "id": "398",
+            "__v": 0
+        },
+        {
+            "_id": {
+                "$oid": "66742fc8159439d4e86719e0"
+            },
+            "Aname": {
+                "Name": "MBADIKE",
+                "Mname": "AUGUSTINE",
+                "Surname": "IKECHUCKWU"
+            },
+            "School": "FUTO SUG",
+            "Faculty": "SLIT",
+            "Dept": "ENTERPRENEURSHIP AND INNOVATION",
+            "State": "",
+            "LocalGovt": "",
+            "RegNo": "202331374666",
+            "Bloodgroup": "-",
+            "Sex": "-",
+            "Validity": "2028",
+            "PhoneNo": "07010371381",
+            "EmergencyNo": "",
+            "Facebook": "@",
+            "Instagram": "@",
+            "Tiktok": "@",
+            "Twitter": "@",
+            "picturepath": "399.jpg",
+            "obj": "7645dfff-18b3-450c-b728-0de6a911f499",
+            "id": "399",
+            "__v": 0
+        },
+        {
+            "_id": {
+                "$oid": "66742fd7159439d4e86719e4"
+            },
+            "Aname": {
+                "Name": "CALEB",
+                "Mname": "C",
+                "Surname": "DIMKPA"
+            },
+            "School": "FUTO SUG",
+            "Faculty": "SOES",
+            "Dept": "URP",
+            "State": "",
+            "LocalGovt": "",
+            "RegNo": "20231373964",
+            "Bloodgroup": "-",
+            "Sex": "-",
+            "Validity": "2028",
+            "PhoneNo": "09166921614",
+            "EmergencyNo": "",
+            "Facebook": "@",
+            "Instagram": "@",
+            "Tiktok": "@",
+            "Twitter": "@",
+            "picturepath": "400.jpg",
+            "obj": "c2db0b6e-c248-417b-b376-1e53831d6124",
+            "id": "400",
+            "__v": 0
+        },
+        {
+            "_id": {
+                "$oid": "66742fd7159439d4e86719e8"
+            },
+            "Aname": {
+                "Name": "ISIKENYI",
+                "Mname": "ONYEDỊKACHI",
+                "Surname": "MARTIN"
+            },
+            "School": "FUTO SUG",
+            "Faculty": "SICT",
+            "Dept": "SOFTWARE ENGINEERING",
+            "State": "",
+            "LocalGovt": "",
+            "RegNo": "20231362762",
+            "Bloodgroup": "-",
+            "Sex": "-",
+            "Validity": "2028",
+            "PhoneNo": "09041265009",
+            "EmergencyNo": "",
+            "Facebook": "@",
+            "Instagram": "@",
+            "Tiktok": "@",
+            "Twitter": "@",
+            "picturepath": "401.jpg",
+            "obj": "70e28d85-8833-42d0-9a2f-2bb44c292e3e",
+            "id": "401",
+            "__v": 0
+        },
+        {
+            "_id": {
+                "$oid": "66743023159439d4e86719ec"
+            },
+            "Aname": {
+                "Name": "NDUBIISI",
+                "Mname": "N",
+                "Surname": "MPAMUGO"
+            },
+            "School": "FUTO SUG",
+            "Faculty": "SICT",
+            "Dept": "COMPUTER SCIENCE",
+            "State": "",
+            "LocalGovt": "",
+            "RegNo": "20231375775",
+            "Bloodgroup": "-",
+            "Sex": "-",
+            "Validity": "2028",
+            "PhoneNo": "09114392033",
+            "EmergencyNo": "",
+            "Facebook": "@",
+            "Instagram": "@",
+            "Tiktok": "@",
+            "Twitter": "@",
+            "picturepath": "402.jpg",
+            "obj": "a46812bd-d784-4786-b9f6-5cb8d27da2fe",
+            "id": "402",
+            "__v": 0
+        },
+        {
+            "_id": {
+                "$oid": "66743028159439d4e86719f0"
+            },
+            "Aname": {
+                "Name": "ANI",
+                "Mname": "HENRY",
+                "Surname": "UCHECHUKWU"
+            },
+            "School": "FUTO SUG",
+            "Faculty": "SICT",
+            "Dept": "SOFTWARE ENGINEERING",
+            "State": "",
+            "LocalGovt": "",
+            "RegNo": "20231389542",
+            "Bloodgroup": "-",
+            "Sex": "-",
+            "Validity": "2028",
+            "PhoneNo": "07041696809",
+            "EmergencyNo": "",
+            "Facebook": "@",
+            "Instagram": "@",
+            "Tiktok": "@",
+            "Twitter": "@",
+            "picturepath": "403.jpg",
+            "obj": "bed4e14a-22ef-4160-a3f4-d04cfd929244",
+            "id": "403",
+            "__v": 0
+        },
+        {
+            "_id": {
+                "$oid": "66743049159439d4e86719f4"
+            },
+            "Aname": {
+                "Name": "UZUEGBU",
+                "Mname": "FAVOUR",
+                "Surname": "DIVINE"
+            },
+            "School": "FUTO SUG",
+            "Faculty": "SEET",
+            "Dept": "MEE",
+            "State": "",
+            "LocalGovt": "",
+            "RegNo": "20231370533",
+            "Bloodgroup": "-",
+            "Sex": "-",
+            "Validity": "2028",
+            "PhoneNo": "08145859904",
+            "EmergencyNo": "",
+            "Facebook": "@",
+            "Instagram": "@",
+            "Tiktok": "@",
+            "Twitter": "@",
+            "picturepath": "404.jpg",
+            "obj": "499f8858-5685-43ec-b6fa-4052c67cbd3e",
+            "id": "404",
+            "__v": 0
+        },
+        {
+            "_id": {
+                "$oid": "66743061159439d4e86719f8"
+            },
+            "Aname": {
+                "Name": "DESTINY",
+                "Mname": "C",
+                "Surname": "UCHE"
+            },
+            "School": "FUTO SUG",
+            "Faculty": "SBMS",
+            "Dept": "HUMAN PHYSIOLOGY",
+            "State": "",
+            "LocalGovt": "",
+            "RegNo": "20231403267",
+            "Bloodgroup": "-",
+            "Sex": "-",
+            "Validity": "2028",
+            "PhoneNo": "08134204698",
+            "EmergencyNo": "",
+            "Facebook": "@",
+            "Instagram": "@",
+            "Tiktok": "@",
+            "Twitter": "@",
+            "picturepath": "405.jpg",
+            "obj": "297c7812-9998-4b8b-9391-ec77680a9868",
+            "id": "405",
+            "__v": 0
+        },
+        {
+            "_id": {
+                "$oid": "6674308a159439d4e86719fc"
+            },
+            "Aname": {
+                "Name": "OFORDUE",
+                "Mname": "CLARE",
+                "Surname": "CHIEMELIE"
+            },
+            "School": "FUTO SUG",
+            "Faculty": "SOBS",
+            "Dept": "BIOCHEMISTRY",
+            "State": "",
+            "LocalGovt": "",
+            "RegNo": "20231373465",
+            "Bloodgroup": "-",
+            "Sex": "-",
+            "Validity": "2028",
+            "PhoneNo": "08109503395",
+            "EmergencyNo": "",
+            "Facebook": "@",
+            "Instagram": "@",
+            "Tiktok": "@",
+            "Twitter": "@",
+            "picturepath": "406.jpg",
+            "obj": "369725b4-95ce-41b9-b8e1-ecec47fa607b",
+            "id": "406",
+            "__v": 0
+        },
+        {
+            "_id": {
+                "$oid": "667430aa159439d4e8671a00"
+            },
+            "Aname": {
+                "Name": "DANIEL",
+                "Mname": "SAMUEL",
+                "Surname": "CHINONSO"
+            },
+            "School": "FUTO SUG",
+            "Faculty": "SOES",
+            "Dept": "ARCHITECTURE",
+            "State": "",
+            "LocalGovt": "",
+            "RegNo": "20231369934",
+            "Bloodgroup": "-",
+            "Sex": "-",
+            "Validity": "2028",
+            "PhoneNo": "091153663722",
+            "EmergencyNo": "",
+            "Facebook": "@",
+            "Instagram": "@",
+            "Tiktok": "@",
+            "Twitter": "@",
+            "picturepath": "407.jpg",
+            "obj": "0116b248-008c-4284-ae06-b3272b7d5401",
+            "id": "407",
+            "__v": 0
+        },
+        {
+            "_id": {
+                "$oid": "667430d3159439d4e8671a04"
+            },
+            "Aname": {
+                "Name": "UMEADI",
+                "Mname": "RAPHAEL",
+                "Surname": "EBUBECHUKWU"
+            },
+            "School": "FUTO SUG",
+            "Faculty": "SEET",
+            "Dept": "MEE",
+            "State": "",
+            "LocalGovt": "",
+            "RegNo": "202313377503",
+            "Bloodgroup": "-",
+            "Sex": "-",
+            "Validity": "2028",
+            "PhoneNo": "09125168087",
+            "EmergencyNo": "",
+            "Facebook": "@",
+            "Instagram": "@",
+            "Tiktok": "@",
+            "Twitter": "@",
+            "picturepath": "408.jpg",
+            "obj": "d94565a1-4b92-49d6-87da-037be050bded",
+            "id": "408",
+            "__v": 0
+        },
+        {
+            "_id": {
+                "$oid": "667430e6159439d4e8671a08"
+            },
+            "Aname": {
+                "Name": "NKWONA",
+                "Mname": "ANOITED",
+                "Surname": "CHIKA"
+            },
+            "School": "FUTO SUG",
+            "Faculty": "SAAT",
+            "Dept": "CROP SCIENCE",
+            "State": "",
+            "LocalGovt": "",
+            "RegNo": "20231393891",
+            "Bloodgroup": "-",
+            "Sex": "-",
+            "Validity": "2028",
+            "PhoneNo": "09162410455",
+            "EmergencyNo": "",
+            "Facebook": "@",
+            "Instagram": "@",
+            "Tiktok": "@",
+            "Twitter": "@",
+            "picturepath": "409.jpg",
+            "obj": "cbbf0fac-bb13-4a7b-b5d1-31244c34a31f",
+            "id": "409",
+            "__v": 0
+        },
+        {
+            "_id": {
+                "$oid": "66743111159439d4e8671a0c"
+            },
+            "Aname": {
+                "Name": "EMMANUEL",
+                "Mname": "C",
+                "Surname": "NWABUIFE"
+            },
+            "School": "FUTO SUG",
+            "Faculty": "SICT",
+            "Dept": "COMPUTER SCIENCE",
+            "State": "",
+            "LocalGovt": "",
+            "RegNo": "20231371885",
+            "Bloodgroup": "-",
+            "Sex": "-",
+            "Validity": "2028",
+            "PhoneNo": "08143320096",
+            "EmergencyNo": "",
+            "Facebook": "@",
+            "Instagram": "@",
+            "Tiktok": "@",
+            "Twitter": "@",
+            "picturepath": "410.jpg",
+            "obj": "15b88e22-c94d-40cf-9676-7298963084f4",
+            "id": "410",
+            "__v": 0
+        },
+        {
+            "_id": {
+                "$oid": "6674313e159439d4e8671a10"
+            },
+            "Aname": {
+                "Name": "JOHNSON",
+                "Mname": "IFEANYI",
+                "Surname": "SOLOMON"
+            },
+            "School": "FUTO SUG",
+            "Faculty": "SICT",
+            "Dept": "SOFTWARE ENGINEERING",
+            "State": "",
+            "LocalGovt": "",
+            "RegNo": "20231375632",
+            "Bloodgroup": "-",
+            "Sex": "-",
+            "Validity": "2028",
+            "PhoneNo": "08107337549",
+            "EmergencyNo": "",
+            "Facebook": "@",
+            "Instagram": "@",
+            "Tiktok": "@",
+            "Twitter": "@",
+            "picturepath": "411.jpg",
+            "obj": "5ec4cced-64c2-4d33-bb61-4273982896f6",
+            "id": "411",
+            "__v": 0
+        },
+        {
+            "_id": {
+                "$oid": "6674315c159439d4e8671a14"
+            },
+            "Aname": {
+                "Name": "OFFORLETE",
+                "Mname": "NEHEMIAH",
+                "Surname": "U"
+            },
+            "School": "FUTO SUG",
+            "Faculty": "BICT",
+            "Dept": "CYB",
+            "State": "",
+            "LocalGovt": "",
+            "RegNo": "20231364852",
+            "Bloodgroup": "-",
+            "Sex": "-",
+            "Validity": "2028",
+            "PhoneNo": "07036740070",
+            "EmergencyNo": "",
+            "Facebook": "@",
+            "Instagram": "@",
+            "Tiktok": "@",
+            "Twitter": "@",
+            "picturepath": "412.jpg",
+            "obj": "efd89bf6-f5ee-4148-9fd3-66eb92c23ff5",
+            "id": "412",
+            "__v": 0
+        },
+        {
+            "_id": {
+                "$oid": "66743182159439d4e8671a18"
+            },
+            "Aname": {
+                "Name": "CHIGOZIRIM",
+                "Mname": "Y",
+                "Surname": "CHUKWUEMEKA"
+            },
+            "School": "FUTO SUG",
+            "Faculty": "SESET",
+            "Dept": "EPE",
+            "State": "",
+            "LocalGovt": "",
+            "RegNo": "20231368553",
+            "Bloodgroup": "-",
+            "Sex": "-",
+            "Validity": "2028",
+            "PhoneNo": "08144110503",
+            "EmergencyNo": "",
+            "Facebook": "@",
+            "Instagram": "@",
+            "Tiktok": "@",
+            "Twitter": "@",
+            "picturepath": "413.jpg",
+            "obj": "1c6f10de-58dd-4699-af8d-b68994ff1eb9",
+            "id": "413",
+            "__v": 0
+        },
+        {
+            "_id": {
+                "$oid": "66743184159439d4e8671a1c"
+            },
+            "Aname": {
+                "Name": "AJAH",
+                "Mname": "MICHAEL",
+                "Surname": "UCHENNA"
+            },
+            "School": "FUTO SUG",
+            "Faculty": "SOBS",
+            "Dept": "MICROBIOLOGY",
+            "State": "",
+            "LocalGovt": "",
+            "RegNo": "20231372225",
+            "Bloodgroup": "-",
+            "Sex": "-",
+            "Validity": "2028",
+            "PhoneNo": "07025406966",
+            "EmergencyNo": "",
+            "Facebook": "@",
+            "Instagram": "@",
+            "Tiktok": "@",
+            "Twitter": "@",
+            "picturepath": "414.jpg",
+            "obj": "1978a978-48ec-458a-9671-2a80ac73be20",
+            "id": "414",
+            "__v": 0
+        },
+        {
+            "_id": {
+                "$oid": "667431e0159439d4e8671a20"
+            },
+            "Aname": {
+                "Name": "AGBASIERE",
+                "Mname": "FRANCIS",
+                "Surname": "C"
+            },
+            "School": "FUTO SUG",
+            "Faculty": "SICT",
+            "Dept": "INFORMATION TECHNOLOGY",
+            "State": "",
+            "LocalGovt": "",
+            "RegNo": "202330175468EF",
+            "Bloodgroup": "-",
+            "Sex": "-",
+            "Validity": "2028",
+            "PhoneNo": "08145981671",
+            "EmergencyNo": "",
+            "Facebook": "@",
+            "Instagram": "@",
+            "Tiktok": "@",
+            "Twitter": "@",
+            "picturepath": "415.jpg",
+            "obj": "9b45f92f-c56c-4d8f-ba72-c14926a0d9c8",
+            "id": "415",
+            "__v": 0
+        },
+        {
+            "_id": {
+                "$oid": "66743220159439d4e8671a24"
+            },
+            "Aname": {
+                "Name": "CHIGBO",
+                "Mname": "CYNTHIA",
+                "Surname": "C"
+            },
+            "School": "FUTO SUG",
+            "Faculty": "SBMS",
+            "Dept": "HUMAN PHYSIOLOGY",
+            "State": "",
+            "LocalGovt": "",
+            "RegNo": "202331219094HF",
+            "Bloodgroup": "-",
+            "Sex": "-",
+            "Validity": "2028",
+            "PhoneNo": "0916819208",
+            "EmergencyNo": "",
+            "Facebook": "@",
+            "Instagram": "@",
+            "Tiktok": "@",
+            "Twitter": "@",
+            "picturepath": "416.jpg",
+            "obj": "70796ee0-c984-4708-bfb7-94f8af865b42",
+            "id": "416",
+            "__v": 0
+        },
+        {
+            "_id": {
+                "$oid": "66743248159439d4e8671a28"
+            },
+            "Aname": {
+                "Name": "DAVID",
+                "Mname": "C",
+                "Surname": "EZEKWUNGAUA"
+            },
+            "School": "FUTO SUG",
+            "Faculty": "SOES",
+            "Dept": "ARCHITECTURE",
+            "State": "",
+            "LocalGovt": "",
+            "RegNo": "20231394164",
+            "Bloodgroup": "-",
+            "Sex": "-",
+            "Validity": "2028",
+            "PhoneNo": "09076553993",
+            "EmergencyNo": "",
+            "Facebook": "@",
+            "Instagram": "@",
+            "Tiktok": "@",
+            "Twitter": "@",
+            "picturepath": "417.jpg",
+            "obj": "2a904e90-6bcb-4407-8309-345e3a93f237",
+            "id": "417",
+            "__v": 0
+        },
+        {
+            "_id": {
+                "$oid": "66743254159439d4e8671a2c"
+            },
+            "Aname": {
+                "Name": "CHIMA",
+                "Mname": "CLINTON",
+                "Surname": "CHINEDU"
+            },
+            "School": "FUTO SUG",
+            "Faculty": "SEET",
+            "Dept": "CHEMICAL ENGINEERING",
+            "State": "",
+            "LocalGovt": "",
+            "RegNo": "20231362783",
+            "Bloodgroup": "-",
+            "Sex": "-",
+            "Validity": "2028",
+            "PhoneNo": "07049186399",
+            "EmergencyNo": "",
+            "Facebook": "@",
+            "Instagram": "@",
+            "Tiktok": "@",
+            "Twitter": "@",
+            "picturepath": "418.jpg",
+            "obj": "1a3a9004-706b-453f-b08d-2df5eb825859",
+            "id": "418",
+            "__v": 0
+        },
+        {
+            "_id": {
+                "$oid": "66743274159439d4e8671a30"
+            },
+            "Aname": {
+                "Name": "ANYANWU",
+                "Mname": "OLUEBUBE",
+                "Surname": "FAVOUR"
+            },
+            "School": "FUTO SUG",
+            "Faculty": "SOBS",
+            "Dept": "MICROBIOLOGY",
+            "State": "",
+            "LocalGovt": "",
+            "RegNo": "20231397145",
+            "Bloodgroup": "-",
+            "Sex": "-",
+            "Validity": "2028",
+            "PhoneNo": "08084954745",
+            "EmergencyNo": "",
+            "Facebook": "@",
+            "Instagram": "@",
+            "Tiktok": "@",
+            "Twitter": "@",
+            "picturepath": "419.jpg",
+            "obj": "ef7ec3ba-9285-46e7-adc7-41ef148f80fc",
+            "id": "419",
+            "__v": 0
+        },
+        {
+            "_id": {
+                "$oid": "667432ac159439d4e8671a34"
+            },
+            "Aname": {
+                "Name": "PROMISE",
+                "Mname": "UCHA",
+                "Surname": "OGBU"
+            },
+            "School": "FUTO SUG",
+            "Faculty": "SICT",
+            "Dept": "COMPUTER SCIENCE",
+            "State": "",
+            "LocalGovt": "",
+            "RegNo": "20231388752",
+            "Bloodgroup": "-",
+            "Sex": "-",
+            "Validity": "2028",
+            "PhoneNo": "09135315917",
+            "EmergencyNo": "",
+            "Facebook": "@",
+            "Instagram": "@",
+            "Tiktok": "@",
+            "Twitter": "@",
+            "picturepath": "420.jpg",
+            "obj": "8e41122d-1497-4ccc-90f7-339a92979ff6",
+            "id": "420",
+            "__v": 0
+        },
+        {
+            "_id": {
+                "$oid": "667432bd159439d4e8671a38"
+            },
+            "Aname": {
+                "Name": "ORJIAKO",
+                "Mname": "EBUBECHUKWU",
+                "Surname": "GODWIN"
+            },
+            "School": "FUTO SUG",
+            "Faculty": "SESET",
+            "Dept": "COMPUTER ENGINEERING",
+            "State": "",
+            "LocalGovt": "",
+            "RegNo": "20231366213",
+            "Bloodgroup": "-",
+            "Sex": "-",
+            "Validity": "2028",
+            "PhoneNo": "07084549283",
+            "EmergencyNo": "",
+            "Facebook": "@",
+            "Instagram": "@",
+            "Tiktok": "@",
+            "Twitter": "@",
+            "picturepath": "421.jpg",
+            "obj": "1c0c048f-8664-40c6-95c2-6c7a5f90adc2",
+            "id": "421",
+            "__v": 0
+        },
+        {
+            "_id": {
+                "$oid": "667432eb159439d4e8671a3c"
+            },
+            "Aname": {
+                "Name": "JOHNSON",
+                "Mname": "PRECIOUS",
+                "Surname": "C"
+            },
+            "School": "FUTO SUG",
+            "Faculty": "SOBS",
+            "Dept": "BIOCHEMISTRY",
+            "State": "",
+            "LocalGovt": "",
+            "RegNo": "20231401515",
+            "Bloodgroup": "-",
+            "Sex": "-",
+            "Validity": "2028",
+            "PhoneNo": "07070647836",
+            "EmergencyNo": "",
+            "Facebook": "@",
+            "Instagram": "@",
+            "Tiktok": "@",
+            "Twitter": "@",
+            "picturepath": "422.jpg",
+            "obj": "73ef0ab3-8c67-4bfa-bf40-6ce2b5338508",
+            "id": "422",
+            "__v": 0
+        },
+        {
+            "_id": {
+                "$oid": "66743315159439d4e8671a40"
+            },
+            "Aname": {
+                "Name": "GENEVIEVE",
+                "Mname": "CHIDERA",
+                "Surname": "ENEONYA"
+            },
+            "School": "FUTO SUG",
+            "Faculty": "SOHT",
+            "Dept": "RADIOGRAPHY",
+            "State": "",
+            "LocalGovt": "",
+            "RegNo": "20231493273215",
+            "Bloodgroup": "-",
+            "Sex": "-",
+            "Validity": "2028",
+            "PhoneNo": "09048735116",
+            "EmergencyNo": "",
+            "Facebook": "@",
+            "Instagram": "@",
+            "Tiktok": "@",
+            "Twitter": "@",
+            "picturepath": "423.jpg",
+            "obj": "0f5e6512-7b1a-4e0e-a17d-65e1199f2e8d",
+            "id": "423",
+            "__v": 0
+        },
+        {
+            "_id": {
+                "$oid": "66743343159439d4e8671a44"
+            },
+            "Aname": {
+                "Name": "ASHIONYE",
+                "Mname": "EKENE",
+                "Surname": "VALERIAN"
+            },
+            "School": "FUTO SUG",
+            "Faculty": "SOHT",
+            "Dept": "OPTOMETRY",
+            "State": "",
+            "LocalGovt": "",
+            "RegNo": "20231387767",
+            "Bloodgroup": "-",
+            "Sex": "-",
+            "Validity": "2028",
+            "PhoneNo": "09161040208",
+            "EmergencyNo": "",
+            "Facebook": "@",
+            "Instagram": "@",
+            "Tiktok": "@",
+            "Twitter": "@",
+            "picturepath": "424.jpg",
+            "obj": "841fe50e-63e6-43af-9573-885f9b5eecdc",
+            "id": "424",
+            "__v": 0
+        },
+        {
+            "_id": {
+                "$oid": "6674334a159439d4e8671a48"
+            },
+            "Aname": {
+                "Name": "OKUDO",
+                "Mname": "DONALD",
+                "Surname": "CHIEMERIE"
+            },
+            "School": "FUTO SUG",
+            "Faculty": "SESET",
+            "Dept": "ELECTRONICS ENGINEERING",
+            "State": "",
+            "LocalGovt": "",
+            "RegNo": "20231494093",
+            "Bloodgroup": "-",
+            "Sex": "-",
+            "Validity": "2028",
+            "PhoneNo": "07039453609",
+            "EmergencyNo": "",
+            "Facebook": "@",
+            "Instagram": "@",
+            "Tiktok": "@",
+            "Twitter": "@",
+            "picturepath": "425.jpg",
+            "obj": "7ec4aee4-4c04-4c75-b6db-d890b1183175",
+            "id": "425",
+            "__v": 0
+        },
+        {
+            "_id": {
+                "$oid": "66743361159439d4e8671a4c"
+            },
+            "Aname": {
+                "Name": "EMMANUEL",
+                "Mname": "IKECHUKWU",
+                "Surname": "NWACHI"
+            },
+            "School": "FUTO SUG",
+            "Faculty": "SEET",
+            "Dept": "CIVIL ENGINEERING",
+            "State": "",
+            "LocalGovt": "",
+            "RegNo": "20231363033",
+            "Bloodgroup": "-",
+            "Sex": "-",
+            "Validity": "2028",
+            "PhoneNo": "08068840040",
+            "EmergencyNo": "",
+            "Facebook": "@",
+            "Instagram": "@",
+            "Tiktok": "@",
+            "Twitter": "@",
+            "picturepath": "426.jpg",
+            "obj": "82a2d3d3-86c5-4a60-aa65-2e8c89e2c43b",
+            "id": "426",
+            "__v": 0
+        },
+        {
+            "_id": {
+                "$oid": "66743393159439d4e8671a50"
+            },
+            "Aname": {
+                "Name": "JUSTICE",
+                "Mname": "EMMANUEL",
+                "Surname": "CHIJIOKE"
+            },
+            "School": "FUTO SUG",
+            "Faculty": "SEET",
+            "Dept": "BIOMEDICAL ENGINEERING",
+            "State": "",
+            "LocalGovt": "",
+            "RegNo": "2023303001BF",
+            "Bloodgroup": "-",
+            "Sex": "-",
+            "Validity": "2028",
+            "PhoneNo": "08168100971",
+            "EmergencyNo": "",
+            "Facebook": "@",
+            "Instagram": "@",
+            "Tiktok": "@",
+            "Twitter": "@",
+            "picturepath": "427.jpg",
+            "obj": "c8ac8c3c-842a-4ce5-8ef7-e77d6a3d5e30",
+            "id": "427",
+            "__v": 0
+        },
+        {
+            "_id": {
+                "$oid": "667433ee159439d4e8671a54"
+            },
+            "Aname": {
+                "Name": "KIZITTO",
+                "Mname": "C",
+                "Surname": "ODORO"
+            },
+            "School": "FUTO SUG",
+            "Faculty": "SOPS",
+            "Dept": "SCIENCE LABORATORY TECHNOLOGY",
+            "State": "",
+            "LocalGovt": "",
+            "RegNo": "202331182649JA",
+            "Bloodgroup": "-",
+            "Sex": "-",
+            "Validity": "2028",
+            "PhoneNo": "07035449162",
+            "EmergencyNo": "",
+            "Facebook": "@",
+            "Instagram": "@",
+            "Tiktok": "@",
+            "Twitter": "@",
+            "picturepath": "428.jpg",
+            "obj": "1715a968-5e5a-47b7-9d72-0a93fa0243b3",
+            "id": "428",
+            "__v": 0
+        },
+        {
+            "_id": {
+                "$oid": "66743401159439d4e8671a58"
+            },
+            "Aname": {
+                "Name": "ODIMGBE",
+                "Mname": "IFEANYI",
+                "Surname": "CHRISTIAN"
+            },
+            "School": "FUTO SUG",
+            "Faculty": "SEET",
+            "Dept": "AGRICULTURAL BIO RESOURCES ENGINEERING",
+            "State": "",
+            "LocalGovt": "",
+            "RegNo": "20231402203",
+            "Bloodgroup": "-",
+            "Sex": "-",
+            "Validity": "2028",
+            "PhoneNo": "08145962380",
+            "EmergencyNo": "",
+            "Facebook": "@",
+            "Instagram": "@",
+            "Tiktok": "@",
+            "Twitter": "@",
+            "picturepath": "429.jpg",
+            "obj": "d949e25c-ef93-47c1-a13f-5c11ffc11dd4",
+            "id": "429",
+            "__v": 0
+        },
+        {
+            "_id": {
+                "$oid": "6674343a159439d4e8671a5c"
+            },
+            "Aname": {
+                "Name": "ONWUEGBUCHULEM",
+                "Mname": "UGOCHUKWU",
+                "Surname": "C"
+            },
+            "School": "FUTO SUG",
+            "Faculty": "SEET",
+            "Dept": "ELECTRICAL POWER ENGINEERING",
+            "State": "",
+            "LocalGovt": "",
+            "RegNo": "20231372363",
+            "Bloodgroup": "-",
+            "Sex": "-",
+            "Validity": "2028",
+            "PhoneNo": "08133791230",
+            "EmergencyNo": "",
+            "Facebook": "@",
+            "Instagram": "@",
+            "Tiktok": "@",
+            "Twitter": "@",
+            "picturepath": "430.jpg",
+            "obj": "cea866cf-4ff5-4fca-b19e-245faa641396",
+            "id": "430",
+            "__v": 0
+        },
+        {
+            "_id": {
+                "$oid": "66743449159439d4e8671a60"
+            },
+            "Aname": {
+                "Name": "BENEDICT",
+                "Mname": "TOCHUKWU",
+                "Surname": "UGWU"
+            },
+            "School": "FUTO SUG",
+            "Faculty": "SOHT",
+            "Dept": "OPTOMETRY",
+            "State": "",
+            "LocalGovt": "",
+            "RegNo": "2023138127",
+            "Bloodgroup": "-",
+            "Sex": "-",
+            "Validity": "2028",
+            "PhoneNo": "09060886361",
+            "EmergencyNo": "",
+            "Facebook": "@",
+            "Instagram": "@",
+            "Tiktok": "@",
+            "Twitter": "@",
+            "picturepath": "431.jpg",
+            "obj": "0e64c3fa-369b-408b-971d-38322c6ecd03",
+            "id": "431",
+            "__v": 0
+        },
+        {
+            "_id": {
+                "$oid": "6674345b159439d4e8671a64"
+            },
+            "Aname": {
+                "Name": "ANSELEM",
+                "Mname": "PRECIOUS",
+                "Surname": "O"
+            },
+            "School": "FUTO SUG",
+            "Faculty": "SOPS",
+            "Dept": "SCIENCE LAB TECHNICIAN",
+            "State": "",
+            "LocalGovt": "",
+            "RegNo": "20231369615",
+            "Bloodgroup": "-",
+            "Sex": "-",
+            "Validity": "2028",
+            "PhoneNo": "07046390345",
+            "EmergencyNo": "",
+            "Facebook": "@",
+            "Instagram": "@",
+            "Tiktok": "@",
+            "Twitter": "@",
+            "picturepath": "432.jpg",
+            "obj": "3310ae41-5cba-43e6-8bd1-486e9bc6bd3f",
+            "id": "432",
+            "__v": 0
+        },
+        {
+            "_id": {
+                "$oid": "667434a2159439d4e8671a68"
+            },
+            "Aname": {
+                "Name": "SAMUEL",
+                "Mname": "NNABUIFE",
+                "Surname": "AWOH"
+            },
+            "School": "FUTO SUG",
+            "Faculty": "SEET",
+            "Dept": "CIVIL ENGINEERING",
+            "State": "",
+            "LocalGovt": "",
+            "RegNo": "20231376503",
+            "Bloodgroup": "-",
+            "Sex": "-",
+            "Validity": "2028",
+            "PhoneNo": "09047732459",
+            "EmergencyNo": "",
+            "Facebook": "@",
+            "Instagram": "@",
+            "Tiktok": "@",
+            "Twitter": "@",
+            "picturepath": "433.jpg",
+            "obj": "2791375d-44d6-4147-83f2-625b66928e5f",
+            "id": "433",
+            "__v": 0
+        },
+        {
+            "_id": {
+                "$oid": "667434ad159439d4e8671a6c"
+            },
+            "Aname": {
+                "Name": "NWAOKOROBIA",
+                "Mname": "SOPHIA",
+                "Surname": "C"
+            },
+            "School": "FUTO SUG",
+            "Faculty": "SOPS",
+            "Dept": "SCIENCE LAB TECHNICIAN",
+            "State": "",
+            "LocalGovt": "",
+            "RegNo": "20231393075",
+            "Bloodgroup": "-",
+            "Sex": "-",
+            "Validity": "2028",
+            "PhoneNo": "07035392821",
+            "EmergencyNo": "",
+            "Facebook": "@",
+            "Instagram": "@",
+            "Tiktok": "@",
+            "Twitter": "@",
+            "picturepath": "434.jpg",
+            "obj": "5cef8535-6349-4c61-b5be-d844016ca382",
+            "id": "434",
+            "__v": 0
+        },
+        {
+            "_id": {
+                "$oid": "667434b4159439d4e8671a70"
+            },
+            "Aname": {
+                "Name": "IGBOKWE",
+                "Mname": "MARVELOUS",
+                "Surname": "CHIZOBAM"
+            },
+            "School": "FUTO SUG",
+            "Faculty": "SEET",
+            "Dept": "BIOMEDICAL ENGINEERING",
+            "State": "",
+            "LocalGovt": "",
+            "RegNo": "20231366813",
+            "Bloodgroup": "-",
+            "Sex": "-",
+            "Validity": "2028",
+            "PhoneNo": "08167893851",
+            "EmergencyNo": "",
+            "Facebook": "@",
+            "Instagram": "@",
+            "Tiktok": "@",
+            "Twitter": "@",
+            "picturepath": "435.jpg",
+            "obj": "6d200d15-54ef-4c2c-a856-eb51befd173a",
+            "id": "435",
+            "__v": 0
+        },
+        {
+            "_id": {
+                "$oid": "66743505159439d4e8671a74"
+            },
+            "Aname": {
+                "Name": "UFOMADU",
+                "Mname": "BLESSING",
+                "Surname": "UGONNA"
+            },
+            "School": "FUTO SUG",
+            "Faculty": "SOHT",
+            "Dept": "OPTOMETRY",
+            "State": "",
+            "LocalGovt": "",
+            "RegNo": "20231366307",
+            "Bloodgroup": "-",
+            "Sex": "-",
+            "Validity": "2028",
+            "PhoneNo": "08066163736",
+            "EmergencyNo": "",
+            "Facebook": "@",
+            "Instagram": "@",
+            "Tiktok": "@",
+            "Twitter": "@",
+            "picturepath": "436.jpg",
+            "obj": "f5444251-dad6-4f2f-90c3-68a5b3b82872",
+            "id": "436",
+            "__v": 0
+        },
+        {
+            "_id": {
+                "$oid": "6674350b159439d4e8671a78"
+            },
+            "Aname": {
+                "Name": "SHARON",
+                "Mname": "NMESOMACHI",
+                "Surname": "CHIJIOKE"
+            },
+            "School": "FUTO SUG",
+            "Faculty": "SOHT",
+            "Dept": "OPTOMETRY",
+            "State": "",
+            "LocalGovt": "",
+            "RegNo": "2023179677",
+            "Bloodgroup": "-",
+            "Sex": "-",
+            "Validity": "2028",
+            "PhoneNo": "07061569957",
+            "EmergencyNo": "",
+            "Facebook": "@",
+            "Instagram": "@",
+            "Tiktok": "@",
+            "Twitter": "@",
+            "picturepath": "437.jpg",
+            "obj": "72494ca4-ca7a-4859-b6f3-60006e77fa6e",
+            "id": "437",
+            "__v": 0
+        },
+        {
+            "_id": {
+                "$oid": "6674354f159439d4e8671a7c"
+            },
+            "Aname": {
+                "Name": "ONYEMAECHI",
+                "Mname": "FAVOUR",
+                "Surname": "U"
+            },
+            "School": "FUTO SUG",
+            "Faculty": "SEET",
+            "Dept": "CIVIL ENGINEERING",
+            "State": "",
+            "LocalGovt": "",
+            "RegNo": "20231373703",
+            "Bloodgroup": "-",
+            "Sex": "-",
+            "Validity": "2028",
+            "PhoneNo": "08132048119",
+            "EmergencyNo": "",
+            "Facebook": "@",
+            "Instagram": "@",
+            "Tiktok": "@",
+            "Twitter": "@",
+            "picturepath": "438.jpg",
+            "obj": "4d4e1e4a-3c47-4029-88a4-40027c35a941",
+            "id": "438",
+            "__v": 0
+        },
+        {
+            "_id": {
+                "$oid": "66743561159439d4e8671a80"
+            },
+            "Aname": {
+                "Name": "OHAWUCHI",
+                "Mname": "NNDEMEKA",
+                "Surname": "VALENTINE"
+            },
+            "School": "FUTO SUG",
+            "Faculty": "SICT",
+            "Dept": "INFORMATION TECHNOLOGY",
+            "State": "",
+            "LocalGovt": "",
+            "RegNo": "20231369052",
+            "Bloodgroup": "-",
+            "Sex": "-",
+            "Validity": "2028",
+            "PhoneNo": "07015694591",
+            "EmergencyNo": "",
+            "Facebook": "@",
+            "Instagram": "@",
+            "Tiktok": "@",
+            "Twitter": "@",
+            "picturepath": "439.jpg",
+            "obj": "d177d107-ea40-4d01-aeaa-846b3e871f69",
+            "id": "439",
+            "__v": 0
+        },
+        {
+            "_id": {
+                "$oid": "66743569159439d4e8671a84"
+            },
+            "Aname": {
+                "Name": "ESTHER",
+                "Mname": "THELMA",
+                "Surname": "EKECHI"
+            },
+            "School": "FUTO SUG",
+            "Faculty": "SOHT",
+            "Dept": "OPTOMETRY",
+            "State": "",
+            "LocalGovt": "",
+            "RegNo": "20231374397",
+            "Bloodgroup": "-",
+            "Sex": "-",
+            "Validity": "2028",
+            "PhoneNo": "07052314524",
+            "EmergencyNo": "",
+            "Facebook": "@",
+            "Instagram": "@",
+            "Tiktok": "@",
+            "Twitter": "@",
+            "picturepath": "440.jpg",
+            "obj": "c90e005f-b731-47df-9bfd-8014548f9c48",
+            "id": "440",
+            "__v": 0
+        },
+        {
+            "_id": {
+                "$oid": "667435d5159439d4e8671a88"
+            },
+            "Aname": {
+                "Name": "JANE",
+                "Mname": "F",
+                "Surname": "ONWUZURUOHA"
+            },
+            "School": "FUTO SUG",
+            "Faculty": "SOHT",
+            "Dept": "OPTOMETRY",
+            "State": "",
+            "LocalGovt": "",
+            "RegNo": "20231362367",
+            "Bloodgroup": "-",
+            "Sex": "-",
+            "Validity": "2028",
+            "PhoneNo": "08142414628",
+            "EmergencyNo": "",
+            "Facebook": "@",
+            "Instagram": "@",
+            "Tiktok": "@",
+            "Twitter": "@",
+            "picturepath": "441.jpg",
+            "obj": "232627a8-7f34-45c2-9e22-eb87c06a97d9",
+            "id": "441",
+            "__v": 0
+        },
+        {
+            "_id": {
+                "$oid": "667435e3159439d4e8671a8c"
+            },
+            "Aname": {
+                "Name": "AWOH",
+                "Mname": "CHINANU",
+                "Surname": "J"
+            },
+            "School": "FUTO SUG",
+            "Faculty": "SESET",
+            "Dept": "TELECOMMUNICATION ENGINEERING",
+            "State": "",
+            "LocalGovt": "",
+            "RegNo": "20231385623",
+            "Bloodgroup": "-",
+            "Sex": "-",
+            "Validity": "2028",
+            "PhoneNo": "08103471959",
+            "EmergencyNo": "",
+            "Facebook": "@",
+            "Instagram": "@",
+            "Tiktok": "@",
+            "Twitter": "@",
+            "picturepath": "442.jpg",
+            "obj": "fda1e820-d8ed-4fe8-9614-87ff92153229",
+            "id": "442",
+            "__v": 0
+        },
+        {
+            "_id": {
+                "$oid": "667435e4159439d4e8671a90"
+            },
+            "Aname": {
+                "Name": "OZIGBU",
+                "Mname": "CLINTON",
+                "Surname": "C"
+            },
+            "School": "FUTO SUG",
+            "Faculty": "SESET",
+            "Dept": "ELECTRICAL POWER ENGINEERING",
+            "State": "",
+            "LocalGovt": "",
+            "RegNo": "20231386503",
+            "Bloodgroup": "-",
+            "Sex": "-",
+            "Validity": "2028",
+            "PhoneNo": "08065750930",
+            "EmergencyNo": "",
+            "Facebook": "@",
+            "Instagram": "@",
+            "Tiktok": "@",
+            "Twitter": "@",
+            "picturepath": "443.jpg",
+            "obj": "d63d8ef8-c4e5-4476-827b-ef66aa9fa873",
+            "id": "443",
+            "__v": 0
+        },
+        {
+            "_id": {
+                "$oid": "66743633159439d4e8671a94"
+            },
+            "Aname": {
+                "Name": "IWUJI",
+                "Mname": "JULIET",
+                "Surname": "CHINWENDU"
+            },
+            "School": "FUTO SUG",
+            "Faculty": "SOHT",
+            "Dept": "RADIOGRAPHY",
+            "State": "",
+            "LocalGovt": "",
+            "RegNo": "202330404686",
+            "Bloodgroup": "-",
+            "Sex": "-",
+            "Validity": "2028",
+            "PhoneNo": "09135719019",
+            "EmergencyNo": "",
+            "Facebook": "@",
+            "Instagram": "@",
+            "Tiktok": "@",
+            "Twitter": "@",
+            "picturepath": "444.jpg",
+            "obj": "15373053-3e7c-44fc-a26d-628479940b46",
+            "id": "444",
+            "__v": 0
+        },
+        {
+            "_id": {
+                "$oid": "66743635159439d4e8671a98"
+            },
+            "Aname": {
+                "Name": "UGOCHI",
+                "Mname": "JANE",
+                "Surname": "RAY KANAYO"
+            },
+            "School": "FUTO SUG",
+            "Faculty": "SOHT",
+            "Dept": "OPTOMETRY",
+            "State": "",
+            "LocalGovt": "",
+            "RegNo": "20231371497",
+            "Bloodgroup": "-",
+            "Sex": "-",
+            "Validity": "2028",
+            "PhoneNo": "09156408205",
+            "EmergencyNo": "",
+            "Facebook": "@",
+            "Instagram": "@",
+            "Tiktok": "@",
+            "Twitter": "@",
+            "picturepath": "445.jpg",
+            "obj": "7a103c30-bf27-4dbf-931b-2d419213cc47",
+            "id": "445",
+            "__v": 0
+        },
+        {
+            "_id": {
+                "$oid": "6674366a159439d4e8671a9c"
+            },
+            "Aname": {
+                "Name": "OBIUKWU",
+                "Mname": "CHUKWUEBUKA",
+                "Surname": "EMMANUEL"
+            },
+            "School": "FUTO SUG",
+            "Faculty": "SOES",
+            "Dept": "ARCHITECTURE",
+            "State": "",
+            "LocalGovt": "",
+            "RegNo": "20231371734",
+            "Bloodgroup": "-",
+            "Sex": "-",
+            "Validity": "2028",
+            "PhoneNo": "07019826703",
+            "EmergencyNo": "",
+            "Facebook": "@",
+            "Instagram": "@",
+            "Tiktok": "@",
+            "Twitter": "@",
+            "picturepath": "446.jpg",
+            "obj": "f08ba94e-3ef2-4a67-8491-c25b34ba61f7",
+            "id": "446",
+            "__v": 0
+        },
+        {
+            "_id": {
+                "$oid": "6674367f159439d4e8671aa0"
+            },
+            "Aname": {
+                "Name": "AKAMONYE",
+                "Mname": "CHUKWUDUBEM",
+                "Surname": "VINCENT"
+            },
+            "School": "FUTO SUG",
+            "Faculty": "SICT",
+            "Dept": "SOFTWARE ENGINEERING",
+            "State": "",
+            "LocalGovt": "",
+            "RegNo": "20231378322",
+            "Bloodgroup": "-",
+            "Sex": "-",
+            "Validity": "2028",
+            "PhoneNo": "09161385230",
+            "EmergencyNo": "",
+            "Facebook": "@",
+            "Instagram": "@",
+            "Tiktok": "@",
+            "Twitter": "@",
+            "picturepath": "447.jpg",
+            "obj": "17a02909-42fb-46b5-906e-f26ce7e032b5",
+            "id": "447",
+            "__v": 0
+        },
+        {
+            "_id": {
+                "$oid": "66743683159439d4e8671aa4"
+            },
+            "Aname": {
+                "Name": "IKECHUKWU",
+                "Mname": "DAVID",
+                "Surname": "OPARAUGO"
+            },
+            "School": "FUTO SUG",
+            "Faculty": "SEET",
+            "Dept": "CHEMICAL ENGINEERING",
+            "State": "",
+            "LocalGovt": "",
+            "RegNo": "20231376933",
+            "Bloodgroup": "-",
+            "Sex": "-",
+            "Validity": "2028",
+            "PhoneNo": "09073577416",
+            "EmergencyNo": "",
+            "Facebook": "@",
+            "Instagram": "@",
+            "Tiktok": "@",
+            "Twitter": "@",
+            "picturepath": "448.jpg",
+            "obj": "d11e80d7-e4af-4209-9c18-1878ac71542c",
+            "id": "448",
+            "__v": 0
+        },
+        {
+            "_id": {
+                "$oid": "667436d0159439d4e8671aa8"
+            },
+            "Aname": {
+                "Name": "OLISAEMEKA",
+                "Mname": "E",
+                "Surname": "EZE"
+            },
+            "School": "FUTO SUG",
+            "Faculty": "SOHT",
+            "Dept": "OPTOMETRY",
+            "State": "",
+            "LocalGovt": "",
+            "RegNo": "20231371787",
+            "Bloodgroup": "-",
+            "Sex": "-",
+            "Validity": "2028",
+            "PhoneNo": "09017129316",
+            "EmergencyNo": "",
+            "Facebook": "@",
+            "Instagram": "@",
+            "Tiktok": "@",
+            "Twitter": "@",
+            "picturepath": "449.jpg",
+            "obj": "e74ec440-69af-411b-9a1a-bcaeb9c1a7ec",
+            "id": "449",
+            "__v": 0
+        },
+        {
+            "_id": {
+                "$oid": "667436df159439d4e8671aac"
+            },
+            "Aname": {
+                "Name": "CHUKWUEMEKA",
+                "Mname": "OLUEBUBE",
+                "Surname": "EMMANUEL"
+            },
+            "School": "FUTO SUG",
+            "Faculty": "SOES",
+            "Dept": "ARCHITECTURE",
+            "State": "",
+            "LocalGovt": "",
+            "RegNo": "20231366444",
+            "Bloodgroup": "-",
+            "Sex": "-",
+            "Validity": "2028",
+            "PhoneNo": "08120990559",
+            "EmergencyNo": "",
+            "Facebook": "@",
+            "Instagram": "@",
+            "Tiktok": "@",
+            "Twitter": "@",
+            "picturepath": "450.jpg",
+            "obj": "cd005bee-cfaa-4a5c-827a-82b5e5da43d9",
+            "id": "450",
+            "__v": 0
+        },
+        {
+            "_id": {
+                "$oid": "66743730159439d4e8671ab0"
+            },
+            "Aname": {
+                "Name": "MMESOMA",
+                "Mname": "DESTINY",
+                "Surname": "OKORO"
+            },
+            "School": "FUTO SUG",
+            "Faculty": "SOHT",
+            "Dept": "PUBLIC HEALTH TECHNOLOGY",
+            "State": "",
+            "LocalGovt": "",
+            "RegNo": "20231369947",
+            "Bloodgroup": "-",
+            "Sex": "-",
+            "Validity": "2028",
+            "PhoneNo": "08028156786",
+            "EmergencyNo": "",
+            "Facebook": "@",
+            "Instagram": "@",
+            "Tiktok": "@",
+            "Twitter": "@",
+            "picturepath": "451.jpg",
+            "obj": "9eda847c-67aa-412d-bdfa-30d467205d9c",
+            "id": "451",
+            "__v": 0
+        },
+        {
+            "_id": {
+                "$oid": "66743784159439d4e8671ab4"
+            },
+            "Aname": {
+                "Name": "DANIEL",
+                "Mname": "A",
+                "Surname": "ONZEAKAJBUSI"
+            },
+            "School": "FUTO SUG",
+            "Faculty": "SICT",
+            "Dept": "COMPUTER SCIENCE",
+            "State": "",
+            "LocalGovt": "",
+            "RegNo": "20231386962",
+            "Bloodgroup": "-",
+            "Sex": "-",
+            "Validity": "2028",
+            "PhoneNo": "08089045597",
+            "EmergencyNo": "",
+            "Facebook": "@",
+            "Instagram": "@",
+            "Tiktok": "@",
+            "Twitter": "@",
+            "picturepath": "452.jpg",
+            "obj": "2dc72b6f-a37b-4e29-8100-51d4bedd53b1",
+            "id": "452",
+            "__v": 0
+        },
+        {
+            "_id": {
+                "$oid": "66744dbd159439d4e8671ab8"
+            },
+            "Aname": {
+                "Name": "AKUDO",
+                "Mname": "PRISCA",
+                "Surname": "AJERO"
+            },
+            "School": "FUTO SUG",
+            "Faculty": "SOBS",
+            "Dept": "BCH",
+            "State": "",
+            "LocalGovt": "",
+            "RegNo": "20201247724",
+            "Bloodgroup": "-",
+            "Sex": "-",
+            "Validity": "2028",
+            "PhoneNo": "08132105487",
+            "EmergencyNo": "",
+            "Facebook": "@",
+            "Instagram": "@",
+            "Tiktok": "@",
+            "Twitter": "@",
+            "picturepath": "453.jpg",
+            "obj": "a5cdde8b-10da-4e04-b64c-83e5b4cf6700",
+            "id": "453",
+            "__v": 0
+        },
+        {
+            "_id": {
+                "$oid": "66744eaf159439d4e8671abc"
+            },
+            "Aname": {
+                "Name": "STEPHEN",
+                "Mname": "C",
+                "Surname": "ALANEME"
+            },
+            "School": "FUTO SUG",
+            "Faculty": "SESET",
+            "Dept": "EPE",
+            "State": "",
+            "LocalGovt": "",
+            "RegNo": "20201331203",
+            "Bloodgroup": "-",
+            "Sex": "-",
+            "Validity": "2028",
+            "PhoneNo": "08149348435",
+            "EmergencyNo": "",
+            "Facebook": "@",
+            "Instagram": "@",
+            "Tiktok": "@",
+            "Twitter": "@",
+            "picturepath": "454.jpg",
+            "obj": "19ab9ced-e7a1-4522-9aa0-a96363cdd801",
+            "id": "454",
+            "__v": 0
+        },
+        {
+            "_id": {
+                "$oid": "66744f6c159439d4e8671ac0"
+            },
+            "Aname": {
+                "Name": "IFEANYI",
+                "Mname": "C E",
+                "Surname": "IDUMEOGU"
+            },
+            "School": "FUTO SUG",
+            "Faculty": "SESET",
+            "Dept": "EPE",
+            "State": "",
+            "LocalGovt": "",
+            "RegNo": "20221346963",
+            "Bloodgroup": "-",
+            "Sex": "-",
+            "Validity": "2028",
+            "PhoneNo": "07018690546",
+            "EmergencyNo": "",
+            "Facebook": "@",
+            "Instagram": "@",
+            "Tiktok": "@",
+            "Twitter": "@",
+            "picturepath": "455.jpg",
+            "obj": "edeeaffd-087a-457b-aeb3-2fdf662c3c17",
+            "id": "455",
+            "__v": 0
+        },
+        {
+            "_id": {
+                "$oid": "667450b7159439d4e8671ac4"
+            },
+            "Aname": {
+                "Name": "CHIMAOBI",
+                "Mname": "HENRY",
+                "Surname": "EGBUZOBI"
+            },
+            "School": "FUTO SUG",
+            "Faculty": "SESET",
+            "Dept": "EPE",
+            "State": "",
+            "LocalGovt": "",
+            "RegNo": "20222323173",
+            "Bloodgroup": "-",
+            "Sex": "-",
+            "Validity": "2028",
+            "PhoneNo": "08132105487",
+            "EmergencyNo": "",
+            "Facebook": "@",
+            "Instagram": "@",
+            "Tiktok": "@",
+            "Twitter": "@",
+            "picturepath": "456.jpg",
+            "obj": "f27006ad-f8e2-4f53-941c-ebe02975fc50",
+            "id": "456",
+            "__v": 0
+        },
+        {
+            "_id": {
+                "$oid": "66745161159439d4e8671ac8"
+            },
+            "Aname": {
+                "Name": "UGOCHUKWU",
+                "Mname": "SALEM",
+                "Surname": "ACHIBIRI"
+            },
+            "School": "FUTO SUG",
+            "Faculty": "SESET",
+            "Dept": "EPE",
+            "State": "",
+            "LocalGovt": "",
+            "RegNo": "202021313803",
+            "Bloodgroup": "-",
+            "Sex": "-",
+            "Validity": "2028",
+            "PhoneNo": "09037613589",
+            "EmergencyNo": "",
+            "Facebook": "@",
+            "Instagram": "@",
+            "Tiktok": "@",
+            "Twitter": "@",
+            "picturepath": "457.jpg",
+            "obj": "c62ff3cb-7b57-4660-96bf-badc1cfc3101",
+            "id": "457",
+            "__v": 0
+        },
+        {
+            "_id": {
+                "$oid": "66745210159439d4e8671acc"
+            },
+            "Aname": {
+                "Name": "EMMANUEL",
+                "Mname": "CHUKS",
+                "Surname": "EGBUTA"
+            },
+            "School": "FUTO SUG",
+            "Faculty": "SESET",
+            "Dept": "EPE",
+            "State": "",
+            "LocalGovt": "",
+            "RegNo": "20201333993",
+            "Bloodgroup": "-",
+            "Sex": "-",
+            "Validity": "2028",
+            "PhoneNo": "NIL",
+            "EmergencyNo": "",
+            "Facebook": "@",
+            "Instagram": "@",
+            "Tiktok": "@",
+            "Twitter": "@",
+            "picturepath": "458.jpg",
+            "obj": "1e96c855-18f4-4069-bf3a-997db233a061",
+            "id": "458",
+            "__v": 0
+        },
+        {
+            "_id": {
+                "$oid": "667452bb159439d4e8671ad0"
+            },
+            "Aname": {
+                "Name": "CHARLES",
+                "Mname": "ODIRICHUKWUMMA",
+                "Surname": "UMEH"
+            },
+            "School": "FUTO SUG",
+            "Faculty": "SESET",
+            "Dept": "EPE",
+            "State": "",
+            "LocalGovt": "",
+            "RegNo": "20211258033",
+            "Bloodgroup": "-",
+            "Sex": "-",
+            "Validity": "2028",
+            "PhoneNo": "08143391282",
+            "EmergencyNo": "",
+            "Facebook": "@",
+            "Instagram": "@",
+            "Tiktok": "@",
+            "Twitter": "@",
+            "picturepath": "459.jpg",
+            "obj": "7bbef026-816c-4d17-98e6-9ba69faca7ed",
+            "id": "459",
+            "__v": 0
+        },
+        {
+            "_id": {
+                "$oid": "66745325159439d4e8671ad4"
+            },
+            "Aname": {
+                "Name": "UCHE",
+                "Mname": "DANIEL",
+                "Surname": "SUNDAY"
+            },
+            "School": "FUTO SUG",
+            "Faculty": "SESET",
+            "Dept": "EPE",
+            "State": "",
+            "LocalGovt": "",
+            "RegNo": "20211302093",
+            "Bloodgroup": "-",
+            "Sex": "-",
+            "Validity": "2028",
+            "PhoneNo": "08066245779",
+            "EmergencyNo": "",
+            "Facebook": "@",
+            "Instagram": "@",
+            "Tiktok": "@",
+            "Twitter": "@",
+            "picturepath": "460.jpg",
+            "obj": "7f07ab65-6445-4ef0-abf6-647c3853a1b4",
+            "id": "460",
+            "__v": 0
+        },
+        {
+            "_id": {
+                "$oid": "66745959159439d4e8671ad8"
+            },
+            "Aname": {
+                "Name": "FRANCIS",
+                "Mname": "C",
+                "Surname": "OGUANYIA"
+            },
+            "School": "FUTO SUG",
+            "Faculty": "SESET",
+            "Dept": "EPE",
+            "State": "",
+            "LocalGovt": "",
+            "RegNo": "20221317013",
+            "Bloodgroup": "-",
+            "Sex": "-",
+            "Validity": "2028",
+            "PhoneNo": "09022372304",
+            "EmergencyNo": "",
+            "Facebook": "@",
+            "Instagram": "@",
+            "Tiktok": "@",
+            "Twitter": "@",
+            "picturepath": "461.jpg",
+            "obj": "88a3e92d-4a26-4db9-9a3e-af0225e66092",
+            "id": "461",
+            "__v": 0
+        },
+        {
+            "_id": {
+                "$oid": "667459ce159439d4e8671adc"
+            },
+            "Aname": {
+                "Name": "JEREMIAH",
+                "Mname": "AGBA",
+                "Surname": "AGBA"
+            },
+            "School": "FUTO SUG",
+            "Faculty": "SESET",
+            "Dept": "EPE",
+            "State": "",
+            "LocalGovt": "",
+            "RegNo": "20201306873",
+            "Bloodgroup": "-",
+            "Sex": "-",
+            "Validity": "2028",
+            "PhoneNo": "07082474107",
+            "EmergencyNo": "",
+            "Facebook": "@",
+            "Instagram": "@",
+            "Tiktok": "@",
+            "Twitter": "@",
+            "picturepath": "462.jpg",
+            "obj": "27a601d7-7992-446a-90f2-af9c9b57e0bf",
+            "id": "462",
+            "__v": 0
         }
 
 
