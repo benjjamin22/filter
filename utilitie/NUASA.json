@@ -1,0 +1,21 @@
+{
+    "nuasa": [{
+        "Timestamp": "2024/05/29 3:35:27 PM GMT+1",
+        "Aname": {
+            "Name": "Excel",
+            "Mname": "Chiemerie",
+            "Surname": "Ogbonna"
+        },
+        "RegNo": "20221309895",
+        "PhoneNo": "09049624576",
+        "Status": "MEMBER",
+        "Bloodgroup": "O+",
+        "yearofadmin": "JAN.,2022",
+        "Sex": "M",
+        "Validity": "2022-2028",
+        "Dept": "Computer science ",
+        "Faculty": "SICT",
+        "picturepath": "https://benjjamin22.github.io/filter/utilitie/nuasa/futopb/1.jpg",
+        "id": "664329a8-3d50-483c-b94e-0a57c7c2efbf"
+    }]
+}
