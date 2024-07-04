@@ -136,6 +136,279 @@
             "id": "e88190f4-ea0a-4b2b-8464-3c9640852d5f",
             "YT": "18",
             "__v": 0
+        },
+        {
+            "_id": {
+                "$oid": "6684101260d237e394afebeb"
+            },
+            "Aname": {
+                "Name": "MODESTUS ",
+                "Mname": "UGONNA ",
+                "Surname": "CHINAKA "
+            },
+            "School": "IMO STATE UNIVERSITY ",
+            "Faculty": "100LEVEL",
+            "Dept": "8/6",
+            "State": "AMAIGBO UMUABALI ",
+            "RegNo": "63510313359",
+            "Bloodgroup": "O+",
+            "Sex": "MALE",
+            "Validity": "2003",
+            "PhoneNo": "07067600483",
+            "EmergencyNo": "08145512584",
+            "picturepath": "https://benjjamin22.github.io/filter/utilitie/nuasa/nuasa1/09830d72-44c8-425a-b3a9-eae8b4fd5269.jpg",
+            "image": "09830d72-44c8-425a-b3a9-eae8b4fd5269",
+            "id": "49dc50e8-5576-45be-b795-1ced655f32be",
+            "YT": "16",
+            "__v": 0
+        }, {
+            "_id": {
+                "$oid": "6683f3ebc2313d41dd6c703a"
+            },
+            "Aname": {
+                "Name": "VICTORIA ",
+                "Mname": "UGONNA ",
+                "Surname": "UGOH "
+            },
+            "School": "IMO STATE UNIVERSITY ",
+            "Faculty": "100 LEVEL ",
+            "Dept": "25/06/2007",
+            "State": "UMUEZEALA OWERRE ",
+            "RegNo": "51200872862",
+            "Bloodgroup": "O+",
+            "Sex": "FEMALE ",
+            "Validity": "2023",
+            "PhoneNo": "07032317292",
+            "EmergencyNo": "08034538751",
+            "picturepath": "https://benjjamin22.github.io/filter/utilitie/nuasa/nuasa1/4fb628c7-6af9-42d4-b0e5-986e21a4d1fb.jpg",
+            "image": "4fb628c7-6af9-42d4-b0e5-986e21a4d1fb",
+            "id": "59915860-18f4-48e1-910a-6b4f00d97d66",
+            "YT": "14",
+            "__v": 0
+        }, {
+            "_id": {
+                "$oid": "66830e212a4fd47c26f47a2b"
+            },
+            "Aname": {
+                "Name": "PEACE",
+                "Mname": "AMARACHUKWU ",
+                "Surname": "CHUKWUEMEKA "
+            },
+            "School": "IMO STATE UNIVERSITY ",
+            "Faculty": "100LEVEL",
+            "Dept": "OCTOBER 7 2004",
+            "State": "IKEDURU LGA ",
+            "RegNo": "67843298388",
+            "Bloodgroup": "A+VE",
+            "Sex": "FEMALE ",
+            "Validity": "2023",
+            "PhoneNo": "07035380886",
+            "EmergencyNo": "08086122003",
+            "picturepath": "https://benjjamin22.github.io/filter/utilitie/nuasa/nuasa1/a830c72f-06df-4aef-94ac-ebbbbea9b7ab.jpg",
+            "image": "a830c72f-06df-4aef-94ac-ebbbbea9b7ab",
+            "id": "64cb314f-1273-40bd-befa-87c80a818119",
+            "YT": "10",
+            "__v": 0
+        },
+        {
+            "_id": {
+                "$oid": "6683973732f1dd4542e1da25"
+            },
+            "Aname": {
+                "Name": "FAVOUR",
+                "Mname": "CHIKA ",
+                "Surname": "AYOZIEUWA "
+            },
+            "School": "IMO STATE UNIVERSITY ",
+            "Faculty": "100L",
+            "Dept": "29 SEPTEMBER 2003",
+            "State": "AWO-MBEIRIE",
+            "RegNo": "37908589388",
+            "Bloodgroup": "O+",
+            "Sex": "FEMALE ",
+            "Validity": "2023",
+            "PhoneNo": "08148964994",
+            "EmergencyNo": "09139954714",
+            "picturepath": "https://benjjamin22.github.io/filter/utilitie/nuasa/nuasa1/d9f15073-87f0-4487-91ca-87c5d1c50d09.jpg",
+            "image": "d9f15073-87f0-4487-91ca-87c5d1c50d09",
+            "id": "55fda12b-07ad-426c-a73a-1eb642d40a18",
+            "YT": "11",
+            "__v": 0
+        },
+        {
+            "_id": {
+                "$oid": "6683ad1f03a14d9493d216a1"
+            },
+            "Aname": {
+                "Name": "JOHNPAUL",
+                "Mname": "MUNACHIMSO ",
+                "Surname": "NWACHUKWU"
+            },
+            "School": "IMO STATE UNIVERSITY ",
+            "Faculty": "YEAR 1",
+            "Dept": "28TH JUNE 2007",
+            "State": "UMUNEHI OBIANGWU, NGOR OKPALA",
+            "RegNo": "12529924950",
+            "Bloodgroup": "O+",
+            "Sex": "MALE",
+            "Validity": "2023/24",
+            "PhoneNo": "08033714017",
+            "EmergencyNo": "08033714018",
+            "picturepath": "https://benjjamin22.github.io/filter/utilitie/nuasa/nuasa1/826cfdc7-06de-4b2a-a6b2-d286194451ec.jpg",
+            "image": "826cfdc7-06de-4b2a-a6b2-d286194451ec",
+            "obj": "de435ac6-9735-4630-87a0-77b804bca5d4",
+            "id": "12",
+            "__v": 0
+        },
+        {
+            "_id": {
+                "$oid": "6683bef1104422ee74a74950"
+            },
+            "Aname": {
+                "Name": "CHIDIEBERE ",
+                "Mname": "CHINECHEREM ",
+                "Surname": "NLEMCHUKWU "
+            },
+            "School": "IMO STATE UNIVERSITY ",
+            "Faculty": "100LEVEL",
+            "Dept": "02/10",
+            "State": "OBAZU MBIERI",
+            "RegNo": "91072985326",
+            "Bloodgroup": "O+",
+            "Sex": "MALE",
+            "Validity": "2023",
+            "PhoneNo": "09034031783",
+            "EmergencyNo": "08068992768",
+            "picturepath": "https://benjjamin22.github.io/filter/utilitie/nuasa/nuasa1/e63d150e-f76a-41b2-987b-16baa456fc0e.jpg",
+            "image": "e63d150e-f76a-41b2-987b-16baa456fc0e",
+            "id": "3c59db69-418a-48d8-8fa3-a7bfa3b213e2",
+            "YT": "13",
+            "__v": 0
+        },
+        {
+            "_id": {
+                "$oid": "6682d4d72a4fd47c26f47a0f"
+            },
+            "Aname": {
+                "Name": "EMMANUEL ",
+                "Mname": "CHIDINDU ",
+                "Surname": "SHEDRACK "
+            },
+            "School": "IMO STATE UNIVERSITY ",
+            "Faculty": "100LEVEL",
+            "Dept": "5TH OF JUNE, 2005",
+            "State": "NGOR OKPALA, OBIKE UMUOFOR ",
+            "RegNo": "13303099224",
+            "Bloodgroup": "O+",
+            "Sex": "MALE",
+            "Validity": "2023",
+            "PhoneNo": "08065697584",
+            "EmergencyNo": "09150249959",
+            "picturepath": "https://benjjamin22.github.io/filter/utilitie/nuasa/nuasa1/0936160c-9b49-40f9-a4e9-7e221b429121.jpg",
+            "image": "0936160c-9b49-40f9-a4e9-7e221b429121",
+            "id": "413db6a9-9010-4930-83f2-85a18cab1159",
+            "YT": "3",
+            "__v": 0
+        },
+        {
+            "_id": {
+                "$oid": "6682d7ac2a4fd47c26f47a13"
+            },
+            "Aname": {
+                "Name": "CHIBUEZE ",
+                "Mname": "…………",
+                "Surname": "CHUKWULETA"
+            },
+            "School": "IMSU",
+            "Faculty": "100LEVEL",
+            "Dept": "JULY 6TH 2004",
+            "State": "AMAGWU ",
+            "RegNo": "92961709554",
+            "Bloodgroup": "…………:",
+            "Sex": "MALE",
+            "Validity": "2023",
+            "PhoneNo": "09132946632",
+            "EmergencyNo": "09121267479",
+            "picturepath": "https://benjjamin22.github.io/filter/utilitie/nuasa/nuasa1/3532de42-ed9d-4760-8608-d5b1e2c1af77.jpg",
+            "image": "3532de42-ed9d-4760-8608-d5b1e2c1af77",
+            "id": "9e1fceab-01c2-4ea8-a4de-1017f41f2de4",
+            "YT": "4",
+            "__v": 0
+        },
+        {
+            "_id": {
+                "$oid": "6682d8f62a4fd47c26f47a17"
+            },
+            "Aname": {
+                "Name": "CHIDERA ",
+                "Mname": "AKUNNA ",
+                "Surname": "DURUGO "
+            },
+            "School": "IMO STATE UNIVERSITY ",
+            "Faculty": "100 LEVEL ",
+            "Dept": "9TH MARCH 2005",
+            "State": "EZIOME MBARI MBAITOLI LOCAL GOVERNMENT AREA ",
+            "RegNo": "29879805722",
+            "Bloodgroup": "O+",
+            "Sex": "FEMALE ",
+            "Validity": "2023",
+            "PhoneNo": "08036710510",
+            "EmergencyNo": "08037055310",
+            "picturepath": "https://benjjamin22.github.io/filter/utilitie/nuasa/nuasa1/c7dbbb56-7467-40ba-bc79-f84c890924ff.jpg",
+            "image": "c7dbbb56-7467-40ba-bc79-f84c890924ff",
+            "id": "b4f900e2-3f9c-475e-8e74-e3537b7854cd",
+            "YT": "5",
+            "__v": 0
+        },
+        {
+            "_id": {
+                "$oid": "6682d9082a4fd47c26f47a1b"
+            },
+            "Aname": {
+                "Name": "AUGUSTINA",
+                "Mname": "CHINAEMEMMA",
+                "Surname": "UGOCHUKWU"
+            },
+            "School": "IMO STATE UNIVERSITY",
+            "Faculty": "100 LEVEL",
+            "Dept": "02/8/2005",
+            "State": "UMUEBEE AMUZU",
+            "RegNo": "81250228538",
+            "Bloodgroup": "O+",
+            "Sex": "FEMALE",
+            "Validity": "2023",
+            "PhoneNo": "08101878788",
+            "EmergencyNo": "07060494790",
+            "picturepath": "https://benjjamin22.github.io/filter/utilitie/nuasa/nuasa1/38969162-da94-44b7-ade2-141171e6155.jpg",
+            "image": "38969162-da94-44b7-ade2-141171e6155c",
+            "id": "7b8b65d6-d27d-404e-a44f-6db5bfe6a751",
+            "YT": "6",
+            "__v": 0
+        },
+        {
+            "_id": {
+                "$oid": "6682f56e2a4fd47c26f47a1f"
+            },
+            "Aname": {
+                "Name": "DANIEL ",
+                "Mname": "CHIBUZOR ",
+                "Surname": "OMERENNA "
+            },
+            "School": "IMO STATE UNIVERSITY",
+            "Faculty": "100 LEVEL",
+            "Dept": "08/03/2007",
+            "State": "UMUHU-OTULU",
+            "RegNo": "95136293148",
+            "Bloodgroup": "O+",
+            "Sex": "MALE",
+            "Validity": "2023/2024",
+            "PhoneNo": "08135354143",
+            "EmergencyNo": "09069558073",
+            "picturepath": "https://benjjamin22.github.io/filter/utilitie/nuasa/nuasa1/9be997e0-a754-4056-819e-17314cacef77.jpg",
+            "image": "9be997e0-a754-4056-819e-17314cacef77",
+            "id": "63ebb099-84bb-45af-b194-f7432bc17719",
+            "YT": "7",
+            "__v": 0
         }
     ]
 }
