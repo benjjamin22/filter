@@ -320,6 +320,34 @@
             "LocalGovt": "",
             "RegNo": "",
             "Bloodgroup": "",
+            "Sex": "FEMALE",
+            "Validity": "",
+            "PhoneNo": "",
+            "EmergencyNo": "",
+            "Facebook": "",
+            "Instagram": "",
+            "Tiktok": "",
+            "Twitter": "",
+            "picturepath": "https://benjjamin22.github.io/filter/utilitie/nuasa/nuasa1/3b4215e0-6d46-43ed-8271-0bb21c8a63da.jpg",
+            "image": "3b4215e0-6d46-43ed-8271-0bb21c8a63da",
+            "id": "e88190uuf4-ea0yua-4b2ob-8464-iu3c964085t52d5f98oi5VT",
+            "YT": "18",
+            "__v": 0
+        },
+        {
+            "_id": {
+                "$oid": "66852db8ba7160004c4fa1ab"
+            },
+            "Aname": {
+                "Name": "",
+                "Mname": "",
+                "Surname": ""
+            },
+            "School": "NUASA IMSU",
+            "State": "",
+            "LocalGovt": "",
+            "RegNo": "",
+            "Bloodgroup": "",
             "Sex": "FEMALE ",
             "Validity": "",
             "PhoneNo": "",
