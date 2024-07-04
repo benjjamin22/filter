@@ -81,61 +81,6 @@
             "id": "e88190f4-ea0a-4b2b-8464-3c9640852d5f7",
             "YT": "18",
             "__v": 0
-        }, {
-            "_id": {
-                "$oid": "66852db8ba7160004c4fa1ab"
-            },
-            "Aname": {
-                "Name": "GABRIEL",
-                "Mname": "IFEANYI",
-                "Surname": "DAVIDO"
-            },
-            "School": "NUASA IMSU",
-            "State": "IMO",
-            "LocalGovt": "OWERRI NORTH",
-            "RegNo": "J24/042",
-            "Bloodgroup": "O+",
-            "Sex": "FEMALE",
-            "Validity": "2028",
-            "PhoneNo": "34098657097",
-            "EmergencyNo": "03037722780",
-            "Facebook": "UOURSTRULY",
-            "Instagram": "CHINKUSKILLZ",
-            "Tiktok": "BENJMIMI",
-            "Twitter": "OPPOESIT",
-            "picturepath": "https://benjjamin22.github.io/filter/utilitie/nuasa/nuasa1/826cfdc7-06de-4b2a-a6b2-d286194451ec.jpg",
-            "image": "61e8c041-3655-4449-957a-5bbaaff22b53",
-            "id": "e88190f4-ea0a-4b2b-8464-3c9640852d5f8",
-            "YT": "18",
-            "__v": 0
-        },
-        {
-            "_id": {
-                "$oid": "66852db8ba7160004c4fa1ab"
-            },
-            "Aname": {
-                "Name": "GLORIA",
-                "Mname": "CHINELO",
-                "Surname": "UGOCHUKWU"
-            },
-            "School": "NUASA IMSU",
-            "State": "IMO",
-            "LocalGovt": "OWERRI NORTH",
-            "RegNo": "J24/042",
-            "Bloodgroup": "O+",
-            "Sex": "FEMALE",
-            "Validity": "2028",
-            "PhoneNo": "34098657097",
-            "EmergencyNo": "03037722780",
-            "Facebook": "UOURSTRULY",
-            "Instagram": "CHINKUSKILLZ",
-            "Tiktok": "BENJMIMI",
-            "Twitter": "OPPOESIT",
-            "picturepath": "https://benjjamin22.github.io/filter/utilitie/nuasa/nuasa1/c7dbbb56-7467-40ba-bc79-f84c890924ff.jpg",
-            "image": "61e8c041-3655-4449-957a-5bbaaff22b539",
-            "id": "e88190f4-ea0a-4b2b-8464-3c9640852d5f",
-            "YT": "18",
-            "__v": 0
         },
         {
             "_id": {
@@ -379,7 +324,7 @@
             "Validity": "2023",
             "PhoneNo": "08101878788",
             "EmergencyNo": "07060494790",
-            "picturepath": "https://benjjamin22.github.io/filter/utilitie/nuasa/nuasa1/38969162-da94-44b7-ade2-141171e6155.jpg",
+            "picturepath": "https://benjjamin22.github.io/filter/utilitie/nuasa/nuasa1/38969162-da94-44b7-ade2-141171e6155c.jpg",
             "image": "38969162-da94-44b7-ade2-141171e6155c",
             "id": "7b8b65d6-d27d-404e-a44f-6db5bfe6a751",
             "YT": "6",
