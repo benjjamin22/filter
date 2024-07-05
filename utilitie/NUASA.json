@@ -1,6 +1,201 @@
 {
     "nuasa": [{
             "_id": {
+                "$oid": "6687d9d0445d049e3882f409"
+            },
+            "Aname": {
+                "Name": "LILIAN",
+                "Mname": "CHIMEZIE",
+                "Surname": "IWU"
+            },
+            "School": "NAMS IMSU",
+            "State": "IMO ",
+            "LocalGovt": "ORU EAST ",
+            "RegNo": "202331042209FA",
+            "Bloodgroup": "B",
+            "Sex": "FEMALE ",
+            "Validity": "2029",
+            "PhoneNo": "09021748059",
+            "EmergencyNo": "08038673368",
+            "Facebook": "",
+            "Instagram": "",
+            "Tiktok": "",
+            "Twitter": "",
+            "im": "22",
+            "picturepath": "https://benjjamin22.github.io/filter/utilitie/nuasa/nuasa1/cf968aa4-7be3-4595-95df-8a956eedc61e.jpg",
+            "id": "1c5105c3-a0fb-46cd-831f-e091cdb73c99",
+            "YT": "22",
+            "__v": 0
+        },
+        {
+            "_id": {
+                "$oid": "6687d9f2445d049e3882f40d"
+            },
+            "Aname": {
+                "Name": "NNEOMA ",
+                "Mname": "PAULINA ",
+                "Surname": "AZUAMA "
+            },
+            "School": "NUASA IMSU",
+            "State": "IMO",
+            "LocalGovt": "IHITTE/UBOMA",
+            "RegNo": "202330418047BF",
+            "Bloodgroup": "O+",
+            "Sex": "FEMALE ",
+            "Validity": "",
+            "PhoneNo": "09039467315",
+            "EmergencyNo": "08038182480",
+            "Facebook": "",
+            "Instagram": "",
+            "Tiktok": "",
+            "Twitter": "",
+            "im": "23",
+            "picturepath": "https://benjjamin22.github.io/filter/utilitie/nuasa/nuasa1/ab09b946-5869-48dd-af95-46f42dd388f9.jpg",
+            "id": "44b66fb9-8609-40e7-b70b-30644335b3c1",
+            "YT": "23",
+            "__v": 0
+        },
+        {
+            "_id": {
+                "$oid": "6687da49445d049e3882f411"
+            },
+            "Aname": {
+                "Name": "LILIAN",
+                "Mname": "CHIMEZIE",
+                "Surname": "IWU"
+            },
+            "School": "NAMS IMSU",
+            "State": "IMO ",
+            "LocalGovt": "ORU EAST ",
+            "RegNo": "202331042209FA",
+            "Bloodgroup": "B",
+            "Sex": "FEMALE ",
+            "Validity": "2029",
+            "PhoneNo": "09021748059",
+            "EmergencyNo": "08038673368",
+            "Facebook": "",
+            "Instagram": "",
+            "Tiktok": "",
+            "Twitter": "",
+            "im": "24",
+            "picturepath": "https://benjjamin22.github.io/filter/utilitie/nuasa/nuasa1/a9b649fd-760b-4b67-8600-34c67bb646f2.jpg",
+            "id": "5b500b5d-bccd-4c37-938d-d76e57a96fd1",
+            "YT": "24",
+            "__v": 0
+        },
+        {
+            "_id": {
+                "$oid": "6687e14d445d049e3882f415"
+            },
+            "Aname": {
+                "Name": "MARY-CHRISTINE",
+                "Mname": "CHINO",
+                "Surname": "NNAMOCHA "
+            },
+            "School": "NUASA IMSU",
+            "State": "IMO",
+            "LocalGovt": "EZINIHITTE MBAISE",
+            "RegNo": "202330488350JF",
+            "Bloodgroup": "O+",
+            "Sex": "FEMALE",
+            "Validity": "",
+            "PhoneNo": "08162822326",
+            "EmergencyNo": "08032725123",
+            "Facebook": "",
+            "Instagram": "",
+            "Tiktok": "",
+            "Twitter": "",
+            "im": "25",
+            "picturepath": "https://benjjamin22.github.io/filter/utilitie/nuasa/nuasa1/50d34aff-0ba9-4b82-8f1e-ae30b6405585.jpg",
+            "id": "304a1cc5-2b66-4756-8a11-719f2b6fbf4b",
+            "YT": "25",
+            "__v": 0
+        },
+        {
+            "_id": {
+                "$oid": "6687e4aa445d049e3882f419"
+            },
+            "Aname": {
+                "Name": "NANCY",
+                "Mname": "UCHECHI ",
+                "Surname": "OBIANIGWE "
+            },
+            "School": "NUASA IMSU",
+            "State": "IMO",
+            "LocalGovt": "ORLU",
+            "RegNo": "202331321245EA",
+            "Bloodgroup": "A+",
+            "Sex": "FEMALE ",
+            "Validity": "",
+            "PhoneNo": "08164104612",
+            "EmergencyNo": "",
+            "Facebook": "NANCY OBIANIGWE (NICE) ",
+            "Instagram": "",
+            "Tiktok": "SHE-IS-PINKY2",
+            "Twitter": "",
+            "im": "26",
+            "picturepath": "https://benjjamin22.github.io/filter/utilitie/nuasa/nuasa1/2bc92ffd-6e61-4f26-b6e5-1e47399bf798.jpg",
+            "id": "71a89004-6d22-4fd5-8893-14f47a1bde67",
+            "YT": "26",
+            "__v": 0
+        },
+        {
+            "_id": {
+                "$oid": "6687e682445d049e3882f41d"
+            },
+            "Aname": {
+                "Name": "IFEANYI ",
+                "Mname": "OHANU",
+                "Surname": "PETER"
+            },
+            "School": "NUASA IMSU",
+            "State": "IMO",
+            "LocalGovt": "OBOWO",
+            "RegNo": "202330208395EF",
+            "Bloodgroup": "O+",
+            "Sex": "MALE",
+            "Validity": "",
+            "PhoneNo": "07069137388",
+            "EmergencyNo": "07069137388",
+            "Facebook": "",
+            "Instagram": "",
+            "Tiktok": "",
+            "Twitter": "",
+            "im": "27",
+            "picturepath": "https://benjjamin22.github.io/filter/utilitie/nuasa/nuasa1/dd02a71d-0130-4a5f-bf9a-8364ba2e3961.jpg",
+            "id": "49802e4b-8437-4e23-9414-589f3050c52c",
+            "YT": "27",
+            "__v": 0
+        },
+        {
+            "_id": {
+                "$oid": "6687ed9f445d049e3882f421"
+            },
+            "Aname": {
+                "Name": "UDOCHUKWU ",
+                "Mname": "JOY",
+                "Surname": "DAVID "
+            },
+            "School": "NUASA IMSU",
+            "State": "IMO",
+            "LocalGovt": "EHIME MBANO",
+            "RegNo": "202330072618GA",
+            "Bloodgroup": "O+",
+            "Sex": "FEMALE ",
+            "Validity": "",
+            "PhoneNo": "09035784089",
+            "EmergencyNo": "08187986892",
+            "Facebook": "",
+            "Instagram": "",
+            "Tiktok": "",
+            "Twitter": "",
+            "im": "28",
+            "picturepath": "https://benjjamin22.github.io/filter/utilitie/nuasa/nuasa1/02ec265e-533b-4929-b6b4-2ec3f4e533bf.jpg",
+            "id": "58b22ae8-9bf8-463e-a9a4-c420a7ccfbf7",
+            "YT": "28",
+            "__v": 0
+        }, {
+            "_id": {
                 "$oid": "66870c102b313aea9a1b85a3"
             },
             "Aname": {
