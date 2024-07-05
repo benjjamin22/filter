@@ -1,34 +1,6 @@
 {
     "nuasa": [{
             "_id": {
-                "$oid": "6687d9d0445d049e3882f409"
-            },
-            "Aname": {
-                "Name": "LILIAN",
-                "Mname": "CHIMEZIE",
-                "Surname": "IWU"
-            },
-            "School": "NAMS IMSU",
-            "State": "IMO ",
-            "LocalGovt": "ORU EAST ",
-            "RegNo": "202331042209FA",
-            "Bloodgroup": "B",
-            "Sex": "FEMALE ",
-            "Validity": "2029",
-            "PhoneNo": "09021748059",
-            "EmergencyNo": "08038673368",
-            "Facebook": "",
-            "Instagram": "",
-            "Tiktok": "",
-            "Twitter": "",
-            "im": "22",
-            "picturepath": "https://benjjamin22.github.io/filter/utilitie/nuasa/nuasa1/cf968aa4-7be3-4595-95df-8a956eedc61e.jpg",
-            "id": "1c5105c3-a0fb-46cd-831f-e091cdb73c99",
-            "YT": "22",
-            "__v": 0
-        },
-        {
-            "_id": {
                 "$oid": "6687d9f2445d049e3882f40d"
             },
             "Aname": {
