@@ -197,34 +197,6 @@
         },
         {
             "_id": {
-                "$oid": "66887535e3f029293341088e"
-            },
-            "Aname": {
-                "Name": "JOHNPAUL",
-                "Mname": "MUNACHIMSO ",
-                "Surname": "NWACHUKWU"
-            },
-            "School": "NUASA IMSU",
-            "State": "IMO",
-            "LocalGovt": "NGOR OKPALA",
-            "RegNo": "202330431979IF",
-            "Bloodgroup": "O+",
-            "Sex": "MALE ",
-            "Validity": "",
-            "PhoneNo": "09031140809",
-            "EmergencyNo": "08033714017",
-            "Facebook": "",
-            "Instagram": "",
-            "Tiktok": "",
-            "Twitter": "",
-            "picturepath": "https://benjjamin22.github.io/filter/utilitie/nuasa/nuasa1/11cb06dd-6f84-4bd2-aeda-403d37543d09.jpg",
-            "iu": "11cb06dd-6f84-4bd2-aeda-403d37543d09.jpg",
-            "id": "973e0ca9-daaa-444c-aefb-9d31fe7bed97",
-            "id1": "47",
-            "__v": 0
-        },
-        {
-            "_id": {
                 "$oid": "668902daec66088458f9ee8e"
             },
             "Aname": {
