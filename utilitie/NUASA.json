@@ -253,34 +253,6 @@
         },
         {
             "_id": {
-                "$oid": "66890e6f3d94237afb77eea7"
-            },
-            "Aname": {
-                "Name": "PRECIOUS ",
-                "Mname": "VERA",
-                "Surname": "IDDI"
-            },
-            "School": "NUASA IMSU",
-            "State": "IMO",
-            "LocalGovt": "ORSU",
-            "RegNo": "202330109257DA",
-            "Bloodgroup": "O+",
-            "Sex": "FEMALE ",
-            "Validity": "",
-            "PhoneNo": "08103244486",
-            "EmergencyNo": "08033158766",
-            "Facebook": "",
-            "Instagram": "",
-            "Tiktok": "",
-            "Twitter": "",
-            "picturepath": "https://benjjamin22.github.io/filter/utilitie/nuasa/nuasa1/1b9efdc2-6b43-4c03-b7d0-87ed574ee4e5.jpg",
-            "iu": "1b9efdc2-6b43-4c03-b7d0-87ed574ee4e5.jpg",
-            "id": "42ce8bcf-0e7c-498a-9837-efae2f99dd7a",
-            "id1": "50",
-            "__v": 0
-        },
-        {
-            "_id": {
                 "$oid": "668910a23d94237afb77eeab"
             },
             "Aname": {
@@ -301,7 +273,7 @@
             "Instagram": "None",
             "Tiktok": "None",
             "Twitter": "None",
-            "picturepath": "https://benjjamin22.github.io/filter/utilitie/nuasa/nuasa1/c0c931ef-2d2a-42dd-a9a8-55adbb958181.jpg",
+            "picturepath": "https://benjjamin22.github.io/filter/utilitie/nuasa/nuasa1/c0c931ef-2d2a-42dd-a9a8-55adbb958181.jp",
             "iu": "c0c931ef-2d2a-42dd-a9a8-55adbb958181.jpg",
             "id": "b8c17682-e039-4650-b734-45cf6ec4da01",
             "id1": "51",
