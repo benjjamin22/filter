@@ -1,6 +1,87 @@
 {
     "nuasa": [{
             "_id": {
+                "$oid": "6688014f445d049e3882f429"
+            },
+            "Aname": {
+                "Name": "DANIEL",
+                "Mname": "CHIBUZOR",
+                "Surname": "OMERENNA"
+            },
+            "School": "NUASA IMSU",
+            "State": "IMO",
+            "LocalGovt": "ORU-WEST",
+            "RegNo": "202330438311GA",
+            "Bloodgroup": "O+",
+            "Sex": "MALE",
+            "Validity": "",
+            "PhoneNo": "07060949704",
+            "EmergencyNo": "08135354143",
+            "Facebook": "SAINT DANIEL",
+            "Instagram": "THEOFFICIALSAINTOFLAGOS",
+            "Tiktok": "SAINT DANIEL",
+            "Twitter": "SAINT DANNYBLAQ",
+            "picturepath": "https://benjjamin22.github.io/filter/utilitie/nuasa/nuasa1/d17c2714-531f-4aaa-bd0a-e15b1b81b170.jpg",
+            "image": "d17c2714-531f-4aaa-bd0a-e15b1b81b170",
+            "id": "dcec742c-12dc-4088-8e44-745d4c27ec3f",
+            "YT": "30",
+            "__v": 0
+        }, {
+            "_id": {
+                "$oid": "6688055b445d049e3882f42d"
+            },
+            "Aname": {
+                "Name": "FAVOUR ",
+                "Mname": "CHERECHI ",
+                "Surname": "ELIAS "
+            },
+            "School": "NUASA IMSU",
+            "State": "ANAMBRA",
+            "LocalGovt": "AWKA NORTH ",
+            "RegNo": "202330516757IF",
+            "Bloodgroup": "O+",
+            "Sex": "FEMALE ",
+            "Validity": "",
+            "PhoneNo": "08139407441",
+            "EmergencyNo": "08108538467",
+            "Facebook": "TRËÅ SÛRÉ",
+            "Instagram": "QUIN_PHAY_VOUR",
+            "Tiktok": "QUINPHAYVOUR1 ",
+            "Twitter": "ELIAS FAVOUR ",
+            "picturepath": "https://benjjamin22.github.io/filter/utilitie/nuasa/nuasa1/1ef269f0-c175-43dd-b230-4ac589ec7729.jpg",
+            "image": "1ef269f0-c175-43dd-b230-4ac589ec7729",
+            "id": "f070cc1c-6952-498f-80c4-d7c71e6f4239",
+            "YT": "31",
+            "__v": 0
+        }, {
+            "_id": {
+                "$oid": "66881149445d049e3882f43d"
+            },
+            "Aname": {
+                "Name": "FESTUS ",
+                "Mname": "CHUKWUDI",
+                "Surname": "OHAERI"
+            },
+            "School": "NUASA IMSU",
+            "State": "IMO",
+            "LocalGovt": "ABOH MBAISE",
+            "RegNo": "202331258797BF",
+            "Bloodgroup": "O+",
+            "Sex": "MALE",
+            "Validity": "4 YEARS",
+            "PhoneNo": "08168158992",
+            "EmergencyNo": "07040255152",
+            "Facebook": "FESTUS OHAERI",
+            "Instagram": "OHAERIFESTUS11",
+            "Tiktok": "STEPHENFESTUS11",
+            "Twitter": "STEPHENF NWAJIUGO",
+            "picturepath": "https://benjjamin22.github.io/filter/utilitie/nuasa/nuasa1/3a4f82c5-c466-4b2e-af45-10fb2d970164.jpg",
+            "image": "3a4f82c5-c466-4b2e-af45-10fb2d970164",
+            "id": "cad0128c-a857-4ba6-8838-0898aa812d75",
+            "YT": "35",
+            "__v": 0
+        }, {
+            "_id": {
                 "$oid": "6687d9f2445d049e3882f40d"
             },
             "Aname": {
