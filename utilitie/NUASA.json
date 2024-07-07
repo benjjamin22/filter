@@ -29,34 +29,6 @@
         },
         {
             "_id": {
-                "$oid": "66885696e3f029293341086a"
-            },
-            "Aname": {
-                "Name": "MICHAEL ",
-                "Mname": "NDUBUISI ",
-                "Surname": "OBINNA "
-            },
-            "School": "NAMS IMSU",
-            "State": "IMO STATE ",
-            "LocalGovt": "AHAIZU MBAISE ",
-            "RegNo": "202331339591IA",
-            "Bloodgroup": "0+",
-            "Sex": "MALE ",
-            "Validity": "2028",
-            "PhoneNo": "08130275290",
-            "EmergencyNo": "",
-            "Facebook": "Khalifa Hood ",
-            "Instagram": "Khalifa_Hood",
-            "Tiktok": "",
-            "Twitter": "",
-            "picturepath": "https://benjjamin22.github.io/filter/utilitie/nuasa/nuasa1/62b51b18-9ddc-4d08-aa3f-3b3df606f610.jpg",
-            "iu": "62b51b18-9ddc-4d08-aa3f-3b3df606f610.jpg",
-            "id": "d045b696-2d1d-4d1d-a11b-b1c59ea3b3aa",
-            "YT": "38",
-            "__v": 0
-        },
-        {
-            "_id": {
                 "$oid": "66886437e3f0292933410872"
             },
             "Aname": {
@@ -221,62 +193,6 @@
             "iu": "24e9116a-9c76-4d60-ae73-8872b3ed8a34.jpg",
             "id": "d03fb573-d846-4987-8a5e-201f1c64e25b",
             "id1": "49",
-            "__v": 0
-        },
-        {
-            "_id": {
-                "$oid": "668910a23d94237afb77eeab"
-            },
-            "Aname": {
-                "Name": "PRECIOUS ",
-                "Mname": "CHIAMAKA ",
-                "Surname": "OKEZUE "
-            },
-            "School": "NAMS IMSU",
-            "State": "IMO STATE ",
-            "LocalGovt": "OHAJI EGBEMA LGA",
-            "RegNo": "202330520616HF",
-            "Bloodgroup": "AA+",
-            "Sex": "FEMALE ",
-            "Validity": "TRUE",
-            "PhoneNo": "09163406945",
-            "EmergencyNo": "09033810677",
-            "Facebook": "None",
-            "Instagram": "None",
-            "Tiktok": "None",
-            "Twitter": "None",
-            "picturepath": "https://benjjamin22.github.io/filter/utilitie/nuasa/nuasa1/c0c931ef-2d2a-42dd-a9a8-55adbb958181.jp",
-            "iu": "c0c931ef-2d2a-42dd-a9a8-55adbb958181.jpg",
-            "id": "b8c17682-e039-4650-b734-45cf6ec4da01",
-            "id1": "51",
-            "__v": 0
-        },
-        {
-            "_id": {
-                "$oid": "668911b33d94237afb77eeaf"
-            },
-            "Aname": {
-                "Name": "MUNACHI",
-                "Mname": "EMMANUELLA",
-                "Surname": "UKABUASI "
-            },
-            "School": "NAMS IMSU",
-            "State": "IMO",
-            "LocalGovt": "NJABA",
-            "RegNo": "202331415870BF",
-            "Bloodgroup": "AB+",
-            "Sex": "FEMALE",
-            "Validity": "2024/2028",
-            "PhoneNo": "08065457449",
-            "EmergencyNo": "09050949422",
-            "Facebook": "",
-            "Instagram": "",
-            "Tiktok": "",
-            "Twitter": "",
-            "picturepath": "https://benjjamin22.github.io/filter/utilitie/nuasa/nuasa1/9b094947-e0c7-41e9-8b44-cb3c6057c50d.jpg",
-            "iu": "9b094947-e0c7-41e9-8b44-cb3c6057c50d.jpg",
-            "id": "1c3e597a-b313-48ba-be0d-a12c83eedec8",
-            "id1": "52",
             "__v": 0
         },
         {
