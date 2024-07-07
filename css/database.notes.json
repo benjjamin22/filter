@@ -1,11 +1,36 @@
 {
     "nuasa": [{
             "_id": {
+                "$oid": "66855c351dc72bbe81ea940b"
+            },
+            "Name": "OKECHUKWU PETER CHINWEIKE",
+            "School": "NAMS IMSU",
+            "State": "ANAMBRA ",
+            "LocalGovernment": "IHIALA",
+            "RegNo": "202330736125CA",
+            "Status": "MEMBER",
+            "bloodgroup": "O+",
+            "Sex": "MALE",
+            "Validity": "FACE VALIDITY ",
+            "PhoneNo": "09031604384",
+            "Phoneno2": "08032254077",
+            "Facebook": "ITZ PELO",
+            "Instagram": "",
+            "Tiktok": "@AKUSINACHI69",
+            "Twitter": "",
+            "Picturepath": "https://benjjamin22.github.io/filter/utilitie/nuasa/nuasa1/696b6324-542d-448e-936c-fb40ac1c147d.jpg",
+            "image": "696b6324-542d-448e-936c-fb40ac1c147d.jpg",
+            "id": "474250ce-80de-4f4b-ba22-cd8d925cfad5",
+            "yt": "1",
+            "__v": 0
+        }, {
+            "_id": {
                 "$oid": "66885696e3f029293341086a"
             },
             "Name": "MICHAEL NDUBUISI OBINNA ",
             "School": "NAMSIMSU",
             "State": "IMO STATE ",
+            "Status": "MEMBER",
             "LocalGovernment": "AHAIZU MBAISE ",
             "RegNo": "202331339591IA",
             "bloodgroup": "0+",
@@ -32,6 +57,7 @@
             "State": "IMO STATE ",
             "LocalGovt": "OHAJI EGBEMA LGA",
             "RegNo": "202330520616HF",
+            "Status": "MEMBER",
             "bloodgroup": "AA+",
             "Sex": "FEMALE ",
             "Validity": "TRUE",
@@ -56,6 +82,7 @@
             "State": "IMO",
             "LocalGovt": "NJABA",
             "RegNo": "202331415870BF",
+            "Status": "MEMBER",
             "bloodgroup": "AB+",
             "Sex": "FEMALE",
             "Validity": "2024/2028",
