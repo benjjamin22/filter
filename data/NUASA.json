@@ -1,30 +1,224 @@
 {
     "nuasa": [{
             "_id": {
-                "$oid": "668a29a25fd89695d605ee36"
+                "$oid": "66852db8ba7160004c4fa1ab"
             },
             "Aname": {
-                "Name": "DIVINEGRACE ",
-                "Mname": "ONYINYECHI ",
-                "Surname": "CHIKEZIE "
+                "Name": "",
+                "Mname": "",
+                "Surname": ""
+            },
+            "School": "NUASA IMSU",
+            "State": "IMO",
+            "LocalGovt": "",
+            "RegNo": "",
+            "Bloodgroup": "",
+            "Sex": "FEMALE",
+            "Validity": "",
+            "PhoneNo": "",
+            "EmergencyNo": "",
+            "Facebook": "",
+            "Instagram": "",
+            "Tiktok": "",
+            "Twitter": "",
+            "picturepath": "https://benjjamin22.github.io/filter/utilitie/nuasa/nuasa1/3677e693-c6ec-42ba-8556-dd75aea7a478.jpg",
+            "image": "61e8c041-3655-4449-957a-5bbaaff22b53",
+            "id": "e88190f4-ea0a-4b2b-8464-3c9640852d5f5",
+            "YT": "18",
+            "__v": 0
+        },
+        {
+            "_id": {
+                "$oid": "66852db8ba7160004c4fa1ab"
+            },
+            "Aname": {
+                "Name": "STEPHEN",
+                "Mname": "CHIDIEBUBE",
+                "Surname": "DANIEL"
+            },
+            "School": "NUASA IMSU",
+            "State": "IMO",
+            "LocalGovt": "OBOWO",
+            "RegNo": "202331219434IF",
+            "Bloodgroup": "O+",
+            "Sex": "MALE",
+            "Validity": "2028",
+            "PhoneNo": "08168785108",
+            "EmergencyNo": "08035065925",
+            "Facebook": "",
+            "Instagram": "",
+            "Tiktok": "",
+            "Twitter": "",
+            "picturepath": "https://benjjamin22.github.io/filter/utilitie/nuasa/nuasa1/47a71b47-eb01-4e26-95a3-12a2f43d89fb.jpg",
+            "image": "61e8c041-3655-4449-957a-5bbaaff22b53",
+            "id": "e88190f4-ea0a-4b2b-8464-3c9640852d5f6",
+            "YT": "18",
+            "__v": 0
+        }, {
+            "_id": {
+                "$oid": "66852db8ba7160004c4fa1ab"
+            },
+            "Aname": {
+                "Name": "",
+                "Mname": "",
+                "Surname": ""
+            },
+            "School": "NUASA IMSU",
+            "State": "IMO",
+            "LocalGovt": "",
+            "RegNo": "",
+            "Bloodgroup": "",
+            "Sex": "FEMALE",
+            "Validity": "2028",
+            "PhoneNo": "",
+            "EmergencyNo": "",
+            "Facebook": "",
+            "Instagram": "",
+            "Tiktok": "",
+            "Twitter": "",
+            "picturepath": "https://benjjamin22.github.io/filter/utilitie/nuasa/nuasa1/081954a0-9122-4892-9118-34df1331c255.jpg",
+            "image": "61e8c041-3655-4449-957a-5bbaaff22b53",
+            "id": "e88190f4-ea0a-4b2b-8464-3c9640852d5f7",
+            "YT": "18",
+            "__v": 0
+        },
+        {
+            "_id": {
+                "$oid": "66852db8ba7160004c4fa1ab"
+            },
+            "Aname": {
+                "Name": "",
+                "Mname": "",
+                "Surname": ""
+            },
+            "School": "NUASA IMSU",
+            "State": "",
+            "LocalGovt": "",
+            "RegNo": "",
+            "Bloodgroup": "",
+            "Sex": "FEMALE",
+            "Validity": "",
+            "PhoneNo": "",
+            "EmergencyNo": "",
+            "Facebook": "",
+            "Instagram": "",
+            "Tiktok": "",
+            "Twitter": "",
+            "picturepath": "https://benjjamin22.github.io/filter/utilitie/nuasa/nuasa1/b5c1bbd0-d35a-4c2c-a06f-dd9c78405430.jpg",
+            "image": "b5c1bbd0-d35a-4c2c-a06f-dd9c78405430",
+            "id": "e88190f4-ea0a-4b2b-8464-3c9640852d5f5oyVT",
+            "YT": "18",
+            "__v": 0
+        }, {
+            "_id": {
+                "$oid": "6687203d0384559c62e1c9ec"
+            },
+            "Aname": {
+                "Name": "BLESSING",
+                "Mname": "CHISOM",
+                "Surname": "AMAKU "
+            },
+            "School": "NUASA IMSU",
+            "State": "IMO ",
+            "LocalGovt": "EHIME MBANO ",
+            "RegNo": "202330282476EF",
+            "Bloodgroup": "O+",
+            "Sex": "FEMALE ",
+            "Validity": "",
+            "PhoneNo": "08105666401",
+            "EmergencyNo": "08038232021",
+            "Facebook": "",
+            "Instagram": "",
+            "Tiktok": "",
+            "Twitter": "",
+            "im": "17",
+            "picturepath": "https://benjjamin22.github.io/filter/utilitie/nuasa/nuasa1/2625c84a-9ab4-4ced-87a0-48f1312513de.jpg",
+            "id": "21d24b7e-8978-433e-96f8-2a47f63dd027",
+            "YT": "17",
+            "__v": 0
+        },
+        {
+            "_id": {
+                "$oid": "6687a4f4445d049e3882f3fd"
+            },
+            "Aname": {
+                "Name": "EMMANUEL ",
+                "Mname": "CHIDINDU ",
+                "Surname": "SHEDRACK "
             },
             "School": "NUASA IMSU",
             "State": "IMO STATE ",
-            "LocalGovt": "ABOH MBAISE ",
-            "RegNo": "202331111008FA",
-            "Bloodgroup": "AS",
+            "LocalGovt": "NGOR OKPALA, OBIKE UMUOFOR ",
+            "RegNo": "202330862137JF",
+            "Bloodgroup": "O+",
+            "Sex": "MALE",
+            "Validity": "",
+            "PhoneNo": "09028739436",
+            "EmergencyNo": "08065697584",
+            "Facebook": "",
+            "Instagram": "",
+            "Tiktok": "",
+            "Twitter": "",
+            "im": "19",
+            "picturepath": "https://benjjamin22.github.io/filter/utilitie/nuasa/nuasa1/58acdd85-fcf2-4ffd-83de-6c178d4b53f5.jpg",
+            "id": "7d7506fb-acc5-4c93-a321-3f487c72238f",
+            "YT": "19",
+            "__v": 0
+        },
+        {
+            "_id": {
+                "$oid": "6687a6e0445d049e3882f401"
+            },
+            "Aname": {
+                "Name": "CHINAKA",
+                "Mname": "UGONNA ",
+                "Surname": "MODESTUS "
+            },
+            "School": "NUASA IMSU",
+            "State": "IMO",
+            "LocalGovt": "NWANGELE",
+            "RegNo": "202330405273EF",
+            "Bloodgroup": "O+",
+            "Sex": "MALE ",
+            "Validity": "",
+            "PhoneNo": "08145512584",
+            "EmergencyNo": "07067600483",
+            "Facebook": "",
+            "Instagram": "",
+            "Tiktok": "",
+            "Twitter": "",
+            "im": "20",
+            "picturepath": "https://benjjamin22.github.io/filter/utilitie/nuasa/nuasa1/411f72c3-a92a-4650-bd5f-218ec7987de3.jpg",
+            "id": "a4969242-8d83-4a92-9847-679171a72418",
+            "YT": "20",
+            "__v": 0
+        },
+        {
+            "_id": {
+                "$oid": "6687a72e445d049e3882f405"
+            },
+            "Aname": {
+                "Name": "ESTHER ",
+                "Mname": "CHIZOBA ",
+                "Surname": "NWAOKU "
+            },
+            "School": "NUASA IMSU",
+            "State": "IMO",
+            "LocalGovt": "IHITTE UBOMA ",
+            "RegNo": "202330460057BA",
+            "Bloodgroup": "O+",
             "Sex": "FEMALE ",
             "Validity": "",
-            "PhoneNo": "08100879540",
-            "EmergencyNo": "08064718260",
-            "Facebook": "Chikezie Divinegrace Onyinyechi ",
-            "Instagram": "Queendidi ",
-            "Tiktok": "Queendidi 081",
+            "PhoneNo": "09113053114",
+            "EmergencyNo": "08023707680",
+            "Facebook": "",
+            "Instagram": "",
+            "Tiktok": "",
             "Twitter": "",
-            "picturepath": "https://benjjamin22.github.io/filter/utilitie/nuasa/nuasa1/ab359cf8-f6b7-4e2d-86ab-b1d5e0afe109.jpg",
-            "iu": "ab359cf8-f6b7-4e2d-86ab-b1d5e0afe109.jpg",
-            "id": "fb1610cd-21ed-4d17-86f4-5678897e9da3",
-            "yt": "58",
+            "im": "21",
+            "picturepath": "https://benjjamin22.github.io/filter/utilitie/nuasa/nuasa1/36fd266f-e035-4d80-bbb8-6bf01dd4c6f4.jpg",
+            "id": "b8cd13e9-f88b-4928-802d-d49196376261",
+            "YT": "21",
             "__v": 0
         }, {
             "_id": {
@@ -82,30 +276,30 @@
             "__v": 0
         }, {
             "_id": {
-                "$oid": "66883f77e3f0292933410866"
+                "$oid": "668717e40384559c62e1c9dc"
             },
             "Aname": {
-                "Name": "PRECIOUS ",
-                "Mname": "VERA",
-                "Surname": "IDDI"
+                "Name": "HENRIETTA ",
+                "Mname": "TOCHUKWU ",
+                "Surname": "EDOGO "
             },
             "School": "NUASA IMSU",
-            "State": "IMO",
-            "LocalGovt": "ORSU",
-            "RegNo": "202330109275DA",
-            "Bloodgroup": "O+",
+            "State": "IMO STATE",
+            "LocalGovt": "ORU WEST",
+            "RegNo": "202330381068EA",
+            "Bloodgroup": "0+",
             "Sex": "FEMALE ",
             "Validity": "",
-            "PhoneNo": "08103244486",
-            "EmergencyNo": "08033158766",
+            "PhoneNo": "O9134656910",
+            "EmergencyNo": "08061630982",
             "Facebook": "",
             "Instagram": "",
             "Tiktok": "",
             "Twitter": "",
-            "picturepath": "https://benjjamin22.github.io/filter/utilitie/nuasa/nuasa1/05b1ccab-0949-4644-9070-27eeb6e1ab18.jpg",
-            "iu": "05b1ccab-0949-4644-9070-27eeb6e1ab18.jpg",
-            "id": "6aa37568-a3a2-49ca-87a8-f8f210efdd7f",
-            "YT": "37",
+            "im": "13",
+            "picturepath": "https://benjjamin22.github.io/filter/utilitie/nuasa/nuasa1/a8c32410-190d-4830-9b4b-bc725cc20417bb.jpg",
+            "id": "81c4a7d5-a8e1-4254-8c06-dd3ac2297e0e",
+            "YT": "13",
             "__v": 0
         },
         {
@@ -220,34 +414,7 @@
             "id1": "45",
             "__v": 0
         },
-        {
-            "_id": {
-                "$oid": "66886f4ae3f029293341088a"
-            },
-            "Aname": {
-                "Name": "IROANYA ",
-                "Mname": "HENRY",
-                "Surname": "CHIBUIKE "
-            },
-            "School": "NUASA IMSU",
-            "State": "IMO",
-            "LocalGovt": "OGUTA",
-            "RegNo": "",
-            "Bloodgroup": "",
-            "Sex": "MALE ",
-            "Validity": "",
-            "PhoneNo": "08058002378",
-            "EmergencyNo": "",
-            "Facebook": "",
-            "Instagram": "",
-            "Tiktok": "",
-            "Twitter": "",
-            "picturepath": "https://benjjamin22.github.io/filter/utilitie/nuasa/nuasa1/8e3f61d4-77ea-470f-ad64-bce70e626518.jpg",
-            "iu": "8e3f61d4-77ea-470f-ad64-bce70e626518.jpg",
-            "id": "257b9f86-91f4-41cf-af36-2c3dcc014d95",
-            "id1": "46",
-            "__v": 0
-        },
+
         {
             "_id": {
                 "$oid": "668902daec66088458f9ee8e"
@@ -523,6 +690,33 @@
             "id": "58b22ae8-9bf8-463e-a9a4-c420a7ccfbf7",
             "YT": "28",
             "__v": 0
+        }, {
+            "_id": {
+                "$oid": "668a29a25fd89695d605ee36"
+            },
+            "Aname": {
+                "Name": "DIVINEGRACE ",
+                "Mname": "ONYINYECHI ",
+                "Surname": "CHIKEZIE "
+            },
+            "School": "NUASA IMSU",
+            "State": "IMO STATE ",
+            "LocalGovt": "ABOH MBAISE ",
+            "RegNo": "202331111008FA",
+            "Bloodgroup": "AS",
+            "Sex": "FEMALE ",
+            "Validity": "",
+            "PhoneNo": "08100879540",
+            "EmergencyNo": "08064718260",
+            "Facebook": "Chikezie Divinegrace Onyinyechi ",
+            "Instagram": "Queendidi ",
+            "Tiktok": "Queendidi 081",
+            "Twitter": "",
+            "picturepath": "https://benjjamin22.github.io/filter/utilitie/nuasa/nuasa1/ab359cf8-f6b7-4e2d-86ab-b1d5e0afe109.jpg",
+            "iu": "ab359cf8-f6b7-4e2d-86ab-b1d5e0afe109.jpg",
+            "id": "fb1610cd-21ed-4d17-86f4-5678897e9da3",
+            "yt": "58",
+            "__v": 0
         },
         {
             "_id": {
@@ -551,35 +745,35 @@
             "id": "4c4b06dd-da5d-4af2-9e2d-3079de92cca9",
             "YT": "9",
             "__v": 0
-        },
-        {
+        }, {
             "_id": {
-                "$oid": "668717e40384559c62e1c9dc"
+                "$oid": "66883f77e3f0292933410866"
             },
             "Aname": {
-                "Name": "HENRIETTA ",
-                "Mname": "TOCHUKWU ",
-                "Surname": "EDOGO "
+                "Name": "PRECIOUS ",
+                "Mname": "VERA",
+                "Surname": "IDDI"
             },
             "School": "NUASA IMSU",
-            "State": "IMO STATE",
-            "LocalGovt": "ORU WEST",
-            "RegNo": "202330381068EA",
-            "Bloodgroup": "0+",
+            "State": "IMO",
+            "LocalGovt": "ORSU",
+            "RegNo": "202330109275DA",
+            "Bloodgroup": "O+",
             "Sex": "FEMALE ",
             "Validity": "",
-            "PhoneNo": "O9134656910",
-            "EmergencyNo": "08061630982",
+            "PhoneNo": "08103244486",
+            "EmergencyNo": "08033158766",
             "Facebook": "",
             "Instagram": "",
             "Tiktok": "",
             "Twitter": "",
-            "im": "13",
-            "picturepath": "https://benjjamin22.github.io/filter/utilitie/nuasa/nuasa1/a8c32410-190d-4830-9b4b-bc725cc20417bb.jpg",
-            "id": "81c4a7d5-a8e1-4254-8c06-dd3ac2297e0e",
-            "YT": "13",
+            "picturepath": "https://benjjamin22.github.io/filter/utilitie/nuasa/nuasa1/05b1ccab-0949-4644-9070-27eeb6e1ab18.jpg",
+            "iu": "05b1ccab-0949-4644-9070-27eeb6e1ab18.jpg",
+            "id": "6aa37568-a3a2-49ca-87a8-f8f210efdd7f",
+            "YT": "37",
             "__v": 0
         },
+
         {
             "_id": {
                 "$oid": "66871a720384559c62e1c9e0"
@@ -662,228 +856,6 @@
             "picturepath": "https://benjjamin22.github.io/filter/utilitie/nuasa/nuasa1/a00365d1-ab0f-401d-82ab-ff2d157d84e8.jpg",
             "id": "760f4219-66e2-4103-a36d-07138371d6c0",
             "YT": "16",
-            "__v": 0
-        },
-        {
-            "_id": {
-                "$oid": "6687203d0384559c62e1c9ec"
-            },
-            "Aname": {
-                "Name": "BLESSING",
-                "Mname": "CHISOM",
-                "Surname": "AMAKU "
-            },
-            "School": "NUASA IMSU",
-            "State": "IMO ",
-            "LocalGovt": "EHIME MBANO ",
-            "RegNo": "202330282476EF",
-            "Bloodgroup": "O+",
-            "Sex": "FEMALE ",
-            "Validity": "",
-            "PhoneNo": "08105666401",
-            "EmergencyNo": "08038232021",
-            "Facebook": "",
-            "Instagram": "",
-            "Tiktok": "",
-            "Twitter": "",
-            "im": "17",
-            "picturepath": "https://benjjamin22.github.io/filter/utilitie/nuasa/nuasa1/2625c84a-9ab4-4ced-87a0-48f1312513de.jpg",
-            "id": "21d24b7e-8978-433e-96f8-2a47f63dd027",
-            "YT": "17",
-            "__v": 0
-        },
-        {
-            "_id": {
-                "$oid": "6687a4f4445d049e3882f3fd"
-            },
-            "Aname": {
-                "Name": "EMMANUEL ",
-                "Mname": "CHIDINDU ",
-                "Surname": "SHEDRACK "
-            },
-            "School": "NUASA IMSU",
-            "State": "IMO STATE ",
-            "LocalGovt": "NGOR OKPALA, OBIKE UMUOFOR ",
-            "RegNo": "202330862137JF",
-            "Bloodgroup": "O+",
-            "Sex": "MALE",
-            "Validity": "",
-            "PhoneNo": "09028739436",
-            "EmergencyNo": "08065697584",
-            "Facebook": "",
-            "Instagram": "",
-            "Tiktok": "",
-            "Twitter": "",
-            "im": "19",
-            "picturepath": "https://benjjamin22.github.io/filter/utilitie/nuasa/nuasa1/58acdd85-fcf2-4ffd-83de-6c178d4b53f5.jpg",
-            "id": "7d7506fb-acc5-4c93-a321-3f487c72238f",
-            "YT": "19",
-            "__v": 0
-        },
-        {
-            "_id": {
-                "$oid": "6687a6e0445d049e3882f401"
-            },
-            "Aname": {
-                "Name": "CHINAKA",
-                "Mname": "UGONNA ",
-                "Surname": "MODESTUS "
-            },
-            "School": "NUASA IMSU",
-            "State": "IMO",
-            "LocalGovt": "NWANGELE",
-            "RegNo": "202330405273EF",
-            "Bloodgroup": "O+",
-            "Sex": "MALE ",
-            "Validity": "",
-            "PhoneNo": "08145512584",
-            "EmergencyNo": "07067600483",
-            "Facebook": "",
-            "Instagram": "",
-            "Tiktok": "",
-            "Twitter": "",
-            "im": "20",
-            "picturepath": "https://benjjamin22.github.io/filter/utilitie/nuasa/nuasa1/411f72c3-a92a-4650-bd5f-218ec7987de3.jpg",
-            "id": "a4969242-8d83-4a92-9847-679171a72418",
-            "YT": "20",
-            "__v": 0
-        },
-        {
-            "_id": {
-                "$oid": "6687a72e445d049e3882f405"
-            },
-            "Aname": {
-                "Name": "ESTHER ",
-                "Mname": "CHIZOBA ",
-                "Surname": "NWAOKU "
-            },
-            "School": "NUASA IMSU",
-            "State": "IMO",
-            "LocalGovt": "IHITTE UBOMA ",
-            "RegNo": "202330460057BA",
-            "Bloodgroup": "O+",
-            "Sex": "FEMALE ",
-            "Validity": "",
-            "PhoneNo": "09113053114",
-            "EmergencyNo": "08023707680",
-            "Facebook": "",
-            "Instagram": "",
-            "Tiktok": "",
-            "Twitter": "",
-            "im": "21",
-            "picturepath": "https://benjjamin22.github.io/filter/utilitie/nuasa/nuasa1/36fd266f-e035-4d80-bbb8-6bf01dd4c6f4.jpg",
-            "id": "b8cd13e9-f88b-4928-802d-d49196376261",
-            "YT": "21",
-            "__v": 0
-        }, {
-            "_id": {
-                "$oid": "66852db8ba7160004c4fa1ab"
-            },
-            "Aname": {
-                "Name": "",
-                "Mname": "",
-                "Surname": ""
-            },
-            "School": "NUASA IMSU",
-            "State": "IMO",
-            "LocalGovt": "",
-            "RegNo": "",
-            "Bloodgroup": "",
-            "Sex": "FEMALE",
-            "Validity": "",
-            "PhoneNo": "",
-            "EmergencyNo": "",
-            "Facebook": "",
-            "Instagram": "",
-            "Tiktok": "",
-            "Twitter": "",
-            "picturepath": "https://benjjamin22.github.io/filter/utilitie/nuasa/nuasa1/3677e693-c6ec-42ba-8556-dd75aea7a478.jpg",
-            "image": "61e8c041-3655-4449-957a-5bbaaff22b53",
-            "id": "e88190f4-ea0a-4b2b-8464-3c9640852d5f5",
-            "YT": "18",
-            "__v": 0
-        },
-        {
-            "_id": {
-                "$oid": "66852db8ba7160004c4fa1ab"
-            },
-            "Aname": {
-                "Name": "STEPHEN",
-                "Mname": "CHIDIEBUBE",
-                "Surname": "DANIEL"
-            },
-            "School": "NUASA IMSU",
-            "State": "IMO",
-            "LocalGovt": "OBOWO",
-            "RegNo": "202331219434IF",
-            "Bloodgroup": "O+",
-            "Sex": "MALE",
-            "Validity": "2028",
-            "PhoneNo": "08168785108",
-            "EmergencyNo": "08035065925",
-            "Facebook": "",
-            "Instagram": "",
-            "Tiktok": "",
-            "Twitter": "",
-            "picturepath": "https://benjjamin22.github.io/filter/utilitie/nuasa/nuasa1/47a71b47-eb01-4e26-95a3-12a2f43d89fb.jpg",
-            "image": "61e8c041-3655-4449-957a-5bbaaff22b53",
-            "id": "e88190f4-ea0a-4b2b-8464-3c9640852d5f6",
-            "YT": "18",
-            "__v": 0
-        }, {
-            "_id": {
-                "$oid": "66852db8ba7160004c4fa1ab"
-            },
-            "Aname": {
-                "Name": "",
-                "Mname": "",
-                "Surname": ""
-            },
-            "School": "NUASA IMSU",
-            "State": "IMO",
-            "LocalGovt": "",
-            "RegNo": "",
-            "Bloodgroup": "",
-            "Sex": "FEMALE",
-            "Validity": "2028",
-            "PhoneNo": "",
-            "EmergencyNo": "",
-            "Facebook": "",
-            "Instagram": "",
-            "Tiktok": "",
-            "Twitter": "",
-            "picturepath": "https://benjjamin22.github.io/filter/utilitie/nuasa/nuasa1/081954a0-9122-4892-9118-34df1331c255.jpg",
-            "image": "61e8c041-3655-4449-957a-5bbaaff22b53",
-            "id": "e88190f4-ea0a-4b2b-8464-3c9640852d5f7",
-            "YT": "18",
-            "__v": 0
-        },
-        {
-            "_id": {
-                "$oid": "66852db8ba7160004c4fa1ab"
-            },
-            "Aname": {
-                "Name": "",
-                "Mname": "",
-                "Surname": ""
-            },
-            "School": "NUASA IMSU",
-            "State": "",
-            "LocalGovt": "",
-            "RegNo": "",
-            "Bloodgroup": "",
-            "Sex": "FEMALE",
-            "Validity": "",
-            "PhoneNo": "",
-            "EmergencyNo": "",
-            "Facebook": "",
-            "Instagram": "",
-            "Tiktok": "",
-            "Twitter": "",
-            "picturepath": "https://benjjamin22.github.io/filter/utilitie/nuasa/nuasa1/b5c1bbd0-d35a-4c2c-a06f-dd9c78405430.jpg",
-            "image": "b5c1bbd0-d35a-4c2c-a06f-dd9c78405430",
-            "id": "e88190f4-ea0a-4b2b-8464-3c9640852d5f5oyVT",
-            "YT": "18",
             "__v": 0
         },
         {
@@ -1301,6 +1273,32 @@
         },
         {
             "_id": {
+                "$oid": "6682f56e2a4fd47c26f47a1f"
+            },
+            "Aname": {
+                "Name": "DANIEL ",
+                "Mname": "CHIBUZOR ",
+                "Surname": "OMERENNA "
+            },
+            "School": "IMO STATE UNIVERSITY",
+            "Faculty": "100 LEVEL",
+            "Dept": "08/03/2007",
+            "State": "IMO",
+            "LocalGovt": "UMUHU-OTULU",
+            "RegNo": "",
+            "Bloodgroup": "O+",
+            "Sex": "MALE",
+            "Validity": "2023/2024",
+            "PhoneNo": "08135354143",
+            "EmergencyNo": "09069558073",
+            "picturepath": "https://benjjamin22.github.io/filter/utilitie/nuasa/nuasa1/9be997e0-a754-4056-819e-17314cacef77.jpg",
+            "image": "9be997e0-a754-4056-819e-17314cacef77",
+            "id": "63ebb099-84bb-45af-b194-f7432bc17719",
+            "YT": "7",
+            "__v": 0
+        },
+        {
+            "_id": {
                 "$oid": "6688363ce3f029293341085e"
             },
             "Aname": {
@@ -1435,29 +1433,32 @@
         },
         {
             "_id": {
-                "$oid": "6682f56e2a4fd47c26f47a1f"
+                "$oid": "66886f4ae3f029293341088a"
             },
             "Aname": {
-                "Name": "DANIEL ",
-                "Mname": "CHIBUZOR ",
-                "Surname": "OMERENNA "
+                "Name": "IROANYA ",
+                "Mname": "HENRY",
+                "Surname": "CHIBUIKE "
             },
-            "School": "IMO STATE UNIVERSITY",
-            "Faculty": "100 LEVEL",
-            "Dept": "08/03/2007",
+            "School": "NUASA IMSU",
             "State": "IMO",
-            "LocalGovt": "UMUHU-OTULU",
+            "LocalGovt": "OGUTA",
             "RegNo": "",
-            "Bloodgroup": "O+",
-            "Sex": "MALE",
-            "Validity": "2023/2024",
-            "PhoneNo": "08135354143",
-            "EmergencyNo": "09069558073",
-            "picturepath": "https://benjjamin22.github.io/filter/utilitie/nuasa/nuasa1/9be997e0-a754-4056-819e-17314cacef77.jpg",
-            "image": "9be997e0-a754-4056-819e-17314cacef77",
-            "id": "63ebb099-84bb-45af-b194-f7432bc17719",
-            "YT": "7",
+            "Bloodgroup": "",
+            "Sex": "MALE ",
+            "Validity": "",
+            "PhoneNo": "08058002378",
+            "EmergencyNo": "",
+            "Facebook": "",
+            "Instagram": "",
+            "Tiktok": "",
+            "Twitter": "",
+            "picturepath": "https://benjjamin22.github.io/filter/utilitie/nuasa/nuasa1/8e3f61d4-77ea-470f-ad64-bce70e626518.jpg",
+            "iu": "8e3f61d4-77ea-470f-ad64-bce70e626518.jpg",
+            "id": "257b9f86-91f4-41cf-af36-2c3dcc014d95",
+            "id1": "46",
             "__v": 0
         }
+
     ]
 }
