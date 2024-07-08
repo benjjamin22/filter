@@ -1,6 +1,33 @@
 {
     "nuasa": [{
             "_id": {
+                "$oid": "668a29a25fd89695d605ee36"
+            },
+            "Aname": {
+                "Name": "DIVINEGRACE ",
+                "Mname": "ONYINYECHI ",
+                "Surname": "CHIKEZIE "
+            },
+            "School": "NUASA IMSU",
+            "State": "IMO STATE ",
+            "LocalGovt": "ABOH MBAISE ",
+            "RegNo": "202331111008FA",
+            "Bloodgroup": "AS",
+            "Sex": "FEMALE ",
+            "Validity": "",
+            "PhoneNo": "08100879540",
+            "EmergencyNo": "08064718260",
+            "Facebook": "Chikezie Divinegrace Onyinyechi ",
+            "Instagram": "Queendidi ",
+            "Tiktok": "Queendidi 081",
+            "Twitter": "",
+            "picturepath": "https://benjjamin22.github.io/filter/utilitie/nuasa/nuasa1/ab359cf8-f6b7-4e2d-86ab-b1d5e0afe109.jpg",
+            "iu": "ab359cf8-f6b7-4e2d-86ab-b1d5e0afe109.jpg",
+            "id": "fb1610cd-21ed-4d17-86f4-5678897e9da3",
+            "yt": "58",
+            "__v": 0
+        }, {
+            "_id": {
                 "$oid": "6689fe7297845cc99a2ef756"
             },
             "Aname": {
@@ -1053,34 +1080,6 @@
             "image": "65d4909b-674a-4998-aef2-47985c088a02",
             "id": "e88190f4-ea0yua-4b2ob-8464-iu3c964085t52d5f98oi5VT",
             "YT": "18",
-            "__v": 0
-        },
-        {
-            "_id": {
-                "$oid": "668a29a25fd89695d605ee36"
-            },
-            "Aname": {
-                "Name": "DIVINEGRACE ",
-                "Mname": "ONYINYECHI ",
-                "Surname": "CHIKEZIE "
-            },
-            "School": "NUASA IMSU",
-            "State": "IMO STATE ",
-            "LocalGovt": "ABOH MBAISE ",
-            "RegNo": "202331111008FA",
-            "Bloodgroup": "AS",
-            "Sex": "FEMALE ",
-            "Validity": "",
-            "PhoneNo": "08100879540",
-            "EmergencyNo": "08064718260",
-            "Facebook": "Chikezie Divinegrace Onyinyechi ",
-            "Instagram": "Queendidi ",
-            "Tiktok": "Queendidi 081",
-            "Twitter": "",
-            "picturepath": "https://benjjamin22.github.io/filter/utilitie/nuasa/nuasa1/ab359cf8-f6b7-4e2d-86ab-b1d5e0afe109.jpg",
-            "iu": "ab359cf8-f6b7-4e2d-86ab-b1d5e0afe109.jpg",
-            "id": "fb1610cd-21ed-4d17-86f4-5678897e9da3",
-            "yt": "58",
             "__v": 0
         },
         {
