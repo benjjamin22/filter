@@ -79,6 +79,58 @@
         },
         {
             "_id": {
+                "$oid": "668d140a90354be898866081"
+            },
+            "Aname": {
+                "Name": "OGOCHUKWU ",
+                "Mname": "MARYFAVOUR ",
+                "Surname": "OKAFOR"
+            },
+            "School": "NUASA IMSU",
+            "State": "IMO",
+            "LocalGovt": "ORU WEST",
+            "RegNo": "202330768625GF",
+            "Bloodgroup": "AA",
+            "Sex": "FEMALE ",
+            "Validity": "",
+            "Facebook": "",
+            "Instagram": "",
+            "Tiktok": "",
+            "Twitter": "",
+            "picturepath": "https://benjjamin22.github.io/filter/utilitie/nuasa/nuasa1/aa393fbd-8978-46bf-b352-11a8c6770a97.jpg",
+            "iu": "aa393fbd-8978-46bf-b352-11a8c6770a97.jpg",
+            "id": "57f6205d-1948-4e18-b5ec-5d2337c32bb9",
+            "yt": "5",
+            "__v": 0
+        }, {
+            "_id": {
+                "$oid": "668d3596118935d2eda6af71"
+            },
+            "Aname": {
+                "Name": "JENNIFER ",
+                "Mname": "OGECHI ",
+                "Surname": "ANYANWU "
+            },
+            "School": "NUASA IMSU",
+            "State": "IMO",
+            "LocalGovt": "ORLU",
+            "RegNo": "202330146475EA",
+            "Bloodgroup": "O+",
+            "Sex": "FEMALE ",
+            "Validity": "",
+            "Facebook": "Kelly kresh ",
+            "Instagram": "",
+            "Tiktok": "",
+            "Twitter": "",
+            "picturepath": "https://benjjamin22.github.io/filter/utilitie/nuasa/nuasa1/ded312bf-7674-413e-8358-41b425d3978f.jpg",
+            "iu": "ded312bf-7674-413e-8358-41b425d3978f.jpg",
+            "id": "e0826abc-6b19-43cf-97ff-8f5b937b9ef9",
+            "yt": "6",
+            "__v": 0
+        },
+
+        {
+            "_id": {
                 "$oid": "668beb2b2ee302876d228f29"
             },
             "Aname": {
