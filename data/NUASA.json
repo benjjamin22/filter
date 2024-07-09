@@ -83,6 +83,33 @@
             "__v": 0
         }, {
             "_id": {
+                "$oid": "668beb2b2ee302876d228f29"
+            },
+            "Aname": {
+                "Name": "ANNA",
+                "Mname": "KELECHI ",
+                "Surname": "NWOKO"
+            },
+            "School": "NUASA IMSU",
+            "State": "IMO",
+            "LocalGovt": "OKIGWE ",
+            "RegNo": "202330880254EF",
+            "Bloodgroup": "A+",
+            "Sex": "FEMALE ",
+            "Validity": "",
+            "PhoneNo": "07047322442",
+            "EmergencyNo": "07047322442",
+            "Facebook": "Alex purple ",
+            "Instagram": "Alexanderqueen72",
+            "Tiktok": "Purplegrly ",
+            "Twitter": "None",
+            "picturepath": "https://benjjamin22.github.io/filter/utilitie/nuasa/nuasa1/d3e8b3ac-626e-4908-a101-7809aae8b791.jpg",
+            "iu": "d3e8b3ac-626e-4908-a101-7809aae8b791.jpg",
+            "id": "76ffb28b-5078-4483-8cdd-a03dfc0fe401",
+            "yt": "3",
+            "__v": 0
+        }, {
+            "_id": {
                 "$oid": "668b111ac99168a0d708f5c5"
             },
             "Aname": {
