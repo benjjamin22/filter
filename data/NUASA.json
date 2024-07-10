@@ -939,32 +939,6 @@
         },
         {
             "_id": {
-                "$oid": "66871d010384559c62e1c9e4"
-            },
-            "Aname": {
-                "Name": "EBUBE ",
-                "Mname": "PRECIOUS ",
-                "Surname": "IGWE "
-            },
-            "School": "NUASA IMSU",
-            "State": "IMO STATE ",
-            "LocalGovt": "ORLU ",
-            "RegNo": "IMSU/2023/5314",
-            "Bloodgroup": "O+",
-            "Sex": "FEMALE ",
-            "Validity": "",
-            "Facebook": "",
-            "Instagram": "",
-            "Tiktok": "",
-            "Twitter": "",
-            "im": "15",
-            "picturepath": "https://benjjamin22.github.io/filter/utilitie/nuasa/nuasa1/10a4d7b1-921b-44f5-8152-4e0471994a1c.jpg",
-            "id": "df21c479-79dc-44cf-8a46-383d00c38a05",
-            "YT": "15",
-            "__v": 0
-        },
-        {
-            "_id": {
                 "$oid": "66871f510384559c62e1c9e8"
             },
             "Aname": {
