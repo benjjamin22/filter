@@ -1196,30 +1196,6 @@
         },
         {
             "_id": {
-                "$oid": "6682d4d72a4fd47c26f47a0f"
-            },
-            "Aname": {
-                "Name": "EMMANUEL ",
-                "Mname": "CHIDINDU ",
-                "Surname": "SHEDRACK "
-            },
-            "School": "IMO STATE UNIVERSITY ",
-            "Faculty": "100LEVEL",
-            "Dept": "5TH OF JUNE, 2005",
-            "State": "IMO",
-            "LocalGovt": "NGOR OKPALA, OBIKE UMUOFOR ",
-            "RegNo": "",
-            "Bloodgroup": "O+",
-            "Sex": "MALE",
-            "Validity": "2023",
-            "picturepath": "https://benjjamin22.github.io/filter/utilitie/nuasa/nuasa1/0936160c-9b49-40f9-a4e9-7e221b429121.jpg",
-            "image": "0936160c-9b49-40f9-a4e9-7e221b429121",
-            "id": "413db6a9-9010-4930-83f2-85a18cab1159",
-            "YT": "3",
-            "__v": 0
-        },
-        {
-            "_id": {
                 "$oid": "6682d7ac2a4fd47c26f47a13"
             },
             "Aname": {
