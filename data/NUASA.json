@@ -1172,30 +1172,6 @@
         },
         {
             "_id": {
-                "$oid": "6684101260d237e394afebeb"
-            },
-            "Aname": {
-                "Name": "MODESTUS ",
-                "Mname": "UGONNA ",
-                "Surname": "CHINAKA "
-            },
-            "School": "IMO STATE UNIVERSITY ",
-            "Faculty": "100LEVEL",
-            "Dept": "8/6",
-            "State": "IMO",
-            "LocalGovt": "AMAIGBO UMUABALI ",
-            "RegNo": "",
-            "Bloodgroup": "O+",
-            "Sex": "MALE",
-            "Validity": "2003",
-            "picturepath": "https://benjjamin22.github.io/filter/utilitie/nuasa/nuasa1/09830d72-44c8-425a-b3a9-eae8b4fd5269.jpg",
-            "image": "09830d72-44c8-425a-b3a9-eae8b4fd5269",
-            "id": "49dc50e8-5576-45be-b795-1ced655f32be",
-            "YT": "16",
-            "__v": 0
-        },
-        {
-            "_id": {
                 "$oid": "66830e212a4fd47c26f47a2b"
             },
             "Aname": {
