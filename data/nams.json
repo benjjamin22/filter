@@ -1,6 +1,28 @@
 {
     "nuasa": [{
             "_id": {
+                "$oid": "668d8b76bd47beef144b3ac3"
+            },
+            "Name": "MIRACLE UJUNWA NLEDUMANYA",
+            "School": "NAMS IMSU",
+            "State": "IMO STATE ",
+            "LocalGovernment": "ORLU",
+            "RegNo": "202331259808JA",
+            "Status": "MEMBER",
+            "bloodgroup": "O",
+            "Sex": "FEMALE",
+            "Validity": "2023-2027",
+            "Facebook": "Sharoncmons ",
+            "Instagram": "Sharoncmons ",
+            "Tiktok": "Sharoncmons1 ",
+            "Twitter": "Sharoncmons ",
+            "Picturepath": "https://benjjamin22.github.io/filter/utilitie/nuasa/nuasa1/610bd7de-69a9-44ca-9a28-5ac6efc9c5f4.jpg",
+            "image": "610bd7de-69a9-44ca-9a28-5ac6efc9c5f4.jpg",
+            "id": "b48b6cdb-0eb6-4913-906b-f1326234c638",
+            "yt": "12",
+            "__v": 0
+        }, {
+            "_id": {
                 "$oid": "66855c351dc72bbe81ea940b"
             },
             "Name": "LILIAN CHIMEZIE IWU",
@@ -12,8 +34,6 @@
             "bloodgroup": "B",
             "Sex": "FEMALE",
             "Validity": "2029",
-            "PhoneNo": "09021748059",
-            "Phoneno2": "08038673368",
             "Facebook": "",
             "Instagram": "",
             "Tiktok": "",
@@ -36,8 +56,6 @@
             "bloodgroup": "O+",
             "Sex": "MALE",
             "Validity": "FACE VALIDITY ",
-            "PhoneNo": "09031604384",
-            "Phoneno2": "08032254077",
             "Facebook": "ITZ PELO",
             "Instagram": "",
             "Tiktok": "@AKUSINACHI69",
@@ -59,9 +77,6 @@
             "RegNo": "202331339591IA",
             "bloodgroup": "0+",
             "Sex": "MALE ",
-            "Validity": "2028",
-            "PhoneNo": "08130275290",
-            "Phoneno2": "",
             "Facebook": "Khalifa Hood ",
             "Instagram": "Khalifa_Hood",
             "Tiktok": "",
@@ -85,8 +100,6 @@
             "bloodgroup": "AA+",
             "Sex": "FEMALE ",
             "Validity": "TRUE",
-            "PhoneNo": "09163406945",
-            "Phoneno2": "09033810677",
             "Facebook": "None",
             "Instagram": "None",
             "Tiktok": "None",

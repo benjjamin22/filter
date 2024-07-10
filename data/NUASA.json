@@ -1012,22 +1012,21 @@
             "id": "e88190f4-ea0a-4b2b-8464-3c964085t52d5foi5VT",
             "YT": "18",
             "__v": 0
-        },
-        {
+        }, {
             "_id": {
-                "$oid": "66852db8ba7160004c4fa1ab"
+                "$oid": "668d80529164c142a39002d1"
             },
             "Aname": {
-                "Name": "",
-                "Mname": "",
-                "Surname": ""
+                "Name": "IFUNAYACHI",
+                "Mname": "SUCCESS ",
+                "Surname": "CHUKWUDI "
             },
             "School": "NUASA IMSU",
-            "State": "",
-            "LocalGovt": "",
-            "RegNo": "",
-            "Bloodgroup": "",
-            "Sex": "FEMALE",
+            "State": "IMO STATE ",
+            "LocalGovt": "IMBAITOLI ",
+            "RegNo": "202330611008DA",
+            "Bloodgroup": "O+",
+            "Sex": "FEMALE ",
             "Validity": "",
             "Facebook": "",
             "Instagram": "",

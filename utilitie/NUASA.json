@@ -1509,6 +1509,34 @@
             "id": "e88190f4-ea0a-4b2b-8464-3c9640852d5f5VT",
             "YT": "18",
             "__v": 0
+        },
+        {
+            "_id": {
+                "$oid": "668d80529164c142a39002d1"
+            },
+            "Aname": {
+                "Name": "IFUNAYACHI",
+                "Mname": "SUCCESS ",
+                "Surname": "CHUKWUDI "
+            },
+            "School": "NUASA IMSU",
+            "State": "IMO STATE ",
+            "LocalGovt": "IMBAITOLI ",
+            "RegNo": "202330611008DA",
+            "Bloodgroup": "O+",
+            "Sex": "FEMALE ",
+            "Validity": "",
+            "PhoneNo": "07045203664",
+            "EmergencyNo": "08130304767",
+            "Facebook": "",
+            "Instagram": "",
+            "Tiktok": "",
+            "Twitter": "",
+            "picturepath": "https://benjjamin22.github.io/filter/utilitie/nuasa/nuasa1/00795091-d847-46b8-b4c4-07cd20017224.jpg",
+            "image": "00795091-d847-46b8-b4c4-07cd20017224.jpg",
+            "id": "117fbc30-956f-41f9-829a-4f624a61abda",
+            "yt": "11",
+            "__v": 0
         }
 
 
