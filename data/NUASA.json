@@ -1196,30 +1196,6 @@
         },
         {
             "_id": {
-                "$oid": "6682f56e2a4fd47c26f47a1f"
-            },
-            "Aname": {
-                "Name": "DANIEL ",
-                "Mname": "CHIBUZOR ",
-                "Surname": "OMERENNA "
-            },
-            "School": "IMO STATE UNIVERSITY",
-            "Faculty": "100 LEVEL",
-            "Dept": "08/03/2007",
-            "State": "IMO",
-            "LocalGovt": "UMUHU-OTULU",
-            "RegNo": "",
-            "Bloodgroup": "O+",
-            "Sex": "MALE",
-            "Validity": "2023/2024",
-            "picturepath": "https://benjjamin22.github.io/filter/utilitie/nuasa/nuasa1/9be997e0-a754-4056-819e-17314cacef77.jpg",
-            "image": "9be997e0-a754-4056-819e-17314cacef77",
-            "id": "63ebb099-84bb-45af-b194-f7432bc17719",
-            "YT": "7",
-            "__v": 0
-        },
-        {
-            "_id": {
                 "$oid": "6682d4d72a4fd47c26f47a0f"
             },
             "Aname": {
