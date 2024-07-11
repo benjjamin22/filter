@@ -1040,7 +1040,7 @@
             "id": "e88190f4-ea0a-4b2b-8464-3c964085t52d5foi5VT",
             "YT": "18",
             "__v": 0
-        }, 
+        },
         {
             "_id": {
                 "$oid": "66852db8ba7160004c4fa1ab"
@@ -1221,26 +1221,29 @@
         },
         {
             "_id": {
-                "$oid": "6682d9082a4fd47c26f47a1b"
+                "$oid": "668fdfff02ab9c5206cdd4b9"
             },
             "Aname": {
                 "Name": "AUGUSTINA",
                 "Mname": "CHINAEMEMMA",
                 "Surname": "UGOCHUKWU"
             },
-            "School": "IMO STATE UNIVERSITY",
-            "Faculty": "100 LEVEL",
-            "Dept": "02/8/2005",
-            "State": "IMO",
-            "LocalGovt": "UMUEBEE AMUZU",
-            "RegNo": "",
+            "School": "NUASA IMSU",
+            "State": "IMO STATE",
+            "LocalGovt": "ABOH MBAISE",
+            "RegNo": "202330724495DA",
             "Bloodgroup": "O+",
             "Sex": "FEMALE",
             "Validity": "2023",
+            "PhoneNo": "09065312726",
+            "EmergencyNo": "09153221685",
+            "Facebook": "Augustina ugochukwu",
+            "Instagram": "Nil",
+            "Tiktok": "nil",
+            "Twitter": "nil",
             "picturepath": "https://benjjamin22.github.io/filter/utilitie/nuasa/nuasa1/38969162-da94-44b7-ade2-141171e6155c.jpg",
-            "image": "38969162-da94-44b7-ade2-141171e6155c",
-            "id": "7b8b65d6-d27d-404e-a44f-6db5bfe6a751",
-            "YT": "6",
+            "id": "51f7e888-d60c-4a0c-90f7-46beed26e7c1",
+            "yt": "25",
             "__v": 0
         },
         {
