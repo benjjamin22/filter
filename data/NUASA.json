@@ -1,6 +1,30 @@
 {
     "nuasa": [{
             "_id": {
+                "$oid": "66922a8dfe550e0e2ff36e32"
+            },
+            "Aname": {
+                "Name": "UGONNA ",
+                "Mname": "WILSON ",
+                "Surname": "UKAEGBU "
+            },
+            "School": "NUASA IMSU",
+            "State": "IMO ",
+            "LocalGovt": "OBOWO",
+            "RegNo": "202330553616JA",
+            "Bloodgroup": "AB",
+            "Sex": "MALE",
+            "Validity": "",
+            "Facebook": "Yes",
+            "Instagram": "No",
+            "Tiktok": "Yes",
+            "Twitter": "No",
+            "picturepath": "https://benjjamin22.github.io/filter/utilitie/nuasa/nuasa1/efcd4235-7ad3-4242-a5b7-e1987e417b5f.jpg",
+            "id": "5d05b13d-7f18-4fde-9592-694be6cf42f2",
+            "yt": "50",
+            "__v": 0
+        }, {
+            "_id": {
                 "$oid": "66852db8ba7160004c4fa1ab"
             },
             "Aname": {
@@ -155,6 +179,31 @@
             "iu": "f3aa2d61-47f6-42f1-81b2-cc6ca65f0bfa",
             "id": "b1cb6c95-d7b8-416f-a636-fdc5ca54d940",
             "yt": "13",
+            "__v": 0
+        },
+        {
+            "_id": {
+                "$oid": "66922a75fe550e0e2ff36e2f"
+            },
+            "Aname": {
+                "Name": "INNOCENT ",
+                "Mname": "ODOBRIUWA ",
+                "Surname": "NWANYA "
+            },
+            "School": "NUASA IMSU",
+            "State": "IMO",
+            "LocalGovt": "AHIAZU-MBAISE",
+            "RegNo": "202330415898CF",
+            "Bloodgroup": "A+",
+            "Sex": "MALE",
+            "Validity": "",
+            "Facebook": "",
+            "Instagram": "",
+            "Tiktok": "",
+            "Twitter": "",
+            "picturepath": "https://benjjamin22.github.io/filter/utilitie/nuasa/nuasa1/5c1d8b2f-8420-419d-bc96-c396c1a82bf6.jpg",
+            "id": "4dc053eb-9c1f-4d62-97e4-3180c562b280",
+            "yt": "49",
             "__v": 0
         },
         {
@@ -1063,6 +1112,33 @@
             "picturepath": "https://benjjamin22.github.io/filter/utilitie/nuasa/nuasa1/38969162-da94-44b7-ade2-141171e6155c.jpg",
             "id": "51f7e888-d60c-4a0c-90f7-46beed26e7c1",
             "yt": "25",
+            "__v": 0
+        },
+        {
+            "_id": {
+                "$oid": "66922889fe550e0e2ff36e26"
+            },
+            "Aname": {
+                "Name": "ANYANWU",
+                "Mname": "AMARACHI ",
+                "Surname": "ANASTASIA"
+            },
+            "School": "NUASA IMSU",
+            "State": "IMO ",
+            "LocalGovt": "IKEDURU",
+            "RegNo": "202331123904HF",
+            "Bloodgroup": "O+",
+            "Sex": "FEMALE",
+            "Validity": "",
+            "PhoneNo": "08126340928",
+            "EmergencyNo": "08060999339",
+            "Facebook": "",
+            "Instagram": "",
+            "Tiktok": "",
+            "Twitter": "",
+            "picturepath": "https://benjjamin22.github.io/filter/utilitie/nuasa/nuasa1/148cac87-c379-450c-80f9-cc424cb24701.jpg",
+            "id": "450cb3b8-bb0c-4808-b7d9-9efccc0513a3",
+            "yt": "46",
             "__v": 0
         },
         {
