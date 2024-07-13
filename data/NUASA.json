@@ -1,6 +1,34 @@
 {
     "nuasa": [{
             "_id": {
+                "$oid": "6691242680029996b37b1a25"
+            },
+            "Aname": {
+                "Name": "CHIDERA",
+                "Mname": "SUCCESS",
+                "Surname": "MOSES"
+            },
+            "School": "NUASA IMSU",
+            "State": "IMO",
+            "LocalGovt": "MBAITOLI ",
+            "RegNo": "202330178443IF",
+            "Bloodgroup": "O+",
+            "Sex": "FEMALE",
+            "Validity": "",
+            "PhoneNo": "09038074756",
+            "EmergencyNo": "08146845343",
+            "Facebook": "",
+            "Instagram": "",
+            "Tiktok": "",
+            "Twitter": "",
+            "picturepath": "https://benjjamin22.github.io/filter/utilitie/nuasa/nuasa1/1ea8c942-4ce0-4269-b49d-1d891b0f3baepo.jpg",
+            "image": "1ea8c942-4ce0-4269-b49d-1d891b0f3baepo.jpg",
+            "id": "1ea8c942-4ce0-4269-b49d-1d891b0f3bae",
+            "yt": "29",
+            "__v": 0
+        },
+        {
+            "_id": {
                 "$oid": "66852db8ba7160004c4fa1ab"
             },
             "Aname": {
@@ -1011,6 +1039,34 @@
             "picturepath": "https://benjjamin22.github.io/filter/utilitie/nuasa/nuasa1/38969162-da94-44b7-ade2-141171e6155c.jpg",
             "id": "51f7e888-d60c-4a0c-90f7-46beed26e7c1",
             "yt": "25",
+            "__v": 0
+        },
+        {
+            "_id": {
+                "$oid": "66913272861c1aaf7d768056"
+            },
+            "Aname": {
+                "Name": "COLLINS",
+                "Mname": "WISDOM ",
+                "Surname": "IBEKWE"
+            },
+            "School": "NUASA IMSU",
+            "State": "IMO ",
+            "LocalGovt": "NWANGELE",
+            "RegNo": "202330908080JA",
+            "Bloodgroup": "O+",
+            "Sex": "MALE ",
+            "Validity": "",
+            "PhoneNo": "09154169850",
+            "EmergencyNo": "08034225135",
+            "Facebook": "",
+            "Instagram": "",
+            "Tiktok": "",
+            "Twitter": "",
+            "picturepath": "https://benjjamin22.github.io/filter/utilitie/nuasa/nuasa1/2eede889-ac63-41ac-9d0c-34ab25af0b5firev.jpg",
+            "image": "2eede889-ac63-41ac-9d0c-34ab25af0b5firev.jpg",
+            "id": "2eede889-ac63-41ac-9d0c-34ab25af0b5f",
+            "yt": "33",
             "__v": 0
         },
         {
