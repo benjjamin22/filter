@@ -520,6 +520,33 @@
         },
         {
             "_id": {
+                "$oid": "66923b091ed6bf3f44d478d8"
+            },
+            "Aname": {
+                "Name": "EKENE",
+                "Mname": "RAPHAEL ",
+                "Surname": "ELU"
+            },
+            "School": "NUASA IMSU",
+            "State": "IMO",
+            "LocalGovt": "OHAJI/EGBEMA",
+            "RegNo": "202331082203FF",
+            "Bloodgroup": "",
+            "Sex": "M",
+            "Validity": "",
+            "PhoneNo": "09065176530",
+            "EmergencyNo": "0703 238 3036 ",
+            "Facebook": "",
+            "Instagram": "",
+            "Tiktok": "",
+            "Twitter": "",
+            "picturepath": "https://benjjamin22.github.io/filter/utilitie/nuasa/nuasa1/3c63f8b4-dc89-4b01-9cce-c6ebd4d35a62.jpg",
+            "id": "486f48b1-1a0e-4073-a38a-50ca6aedd6d7",
+            "yt": "53",
+            "__v": 0
+        },
+        {
+            "_id": {
                 "$oid": "6687e4aa445d049e3882f419"
             },
             "Aname": {
@@ -906,6 +933,31 @@
             "image": "27bc5ce8-53d4-4682-aa50-2fea91836478",
             "id": "7490d9d4-1cd5-434f-a1e8-5c196085cef2",
             "yt": "56",
+            "__v": 0
+        },
+        {
+            "_id": {
+                "$oid": "66923aaa1ed6bf3f44d478d5"
+            },
+            "Aname": {
+                "Name": "FAVOUR",
+                "Mname": "CHIAMAKA ",
+                "Surname": "FELIX "
+            },
+            "School": "NAMS IMSU",
+            "State": "IMO",
+            "LocalGovt": "NGOR OKPALA",
+            "RegNo": "202330592556EF",
+            "Bloodgroup": "AB",
+            "Sex": "FEMALE ",
+            "Validity": "2023-2027",
+            "Facebook": "",
+            "Instagram": "Bubble_fave8",
+            "Tiktok": "Bubble_fave",
+            "Twitter": "",
+            "picturepath": "https://benjjamin22.github.io/filter/utilitie/nuasa/nuasa1/735a69b2-eb91-4304-8bf2-1e4950bdf8f3.jpg",
+            "id": "74c783e1-264a-477e-8bc2-37c20a9fcf05",
+            "yt": "52",
             "__v": 0
         },
         {
