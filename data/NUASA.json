@@ -1065,6 +1065,159 @@
             "yt": "33",
             "__v": 0
         },
+
+        {
+            "_id": {
+                "$oid": "66830e212a4fd47c26f47a2b"
+            },
+            "Aname": {
+                "Name": "PEACE",
+                "Mname": "AMARACHUKWU ",
+                "Surname": "CHUKWUEMEKA "
+            },
+            "School": "IMO STATE UNIVERSITY ",
+            "Faculty": "100LEVEL",
+            "Dept": "OCTOBER 7 2004",
+            "State": "IMO",
+            "LocalGovt": "IKEDURU LGA ",
+            "RegNo": "",
+            "Bloodgroup": "A+",
+            "Sex": "FEMALE ",
+            "Validity": "2023",
+            "picturepath": "https://benjjamin22.github.io/filter/utilitie/nuasa/nuasa1/a830c72f-06df-4aef-94ac-ebbbbea9b7ab.jpg",
+            "image": "a830c72f-06df-4aef-94ac-ebbbbea9b7ab",
+            "id": "64cb314f-1273-40bd-befa-87c80a818119",
+            "YT": "10",
+            "__v": 0
+        },
+        {
+            "_id": {
+                "$oid": "6682d7ac2a4fd47c26f47a13"
+            },
+            "Aname": {
+                "Name": "CHIBUEZE ",
+                "Mname": "",
+                "Surname": "CHUKWULETA"
+            },
+            "School": "IMSU",
+            "Faculty": "100LEVEL",
+            "Dept": "JULY 6TH 2004",
+            "State": "IMO",
+            "LocalGovt": "AMAGWU ",
+            "RegNo": "-",
+            "Bloodgroup": "",
+            "Sex": "MALE",
+            "Validity": "2023",
+            "picturepath": "https://benjjamin22.github.io/filter/utilitie/nuasa/nuasa1/3532de42-ed9d-4760-8608-d5b1e2c1af77.jpg",
+            "image": "3532de42-ed9d-4760-8608-d5b1e2c1af77",
+            "id": "9e1fceab-01c2-4ea8-a4de-1017f41f2de4",
+            "YT": "4",
+            "__v": 0
+        },
+        {
+            "_id": {
+                "$oid": "668a29a25fd89695d605ee36"
+            },
+            "Aname": {
+                "Name": "DIVINEGRACE ",
+                "Mname": "ONYINYECHI ",
+                "Surname": "CHIKEZIE "
+            },
+            "School": "NUASA IMSU",
+            "State": "IMO STATE ",
+            "LocalGovt": "ABOH MBAISE ",
+            "RegNo": "202331111008FA",
+            "Bloodgroup": "AS",
+            "Sex": "FEMALE ",
+            "Validity": "",
+            "Facebook": "Chikezie Divinegrace Onyinyechi ",
+            "Instagram": "Queendidi ",
+            "Tiktok": "Queendidi 081",
+            "Twitter": "",
+            "picturepath": "https://benjjamin22.github.io/filter/utilitie/nuasa/nuasa1/ab359cf8-f6b7-4e2d-86ab-b1d5e0afe109.jpg",
+            "iu": "ab359cf8-f6b7-4e2d-86ab-b1d5e0afe109.jpg",
+            "id": "fb1610cd-21ed-4d17-86f4-5678897e9da3",
+            "yt": "58",
+            "__v": 0
+        },
+        {
+            "_id": {
+                "$oid": "668715300384559c62e1c9cc"
+            },
+            "Aname": {
+                "Name": "ARINZE",
+                "Mname": "DAVID ",
+                "Surname": "WILLIAMS "
+            },
+            "School": "NUASA IMSU",
+            "State": "ANAMBRA ",
+            "LocalGovt": "IHIALA ",
+            "RegNo": "20233009077BA",
+            "Bloodgroup": "AA",
+            "Sex": "MALE ",
+            "Validity": "",
+            "Facebook": "WILLIMANCO ",
+            "Instagram": "WILLIMANCO ",
+            "Tiktok": "WILLIMANCO1 ",
+            "Twitter": "WILLIMANCO ",
+            "im": "9",
+            "picturepath": "https://benjjamin22.github.io/filter/utilitie/nuasa/nuasa1/a848b659-59dd-4708-be8b-89f93b85de7d.jpg",
+            "id": "4c4b06dd-da5d-4af2-9e2d-3079de92cca9",
+            "YT": "9",
+            "__v": 0
+        },
+        {
+            "_id": {
+                "$oid": "66883f77e3f0292933410866"
+            },
+            "Aname": {
+                "Name": "PRECIOUS ",
+                "Mname": "VERA",
+                "Surname": "IDDI"
+            },
+            "School": "NUASA IMSU",
+            "State": "IMO",
+            "LocalGovt": "ORSU",
+            "RegNo": "202330109275DA",
+            "Bloodgroup": "O+",
+            "Sex": "FEMALE ",
+            "Validity": "",
+            "Facebook": "",
+            "Instagram": "",
+            "Tiktok": "",
+            "Twitter": "",
+            "picturepath": "https://benjjamin22.github.io/filter/utilitie/nuasa/nuasa1/05b1ccab-0949-4644-9070-27eeb6e1ab18.jpg",
+            "iu": "05b1ccab-0949-4644-9070-27eeb6e1ab18.jpg",
+            "id": "6aa37568-a3a2-49ca-87a8-f8f210efdd7f",
+            "YT": "37",
+            "__v": 0
+        },
+        {
+            "_id": {
+                "$oid": "66886f4ae3f029293341088a"
+            },
+            "Aname": {
+                "Name": "IROANYA ",
+                "Mname": "HENRY",
+                "Surname": "CHIBUIKE "
+            },
+            "School": "NUASA IMSU",
+            "State": "IMO",
+            "LocalGovt": "OGUTA",
+            "RegNo": "",
+            "Bloodgroup": "",
+            "Sex": "MALE ",
+            "Validity": "",
+            "Facebook": "",
+            "Instagram": "",
+            "Tiktok": "",
+            "Twitter": "",
+            "picturepath": "https://benjjamin22.github.io/filter/utilitie/nuasa/nuasa1/8e3f61d4-77ea-470f-ad64-bce70e626518.jpg",
+            "iu": "8e3f61d4-77ea-470f-ad64-bce70e626518.jpg",
+            "id": "257b9f86-91f4-41cf-af36-2c3dcc014d95",
+            "id1": "46",
+            "__v": 0
+        },
         {
             "_id": {
                 "$oid": "66852db8ba7160004c4fa1ab"
@@ -1245,158 +1398,6 @@
             "image": "5ec1f70a-c735-48ec-b882-2283026fa522",
             "id": "e88190f4-ea0a-4b2b-8464-3c9640852d5f5VTet",
             "YT": "18",
-            "__v": 0
-        },
-        {
-            "_id": {
-                "$oid": "66830e212a4fd47c26f47a2b"
-            },
-            "Aname": {
-                "Name": "PEACE",
-                "Mname": "AMARACHUKWU ",
-                "Surname": "CHUKWUEMEKA "
-            },
-            "School": "IMO STATE UNIVERSITY ",
-            "Faculty": "100LEVEL",
-            "Dept": "OCTOBER 7 2004",
-            "State": "IMO",
-            "LocalGovt": "IKEDURU LGA ",
-            "RegNo": "",
-            "Bloodgroup": "A+",
-            "Sex": "FEMALE ",
-            "Validity": "2023",
-            "picturepath": "https://benjjamin22.github.io/filter/utilitie/nuasa/nuasa1/a830c72f-06df-4aef-94ac-ebbbbea9b7ab.jpg",
-            "image": "a830c72f-06df-4aef-94ac-ebbbbea9b7ab",
-            "id": "64cb314f-1273-40bd-befa-87c80a818119",
-            "YT": "10",
-            "__v": 0
-        },
-        {
-            "_id": {
-                "$oid": "6682d7ac2a4fd47c26f47a13"
-            },
-            "Aname": {
-                "Name": "CHIBUEZE ",
-                "Mname": "",
-                "Surname": "CHUKWULETA"
-            },
-            "School": "IMSU",
-            "Faculty": "100LEVEL",
-            "Dept": "JULY 6TH 2004",
-            "State": "IMO",
-            "LocalGovt": "AMAGWU ",
-            "RegNo": "-",
-            "Bloodgroup": "",
-            "Sex": "MALE",
-            "Validity": "2023",
-            "picturepath": "https://benjjamin22.github.io/filter/utilitie/nuasa/nuasa1/3532de42-ed9d-4760-8608-d5b1e2c1af77.jpg",
-            "image": "3532de42-ed9d-4760-8608-d5b1e2c1af77",
-            "id": "9e1fceab-01c2-4ea8-a4de-1017f41f2de4",
-            "YT": "4",
-            "__v": 0
-        },
-        {
-            "_id": {
-                "$oid": "668a29a25fd89695d605ee36"
-            },
-            "Aname": {
-                "Name": "DIVINEGRACE ",
-                "Mname": "ONYINYECHI ",
-                "Surname": "CHIKEZIE "
-            },
-            "School": "NUASA IMSU",
-            "State": "IMO STATE ",
-            "LocalGovt": "ABOH MBAISE ",
-            "RegNo": "202331111008FA",
-            "Bloodgroup": "AS",
-            "Sex": "FEMALE ",
-            "Validity": "",
-            "Facebook": "Chikezie Divinegrace Onyinyechi ",
-            "Instagram": "Queendidi ",
-            "Tiktok": "Queendidi 081",
-            "Twitter": "",
-            "picturepath": "https://benjjamin22.github.io/filter/utilitie/nuasa/nuasa1/ab359cf8-f6b7-4e2d-86ab-b1d5e0afe109.jpg",
-            "iu": "ab359cf8-f6b7-4e2d-86ab-b1d5e0afe109.jpg",
-            "id": "fb1610cd-21ed-4d17-86f4-5678897e9da3",
-            "yt": "58",
-            "__v": 0
-        },
-        {
-            "_id": {
-                "$oid": "668715300384559c62e1c9cc"
-            },
-            "Aname": {
-                "Name": "ARINZE",
-                "Mname": "DAVID ",
-                "Surname": "WILLIAMS "
-            },
-            "School": "NUASA IMSU",
-            "State": "ANAMBRA ",
-            "LocalGovt": "IHIALA ",
-            "RegNo": "20233009077BA",
-            "Bloodgroup": "AA",
-            "Sex": "MALE ",
-            "Validity": "",
-            "Facebook": "WILLIMANCO ",
-            "Instagram": "WILLIMANCO ",
-            "Tiktok": "WILLIMANCO1 ",
-            "Twitter": "WILLIMANCO ",
-            "im": "9",
-            "picturepath": "https://benjjamin22.github.io/filter/utilitie/nuasa/nuasa1/a848b659-59dd-4708-be8b-89f93b85de7d.jpg",
-            "id": "4c4b06dd-da5d-4af2-9e2d-3079de92cca9",
-            "YT": "9",
-            "__v": 0
-        },
-        {
-            "_id": {
-                "$oid": "66883f77e3f0292933410866"
-            },
-            "Aname": {
-                "Name": "PRECIOUS ",
-                "Mname": "VERA",
-                "Surname": "IDDI"
-            },
-            "School": "NUASA IMSU",
-            "State": "IMO",
-            "LocalGovt": "ORSU",
-            "RegNo": "202330109275DA",
-            "Bloodgroup": "O+",
-            "Sex": "FEMALE ",
-            "Validity": "",
-            "Facebook": "",
-            "Instagram": "",
-            "Tiktok": "",
-            "Twitter": "",
-            "picturepath": "https://benjjamin22.github.io/filter/utilitie/nuasa/nuasa1/05b1ccab-0949-4644-9070-27eeb6e1ab18.jpg",
-            "iu": "05b1ccab-0949-4644-9070-27eeb6e1ab18.jpg",
-            "id": "6aa37568-a3a2-49ca-87a8-f8f210efdd7f",
-            "YT": "37",
-            "__v": 0
-        },
-        {
-            "_id": {
-                "$oid": "66886f4ae3f029293341088a"
-            },
-            "Aname": {
-                "Name": "IROANYA ",
-                "Mname": "HENRY",
-                "Surname": "CHIBUIKE "
-            },
-            "School": "NUASA IMSU",
-            "State": "IMO",
-            "LocalGovt": "OGUTA",
-            "RegNo": "",
-            "Bloodgroup": "",
-            "Sex": "MALE ",
-            "Validity": "",
-            "Facebook": "",
-            "Instagram": "",
-            "Tiktok": "",
-            "Twitter": "",
-            "picturepath": "https://benjjamin22.github.io/filter/utilitie/nuasa/nuasa1/8e3f61d4-77ea-470f-ad64-bce70e626518.jpg",
-            "iu": "8e3f61d4-77ea-470f-ad64-bce70e626518.jpg",
-            "id": "257b9f86-91f4-41cf-af36-2c3dcc014d95",
-            "id1": "46",
             "__v": 0
         },
         {
