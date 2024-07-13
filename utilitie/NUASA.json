@@ -1343,13 +1343,67 @@
             "Instagram": "",
             "Tiktok": "",
             "Twitter": "",
-            "picturepath": "https://benjjamin22.github.io/filter/utilitie/nuasa/nuasa1/1ea8c942-4ce0-4269-b49d-1d891b0f3baepo.JPG",
+            "picturepath": "https://benjjamin22.github.io/filter/utilitie/nuasa/nuasa1/1ea8c942-4ce0-4269-b49d-1d891b0f3baepo.jpg",
             "image": "1ea8c942-4ce0-4269-b49d-1d891b0f3baepo.jpg",
             "id": "1ea8c942-4ce0-4269-b49d-1d891b0f3bae",
             "yt": "29",
             "__v": 0
         },
-
+        {
+            "_id": {
+                "$oid": "6691a7b2137cd051cf82c71e"
+            },
+            "Aname": {
+                "Name": "MADU",
+                "Mname": "CHIDUBEM",
+                "Surname": "CHIDUBEM"
+            },
+            "School": "NUASA IMSU",
+            "State": "IMO",
+            "LocalGovt": "ISU LGA",
+            "RegNo": "2023301354253JF",
+            "Bloodgroup": "B+",
+            "Sex": "MALE",
+            "Validity": "",
+            "PhoneNo": "09067299121",
+            "EmergencyNo": "07031357827",
+            "Facebook": "",
+            "Instagram": "",
+            "Tiktok": "Madu chidubem",
+            "Twitter": "",
+            "picturepath": "https://benjjamin22.github.io/filter/utilitie/nuasa/nuasa1/fc3a7326-8d5c-47f6-ba79-13de4ab06b52.jpg",
+            "image": "fc3a7326-8d5c-47f6-ba79-13de4ab06b52.jpg",
+            "id": "86a9aa41-6eb7-40cd-b4bb-bc82009da35c",
+            "yt": "38",
+            "__v": 0
+        }, {
+            "_id": {
+                "$oid": "6691a642137cd051cf82c71a"
+            },
+            "Aname": {
+                "Name": "MIRACLE ",
+                "Mname": "OGECHI ",
+                "Surname": "EMEKA "
+            },
+            "School": "NUASA IMSU",
+            "State": "IMO ",
+            "LocalGovt": "IKEDURU ",
+            "RegNo": "202330948214GA",
+            "Bloodgroup": "O+",
+            "Sex": "FEMALE ",
+            "Validity": "",
+            "PhoneNo": "07049134699",
+            "EmergencyNo": "08139592406",
+            "Facebook": "",
+            "Instagram": "",
+            "Tiktok": "",
+            "Twitter": "",
+            "picturepath": "https://benjjamin22.github.io/filter/utilitie/nuasa/nuasa1/e96cca89-fdd5-40ed-8208-f50bb291cbe2.jpg",
+            "image": "e96cca89-fdd5-40ed-8208-f50bb291cbe2.jpg",
+            "id": "63adfbc2-5797-413b-b603-c8ee36c3eced",
+            "yt": "37",
+            "__v": 0
+        },
         {
             "_id": {
                 "$oid": "66913272861c1aaf7d768056"
@@ -1372,7 +1426,7 @@
             "Instagram": "",
             "Tiktok": "",
             "Twitter": "",
-            "picturepath": "https://benjjamin22.github.io/filter/utilitie/nuasa/nuasa1/2eede889-ac63-41ac-9d0c-34ab25af0b5firev.JPG",
+            "picturepath": "https://benjjamin22.github.io/filter/utilitie/nuasa/nuasa1/2eede889-ac63-41ac-9d0c-34ab25af0b5firev.jpg",
             "image": "2eede889-ac63-41ac-9d0c-34ab25af0b5firev.jpg",
             "id": "2eede889-ac63-41ac-9d0c-34ab25af0b5f",
             "yt": "33",

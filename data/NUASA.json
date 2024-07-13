@@ -1,32 +1,6 @@
 {
     "nuasa": [{
             "_id": {
-                "$oid": "6691242680029996b37b1a25"
-            },
-            "Aname": {
-                "Name": "CHIDERA",
-                "Mname": "SUCCESS",
-                "Surname": "MOSES"
-            },
-            "School": "NUASA IMSU",
-            "State": "IMO",
-            "LocalGovt": "MBAITOLI ",
-            "RegNo": "202330178443IF",
-            "Bloodgroup": "O+",
-            "Sex": "FEMALE",
-            "Validity": "",
-            "Facebook": "",
-            "Instagram": "",
-            "Tiktok": "",
-            "Twitter": "",
-            "picturepath": "https://benjjamin22.github.io/filter/utilitie/nuasa/nuasa1/1ea8c942-4ce0-4269-b49d-1d891b0f3baepo.jpg",
-            "image": "1ea8c942-4ce0-4269-b49d-1d891b0f3baepo.jpg",
-            "id": "1ea8c942-4ce0-4269-b49d-1d891b0f3bae",
-            "yt": "29",
-            "__v": 0
-        },
-        {
-            "_id": {
                 "$oid": "66852db8ba7160004c4fa1ab"
             },
             "Aname": {
@@ -101,6 +75,58 @@
             "image": "61e8c041-3655-4449-957a-5bbaaff22b53",
             "id": "e88190f4-ea0a-4b2b-8464-3c9640852d5f7",
             "YT": "18",
+            "__v": 0
+        },
+        {
+            "_id": {
+                "$oid": "6691242680029996b37b1a25"
+            },
+            "Aname": {
+                "Name": "CHIDERA",
+                "Mname": "SUCCESS",
+                "Surname": "MOSES"
+            },
+            "School": "NUASA IMSU",
+            "State": "IMO",
+            "LocalGovt": "MBAITOLI ",
+            "RegNo": "202330178443IF",
+            "Bloodgroup": "O+",
+            "Sex": "FEMALE",
+            "Validity": "",
+            "Facebook": "",
+            "Instagram": "",
+            "Tiktok": "",
+            "Twitter": "",
+            "picturepath": "https://benjjamin22.github.io/filter/utilitie/nuasa/nuasa1/1ea8c942-4ce0-4269-b49d-1d891b0f3baepo.jpg",
+            "image": "1ea8c942-4ce0-4269-b49d-1d891b0f3baepo.jpg",
+            "id": "1ea8c942-4ce0-4269-b49d-1d891b0f3bae",
+            "yt": "29",
+            "__v": 0
+        },
+        {
+            "_id": {
+                "$oid": "6691a642137cd051cf82c71a"
+            },
+            "Aname": {
+                "Name": "MIRACLE ",
+                "Mname": "OGECHI ",
+                "Surname": "EMEKA "
+            },
+            "School": "NUASA IMSU",
+            "State": "IMO ",
+            "LocalGovt": "IKEDURU ",
+            "RegNo": "202330948214GA",
+            "Bloodgroup": "O+",
+            "Sex": "FEMALE ",
+            "Validity": "",
+            "Facebook": "",
+            "Instagram": "",
+            "Tiktok": "",
+            "Twitter": "",
+            "picturepath": "https://benjjamin22.github.io/filter/utilitie/nuasa/nuasa1/e96cca89-fdd5-40ed-8208-f50bb291cbe2.jpg",
+            "image": "e96cca89-fdd5-40ed-8208-f50bb291cbe2.jpg",
+            "id": "63adfbc2-5797-413b-b603-c8ee36c3eced",
+            "yt": "37",
             "__v": 0
         },
         {
@@ -1424,6 +1450,31 @@
             "image": "9779ce9c-e205-4a23-acc3-7fc29528ea6a",
             "id": "e88190f4-ea0a-4b2b-8464-3c9640852d5f5VT",
             "YT": "18",
+            "__v": 0
+        }, {
+            "_id": {
+                "$oid": "6691a7b2137cd051cf82c71e"
+            },
+            "Aname": {
+                "Name": "MADU",
+                "Mname": "CHIDUBEM",
+                "Surname": "CHIDUBEM"
+            },
+            "School": "NUASA IMSU",
+            "State": "IMO",
+            "LocalGovt": "ISU LGA",
+            "RegNo": "2023301354253JF",
+            "Bloodgroup": "B+",
+            "Sex": "MALE",
+            "Validity": "",
+            "Facebook": "",
+            "Instagram": "",
+            "Tiktok": "Madu chidubem",
+            "Twitter": "",
+            "picturepath": "https://benjjamin22.github.io/filter/utilitie/nuasa/nuasa1/fc3a7326-8d5c-47f6-ba79-13de4ab06b52.jpg",
+            "image": "fc3a7326-8d5c-47f6-ba79-13de4ab06b52.jpg",
+            "id": "86a9aa41-6eb7-40cd-b4bb-bc82009da35c",
+            "yt": "38",
             "__v": 0
         }
     ]
