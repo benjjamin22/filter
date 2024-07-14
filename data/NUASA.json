@@ -415,30 +415,6 @@
               "__v": 0
           }, {
               "_id": {
-                  "$oid": "669248c277f048bff4c02819"
-              },
-              "Aname": {
-                  "Name": "MUNACHI",
-                  "Mname": "MICHELLE ",
-                  "Surname": "OKPE"
-              },
-              "School": "NUASA IMSU",
-              "State": "IMO STATE",
-              "LocalGovt": "OHAJI/EGBEMA",
-              "RegNo": "202330626577IF",
-              "Bloodgroup": "A+",
-              "Sex": "FEMALE ",
-              "Validity": "",
-              "Facebook": "",
-              "Instagram": "",
-              "Tiktok": "Symply_munaa",
-              "Twitter": "",
-              "picturepath": "https://benjjamin22.github.io/filter/utilitie/nuasa/nuasa1/49362c34-a021-47bf-b825-4fe19f993598.jpg",
-              "id": "7d50a487-6d9a-4499-9b17-8aae57f2375f",
-              "yt": "57",
-              "__v": 0
-          }, {
-              "_id": {
                   "$oid": "6687203d0384559c62e1c9ec"
               },
               "Aname": {
