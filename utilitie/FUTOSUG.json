@@ -13789,62 +13789,6 @@
             "id": "452",
             "__v": 0
         },
-
-        {
-            "_id": {
-                "$oid": "668d140a90354be898866081"
-            },
-            "Aname": {
-                "Name": "OGOCHUKWU ",
-                "Mname": "MARYFAVOUR ",
-                "Surname": "OKAFOR"
-            },
-            "School": "NUASA IMSU",
-            "State": "IMO",
-            "LocalGovt": "ORU WEST",
-            "RegNo": "202330768625GF",
-            "Bloodgroup": "AA",
-            "Sex": "FEMALE ",
-            "Validity": "",
-            "PhoneNo": "08026109726",
-            "EmergencyNo": "08037092171",
-            "Facebook": "",
-            "Instagram": "",
-            "Tiktok": "",
-            "Twitter": "",
-            "picturepath": "https://benjjamin22.github.io/filter/utilitie/nuasa/nuasa1/aa393fbd-8978-46bf-b352-11a8c6770a97.jpg",
-            "iu": "aa393fbd-8978-46bf-b352-11a8c6770a97.jpg",
-            "id": "57f6205d-1948-4e18-b5ec-5d2337c32bb9",
-            "yt": "5",
-            "__v": 0
-        }, {
-            "_id": {
-                "$oid": "668d3596118935d2eda6af71"
-            },
-            "Aname": {
-                "Name": "JENNIFER ",
-                "Mname": "OGECHI ",
-                "Surname": "ANYANWU "
-            },
-            "School": "NUASA IMSU",
-            "State": "IMO",
-            "LocalGovt": "ORLU",
-            "RegNo": "202330146475EA",
-            "Bloodgroup": "O+",
-            "Sex": "FEMALE ",
-            "Validity": "",
-            "PhoneNo": "07065690093",
-            "EmergencyNo": "09031403751",
-            "Facebook": "Kelly kresh ",
-            "Instagram": "",
-            "Tiktok": "",
-            "Twitter": "",
-            "picturepath": "https://benjjamin22.github.io/filter/utilitie/nuasa/nuasa1/ded312bf-7674-413e-8358-41b425d3978f.jpg",
-            "iu": "ded312bf-7674-413e-8358-41b425d3978f.jpg",
-            "id": "e0826abc-6b19-43cf-97ff-8f5b937b9ef9",
-            "yt": "6",
-            "__v": 0
-        },
         {
             "_id": {
                 "$oid": "66744dbd159439d4e8671ab8"
@@ -14191,35 +14135,6 @@
             "picturepath": "https://benjjamin22.github.io/filter/utilitie/nuasa/futop/464.jpg",
             "obj": "e039b4a9-6ec8-4477-8e77-19e35b8aac1f",
             "id": "464",
-            "__v": 0
-        },
-        {
-            "_id": {
-                "$oid": "66756d637899a530cdea6c67"
-            },
-            "Aname": {
-                "Name": "ANYANWU",
-                "Mname": "FAVOUR",
-                "Surname": "MMESOMA"
-            },
-            "School": "IMO STATE UNIVERSITY",
-            "Faculty": "BADMUS",
-            "Dept": "MICROBIOLOGY",
-            "State": "DELTA",
-            "LocalGovt": "",
-            "RegNo": "J24&#X2F;042",
-            "Bloodgroup": "O+",
-            "Sex": "FEMALE",
-            "Validity": "2022-2027",
-            "PhoneNo": "2024-2026",
-            "EmergencyNo": "03037722780",
-            "Facebook": "@VEENATE COMMUNICATION",
-            "Instagram": "@",
-            "Tiktok": "@",
-            "Twitter": "@",
-            "picturepath": "https://benjjamin22.github.io/filter/utilitie/nuasa/futop/465.jpg",
-            "obj": "d9579a74-6651-4a0e-ad52-9e794f0da7e2",
-            "id": "465",
             "__v": 0
         },
         {
