@@ -854,6 +854,30 @@
           },
           {
               "_id": {
+                  "$oid": "66959453bc5279066dc544a8"
+              },
+              "Aname": {
+                  "Name": "IFEDIORA",
+                  "Mname": "MADUABUCHUKWU",
+                  "Surname": "SOLOMON"
+              },
+              "School": "NUASA IMSU",
+              "State": "IMO",
+              "LocalGovt": "IDEATO SOUTH ",
+              "RegNo": "202330443760IA",
+              "Bloodgroup": "B+",
+              "Sex": "MALE",
+              "Validity": "",
+              "Facebook": "",
+              "Instagram": "",
+              "Tiktok": "",
+              "Twitter": "",
+              "picturepath": "https://benjjamin22.github.io/filter/utilitie/nuasa/nuasa1/d84a10a8-46c8-4cf5-84f1-388b2f0d6158.jpg",
+              "id": "a2478182-eb0e-4271-aad9-7f556c386575",
+              "__v": 0
+          },
+          {
+              "_id": {
                   "$oid": "6692e5580d2595119f328201"
               },
               "Aname": {
