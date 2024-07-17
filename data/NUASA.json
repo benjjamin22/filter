@@ -24,31 +24,26 @@
               "yt": "50",
               "__v": 0
           }, {
-              "_id": {
-                  "$oid": "66852db8ba7160004c4fa1ab"
-              },
-              "Aname": {
-                  "Name": "",
-                  "Mname": "",
-                  "Surname": ""
-              },
+              "_id": { "$oid": "669741dae570630837a7cd05" },
+              "Aname": { "Name": "OLUOMACHI ", "Mname": "GOLD ", "Surname": "LIVINUS " },
               "School": "NUASA IMSU",
-              "State": "IMO",
-              "LocalGovt": "",
-              "RegNo": "",
-              "Bloodgroup": "",
-              "Sex": "FEMALE",
-              "Validity": "2028",
+              "State": "IMO STATE ",
+              "LocalGovt": "OWERRI NORTH ",
+              "RegNo": "202330663655EA",
+              "Bloodgroup": "O+",
+              "Sex": "FEMALE ",
+              "Validity": "",
+              "PhoneNo": "08038943565",
+              "EmergencyNo": "08038943565",
               "Facebook": "",
               "Instagram": "",
               "Tiktok": "",
               "Twitter": "",
               "picturepath": "https://benjjamin22.github.io/filter/utilitie/nuasa/nuasa1/3677e693-c6ec-42ba-8556-dd75aea7a478.jpg",
-              "image": "61e8c041-3655-4449-957a-5bbaaff22b53",
               "id": "e88190f4-ea0a-4b2b-8464-3c9640852d5f5",
-              "YT": "18",
-              "__v": 0
+              "__v": { "$numberInt": "0" }
           },
+
           {
               "_id": {
                   "$oid": "66852db8ba7160004c4fa1ab"
@@ -1314,30 +1309,25 @@
               "yt": "33",
               "__v": 0
           },
-
           {
-              "_id": {
-                  "$oid": "66830e212a4fd47c26f47a2b"
-              },
-              "Aname": {
-                  "Name": "PEACE",
-                  "Mname": "AMARACHUKWU ",
-                  "Surname": "CHUKWUEMEKA "
-              },
-              "School": "IMO STATE UNIVERSITY ",
-              "Faculty": "100LEVEL",
-              "Dept": "OCTOBER 7 2004",
-              "State": "IMO",
+              "_id": { "$oid": "6696b517608ea499cec87a7a" },
+              "Aname": { "Name": "PEACE", "Mname": "AMARACHUKWU ", "Surname": "CHUKWUEMEKA " },
+              "School": "NUASA IMSU",
+              "State": "IMO STATE",
               "LocalGovt": "IKEDURU LGA ",
-              "RegNo": "",
-              "Bloodgroup": "A+",
+              "RegNo": "202330595176FF",
+              "Bloodgroup": "A+VE",
               "Sex": "FEMALE ",
-              "Validity": "2023",
+              "Validity": "",
+              "PhoneNo": "07041718594",
+              "EmergencyNo": "07035380886",
+              "Facebook": "",
+              "Instagram": "",
+              "Tiktok": "",
+              "Twitter": "",
               "picturepath": "https://benjjamin22.github.io/filter/utilitie/nuasa/nuasa1/a830c72f-06df-4aef-94ac-ebbbbea9b7ab.jpg",
-              "image": "a830c72f-06df-4aef-94ac-ebbbbea9b7ab",
               "id": "64cb314f-1273-40bd-befa-87c80a818119",
-              "YT": "10",
-              "__v": 0
+              "__v": { "$numberInt": "0" }
           },
           {
               "_id": {
@@ -1725,4 +1715,5 @@
               "__v": 0
           }
       ]
+  }
   }
