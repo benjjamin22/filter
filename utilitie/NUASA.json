@@ -26,6 +26,26 @@
             "__v": 0
         },
         {
+            "_id": { "$oid": "669741dae570630837a7cd05" },
+            "Aname": { "Name": "OLUOMACHI ", "Mname": "GOLD ", "Surname": "LIVINUS " },
+            "School": "NUASA IMSU",
+            "State": "IMO STATE ",
+            "LocalGovt": "OWERRI NORTH ",
+            "RegNo": "202330663655EA",
+            "Bloodgroup": "O+",
+            "Sex": "FEMALE ",
+            "Validity": "2028",
+            "PhoneNo": "08038943565",
+            "EmergencyNo": "08038943565",
+            "Facebook": "",
+            "Instagram": "",
+            "Tiktok": "",
+            "Twitter": "",
+            "picturepath": "https://benjjamin22.github.io/filter/utilitie/nuasa/nuasa1/3677e693-c6ec-42ba-8556-dd75aea7a478.jpg",
+            "id": "e88190f4-ea0a-4b2b-8464-3c9640852d5f5",
+            "__v": { "$numberInt": "0" }
+        },
+        {
             "_id": {
                 "$oid": "6696508a9bb0a4ca26c3498b"
             },
