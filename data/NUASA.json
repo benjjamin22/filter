@@ -1469,6 +1469,30 @@
           },
           {
               "_id": {
+                  "$oid": "6696508a9bb0a4ca26c3498b"
+              },
+              "Aname": {
+                  "Name": "EMMANUEL ",
+                  "Mname": "IKEDICHUKWU ",
+                  "Surname": "NJOKU "
+              },
+              "School": "NUASA IMSU",
+              "State": "IMO",
+              "LocalGovt": "NGOR OKPALA EZIALA",
+              "RegNo": "202330301746CF",
+              "Bloodgroup": "O+",
+              "Sex": "MALE",
+              "Validity": "2028",
+              "Facebook": "Emmanuel Chinedum",
+              "Instagram": "_Undiscovered_Manuel ",
+              "Tiktok": "@heisemmanuel2000",
+              "Twitter": "@savage_rambo06",
+              "picturepath": "https://benjjamin22.github.io/filter/utilitie/nuasa/nuasa1/671a8fbc-f72d-4b99-98fe-5f43cf579990.jpg",
+              "id": "33041111-e96d-456c-926e-45b7ae6e3452",
+              "__v": 0
+          },
+          {
+              "_id": {
                   "$oid": "66852db8ba7160004c4fa1ab"
               },
               "Aname": {

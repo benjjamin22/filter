@@ -24,6 +24,32 @@
             "picturepath": "https://benjjamin22.github.io/filter/utilitie/nuasa/nuasa1/f25c236b-8641-4b95-86ab-9eca0280bb7c.jpg",
             "id": "6036e426-5982-4e8e-a0af-6e9427b5a198",
             "__v": 0
+        },
+        {
+            "_id": {
+                "$oid": "6696508a9bb0a4ca26c3498b"
+            },
+            "Aname": {
+                "Name": "EMMANUEL ",
+                "Mname": "IKEDICHUKWU ",
+                "Surname": "NJOKU "
+            },
+            "School": "NUASA IMSU",
+            "State": "IMO",
+            "LocalGovt": "NGOR OKPALA EZIALA",
+            "RegNo": "202330301746CF",
+            "Bloodgroup": "O+",
+            "Sex": "MALE",
+            "Validity": "",
+            "PhoneNo": "0906 995 0672 ",
+            "EmergencyNo": "0816 549 6328 ",
+            "Facebook": "Emmanuel Chinedum",
+            "Instagram": "_Undiscovered_Manuel ",
+            "Tiktok": "@heisemmanuel2000",
+            "Twitter": "@savage_rambo06",
+            "picturepath": "https://benjjamin22.github.io/filter/utilitie/nuasa/nuasa1/671a8fbc-f72d-4b99-98fe-5f43cf579990.jpg",
+            "id": "33041111-e96d-456c-926e-45b7ae6e3452",
+            "__v": 0
         }, {
             "_id": {
                 "$oid": "66959453bc5279066dc544a8"
