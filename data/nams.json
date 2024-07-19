@@ -1,22 +1,24 @@
 {
-    "nuasa": [{"Name":"GIFT CHIAMAKA UKWUOMA",
-        "School":"NAMS IMSU",
-        "State":"IMO STATE ",
-        "LocalGovernment":"ONU IMO",
-        "RegNo":"202330944686DA ",
-        "bloodgroup":"D+ ",
-        "Sex":"FEMALE",
-        "Validity":"2024-2028",
-        "PhoneNo":"08145875571",
-        "Status": "MEMBER",
-        "EmergencyNo":"",
-        "Facebook":"Amaka bae ",
-        "Instagram":"",
-        "Tiktok":"Ami love ",
-        "Twitter":"",
-        "Picturepath":"https://benjjamin22.github.io/filter/utilitie/nuasa/nuasa1/5b70ae1d-b85e-4f8a-8a79-62124ed3f8f2.jpg",
-        "id":"42747c96-71a4-4a57-811f-77238b4d08fd",
-        "__v":0},{
+    "nuasa": [{
+            "Name": "GIFT CHIAMAKA UKWUOMA",
+            "School": "NAMS IMSU",
+            "State": "IMO STATE ",
+            "LocalGovernment": "ONU IMO",
+            "RegNo": "202330944686DA ",
+            "bloodgroup": "D+ ",
+            "Sex": "FEMALE",
+            "Validity": "2024-2028",
+            "PhoneNo": "08145875571",
+            "Status": "MEMBER",
+            "EmergencyNo": "",
+            "Facebook": "Amaka bae ",
+            "Instagram": "",
+            "Tiktok": "Ami love ",
+            "Twitter": "",
+            "Picturepath": "https://benjjamin22.github.io/filter/utilitie/nuasa/nuasa1/c45ccab8-ecca-420d-9c27-c40773fbf89a.jpg",
+            "id": "42747c96-71a4-4a57-811f-77238b4d08fd",
+            "__v": 0
+        }, {
             "_id": {
                 "$oid": "668d8b76bd47beef144b3ac3"
             },
