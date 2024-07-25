@@ -1,5 +1,25 @@
 {
     "nuasa": [{
+            "_id": "66a1151851e2269f7d5e2251",
+            "School": "NAMS IMSU",
+            "State": "IMO",
+            "LocalGovt": "EHIME MBANO LGA ",
+            "RegNo": "202330907827CF",
+            "Bloodgroup": "AA",
+            "Sex": "FEMALE ",
+            "Validity": "2024",
+            "PhoneNo": "07039536440",
+            "EmergencyNo": "",
+            "Facebook": "Yes",
+            "Instagram": "Yes",
+            "Tiktok": "Yes",
+            "Twitter": "No",
+            "picturepath": "https://benjjamin22.github.io/filter/utilitie/nuasa/nuasa1/253da107-a0c4-4734-b3e7-571732a5c343.jpg",
+            "Name": "IWUANYANWU TREASURE PRISCA ",
+            "time": "2024-07-24 14:52:08",
+            "id": "0ef66a33-7318-47c7-afd0-5812e3e77170",
+            "__v": 0
+        }, {
             "_id": "669fe177a20fe5a708653a15",
             "School": "NAMS IMSU",
             "State": "ABIA STATE",
