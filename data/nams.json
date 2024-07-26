@@ -1,5 +1,25 @@
 {
     "nuasa": [{
+            "_id": "66a34d7b24b731f82a666c29",
+            "School": "NAMS IMSU",
+            "Status": "MEMBER",
+            "State": "IMO STATE ",
+            "LocalGovt": "ISU",
+            "RegNo": "202330557142DF",
+            "Bloodgroup": "A+",
+            "Sex": "FEMALE ",
+            "Validity": "2023/2024",
+            "PhoneNo": "09035816897",
+            "EmergencyNo": "08125483887",
+            "Facebook": "",
+            "Instagram": "",
+            "Tiktok": "",
+            "Twitter": "",
+            "picturepath": "https://benjjamin22.github.io/filter/utilitie/nuasa/nuasa1/31760c08-b4f0-4179-9def-099c7ee20327.jpg",
+            "time": "2024-07-26 07:17:15",
+            "id": "a57037ce-7a3d-4ebb-b656-22724c954ffc",
+            "__v": 0
+        }, {
             "_id": "66a1151851e2269f7d5e2251",
             "School": "NAMS IMSU",
             "State": "IMO",
