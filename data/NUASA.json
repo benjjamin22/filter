@@ -1135,6 +1135,31 @@
             "__v": 0
         },
         {
+            "Aname": {
+                "Name": "JESSICA ",
+                "Mname": "NNEOMA ",
+                "Surname": "ONWUZURUIGBO"
+            },
+            "_id": "66a3dc6ad5a2c84fe2d9942d",
+            "School": "NUASA IMSU",
+            "Status": "MEMBER",
+            "State": "IMO STATE ",
+            "LocalGovt": "NJABA",
+            "RegNo": "202331217622CF",
+            "Bloodgroup": "B+",
+            "Sex": "FEMALE ",
+            "Validity": "2024-2028",
+            "Facebook": "",
+            "Instagram": "",
+            "Tiktok": "",
+            "Twitter": "",
+            "YOA": "2024",
+            "picturepath": "https://benjjamin22.github.io/filter/utilitie/nuasa/nuasa1/7171eae2-43c2-42f0-b144-b9b6a2928a2d.jpg",
+            "time": "2024-07-26 17:27:06",
+            "id": "f4bd5eb5-e3f2-458a-9a3d-3b79c0d96543",
+            "__v": 0
+        },
+        {
             "_id": {
                 "$oid": "6689bcc716af8f08e5abf129"
             },
@@ -1662,32 +1687,7 @@
             "picturepath": "https://benjjamin22.github.io/filter/utilitie/nuasa/nuasa1/671a8fbc-f72d-4b99-98fe-5f43cf579990.jpg",
             "id": "33041111-e96d-456c-926e-45b7ae6e3452",
             "__v": 0
-        },{
-            "Aname": {
-                "Name": "JESSICA ",
-                "Mname": "NNEOMA ",
-                "Surname": "ONWUZURUIGBO"
-            },
-            "_id": "66a3dc6ad5a2c84fe2d9942d",
-            "School": "NUASA IMSU",
-            "Status": "MEMBER",
-            "State": "IMO STATE ",
-            "LocalGovt": "NJABA",
-            "RegNo": "202331217622CF",
-            "Bloodgroup": "B+",
-            "Sex": "FEMALE ",
-            "Validity": "2024-2028",
-            "PhoneNo": "08035265215",
-            "EmergencyNo": "08128008487",
-            "Facebook": "",
-            "Instagram": "",
-            "Tiktok": "",
-            "Twitter": "",
-            "picturepath": "https://benjjamin22.github.io/filter/utilitie/nuasa/nuasa1/7171eae2-43c2-42f0-b144-b9b6a2928a2d.jpg",
-            "time": "2024-07-26 17:27:06",
-            "id": "f4bd5eb5-e3f2-458a-9a3d-3b79c0d96543",
-            "__v": 0
-        }, 
+        },
         {
             "_id": {
                 "$oid": "66852db8ba7160004c4fa1ab"
