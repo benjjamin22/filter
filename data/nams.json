@@ -1,5 +1,27 @@
 {
     "nuasa": [{
+            "_id": "66a4a44b7f464a9bd92eddf2",
+            "School": "NAMS IMSU",
+            "Status": "MEMBER",
+            "State": "IMO STATE ",
+            "LocalGovt": "EHIME MBANO ",
+            "RegNo": "202331377085EF",
+            "Bloodgroup": "AA",
+            "Sex": "FEMALE ",
+            "Validity": "2024",
+            "PhoneNo": "09116470753",
+            "EmergencyNo": "",
+            "Facebook": "Facebook ",
+            "Instagram": "",
+            "Tiktok": "",
+            "Twitter": "",
+            "YearofAdmin": "2024",
+            "picturepath": "https://benjjamin22.github.io/filter/utilitie/nuasa/nuasa1/5dd46665-7d4f-4bfc-9997-088a1438812e.jpg",
+            "Name": "ONWUZURIKE PRISCA CHIZOBA",
+            "time": "2024-07-27 07:39:55",
+            "id": "7da67058-9e31-4826-9da2-a12f64647c09",
+            "__v": 0
+        }, {
             "_id": "66a34d7b24b731f82a666c29",
             "School": "NAMS IMSU",
             "Status": "MEMBER",
