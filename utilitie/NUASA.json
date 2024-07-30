@@ -1848,7 +1848,32 @@
             "id": "f4bd5eb5-e3f2-458a-9a3d-3b79c0d96543",
             "__v": 0
         },
-
+        {
+            "Aname": {
+                "Name": "SOMTOCHUKWU ",
+                "Mname": "EMMANUEL ",
+                "Surname": "BARTHOLOMEW "
+            },
+            "_id": "66a8e9d551e86bbe3cb3aefe",
+            "School": "NUASA IMSU",
+            "Status": "MEMBER",
+            "State": "IMO",
+            "LocalGovt": "ONUIMO",
+            "RegNo": "202330784785BF",
+            "Bloodgroup": "O+",
+            "Sex": "MALE",
+            "Validity": "2024",
+            "PhoneNo": "08107904668",
+            "EmergencyNo": "08107904668",
+            "Facebook": "",
+            "Instagram": "",
+            "Tiktok": "",
+            "Twitter": "",
+            "picturepath": "https://benjjamin22.github.io/filter/utilitie/nuasa/nuasa1/7f389736-1b0a-41c3-a633-caef2045aa03.jpg",
+            "time": "2024-07-30 13:25:41",
+            "id": "3457bf07-82fc-42cd-a9aa-552c1660117a",
+            "__v": 0
+        },
         {
             "Aname": {
                 "Name": "BLESSING ",
