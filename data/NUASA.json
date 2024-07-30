@@ -102,6 +102,32 @@
             "__v": 0
         },
         {
+            "Aname": {
+                "Name": "BLESSING ",
+                "Mname": "CHIKAODINAKA ",
+                "Surname": "EKEH"
+            },
+            "_id": "66a7d8fb83f469bf725196e2",
+            "School": "NUASA IMSU",
+            "Status": "MEMBER",
+            "State": "IMO ",
+            "LocalGovt": "IKEDURU ",
+            "RegNo": "22052646EA",
+            "Bloodgroup": "A+",
+            "Sex": "FEMALE ",
+            "Validity": "2020",
+            "EmergencyNo": "",
+            "Facebook": "",
+            "Instagram": "",
+            "Tiktok": "",
+            "Twitter": "",
+            "YOA": "2024",
+            "picturepath": "https://benjjamin22.github.io/filter/utilitie/nuasa/nuasa1/ea5a3231-2167-4593-b6d9-aa4c3dd7799e.jpg",
+            "time": "2024-07-29 18:01:31",
+            "id": "11f7d180-eb96-44c7-95d2-47cf37409bd6",
+            "__v": 0
+        },
+        {
             "_id": {
                 "$oid": "66852db8ba7160004c4fa1ab"
             },
