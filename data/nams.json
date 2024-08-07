@@ -1,5 +1,29 @@
 {
-    "nuasa": [{
+    "nuasa": [
+        {
+            "_id": "66b25f476b55ef0a5e912753",
+            "School": "NAMS IMSU",
+            "Status": "MEMBER",
+            "State": "IMO",
+            "LocalGovt": "EHIME MBANO",
+            "RegNo": "202331354917CA",
+            "Bloodgroup": "O + (POSITIVE)",
+            "Sex": "MALE",
+            "Validity": "2023",
+            "PhoneNo": "07038185841",
+            "EmergencyNo": "07038185841",
+            "Facebook": "Onuoha Fabian ",
+            "Instagram": "Unusual_Fabian",
+            "Tiktok": "Fabian_Unusual",
+            "Twitter": "Onuoha Fabian ",
+            "YearofAdmin": "2024",
+            "picturepath": "https://benjjamin22.github.io/filter/utilitie/nuasa/nuasa1/10da0629-ec56-48c0-8065-1f05b7d1885b.jpg",
+            "Name": "ONUOHA FABIAN DANIEL ",
+            "time": "2024-08-06 17:37:11",
+            "id": "0ab60e22-7cfd-450e-b292-dbec6866b5c7",
+            "__v": 0
+        },
+        {
         "_id": "66b226956b55ef0a5e912749",
         "School": "NAMS IMSU",
         "Status": "MEMBER",
