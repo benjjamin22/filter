@@ -1,31 +1,6 @@
 {
     "nuasa": [   
-    {
-        "Aname": {
-            "Name": "FAVOUR",
-            "Mname": "UCHECHI",
-            "Surname": "OMEAKU"
-        },
-        "_id": "66b506f88a730c5df44059f9",
-        "School": "NUASA IMSU",
-        "Status": "MEMBER",
-        "State": "IMO STATE",
-        "LocalGovt": "ORSU",
-        "RegNo": "202330086408IA",
-        "Bloodgroup": "A+",
-        "Sex": "FEMALE ",
-        "Validity": "2023",
-        "PhoneNo": "09064270223",
-        "EmergencyNo": "08034871563",
-        "Facebook": "Favour omeaku ",
-        "Instagram": "Favour omeaku ",
-        "Tiktok": "Fizzy blinks ",
-        "Twitter": "",
-        "picturepath": "https://benjjamin22.github.io/filter/utilitie/nuasa/nuasa1/597e5c9c-6107-4cec-aca4-8d31a5ef4ba7ee.jpg",
-        "time": "2024-08-08 17:57:12",
-        "id": "98134aae-b6de-4a85-919e-790d9c10127e",
-        "__v": 0
-    },
+    
      {
         "Aname": {
             "Name": "MARTINS",
@@ -643,7 +618,32 @@
             "YT": "28",
             "__v": 0
         },
-
+        {
+            "Aname": {
+                "Name": "FAVOUR",
+                "Mname": "UCHECHI",
+                "Surname": "OMEAKU"
+            },
+            "_id": "66b506f88a730c5df44059f9",
+            "School": "NUASA IMSU",
+            "Status": "MEMBER",
+            "State": "IMO STATE",
+            "LocalGovt": "ORSU",
+            "RegNo": "202330086408IA",
+            "Bloodgroup": "A+",
+            "Sex": "FEMALE ",
+            "Validity": "2023",
+            "PhoneNo": "09064270223",
+            "EmergencyNo": "08034871563",
+            "Facebook": "Favour omeaku ",
+            "Instagram": "Favour omeaku ",
+            "Tiktok": "Fizzy blinks ",
+            "Twitter": "",
+            "picturepath": "https://benjjamin22.github.io/filter/utilitie/nuasa/nuasa1/597e5c9c-6107-4cec-aca4-8d31a5ef4ba7ee.jpg",
+            "time": "2024-08-08 17:57:12",
+            "id": "98134aae-b6de-4a85-919e-790d9c10127e",
+            "__v": 0
+        },
         {
             "_id": {
                 "$oid": "6689ace175da1a85d48627c7"
