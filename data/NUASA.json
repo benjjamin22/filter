@@ -1256,6 +1256,32 @@
             "__v": 0
         },
         {
+            "Aname": {
+                "Name": "UGOCHUKWU ",
+                "Mname": "CLIFFORD ",
+                "Surname": "NNADOZIE "
+            },
+            "_id": "66b71a80691de2d914ffcdb7",
+            "School": "NUASA IMSU",
+            "Status": "MEMBER",
+            "State": "IMO",
+            "LocalGovt": "ORLU",
+            "RegNo": "202330662867IF ",
+            "Bloodgroup": "O-",
+            "Sex": "MALE",
+            "Validity": "2023/2024",
+            "PhoneNo": "08147711891 ",
+            "EmergencyNo": "08130373727",
+            "Facebook": "",
+            "Instagram": "",
+            "Tiktok": "",
+            "Twitter": "",
+            "picturepath": "https://benjjamin22.github.io/filter/utilitie/nuasa/nuasa1/77c68a14-5f98-4ac5-8f7d-0e96bc651ef8.jpg",
+            "time": "2024-08-10 07:45:04",
+            "id": "dd4cb268-cf15-4370-ba6c-3c0c558e9d06",
+            "__v": 0
+        },    
+        {
             "_id": {
                 "$oid": "6687a4f4445d049e3882f3fd"
             },
