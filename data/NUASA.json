@@ -724,6 +724,57 @@
             "__v": 0
         },
         {
+            "Aname": {
+                "Name": "CHIDIMMA ",
+                "Mname": "PROMISE ",
+                "Surname": "ODOWUEZE "
+            },
+            "_id": "66b9d9cfe324475be3398ac9",
+            "School": "NUASA IMSU",
+            "Status": "MEMBER",
+            "State": "IMO ",
+            "LocalGovt": "OWERRI WEST ",
+            "RegNo": "202330880757JF",
+            "Bloodgroup": "",
+            "Sex": "FEMALE ",
+            "Validity": "2023",
+            "PhoneNo": "09077223172",
+            "EmergencyNo": "0816 600 1817",
+            "Facebook": "",
+            "Instagram": "",
+            "Tiktok": "",
+            "Twitter": "",
+            "picturepath": "https://benjjamin22.github.io/filter/utilitie/nuasa/nuasa1/46558b68-330a-4fc6-bc53-4fb40055abdc.jpg",
+            "time": "2024-08-12 09:45:51",
+            "id": "b87636a3-6d90-43ad-90ed-12eba15cb7f8",
+            "__v": 0
+        },   {
+            "Aname": {
+                "Name": "PRINCESS ",
+                "Mname": "UGOCHI",
+                "Surname": "IBE"
+            },
+            "_id": "66b9ffa3e324475be3398ad0",
+            "School": "NUASA IMSU",
+            "Status": "MEMBER",
+            "State": "IMO",
+            "LocalGovt": "EZHINNITTE MBAISE",
+            "RegNo": "202331078250GA",
+            "Bloodgroup": "O+",
+            "Sex": "FEMALE ",
+            "Validity": "2023",
+            "PhoneNo": "09131564115",
+            "EmergencyNo": "",
+            "Facebook": "",
+            "Instagram": "",
+            "Tiktok": "",
+            "Twitter": "",
+            "picturepath": "https://benjjamin22.github.io/filter/utilitie/nuasa/nuasa1/850f491f-daef-49b0-b759-8246ff99b41f.jpg",
+            "time": "2024-08-12 12:27:15",
+            "id": "349165e1-f655-4106-969a-3ec1a740e0af",
+            "__v": 0
+        },
+        {
             "_id": {
                 "$oid": "6691a642137cd051cf82c71a"
             },
