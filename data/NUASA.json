@@ -1,6 +1,58 @@
 {
     "nuasa": [   
         {
+            "Aname": {
+                "Name": "EMMANUEL ",
+                "Mname": "IHECHILURU ",
+                "Surname": "CHUKWU"
+            },
+            "_id": "66bc670ef5f77b3ca5d9ca61",
+            "School": "NUASA IMSU",
+            "Status": "MEMBER",
+            "State": "IMO STATE ",
+            "LocalGovt": "EHIME MBANO",
+            "RegNo": "",
+            "Bloodgroup": "",
+            "Sex": "MALE ",
+            "Validity": "2020",
+            "PhoneNo": "07084191977",
+            "EmergencyNo": "",
+            "Facebook": "",
+            "Instagram": "",
+            "Tiktok": "",
+            "Twitter": "",
+            "picturepath": "https://benjjamin22.github.io/filter/utilitie/nuasa/nuasa1/bff87d34-6799-444f-9fe3-67f4754bed5d.jpg",
+            "time": "2024-08-14 08:13:02",
+            "id": "b90045aa-6359-461e-9bb6-ecceb1c6e8c0",
+            "__v": 0
+        },
+        {
+            "Aname": {
+                "Name": "PRECIOUS ",
+                "Mname": "MMESOMA ",
+                "Surname": "IHEAKO "
+            },
+            "_id": "66bc6825f5f77b3ca5d9ca63",
+            "School": "NUASA IMSU",
+            "Status": "MEMBER",
+            "State": "IMO",
+            "LocalGovt": "ISIALA MBANO ",
+            "RegNo": "202331514532EA",
+            "Bloodgroup": "O+",
+            "Sex": "FEMALE ",
+            "Validity": "2023",
+            "PhoneNo": "07089009528",
+            "EmergencyNo": "08038834865",
+            "Facebook": "",
+            "Instagram": "",
+            "Tiktok": "",
+            "Twitter": "",
+            "picturepath": "https://benjjamin22.github.io/filter/utilitie/nuasa/nuasa1/cccb05fe-8df6-434d-b46b-a725f5850edd.jpg",
+            "time": "2024-08-14 08:17:41",
+            "id": "3fbdd4e4-f050-4431-8134-4b2505fcabb5",
+            "__v": 0
+        },
+        {
         "Aname": {
             "Name": "MARTINS",
             "Mname": "CHIBUIKE",
