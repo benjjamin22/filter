@@ -1,6 +1,33 @@
 {
     "nuasa": [   
-        {
+        
+    {
+        "Aname": {
+            "Name": "EBERECHUKWU ",
+            "Mname": "FLORENCE ",
+            "Surname": "ODIMARA "
+        },
+        "_id": "66bd4441f5f77b3ca5d9cab3",
+        "School": "NUASA IMSU",
+        "Status": "MEMBER",
+        "State": "IMO ",
+        "LocalGovt": "IKEDURU",
+        "RegNo": "202330490888EA",
+        "Bloodgroup": "O+",
+        "Sex": "FEMALE ",
+        "Validity": "2024",
+        "PhoneNo": "08123607568",
+        "EmergencyNo": "",
+        "Facebook": "",
+        "Instagram": "",
+        "Tiktok": "",
+        "Twitter": "",
+        "picturepath": "https://benjjamin22.github.io/filter/utilitie/nuasa/nuasa1/a5f8984d-05e1-4505-85d5-80f382808e34.jpg",
+        "time": "2024-08-14 23:56:49",
+        "id": "204e64f7-0dee-4677-95c4-92fe28d9aaeb",
+        "__v": 0
+    },
+    {
             "Aname": {
                 "Name": "EMMANUEL ",
                 "Mname": "IHECHILURU ",
