@@ -1,5 +1,23 @@
 {
     "nuasa": [  
+            {
+            "_id": "66bdc7cbf5f77b3ca5d9cac2",
+            "School": "NAMS IMSU",
+            "Status": "MEMBER",
+            "State": "IMO STATE ",
+            "LocalGovt": "NJABA L.G.A",
+            "RegNo": "202331217622CF ",
+            "Bloodgroup": "B+",
+            "Sex": "FEMALE ",
+            "Validity": "2023/2024 ",
+            "PhoneNo": "08035265215",
+            "EmergencyNo": "",
+            "picturepath": "https://benjjamin22.github.io/filter/utilitie/nuasa/nuasa1/aff8b3c2-9818-492c-8bb2-578bcbb651d5.jpg",
+            "Name": "ONWUZURUIGBO JESSICA NNEOMA ",
+            "time": "2024-08-15 09:18:03",
+            "id": "15348b20-e6a1-4fd4-ad4b-77d98c200123op",
+            "__v": 0
+        },
         {
             "_id": "66bdc7cbf5f77b3ca5d9cac2",
             "School": "NAMS IMSU",
