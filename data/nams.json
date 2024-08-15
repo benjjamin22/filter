@@ -1,6 +1,42 @@
 {
     "nuasa": [  
-            {
+        {
+            "_id": "66be631ef5f77b3ca5d9cadd",
+            "School": "NAMS IMSU",
+            "Status": "MEMBER",
+            "State": "IMO STATE ",
+            "LocalGovt": "ISIALA MBANO",
+            "RegNo": "202330660331DF",
+            "Bloodgroup": "O ",
+            "Sex": "FEMALE ",
+            "Validity": "2023/2024",
+            "PhoneNo": "08069637418",
+            "EmergencyNo": "8069637418",
+            "picturepath": "https://benjjamin22.github.io/filter/utilitie/nuasa/nuasa1/3369e287-453f-4f09-bfab-4e87bee8d3a5.jpg",
+            "Name": "NZERIBE SUCCESS CHIMUANYA ",
+            "time": "2024-08-15 20:20:46",
+            "id": "77ea8914-e5f3-42d6-b1d6-bcb1c5729bd2",
+            "__v": 0
+        },
+        {
+            "_id": "66be65a6f5f77b3ca5d9cadf",
+            "School": "NAMS IMSU",
+            "Status": "MEMBER",
+            "State": "IMO STATE ",
+            "LocalGovt": "ORSU",
+            "RegNo": "202330341724BF",
+            "Bloodgroup": "O+",
+            "Sex": "FEMALE ",
+            "Validity": "2023/2024",
+            "PhoneNo": "08162787253",
+            "EmergencyNo": "",
+            "picturepath": "https://benjjamin22.github.io/filter/utilitie/nuasa/nuasa1/b0726819-b32a-4f44-bb5c-f64936767275.jpg",
+            "Name": "IBEH PRAISE UGOCHI ",
+            "time": "2024-08-15 20:31:34",
+            "id": "e74786e0-8cf2-44d3-ad1b-b73269b9ea0f",
+            "__v": 0
+        },
+        {
             "_id": "66bdc7cbf5f77b3ca5d9cac2",
             "School": "NAMS IMSU",
             "Status": "MEMBER",
