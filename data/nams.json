@@ -1,5 +1,41 @@
 {
     "nuasa": [  
+        {
+            "_id": "66c07bdc4da2cc5ea178f078",
+            "School": "NAMS IMSU",
+            "Status": "MEMBER",
+            "State": "IMO",
+            "LocalGovt": "ONU IMO LGA",
+            "RegNo": "202330660950HF",
+            "Bloodgroup": "O+",
+            "Sex": "FEMALE ",
+            "Validity": "2024",
+            "PhoneNo": "09034507085",
+            "EmergencyNo": "",
+            "picturepath": "https://benjjamin22.github.io/filter/utilitie/nuasa/nuasa1/21164c55-6c51-42cb-9801-2d882f263c21.jpg",
+            "Name": "UCHE SHARON NMESOMA ",
+            "time": "2024-08-17 10:30:52",
+            "id": "89265172-1574-4e46-b637-4b5026bb542f",
+            "__v": 0
+        },
+        {
+            "_id": "66c07f9d4da2cc5ea178f07a",
+            "School": "NAMS IMSU",
+            "Status": "MEMBER",
+            "State": "IMO STATE ",
+            "LocalGovt": "OGUTA ",
+            "RegNo": "202330524439FF",
+            "Bloodgroup": "A+",
+            "Sex": "FEMALE ",
+            "Validity": "2023/2024",
+            "PhoneNo": "08085499154",
+            "EmergencyNo": "07013951300",
+            "picturepath": "https://benjjamin22.github.io/filter/utilitie/nuasa/nuasa1/f5eab79a-5082-44c6-8bed-93af21c4f6b6.jpg",
+            "Name": "ASOBIRI GOODLUCK VIOLET ",
+            "time": "2024-08-17 10:46:53",
+            "id": "4b30d1e2-e3ed-4436-8fc8-33776911ae02",
+            "__v": 0
+        },
         
     {
         "_id": "66bf04b380a010a3c5734ee5",
