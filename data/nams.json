@@ -1,23 +1,6 @@
 {
     "nuasa": [  
-        {
-            "_id": "66c07f9d4da2cc5ea178f07a",
-            "School": "NAMS IMSU",
-            "Status": "MEMBER",
-            "State": "IMO STATE ",
-            "LocalGovt": "OGUTA ",
-            "RegNo": "202330524439FF",
-            "Bloodgroup": "A+",
-            "Sex": "FEMALE ",
-            "Validity": "2023/2024",
-            "PhoneNo": "08085499154",
-            "EmergencyNo": "07013951300",
-            "picturepath": "https://benjjamin22.github.io/filter/utilitie/nuasa/nuasa1/f5eab79a-5082-44c6-8bed-93af21c4f6b6.jpg",
-            "fullname": "ASOBIRI GOODLUCK VIOLET ",
-            "time": "2024-08-17 10:46:53",
-            "id": "4b30d1e2-e3ed-4436-8fc8-33776911ae02",
-            "__v": 0
-        },
+       
         {
             "_id": "66c0c21559cfa87daa8f5481",
             "School": "NAMS IMSU",
