@@ -3,6 +3,84 @@
         
     {
         "Aname": {
+            "Name": "MARY ",
+            "Mname": "ABIA",
+            "Surname": "JOSHUA "
+        },
+        "_id": "66c0a8f9476b286794bc9bbf",
+        "School": "NUASA IMSU",
+        "Status": "MEMBER",
+        "State": "AKWA IBOM",
+        "LocalGovt": "INI",
+        "RegNo": "202330171094GF",
+        "Bloodgroup": "0+",
+        "Sex": "FEMALE ",
+        "Validity": "2023/2024",
+        "PhoneNo": "09048078169",
+        "EmergencyNo": "08145250516",
+        "Facebook": "",
+        "Instagram": "",
+        "Tiktok": "vibebea03",
+        "Twitter": "",
+        "picturepath": "https://benjjamin22.github.io/filter/utilitie/nuasa/nuasa1/8f43d3f0-1e13-47d1-8eed-bf65ef77adda.jpg",
+        "time": "2024-08-17 13:43:21",
+        "id": "d617a655-8dd7-4ec4-8de1-a992266d7e87",
+        "__v": 0
+    },
+    {
+        "Aname": {
+            "Name": "RUTH ",
+            "Mname": "CHIDINMA ",
+            "Surname": "AMAKOR "
+        },
+        "_id": "66c0a944476b286794bc9bc1",
+        "School": "NUASA IMSU",
+        "Status": "MEMBER",
+        "State": "IMO ",
+        "LocalGovt": "ORU EAST ",
+        "RegNo": "20233044409GF",
+        "Bloodgroup": "AA ",
+        "Sex": "FAMALE",
+        "Validity": "2023/2024",
+        "PhoneNo": "09125915625",
+        "EmergencyNo": "",
+        "Facebook": "",
+        "Instagram": "",
+        "Tiktok": "Amakor@12",
+        "Twitter": "",
+        "picturepath": "https://benjjamin22.github.io/filter/utilitie/nuasa/nuasa1/7ef1e47c-eb13-414e-a867-272112973f73.jpg",
+        "time": "2024-08-17 13:44:36",
+        "id": "5b7dfc7c-5b9c-4e10-a6f3-55feff404113",
+        "__v": 0
+    },
+    {
+        "Aname": {
+            "Name": "JULIET ",
+            "Mname": "ADAUGO ",
+            "Surname": "ONYEWUCHI "
+        },
+        "_id": "66c0aa60476b286794bc9bc3",
+        "School": "NUASA IMSU",
+        "Status": "MEMBER",
+        "State": "IMO",
+        "LocalGovt": "OHAJI",
+        "RegNo": "202330400595GF",
+        "Bloodgroup": "O+",
+        "Sex": "FEMALE ",
+        "Validity": "2023/2024",
+        "PhoneNo": "09121465506",
+        "EmergencyNo": "09121465506",
+        "Facebook": "",
+        "Instagram": "",
+        "Tiktok": "",
+        "Twitter": "",
+        "picturepath": "https://benjjamin22.github.io/filter/utilitie/nuasa/nuasa1/70b243d3-3329-46bc-b391-7dccd65f555e.jpg",
+        "time": "2024-08-17 13:49:20",
+        "id": "c95f1eb7-8064-4a7d-9acf-f1a4747d7c41",
+        "__v": 0
+    },
+    {
+        "Aname": {
             "Name": "NGOZI",
             "Mname": "DORIS",
             "Surname": "ONYEGWU"
