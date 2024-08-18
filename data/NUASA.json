@@ -2,6 +2,84 @@
     "nuasa": [   
         {
             "Aname": {
+                "Name": "ANOINTING ",
+                "Mname": "CHIZARAEKPERE ",
+                "Surname": "UGWUEZI "
+            },
+            "_id": "66c1c486d18e6d2a32d2b073",
+            "School": "NUASA IMSU",
+            "Status": "MEMBER",
+            "State": "IMO STATE ",
+            "LocalGovt": "ISIALAMBANO",
+            "RegNo": "202330621221HF",
+            "Bloodgroup": "O+",
+            "Sex": "M",
+            "Validity": "2023",
+            "PhoneNo": "08137326352",
+            "EmergencyNo": "08077629354",
+            "Facebook": "Ugwuezi Anointing ",
+            "Instagram": "",
+            "Tiktok": "",
+            "Twitter": "",
+            "picturepath": "https://benjjamin22.github.io/filter/utilitie/nuasa/nuasa1/9818f1c7-7893-4857-a29b-df0fb5f6a360.jpg",
+            "time": "2024-08-18 09:53:10",
+            "id": "e2eabe28-5e59-49f5-9516-b4536c3efaa3",
+            "__v": 0
+        },
+        {
+            "Aname": {
+                "Name": "CLINTON ",
+                "Mname": "CHIMEZIE ",
+                "Surname": "IHEJIRIKA "
+            },
+            "_id": "66c1c48cd18e6d2a32d2b075",
+            "School": "NUASA IMSU",
+            "Status": "MEMBER",
+            "State": "IMOSTATE",
+            "LocalGovt": "ABOH MBAISE",
+            "RegNo": "202330128388DF",
+            "Bloodgroup": "A-",
+            "Sex": "MALE",
+            "Validity": "2023",
+            "PhoneNo": "09026222736",
+            "EmergencyNo": "07034962432",
+            "Facebook": "Clinton jnr",
+            "Instagram": "",
+            "Tiktok": "I’m Clinton ",
+            "Twitter": "Ihejirika Clinton ",
+            "picturepath": "https://benjjamin22.github.io/filter/utilitie/nuasa/nuasa1/149560b9-2544-48c1-9031-7f06e5945c25.jpg",
+            "time": "2024-08-18 09:53:16",
+            "id": "fb5ace1e-635c-4309-b64c-d20959355900",
+            "__v": 0
+        },
+        {
+            "Aname": {
+                "Name": "FAVOUR ",
+                "Mname": "CHINEDU",
+                "Surname": "MADUAMAKA "
+            },
+            "_id": "66c1efd868da1a9be077459e",
+            "School": "NUASA IMSU",
+            "Status": "MEMBER",
+            "State": "IMO",
+            "LocalGovt": "ORLU",
+            "RegNo": "202330764530CA",
+            "Bloodgroup": "O+",
+            "Sex": "FEMALE ",
+            "Validity": "2023",
+            "PhoneNo": "08022947909",
+            "EmergencyNo": "08034900792",
+            "Facebook": "",
+            "Instagram": "",
+            "Tiktok": "",
+            "Twitter": "",
+            "picturepath": "https://benjjamin22.github.io/filter/utilitie/nuasa/nuasa1/6136a239-6d24-488d-8b85-4fb45f3dc0cc.jpg",
+            "time": "2024-08-18 12:58:00",
+            "id": "c9da40a7-324e-445f-a98d-317d611fc45a",
+            "__v": 0
+        },
+        {
+            "Aname": {
                 "Name": "STEPHANIE ",
                 "Mname": "CHIDUBEM",
                 "Surname": "EMEKA"
