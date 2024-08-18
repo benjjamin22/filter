@@ -1,6 +1,23 @@
 {
     "nuasa": [  
-        
+        {
+            "_id": "66c0d7a2ad29a2cf3f289914",
+            "School": "NAMS IMSU",
+            "Status": "MEMBER",
+            "State": "IMO",
+            "LocalGovt": "MBAITOLI",
+            "RegNo": "20233021168CA",
+            "Bloodgroup": "O+",
+            "Sex": "FEMALE ",
+            "Validity": "2023",
+            "PhoneNo": "08136851201",
+            "EmergencyNo": "",
+            "picturepath": "https://benjjamin22.github.io/filter/utilitie/nuasa/nuasa1/6992e559-7291-43d4-ba5f-9b9988ac0a09.jpg",
+            "Name": "EMEKARAM CONFIDENCE CHIDUMAGA ",
+            "time": "2024-08-17 17:02:26",
+            "id": "a74fd659-a601-4259-9de7-5ba747bfc019uw",
+            "__v": 0
+        },    
     {
         "_id": "66c0d7a2ad29a2cf3f289914",
         "School": "NAMS IMSU",
@@ -32,7 +49,7 @@
             "PhoneNo": "09070715168",
             "EmergencyNo": "07068632361",
             "picturepath": "https://benjjamin22.github.io/filter/utilitie/nuasa/nuasa1/434c3d93-cb47-4ac8-be8b-3fa5a8b3211c.jpg",
-            "fullname": "ETU SUSAN NGOZI ",
+            "Name": "ETU SUSAN NGOZI ",
             "time": "2024-08-17 21:16:18",
             "id": "98436a04-4c7b-42f4-8a21-fbff96852270",
             "__v": 0
