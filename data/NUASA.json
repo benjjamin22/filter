@@ -2,6 +2,32 @@
     "nuasa": [   
         {
             "Aname": {
+                "Name": "VISION",
+                "Mname": "ADANNA",
+                "Surname": "NWANERI "
+            },
+            "_id": "66c21afef3ae31ac33a76376",
+            "School": "NUASA IMSU",
+            "Status": "MEMBER",
+            "State": "IMO",
+            "LocalGovt": "NGOR OKPALA",
+            "RegNo": "202330651522JF",
+            "Bloodgroup": "O+",
+            "Sex": "FEMALE ",
+            "Validity": "2024",
+            "PhoneNo": "09155908654",
+            "EmergencyNo": "",
+            "Facebook": "",
+            "Instagram": "",
+            "Tiktok": "",
+            "Twitter": "",
+            "picturepath": "https://benjjamin22.github.io/filter/utilitie/nuasa/nuasa1/fa3d3b2b-155f-45ee-8849-44471aa4e3d0.JPG",
+            "time": "2024-08-18 16:02:06",
+            "id": "34ff3aca-fff0-42b2-bd6c-229399450bdd",
+            "__v": 0
+        },
+        {
+            "Aname": {
                 "Name": "ANOINTING ",
                 "Mname": "CHIZARAEKPERE ",
                 "Surname": "UGWUEZI "
