@@ -3,6 +3,85 @@
         
     {
         "Aname": {
+            "Name": "CHIDERA ",
+            "Mname": "PRECIOUS ",
+            "Surname": "EBOH"
+        },
+        "_id": "66c4fab4eaf9c68a6ad6093e",
+        "School": "NUASA IMSU",
+        "Status": "MEMBER",
+        "State": "IMO ",
+        "LocalGovt": "ISIALA MBANO ",
+        "RegNo": "202331251747CA",
+        "Bloodgroup": "O+",
+        "Sex": "FEMALE ",
+        "Validity": "2023/2024",
+        "PhoneNo": "09166878552",
+        "EmergencyNo": "08034918078",
+        "Facebook": "Amb Precious Chidera ",
+        "Instagram": "Amb Precious ",
+        "Tiktok": "Amb Precious ",
+        "Twitter": "Amb Precious ",
+        "picturepath": "https://benjjamin22.github.io/filter/utilitie/nuasa/nuasa1/f4844f13-63e7-418b-ac89-279e12ead867.JPG",
+        "time": "2024-08-20 20:21:08",
+        "id": "aa428324-136d-44a8-8ad7-e68b1a31d413",
+        "__v": 0
+    },
+    {
+            "Aname": {
+                "Name": "JENNIFER ",
+                "Mname": "OBIAZIRIJE ",
+                "Surname": "IBE"
+            },
+            "_id": "66c4ff4ceaf9c68a6ad60940",
+            "School": "NUASA IMSU",
+            "Status": "MEMBER",
+            "State": "IMO",
+            "LocalGovt": "ABOH MBAISE ",
+            "RegNo": "202330974646EF",
+            "Bloodgroup": "",
+            "Sex": "FEMALE ",
+            "Validity": "2024",
+            "PhoneNo": "09038772143",
+            "EmergencyNo": "08104994601",
+            "Facebook": "",
+            "Instagram": "",
+            "Tiktok": "",
+            "Twitter": "",
+            "picturepath": "https://benjjamin22.github.io/filter/utilitie/nuasa/nuasa1/2691b9ac-2323-405d-8305-83371be17c63.JPG",
+            "time": "2024-08-20 20:40:44",
+            "id": "aca49ac4-7a7f-4074-b22c-1857dc4b225c",
+            "__v": 0
+        },  
+     
+    {
+        "Aname": {
+            "Name": "BLESSING",
+            "Mname": "CHIOMA",
+            "Surname": "EPHRAIM"
+        },
+        "_id": "66c59b85cf9f3bac594ea348",
+        "School": "NUASA IMSU",
+        "Status": "MEMBER",
+        "State": "IMO",
+        "LocalGovt": "OWERRI WEST",
+        "RegNo": "202330765173DF",
+        "Bloodgroup": "O+",
+        "Sex": "FEMALE",
+        "Validity": "2023",
+        "PhoneNo": "09032137100",
+        "EmergencyNo": "09032137100",
+        "Facebook": "",
+        "Instagram": "",
+        "Tiktok": "",
+        "Twitter": "",
+        "picturepath": "https://benjjamin22.github.io/filter/utilitie/nuasa/nuasa1/05319a51-a552-4ed5-ba21-18c2567c0ae0.JPG",
+        "time": "2024-08-21 07:47:17",
+        "id": "1451c554-f4c5-4256-b64c-05914f80fc5a",
+        "__v": 0
+    },
+    {
+        "Aname": {
             "Name": "AMARACHI",
             "Mname": "MIRACLE",
             "Surname": "FESTUS"
@@ -958,32 +1037,32 @@
             "__v": 0
         },
         {
-            "_id": {
-                "$oid": "66852db8ba7160004c4fa1ab"
-            },
             "Aname": {
-                "Name": "",
-                "Mname": "",
-                "Surname": ""
+                "Name": "STEPHANIE",
+                "Mname": "CHIDERA",
+                "Surname": "CHIEKWE"
             },
+            "_id": "66c58df84f33a891b4209f0c",
             "School": "NUASA IMSU",
-            "State": "IMO",
-            "LocalGovt": "",
-            "RegNo": "",
-            "Bloodgroup": "",
+            "Status": "MEMBER",
+            "State": "IMO ",
+            "LocalGovt": "OWERRI WEST ",
+            "RegNo": "202330891012CF",
+            "Bloodgroup": "O+",
             "Sex": "FEMALE",
-            "Validity": "2028",
+            "Validity": "2024",
+            "PhoneNo": "08130784119",
+            "EmergencyNo": "09064232887",
             "Facebook": "",
-            "Instagram": "",
+            "Instagram": "Steph_anie18",
             "Tiktok": "",
             "Twitter": "",
-            "YOA": "2024",
             "picturepath": "https://benjjamin22.github.io/filter/utilitie/nuasa/nuasa1/081954a0-9122-4892-9118-34df1331c255.jpg",
-            "image": "61e8c041-3655-4449-957a-5bbaaff22b53",
-            "id": "e88190f4-ea0a-4b2b-8464-3c9640852d5f7",
-            "YT": "18",
+            "time": "2024-08-21 06:49:28",
+           "id": "e88190f4-ea0a-4b2b-8464-3c9640852d5f7",
             "__v": 0
-        }, {
+        },
+         {
             "Aname": {
                 "Name": "FAVOUR ",
                 "Mname": "NMESOMA ",
