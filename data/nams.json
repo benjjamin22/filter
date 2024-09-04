@@ -1,6 +1,24 @@
 {
     "nuasa": [  
         {
+            "_id": "66d74a0aff63c450455ebe42",
+            "School": "NAMS IMSU",
+            "Status": "MEMBER",
+            "State": "IMO-STATE",
+            "LocalGovt": "IKEDURU",
+            "RegNo": "202331414977BF",
+            "Bloodgroup": "O-",
+            "Sex": "FEMALE",
+            "Validity": "2023",
+            "PhoneNo": "08039303192",
+            "EmergencyNo": "08037986228",
+            "picturepath": "https://benjjamin22.github.io/filter/utilitie/nuasa/nuasa1/616e8681-f2b9-4a66-9f1e-0915b8266e93.JPG",
+            "Name": "UZOMA JESSICA CHIOMA",
+            "time": "2024-09-03 17:40:26",
+            "id": "91f3e1b9-86a0-4e9f-acde-0d13a1f6688b",
+            "__v": 0
+        },
+        {
             "_id": "66d6253f61647e95b7da2755",
             "School": "NAMS IMSU",
             "Status": "MEMBER",
@@ -229,7 +247,7 @@
             "PhoneNo": "08189206344",
             "EmergencyNo": "",
             "picturepath": "https://benjjamin22.github.io/filter/utilitie/nuasa/nuasa1/0a8d627d-630e-40bf-90e7-372e40dc0f48.JPG",
-            "Name": "",
+            "Name": "OKIKE STEPANIE CHINONYEREM",
             "time": "2024-08-27 08:30:01",
             "id": "a5e03aa2-a61b-459a-a7d7-680378ed8646O",
             "__v": 0
